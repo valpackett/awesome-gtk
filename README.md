@@ -86,7 +86,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 - [GNOME Notes (Bijiben)](https://wiki.gnome.org/Apps/Notes) #c #gnome
 - [Gnote](https://wiki.gnome.org/Apps/Gnote) Tomboy port #c++ #gnome
 - [Notejot](https://github.com/lainsce/notejot) sticky notes #vala #granite
-- [Notes-up]((https://github.com/Philip-Scott/Notes-up) #vala #granite
+- [Notes-up](https://github.com/Philip-Scott/Notes-up) #vala #granite
 
 #### Journal/Diary
 
