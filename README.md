@@ -15,6 +15,10 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 - [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #gnome
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
 
+#### MPD Clients
+
+- [Sonata](https://github.com/multani/sonata) #python
+
 #### Podcasts
 
 - [Hammond](https://gitlab.gnome.org/alatiera/Hammond) #rust
@@ -60,10 +64,6 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 
 - [Karim](https://github.com/robertsanseries/karim) #vala #granite
 - [gydl](https://github.com/JannikHv/gydl) #python
-
-#### MPD Clients
-
-- [Sonata](https://github.com/multani/sonata) #python
 
 ### Web Browsers
 
