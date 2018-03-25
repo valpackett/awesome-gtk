@@ -2,7 +2,7 @@
 
 # awesome-gtk
 
-This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/GTK%2B).
+This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applications .
 
 ## Applications
 
@@ -12,6 +12,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 
 - [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) #python
 - [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
+- [elementary Music](https://github.com/elementary/music) #vala #granite
 - [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #gnome
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
 
@@ -22,6 +23,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 #### Podcasts
 
 - [Hammond](https://gitlab.gnome.org/alatiera/Hammond) #rust
+- [Vocal](https://github.com/needle-and-thread/vocal) #vala #granite
 
 #### Audiobooks
 
@@ -55,6 +57,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 #### Subtitle Editors
 
 - [Gaupol](https://otsaloma.io/gaupol/) #python
+- [Subtitle Editor](https://github.com/kitone/subtitleeditor) #c++
 
 ### Video Editors
 
@@ -65,10 +68,15 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 - [Karim](https://github.com/robertsanseries/karim) #vala #granite
 - [gydl](https://github.com/JannikHv/gydl) #python
 
+### Book Readers
+
+- [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
+
 ### Web Browsers
 
 - [Eolie](https://wiki.gnome.org/Apps/Eolie) #python
 - [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome
+- [luakit](https://luakit.github.io/) #c #lua
 
 ### Social Media Clients
 
@@ -80,6 +88,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 - [Qalculate! GTK+](https://qalculate.github.io) #c++
 - [balistica](https://github.com/steveno/balistica) ballistics calculator #vala
 - [Dippi](https://github.com/cassidyjames/dippi) display DPI calculator #vala #granite
+- [Harvey](https://github.com/danrabbit/harvey) color contrast calculator #vala
 
 ### Note Taking
 
@@ -94,17 +103,26 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 
 #### To-Do Lists
 
-- [Yishu](https://github.com/lainsce/yishu) todo.txt client #vala #granite
+- [Yishu](https://github.com/lainsce/yishu) todo.txt based #vala #granite
+- [Effitask](https://github.com/sanpii/effitask) todo.txt based #rust
 - [GNOME To Do](https://wiki.gnome.org/Apps/Todo) #c #gnome
+- [Agenda](https://github.com/dahenson/agenda) #vala #granite
 
 ### Project Management
 
 - [Planner](https://github.com/alainm23/planner) #vala #granite
 
+### Timers
+
+- [Hourglass](https://github.com/sgpthomas/hourglass) #vala #granite
+- [Tomato](https://github.com/luizaugustomm/tomato) (pomodoro) #vala #granite
+- [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
+
 ### Email
 
 - [Geary](https://wiki.gnome.org/Apps/Geary) #vala #gnome
 - [Evolution](https://wiki.gnome.org/Apps/Evolution) #c #gnome
+- [Astroid](https://astroidmail.github.io/) for [notmuch](https://notmuchmail.org/) #c++
 
 ### Chat and VoIP
 
@@ -138,6 +156,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 
 - [Transmission](https://transmissionbt.com/) #c
 - [Fragments](https://github.com/haecker-felix/Fragments) #vala
+- [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
 
 ### File Synchronization
 
@@ -169,6 +188,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 #### Document Managers
 
 - [Paperwork](https://openpaper.work) #python
+- [GNOME Documents](https://wiki.gnome.org/Apps/Documents) #gjs
 
 ### Finance
 
@@ -202,6 +222,7 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 ##### GIF
 
 - [gifcurry](https://github.com/lettier/gifcurry) #haskell
+- [Gifup](https://github.com/BharatKalluri/Gifup) #vala #granite
 
 #### CAD
 
@@ -223,6 +244,8 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 - [gedit](https://wiki.gnome.org/Apps/Gedit) #c #gnome
 - [Geany](https://www.geany.org/) #c
 - [Vulcan](https://github.com/zesterer/vulcan) #vala
+- [elementary IDE](https://github.com/donadigo/elementary-ide) not official elementary #vala #granite
+- [elementary Code](https://github.com/elementary/code) #vala #granite
 - [NEd](https://github.com/ngtk3/NEd) #nim
 
 #### Larger IDEs
@@ -246,6 +269,12 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 - [Showdown](https://github.com/craigbarnes/showdown) #vala
 - [Uberwriter](https://github.com/wolfv/uberwriter) #python
 - [markdown-rs](https://github.com/nilgradisnik/markdown-rs) #rust
+- [Quilter](https://github.com/lainsce/quilter) #vala #granite
+
+### LaTeX
+
+- [Gummi](https://github.com/alexandervdm/gummi) (GTK3 [unofficial port](https://github.com/aitjcize/Gummi)) #c
+- [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) #vala #gnome
 
 ### Graphviz
 
@@ -255,6 +284,10 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 ### Regular Expression
 
 - [RegexTester](https://github.com/artemanufrij/regextester) #vala #granite
+
+### HTTP Request Testing
+
+- [GetIt](https://getit.bartkessels.net/) #c
 
 ### Hex Editors
 
@@ -273,12 +306,19 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 ### Disk Imaging
 
 - [Imageburner](https://github.com/artemanufrij/imageburner) for SD/USB #vala #granite
+- [Popsicle](https://github.com/pop-os/popsicle) for SD/USB #rust
+- [GNOME MultiWriter](https://wiki.gnome.org/Apps/MultiWriter) for SD/USB #c #gnome
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) for CD/DVD #c #gnome
+
+### File Renaming
+
+- [tv-renamer](https://github.com/mmstick/tv-renamer) #rust
 
 ### Security and Privacy
 
 - [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
 - [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
+- [GtkHash](https://github.com/tristanheaven/gtkhash) #c
 
 #### One-Time Password
 
@@ -303,3 +343,4 @@ This is a list of applications built with [GTK 3](https://en.wikipedia.org/wiki/
 
 - [bitseater/Weather](https://github.com/bitseater/weather) #vala
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs
+- [Nimbus](https://github.com/danrabbit/nimbus) #vala
