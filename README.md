@@ -334,6 +334,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [GNOME Usage](https://wiki.gnome.org/Apps/Usage) #vala #gnome
 - [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
 
+#### Disk Usage Explorers
+
+- [GNOME Disk Usage Analyzer (Baobab)](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) DaisyDisk style circle chart #vala #gnome
+
 ### News/Feed Readers
 
 - [Liferea](https://lzone.de/liferea/) #c
