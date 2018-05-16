@@ -162,6 +162,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) UI for [Syncthing](https://syncthing.net/) #python
 
+### File Management
+
+- [Polo](https://github.com/teejee2008/polo) multi-pane & tab file manager #vala
+
 ### Backup
 
 - [Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python
@@ -212,6 +216,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [GIMP](https://www.gimp.org/) (GTK3 in git: [gtk3-port-meson](https://github.com/GNOME/gimp/tree/gtk3-port-meson) or just [gtk3-port](https://github.com/GNOME/gimp/tree/gtk3-port)) #c
 - [MyPaint](http://mypaint.org/) (GTK3 in git: [master](https://github.com/mypaint/mypaint)) #python
+- [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
 
 ##### Photo (non-destructive editing)
 
@@ -227,6 +232,12 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 #### CAD
 
 - [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
+
+### Terminals
+
+- [Galacritty](https://github.com/myfreeweb/galacritty) (shameless plug :D) GTK version of [Alacritty](https://github.com/jwilm/alacritty) #rust
+- [Guake](https://github.com/Guake/guake) dropdown terminal #vte #python
+- [Tilix](https://github.com/gnunn1/tilix) tiling and dropdown terminal #vte #d
 
 ### Code
 
@@ -333,6 +344,15 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [GNOME Usage](https://wiki.gnome.org/Apps/Usage) #vala #gnome
 - [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
+
+### System Configuration
+
+- [pulse-flow](https://github.com/benwaffle/pulse-flow) PulseAudio config tool with a flow graph UI #vala
+- [doppler](https://github.com/spacekookie/doppler) Redshift (f.lux / night light style screen color filter thingy) UI #rust
+
+### Installation
+
+- [Parceldude](https://github.com/grindhold/parceldude) batch installer for Windows MSI packages #vala
 
 #### Disk Usage Explorers
 
