@@ -248,6 +248,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Xi GUIs
 
+- [gxi](https://github.com/bvinc/gxi) #rust
 - [xi-gtk](https://github.com/eyelash/xi-gtk) #vala
 
 #### Simple editors and Light IDEs
@@ -345,6 +346,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [GNOME Usage](https://wiki.gnome.org/Apps/Usage) #vala #gnome
 - [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
 
+#### Disk Usage Explorers
+
+- [GNOME Disk Usage Analyzer (Baobab)](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) DaisyDisk style circle chart #vala #gnome
+
 ### System Configuration
 
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) PulseAudio config tool with a flow graph UI #vala
@@ -353,10 +358,6 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### Installation
 
 - [Parceldude](https://github.com/grindhold/parceldude) batch installer for Windows MSI packages #vala
-
-#### Disk Usage Explorers
-
-- [GNOME Disk Usage Analyzer (Baobab)](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) DaisyDisk style circle chart #vala #gnome
 
 ### News/Feed Readers
 
