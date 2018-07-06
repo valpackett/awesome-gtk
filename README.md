@@ -81,6 +81,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### Social Media Clients
 
 - [Corebird](https://corebird.baedert.org/) for Twitter #vala
+- [Tootle](https://github.com/bleakgrey/tootle) for Mastodon #vala
 
 ### Calculators
 
