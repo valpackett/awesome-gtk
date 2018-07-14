@@ -234,6 +234,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
 
+### Design Utilities
+
+- [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
+
 ### Terminals
 
 - [Galacritty](https://github.com/myfreeweb/galacritty) (shameless plug :D) GTK version of [Alacritty](https://github.com/jwilm/alacritty) #rust
