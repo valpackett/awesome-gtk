@@ -109,6 +109,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [GNOME To Do](https://wiki.gnome.org/Apps/Todo) #c #gnome
 - [Agenda](https://github.com/dahenson/agenda) #vala #granite
 
+### Mind Mapping
+
+- [Minder](https://github.com/phase1geo/Minder) #vala #granite
+
 ### Project Management
 
 - [Planner](https://github.com/alainm23/planner) #vala #granite
@@ -162,6 +166,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### File Synchronization
 
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) UI for [Syncthing](https://syncthing.net/) #python
+
+### Remote File Access
+
+- [Taxi](https://github.com/Alecaddd/taxi) FTP, SFTP, WebDAV, AFP #vala #granite
 
 ### File Management
 
