@@ -341,9 +341,13 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### Security and Privacy
 
-- [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
 - [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
 - [GtkHash](https://github.com/tristanheaven/gtkhash) #c
+
+#### Password Management
+
+- [Valawarden](https://github.com/LiljebergXYZ/valawarden) Bitwarden client #vala #granite
+- [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
 
 #### One-Time Password
 
