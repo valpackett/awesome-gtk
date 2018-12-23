@@ -22,7 +22,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Podcasts
 
-- [Hammond](https://gitlab.gnome.org/alatiera/Hammond) #rust
+- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) (ex Hammond) #rust #gnome
 - [Vocal](https://github.com/needle-and-thread/vocal) #vala #granite
 
 #### Audiobooks
