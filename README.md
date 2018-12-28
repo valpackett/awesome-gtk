@@ -374,7 +374,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### Installation
 
-- [Parceldude](https://github.com/grindhold/parceldude) batch installer for Windows MSI packages #vala
+- [Parceldude](https://notabug.org/grindhold/parceldude) batch installer for Windows MSI packages #vala
 
 ### News/Feed Readers
 
