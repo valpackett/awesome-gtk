@@ -22,7 +22,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Podcasts
 
-- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) (ex Hammond) #rust #gnome
+- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) (ex Hammond) #rust #gnome #libhandy
 - [Vocal](https://github.com/needle-and-thread/vocal) #vala #granite
 
 #### Audiobooks
@@ -31,6 +31,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Radio
 
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) upcoming successor to Gradio #rust #libhandy
 - [Gradio](https://github.com/haecker-felix/Gradio) #vala
 - [Goodvibes](https://github.com/elboulangero/goodvibes) #c
 - [radiotray-lite](https://github.com/thekvs/radiotray-lite) #c++
@@ -133,7 +134,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Matrix
 
-- [Fractal](https://gitlab.gnome.org/danigm/fractal) #rust
+- [Fractal](https://gitlab.gnome.org/danigm/fractal) #rust #libhandy
 
 #### Tox
 
@@ -327,6 +328,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### Database Clients
 
 - [Sequeler](https://github.com/Alecaddd/sequeler) #vala #granite
+- [Daty](https://gitlab.gnome.org/World/Daty) for Wikidata (which is kind of a database?) #python #libhandy
 
 ### Disk Imaging
 
@@ -347,6 +349,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 #### Password Management
 
 - [Valawarden](https://github.com/LiljebergXYZ/valawarden) Bitwarden client #vala #granite
+- [PasswordSafe](https://gitlab.gnome.org/World/PasswordSafe) KeePass v4 format based #python #libhandy
 - [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
 
 #### One-Time Password
