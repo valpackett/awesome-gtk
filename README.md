@@ -79,6 +79,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome
 - [luakit](https://luakit.github.io/) #c #lua
 
+#### Specialized Web Browsers / Wrappers
+
+- [hackup](https://github.com/mdh34/hackup) Hacker News client #vala #granite
+
 ### Social Media Clients
 
 - [Corebird](https://corebird.baedert.org/) for Twitter #vala
@@ -134,7 +138,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Matrix
 
-- [Fractal](https://gitlab.gnome.org/danigm/fractal) #rust #libhandy
+- [Fractal](https://gitlab.gnome.org/GNOME/fractal) #rust #libhandy
 
 #### Tox
 
@@ -288,6 +292,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### Documentation
 
 - [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) #python
+- [quickDocs](https://github.com/mdh34/quickDocs) #vala #granite
 
 ### Markdown
 
