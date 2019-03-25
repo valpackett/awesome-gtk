@@ -350,6 +350,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [Valawarden](https://github.com/LiljebergXYZ/valawarden) Bitwarden client #vala #granite
 - [PasswordSafe](https://gitlab.gnome.org/World/PasswordSafe) KeePass v4 format based #python #libhandy
+- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) #python
 - [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
 
 #### One-Time Password
@@ -365,6 +366,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [GNOME Usage](https://wiki.gnome.org/Apps/Usage) #vala #gnome
 - [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
+- [sysctlview](https://gitlab.com/alfix/sysctlview) FreeBSD sysctl MIB tree explorer #c++
 
 #### Disk Usage Explorers
 
@@ -386,6 +388,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### Weather Viewers
 
+- [Meteo](https://gitlab.com/bitseater/meteo) #vala
 - [bitseater/Weather](https://github.com/bitseater/weather) #vala
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs
 - [Nimbus](https://github.com/danrabbit/nimbus) #vala
