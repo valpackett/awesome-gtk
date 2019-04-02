@@ -69,6 +69,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [Karim](https://github.com/robertsanseries/karim) #vala #granite
 - [gydl](https://github.com/JannikHv/gydl) #python
 
+### Media Encoders
+
+- [Selene](https://github.com/teejee2008/selene) #vala
+
 ### Book Readers
 
 - [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
@@ -183,6 +187,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### Backup
 
 - [Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python
+- [Timeshift](https://github.com/teejee2008/timeshift) #vala
 
 ### Office
 
@@ -225,6 +230,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 #### Vector
 
 - [Inkscape](https://inkscape.org/en/) (GTK3 in git: [master](https://gitlab.com/inkscape/inkscape)) #c++
+
+##### Font
+
+- [Birdfont](https://github.com/johanmattssonm/birdfont) #vala
 
 #### Raster
 
