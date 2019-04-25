@@ -227,6 +227,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### Graphics
 
+#### 3D
+
+- [Shady](https://github.com/misterdanb/shady) shadertoy compatible GLSL live editor #vala
+
 #### Vector
 
 - [Inkscape](https://inkscape.org/en/) (GTK3 in git: [master](https://gitlab.com/inkscape/inkscape)) #c++
