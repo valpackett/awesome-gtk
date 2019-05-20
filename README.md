@@ -274,6 +274,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### NeoVim GUIs
 
+- [gnvim](https://github.com/vhakulinen/gnvim) #rust
 - [neovim-gtk](https://github.com/daa84/neovim-gtk) #rust
 - [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) #python
 
