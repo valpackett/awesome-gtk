@@ -126,11 +126,12 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [Planner](https://github.com/alainm23/planner) #vala #granite
 
-### Timers
+### Timers / Time Tracking
 
 - [Hourglass](https://github.com/sgpthomas/hourglass) #vala #granite
 - [Tomato](https://github.com/luizaugustomm/tomato) (pomodoro) #vala #granite
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) #python
 
 ### Email
 
