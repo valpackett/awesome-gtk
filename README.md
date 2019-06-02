@@ -185,6 +185,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### File Management
 
 - [Polo](https://github.com/teejee2008/polo) multi-pane & tab file manager #vala
+- [Organizer](https://gitlab.gnome.org/aviwad/organizer) #python
 
 ### Backup
 
@@ -265,6 +266,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 ### Design Utilities
 
 - [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
+- [Icon Preview](https://gitlab.gnome.org/World/icon-tool) #vala
 
 ### Terminals
 
