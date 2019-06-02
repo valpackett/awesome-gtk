@@ -75,6 +75,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### Book Readers
 
+- [Foliate](https://github.com/johnfactotum/foliate) #gjs
 - [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
 
 ### Web Browsers
