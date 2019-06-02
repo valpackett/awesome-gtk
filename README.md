@@ -376,7 +376,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### One-Time Password
 
-- [Authenticator](https://github.com/bilelmoussaoui/Authenticator) #python
+- [Authenticator](https://gitlab.gnome.org/World/Authenticator) #python
 - [OTPClient](https://github.com/paolostivanin/OTPClient) #c
 
 ### System Cleaning
