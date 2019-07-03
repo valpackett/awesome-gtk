@@ -244,6 +244,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Raster
 
+- [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
 - [GIMP](https://www.gimp.org/) (GTK3 in git: [gtk3-port-meson](https://github.com/GNOME/gimp/tree/gtk3-port-meson) or just [gtk3-port](https://github.com/GNOME/gimp/tree/gtk3-port)) #c
 - [MyPaint](http://mypaint.org/) (GTK3 in git: [master](https://github.com/mypaint/mypaint)) #python
 - [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
@@ -267,6 +268,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
 - [Icon Preview](https://gitlab.gnome.org/World/icon-tool) #vala
+- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) for gnome xml files #python
 
 ### Terminals
 
