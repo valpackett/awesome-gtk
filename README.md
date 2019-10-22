@@ -107,6 +107,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [Gnote](https://wiki.gnome.org/Apps/Gnote) Tomboy port #c++ #gnome
 - [Notejot](https://github.com/lainsce/notejot) sticky notes #vala #granite
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) #vala #granite
+- [Xournal++](https://github.com/xournalpp/xournalpp) handwriting notebook (with tablet pressure) #c++
 
 #### Journal/Diary
 
