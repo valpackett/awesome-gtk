@@ -43,7 +43,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### Video Players
 
-- [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) #c
+- [Celluloid (ex GNOME MPV)](https://github.com/celluloid-player/celluloid) #c
 - [Movie Monad](https://github.com/lettier/movie-monad) #haskell
 - [GNOME Videos (Totem)](https://wiki.gnome.org/Apps/Videos) #c #gnome
 
