@@ -287,7 +287,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Xi GUIs
 
-- [gxi](https://github.com/bvinc/gxi) #rust
+- [Tau (ex gxi)](https://gitlab.gnome.org/World/Tau) #rust
 - [xi-gtk](https://github.com/eyelash/xi-gtk) #vala
 
 #### Simple editors and Light IDEs
