@@ -246,6 +246,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 #### Raster
 
+- [Rakugaki](https://github.com/lainsce/rakugaki) very simple sketching #vala #granite
 - [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
 - [GIMP](https://www.gimp.org/) (GTK3 in git: [gtk3-port-meson](https://github.com/GNOME/gimp/tree/gtk3-port-meson) or just [gtk3-port](https://github.com/GNOME/gimp/tree/gtk3-port)) #c
 - [MyPaint](http://mypaint.org/) (GTK3 in git: [master](https://github.com/mypaint/mypaint)) #python
