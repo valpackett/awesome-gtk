@@ -327,7 +327,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### LaTeX
 
-- [Gummi](https://github.com/alexandervdm/gummi) (GTK3 [unofficial port](https://github.com/aitjcize/Gummi)) #c
+- [Gummi](https://github.com/alexandervdm/gummi) #c
 - [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) #vala #gnome
 
 ### Graphviz
