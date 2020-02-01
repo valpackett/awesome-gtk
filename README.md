@@ -248,9 +248,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [Rakugaki](https://github.com/lainsce/rakugaki) very simple sketching #vala #granite
 - [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
-- [GIMP](https://www.gimp.org/) (GTK3 in git: [gtk3-port-meson](https://github.com/GNOME/gimp/tree/gtk3-port-meson) or just [gtk3-port](https://github.com/GNOME/gimp/tree/gtk3-port)) #c
+- [GIMP](https://www.gimp.org/) (GTK3 in git: [master](https://gitlab.gnome.org/GNOME/gimp)) #c
 - [MyPaint](http://mypaint.org/) (GTK3 in git: [master](https://github.com/mypaint/mypaint)) #python
 - [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust
 
 ##### Photo (non-destructive editing)
 
@@ -308,9 +309,10 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [Valama](https://github.com/Valama/valama) #vala
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) #julia
 
-### Version Control
+### Version Control and Diffs
 
 - [gitg](https://wiki.gnome.org/Apps/Gitg) #vala #gnome
+- [Meld](https://gitlab.gnome.org/GNOME/meld) diff #python #gnome
 
 ### Documentation
 
@@ -411,6 +413,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### News/Feed Readers
 
+- [Feeds](https://gitlab.gnome.org/World/gfeeds) #python
 - [Liferea](https://lzone.de/liferea/) #c
 - [Coffee](https://github.com/nick92/coffee) #vala
 
