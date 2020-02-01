@@ -173,7 +173,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 #### BitTorrent Clients
 
 - [Transmission](https://transmissionbt.com/) #c
-- [Fragments](https://github.com/haecker-felix/Fragments) #vala
+- [Fragments](https://gitlab.gnome.org/World/Fragments) uses libtransmission #vala
 - [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
 
 ### File Synchronization
