@@ -238,7 +238,7 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 
 #### Vector
 
-- [Inkscape](https://inkscape.org/en/) (GTK3 in git: [master](https://gitlab.com/inkscape/inkscape)) #c++
+- [Inkscape](https://inkscape.org/en/) (GTK3 since 1.0) #c++
 
 ##### Font
 
