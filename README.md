@@ -2,7 +2,7 @@
 
 # awesome-gtk
 
-This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applications .
+This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and eventually 4) applications.
 
 ## Applications
 
@@ -244,6 +244,11 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 - [Birdfont](https://github.com/johanmattssonm/birdfont) #vala
 
+##### CAD/EDA
+
+- [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
+- [Horizon](https://github.com/horizon-eda/horizon) printed circuit board PCB design #c++ #gl
+
 #### Raster
 
 - [Rakugaki](https://github.com/lainsce/rakugaki) very simple sketching #vala #granite
@@ -264,10 +269,6 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 - [gifcurry](https://github.com/lettier/gifcurry) #haskell
 - [Gifup](https://github.com/BharatKalluri/Gifup) #vala #granite
 
-#### CAD
-
-- [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
-
 ### Design Utilities
 
 - [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
@@ -276,7 +277,7 @@ This is a list of native [GTK 3](https://en.wikipedia.org/wiki/GTK%2B) applicati
 
 ### Terminals
 
-- [Galacritty](https://github.com/myfreeweb/galacritty) (shameless plug :D) GTK version of [Alacritty](https://github.com/jwilm/alacritty) #rust
+- [Galacritty](https://github.com/myfreeweb/galacritty) (shameless plug :D) GTK version of [Alacritty](https://github.com/jwilm/alacritty) (not really maintained for now sorry) #rust
 - [Guake](https://github.com/Guake/guake) dropdown terminal #vte #python
 - [Tilix](https://github.com/gnunn1/tilix) tiling and dropdown terminal #vte #d
 
