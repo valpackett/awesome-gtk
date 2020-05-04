@@ -75,13 +75,13 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 
 ### Book Readers
 
-- [Foliate](https://github.com/johnfactotum/foliate) #gjs
+- [Foliate](https://github.com/johnfactotum/foliate) #gjs #libhandy
 - [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
 
 ### Web Browsers
 
 - [Eolie](https://wiki.gnome.org/Apps/Eolie) #python
-- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome
+- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome #libhandy
 - [luakit](https://luakit.github.io/) #c #lua
 
 #### Specialized Web Browsers / Wrappers
@@ -138,7 +138,7 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 
 ### Email
 
-- [Geary](https://wiki.gnome.org/Apps/Geary) #vala #gnome
+- [Geary](https://wiki.gnome.org/Apps/Geary) #vala #gnome #libhandy
 - [Evolution](https://wiki.gnome.org/Apps/Evolution) #c #gnome
 - [Astroid](https://astroidmail.github.io/) for [notmuch](https://notmuchmail.org/) #c++
 
