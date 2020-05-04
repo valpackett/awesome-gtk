@@ -257,6 +257,7 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 - [MyPaint](http://mypaint.org/) (GTK3 in git: [master](https://github.com/mypaint/mypaint)) #python
 - [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
 - [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust
+- [Swappy](https://github.com/jtheoof/swappy) quick screenshot editing for wlroots based compositors #c
 
 ##### Photo (non-destructive editing)
 
