@@ -315,6 +315,7 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 
 - [gitg](https://wiki.gnome.org/Apps/Gitg) #vala #gnome
 - [Meld](https://gitlab.gnome.org/GNOME/meld) diff #python #gnome
+- [Gnomit](https://github.com/small-tech/gnomit) Git commit message editor #gjs
 
 ### Documentation
 
