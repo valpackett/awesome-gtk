@@ -334,6 +334,7 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 
 - [Gummi](https://github.com/alexandervdm/gummi) #c
 - [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) #vala #gnome
+- [Setzer](https://github.com/cvfosammmm/Setzer) #python
 
 ### Graphviz
 
