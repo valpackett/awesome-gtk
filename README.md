@@ -163,6 +163,10 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 - [Polari](https://wiki.gnome.org/Apps/Polari/) #gjs #gnome
 - [Srain](https://srain.im/) #c
 
+#### Discord
+
+- [gtkcord3](https://github.com/diamondburned/gtkcord3) #go #libhandy
+
 ### File Sharing
 
 #### Direct ("beam") Senders/Receivers
