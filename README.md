@@ -366,6 +366,7 @@ This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and even
 ### Database Clients
 
 - [Sequeler](https://github.com/Alecaddd/sequeler) #vala #granite
+- [Kangaroo](https://github.com/dbkangaroo/kangaroo) #vala #libgda
 - [Daty](https://gitlab.gnome.org/World/Daty) for Wikidata (which is kind of a database?) #python #libhandy
 
 ### Disk Imaging
