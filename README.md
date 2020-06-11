@@ -2,7 +2,7 @@
 
 # awesome-gtk
 
-This is a list of native [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and eventually 4) applications.
+This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and eventually 4) applications.
 
 ## Applications
 
