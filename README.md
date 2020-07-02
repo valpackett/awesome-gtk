@@ -330,7 +330,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [Marker](https://github.com/fabiocolacio/Marker) #c
 - [Showdown](https://github.com/craigbarnes/showdown) #vala
-- [Uberwriter](https://github.com/wolfv/uberwriter) #python
+- [Apostrophe](https://gitlab.gnome.org/somas/apostrophe) #python
 - [markdown-rs](https://github.com/nilgradisnik/markdown-rs) #rust
 - [Quilter](https://github.com/lainsce/quilter) #vala #granite
 
