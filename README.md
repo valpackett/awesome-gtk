@@ -90,7 +90,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### Social Media Clients
 
-- [Corebird](https://corebird.baedert.org/) for Twitter #vala
+- [Cawbird](https://github.com/IBBoard/cawbird) (working fork of [Corebird](https://corebird.baedert.org/)) for Twitter #vala
 - [Tootle](https://github.com/bleakgrey/tootle) for Mastodon #vala
 - [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
 
