@@ -60,6 +60,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Gaupol](https://otsaloma.io/gaupol/) #python
 - [Subtitle Editor](https://github.com/kitone/subtitleeditor) #c++
 
+### Audio Workstations (DAWs)
+
+- [zrythm](https://github.com/zrythm/zrythm) #c++
+
 ### Video Editors
 
 - [Pitivi](http://www.pitivi.org/) #python
