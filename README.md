@@ -257,7 +257,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
 - [Horizon](https://github.com/horizon-eda/horizon) printed circuit board PCB design #c++ #gl
 
-##### Modeling
+##### Diagramming
 
 - [Gaphor](https://gaphor.org) the simple modeling tool #python
 
