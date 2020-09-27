@@ -74,7 +74,6 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### Video Downloaders (youtube-dl)
 
-- [Karim](https://github.com/robertsanseries/karim) #vala #granite
 - [gydl](https://github.com/JannikHv/gydl) #python
 
 ### Media Encoders
