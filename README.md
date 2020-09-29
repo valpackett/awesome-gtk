@@ -266,7 +266,6 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 #### Raster
 
-- [Rakugaki](https://github.com/lainsce/rakugaki) very simple sketching #vala #granite
 - [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
 - [GIMP](https://www.gimp.org/) (GTK3 in git: [master](https://gitlab.gnome.org/GNOME/gimp)) #c
 - [MyPaint](http://mypaint.org/) (GTK3 in git: [master](https://github.com/mypaint/mypaint)) #python
