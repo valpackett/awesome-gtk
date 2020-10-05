@@ -434,6 +434,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) #python
 - [Liferea](https://lzone.de/liferea/) #c
 - [Coffee](https://github.com/nick92/coffee) #vala
+- [News Flash](https://gitlab.com/news-flash/news_flash_gtk) #rust #libhandy
 
 ### Weather Viewers
 
