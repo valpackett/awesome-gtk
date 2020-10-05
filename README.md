@@ -441,3 +441,6 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [bitseater/Weather](https://github.com/bitseater/weather) #vala
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs
 - [Nimbus](https://github.com/danrabbit/nimbus) #vala
+
+### Productivity
+- [Workspaces](https://github.com/DevAlien/workspaces) #vala #granite
