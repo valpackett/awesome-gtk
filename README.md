@@ -47,6 +47,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Movie Monad](https://github.com/lettier/movie-monad) #haskell
 - [GNOME Videos (Totem)](https://wiki.gnome.org/Apps/Videos) #c #gnome
 
+#### Video Comparison
+
+- [Identity](https://gitlab.gnome.org/YaLTeR/identity) #rust
+
 #### Live Stream Viewers
 
 - [GNOME Twitch](https://gnome-twitch.vinszent.com) #c
@@ -442,3 +446,6 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [bitseater/Weather](https://github.com/bitseater/weather) #vala
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs
 - [Nimbus](https://github.com/danrabbit/nimbus) #vala
+
+### Productivity
+- [Workspaces](https://github.com/DevAlien/workspaces) #vala #granite
