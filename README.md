@@ -104,6 +104,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Cawbird](https://github.com/IBBoard/cawbird) (working fork of [Corebird](https://corebird.baedert.org/)) for Twitter #vala
 - [Tootle](https://github.com/bleakgrey/tootle) for Mastodon #vala
 - [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
+- [Giara](https://gitlab.gnome.org/GabMus/giara) for Reddit #python #libhandy
 
 ### Calculators
 
@@ -146,6 +147,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Tomato](https://github.com/luizaugustomm/tomato) (pomodoro) #vala #granite
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) #python
+- [Solanum](https://gitlab.gnome.org/World/Solanum) (pomodoro) #rust
 
 ### Email
 
@@ -177,6 +179,12 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 #### Discord
 
 - [gtkcord3](https://github.com/diamondburned/gtkcord3) #go #libhandy
+
+### Web Service Clients
+
+#### Translation
+
+- [Dialect](https://github.com/gi-lom/dialect) (Google Translate) #python
 
 ### File Sharing
 
