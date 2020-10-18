@@ -10,7 +10,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 #### Music
 
-- [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) #python
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) #python
 - [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
 - [elementary Music](https://github.com/elementary/music) #vala #granite
 - [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #gnome
