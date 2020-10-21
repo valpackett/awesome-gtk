@@ -88,6 +88,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [Foliate](https://github.com/johnfactotum/foliate) #gjs #libhandy
 - [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
+- [Komikku](https://gitlab.com/valos/Komikku) manga reader #python #libhandy
 
 ### Web Browsers
 
@@ -121,6 +122,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Notejot](https://github.com/lainsce/notejot) sticky notes #vala #granite
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) #vala #granite
 - [Xournal++](https://github.com/xournalpp/xournalpp) handwriting notebook (with tablet pressure) #c++
+- [Notekit](https://github.com/blackhole89/notekit/) hierarchical markdown notetaking application with tablet support #c++
 
 #### Journal/Diary
 
