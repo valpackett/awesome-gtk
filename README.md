@@ -10,7 +10,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 #### Music
 
-- [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) #python
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) #python
 - [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
 - [elementary Music](https://github.com/elementary/music) #vala #granite
 - [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #gnome
@@ -104,6 +104,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Cawbird](https://github.com/IBBoard/cawbird) (working fork of [Corebird](https://corebird.baedert.org/)) for Twitter #vala
 - [Tootle](https://github.com/bleakgrey/tootle) for Mastodon #vala
 - [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
+- [Giara](https://gitlab.gnome.org/GabMus/giara) for Reddit #python #libhandy
 
 ### Calculators
 
@@ -146,6 +147,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Tomato](https://github.com/luizaugustomm/tomato) (pomodoro) #vala #granite
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) #python
+- [Solanum](https://gitlab.gnome.org/World/Solanum) (pomodoro) #rust
 
 ### Email
 
@@ -178,6 +180,12 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [gtkcord3](https://github.com/diamondburned/gtkcord3) #go #libhandy
 
+### Web Service Clients
+
+#### Translation
+
+- [Dialect](https://github.com/gi-lom/dialect) (Google Translate) #python
+
 ### File Sharing
 
 #### Direct ("beam") Senders/Receivers
@@ -206,7 +214,8 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### Backup
 
-- [Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python
+- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) UI for [borg](https://github.com/borgbackup/borg) #rust #libhandy
+- ~~[Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python~~ (note: [python2](https://github.com/emersion/bups/issues/34)!)
 - [Timeshift](https://github.com/teejee2008/timeshift) #vala
 
 ### Office
