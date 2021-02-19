@@ -16,6 +16,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #gnome
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
 
+##### Streaming Service Clients
+
+- [Spot](https://github.com/xou816/spot) Spotify client #rust #libhandy
+
 #### MPD Clients
 
 - [Sonata](https://github.com/multani/sonata) #python
