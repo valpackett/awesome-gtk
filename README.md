@@ -205,6 +205,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Fragments](https://gitlab.gnome.org/World/Fragments) uses libtransmission #vala
 - [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
 
+#### Soulseek Clients
+
+- [Nicotine+](https://nicotine-plus.org/) #python
+
 ### File Synchronization
 
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) UI for [Syncthing](https://syncthing.net/) #python
