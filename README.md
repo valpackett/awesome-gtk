@@ -45,6 +45,11 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [Parlatype](https://gkarsay.github.io/parlatype/) #c
 
+### Screen Recorders
+
+- [Kooha](https://github.com/SeaDve/Kooha) #python 
+- [RecApp](https://github.com/amikha1lov/RecApp) #python
+
 ### Video Players
 
 - [Celluloid (ex GNOME MPV)](https://github.com/celluloid-player/celluloid) #c
