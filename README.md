@@ -53,6 +53,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 ### Video Players
 
 - [Celluloid (ex GNOME MPV)](https://github.com/celluloid-player/celluloid) #c
+- [Clapper](https://github.com/Rafostar/clapper) #gjs #c
 - [Movie Monad](https://github.com/lettier/movie-monad) #haskell
 - [GNOME Videos (Totem)](https://wiki.gnome.org/Apps/Videos) #c #gnome
 
