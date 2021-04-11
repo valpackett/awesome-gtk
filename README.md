@@ -80,7 +80,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### Audio Tools
 
-- [Lyrebird](https://github.com/chxrlt/lyrebird) voice changer based on sox #python
+- [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) voice changer based on sox #python
 
 ### Video Editors
 
