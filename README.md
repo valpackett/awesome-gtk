@@ -416,6 +416,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### File Renaming
 
+- [Szyszka](https://github.com/qarmin/szyszka) #rust
 - [tv-renamer](https://github.com/mmstick/tv-renamer) #rust
 
 ### Security and Privacy
