@@ -436,9 +436,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Authenticator](https://gitlab.gnome.org/World/Authenticator) #python
 - [OTPClient](https://github.com/paolostivanin/OTPClient) #c
 
-### System Cleaning
+### System and File Cleaning
 
 - [BleachBit](https://www.bleachbit.org/) (GTK3 in git: [modernization](https://github.com/bleachbit/bleachbit/tree/modernization)) #python
+- [Czkawka](https://github.com/qarmin/czkawka) #rust
 
 ### System Monitoring and Info
 
