@@ -253,6 +253,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [gImageView](https://github.com/manisandro/gImageReader) UI for tesseract #c++
 
+#### PDF Tools
+
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) #python
+
 #### Document Managers
 
 - [Paperwork](https://openpaper.work) #python
