@@ -2,7 +2,7 @@
 
 # awesome-gtk
 
-This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and eventually 4) applications.
+This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and 4) applications.
 
 ## Applications
 
@@ -44,6 +44,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 #### Transcription
 
 - [Parlatype](https://gkarsay.github.io/parlatype/) #c
+
+#### Ambient Sounds
+
+- [Blanket](https://github.com/rafaelmardojai/blanket) #python #libhandy
 
 ### Screen Recorders
 
@@ -117,13 +121,14 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
 - [Giara](https://gitlab.gnome.org/GabMus/giara) for Reddit #python #libhandy
 
-### Calculators
+### Calculators & Math
 
 - [NaSC](https://github.com/parnold-x/nasc) dual pane text based calculator (like Soulver) #vala
 - [Qalculate! GTK+](https://qalculate.github.io) #c++
 - [balistica](https://github.com/steveno/balistica) ballistics calculator #vala
 - [Dippi](https://github.com/cassidyjames/dippi) display DPI calculator #vala #granite
 - [Harvey](https://github.com/danrabbit/harvey) color contrast calculator #vala
+- [Plots](https://github.com/alexhuntley/Plots) #python #opengl
 
 ### Note Taking
 
@@ -160,6 +165,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) #python
 - [Solanum](https://gitlab.gnome.org/World/Solanum) (pomodoro) #rust
+- [Khronos](https://github.com/lainsce/khronos) #vala #libhandy
 
 ### Email
 
@@ -271,6 +277,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 #### Exchange Rate Viewers
 
+- [Markets](https://github.com/bitstower/markets) #vala #libhandy
 - [Coin](https://github.com/lainsce/coin) #vala #granite
 - [Crypto](https://github.com/ErikWallstrom/Crypto) #c
 
@@ -316,6 +323,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [gifcurry](https://github.com/lettier/gifcurry) #haskell
 - [Gifup](https://github.com/BharatKalluri/Gifup) #vala #granite
+
+##### Optimizers/Compressors
+
+- [Curtail](https://github.com/Huluti/Curtail) with optipng, pngquant, jpegoptim #python
 
 ### Design Utilities
 
@@ -425,7 +436,9 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### Security and Privacy
 
+- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) based on MAT2 #python #libhandy
 - [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
+- [Hashbrown](https://github.com/GeopJr/Hashbrown) #crystal
 - [GtkHash](https://github.com/tristanheaven/gtkhash) #c
 
 #### Password Management
@@ -479,4 +492,9 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Nimbus](https://github.com/danrabbit/nimbus) #vala
 
 ### Productivity
+
 - [Workspaces](https://github.com/DevAlien/workspaces) #vala #granite
+
+### Health & Fitness
+
+- [Health](https://gitlab.gnome.org/Cogitri/Health) currently supports Google Fit #rust #libadwaita
