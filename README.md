@@ -464,6 +464,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
 - [sysctlview](https://gitlab.com/alfix/sysctlview) FreeBSD sysctl MIB tree explorer #c++
 
+### Network Monitoring / Traffic Analysis
+
+- [Hotwire](https://github.com/emmanueltouzery/hotwire) high level view of tcpdump for specific protocols #rust
+
 #### Disk Usage Explorers
 
 - [GNOME Disk Usage Analyzer (Baobab)](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) DaisyDisk style circle chart #vala #gnome
