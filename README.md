@@ -138,6 +138,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) #vala #granite
 - [Xournal++](https://github.com/xournalpp/xournalpp) handwriting notebook (with tablet pressure) #c++
 - [Notekit](https://github.com/blackhole89/notekit/) hierarchical markdown notetaking application with tablet support #c++
+- [Zim - A Desktop Wiki Editor](https://github.com/zim-desktop-wiki/zim-desktop-wiki) #wiki #notetaking #python
 
 #### Journal/Diary
 
@@ -149,6 +150,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Effitask](https://github.com/sanpii/effitask) todo.txt based #rust
 - [GNOME To Do](https://wiki.gnome.org/Apps/Todo) #c #gnome
 - [Agenda](https://github.com/dahenson/agenda) #vala #granite
+- [Getting Things Gnome](https://github.com/getting-things-gnome/gtg) #gnome #gtd
 
 ### Mind Mapping
 
