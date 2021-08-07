@@ -144,6 +144,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [RedNotebook](https://rednotebook.sourceforge.io/) #python
 
+#### Calendar
+
+- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) #c #gnome 
+
 #### To-Do Lists
 
 - [Yishu](https://github.com/lainsce/yishu) todo.txt based #vala #granite
