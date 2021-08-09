@@ -263,8 +263,8 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 #### Document Viewers
 
-- [Xreader](https://github.com/linuxmint/xreader) default document viewer in linux mint #pdf #postscript #xapps #c
-- [Evince](https://gitlab.gnome.org/GNOME/evince) #pdf #postscript #gnome #c
+- [Xreader](https://github.com/linuxmint/xreader) PDF, Postscript, Linux Mint #c #xapps
+- [Evince](https://gitlab.gnome.org/GNOME/evince) PDF, Postricpt #c #gnome
 
 #### PDF Tools
 
