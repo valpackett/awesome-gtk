@@ -272,6 +272,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [gImageView](https://github.com/manisandro/gImageReader) UI for tesseract #c++
 
+#### Document Viewers
+
+- [Xreader](https://github.com/linuxmint/xreader) default document viewer in linux mint #pdf #postscript #xapps #c
+- [Evince](https://gitlab.gnome.org/GNOME/evince) #pdf #postscript #gnome #c
+
 #### PDF Tools
 
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) #python
