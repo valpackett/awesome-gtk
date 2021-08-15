@@ -367,6 +367,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [elementary IDE](https://github.com/donadigo/elementary-ide) not official elementary #vala #granite
 - [elementary Code](https://github.com/elementary/code) #vala #granite
 - [NEd](https://github.com/ngtk3/NEd) #nim
+- [Xed](https://github.com/linuxmint/xed) #c #xapps
 
 #### Larger IDEs
 
