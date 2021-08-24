@@ -51,7 +51,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### Screen Recorders
 
-- [Kooha](https://github.com/SeaDve/Kooha) #python 
+- [Kooha](https://github.com/SeaDve/Kooha) #rust
 - [RecApp](https://github.com/amikha1lov/RecApp) #python
 
 ### Video Players
