@@ -376,6 +376,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Valama](https://github.com/Valama/valama) #vala
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) #julia
 
+### UI Design
+
+- [Glade](https://glade.gnome.org/) #c #gnome
+
 ### Version Control and Diffs
 
 - [gitg](https://wiki.gnome.org/Apps/Gitg) #vala #gnome
