@@ -335,6 +335,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 ##### Optimizers/Compressors
 
 - [Curtail](https://github.com/Huluti/Curtail) with optipng, pngquant, jpegoptim #python
+- [Refract](https://github.com/Blobfolio/refract) *guided* optimization for WebP, AVIF and JPEG XL #rust
 
 ### Design Utilities
 
