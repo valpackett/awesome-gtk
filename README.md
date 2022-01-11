@@ -86,6 +86,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) voice changer based on sox #python
 - [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) #c++
+- [EasyEffects](https://github.com/wwmm/easyeffects) #c++ #libadwaita
 
 ### Video Editors
 
@@ -122,6 +123,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Tootle](https://github.com/bleakgrey/tootle) for Mastodon #vala
 - [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
 - [Giara](https://gitlab.gnome.org/GabMus/giara) for Reddit #python #libhandy
+- [Headlines](https://gitlab.com/caveman250/Headlines) for Reddit #c++ #libadwaita
 
 ### Calculators & Math
 
@@ -206,6 +208,10 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 - [gtkcord3](https://github.com/diamondburned/gtkcord3) #go #libhandy
 
+#### Telegram
+
+- [Telegrand](https://github.com/melix99/telegrand) #rust #libadwaita
+
 ### Web Service Clients
 
 #### Translation
@@ -270,6 +276,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 #### PDF Tools
 
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) #python
+- [PDF Slicer](https://github.com/junrrein/pdfslicer) #c++
 
 #### Document Managers
 
@@ -371,6 +378,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [elementary Code](https://github.com/elementary/code) #vala #granite
 - [NEd](https://github.com/ngtk3/NEd) #nim
 - [Xed](https://github.com/linuxmint/xed) #c #xapps
+- [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) #c #gnome
 
 #### Larger IDEs
 
@@ -388,6 +396,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [gitg](https://wiki.gnome.org/Apps/Gitg) #vala #gnome
 - [Meld](https://gitlab.gnome.org/GNOME/meld) diff #python #gnome
 - [Gnomit](https://github.com/small-tech/gnomit) Git commit message editor #gjs
+- [Commit](https://github.com/sonnyp/Commit) Commit message editor for Git and Mercurial #gjs #libadwaita
 
 ### Documentation
 
