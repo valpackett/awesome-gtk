@@ -141,6 +141,7 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 - [Notejot](https://github.com/lainsce/notejot) sticky notes #vala #granite
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) #vala #granite
 - [Xournal++](https://github.com/xournalpp/xournalpp) handwriting notebook (with tablet pressure) #c++
+- [Rnote](https://github.com/flxzt/rnote) handwriting notebook (with tablet pressure) #rust #libadwaita
 - [Notekit](https://github.com/blackhole89/notekit/) hierarchical markdown notetaking application with tablet support #c++
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) desktop wiki editor #python
 
