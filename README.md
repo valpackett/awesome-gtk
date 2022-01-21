@@ -23,7 +23,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Spot](https://github.com/xou816/spot) Spotify client #rust #libhandy
 
-#### MPD Clients
+##### MPD Clients
 
 - [Sonata](https://github.com/multani/sonata) #python
 
@@ -38,8 +38,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Radio
 
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave) upcoming successor to Gradio #rust #libhandy
-- [Gradio](https://github.com/haecker-felix/Gradio) #vala
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) #rust #libadwaita
 - [Goodvibes](https://github.com/elboulangero/goodvibes) #c
 - [radiotray-lite](https://github.com/thekvs/radiotray-lite) #c++
 - [Pithos](https://pithos.github.io/) for Pandora #python
