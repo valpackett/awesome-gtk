@@ -2,7 +2,10 @@
 
 # awesome-gtk
 
-This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (3 and 4) applications.
+This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (4 and 3) applications.
+
+You can find the most up-to-date info on the most well-supported GNOME apps at [Apps for GNOME](https://apps.gnome.org/);
+this list aims to be broader and include apps from various other ecosystems in various states of maintenance.
 
 ## Applications
 
