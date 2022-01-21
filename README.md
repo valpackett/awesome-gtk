@@ -193,11 +193,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal) #rust #libhandy
 
-#### Tox
-
-- [Venom](https://github.com/naxuroqa/Venom) #vala
-- [Konv](https://github.com/SkyzohKey/Konv) #vala
-
 #### Jabber/XMPP
 
 - [Dino](https://dino.im/) #vala
@@ -210,7 +205,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Discord
 
-- [gtkcord3](https://github.com/diamondburned/gtkcord3) #go #libhandy
+- [gtkcord3](https://github.com/diamondburned/gtkcord3) #go #libadwaita
 
 #### Telegram
 
@@ -300,6 +295,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Coin](https://github.com/lainsce/coin) #vala #granite
 - [Crypto](https://github.com/ErikWallstrom/Crypto) #c
 
+*Warning: cryptocurrency is [bad](https://www.reddit.com/r/Buttcoin/)*
+
 ### Graphics
 
 #### 3D
@@ -327,9 +324,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
 - [GIMP](https://www.gimp.org/) (GTK3 in git: [master](https://gitlab.gnome.org/GNOME/gimp)) #c
-- [MyPaint](http://mypaint.org/) (GTK3 in git: [master](https://github.com/mypaint/mypaint)) #python
+- [MyPaint](http://mypaint.org/) #python
 - [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
-- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust #libadwaita
 - [Swappy](https://github.com/jtheoof/swappy) quick screenshot editing for wlroots based compositors #c
 
 ##### Photo (non-destructive editing)
@@ -357,8 +354,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Terminals
 
 - [Galacritty](https://github.com/myfreeweb/galacritty) (shameless plug :D) GTK version of [Alacritty](https://github.com/jwilm/alacritty) (not really maintained for now sorry) #rust
-- [Guake](https://github.com/Guake/guake) dropdown terminal #vte #python
-- [Tilix](https://github.com/gnunn1/tilix) tiling and dropdown terminal #vte #d
+- [Guake](https://github.com/Guake/guake) dropdown terminal #python #vte
+- [Tilix](https://github.com/gnunn1/tilix) tiling and dropdown terminal #d #vte
+- [GNOME Console](https://gitlab.gnome.org/GNOME/console) #c #vte #gnome
+- [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) #c #vte #gnome
 
 ### Code
 
@@ -394,6 +393,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### UI Design
 
 - [Glade](https://glade.gnome.org/) #c #gnome
+- [Cambalache](https://gitlab.gnome.org/jpu/cambalache) Glade's successor #python
 
 ### Version Control and Diffs
 
@@ -411,9 +411,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Marker](https://github.com/fabiocolacio/Marker) #c
 - [Showdown](https://github.com/craigbarnes/showdown) #vala
-- [Apostrophe](https://gitlab.gnome.org/somas/apostrophe) #python
+- [Apostrophe](https://gitlab.gnome.org/World/apostrophe) #python #libhandy
 - [markdown-rs](https://github.com/nilgradisnik/markdown-rs) #rust
-- [Quilter](https://github.com/lainsce/quilter) #vala #granite
+- [Quilter](https://github.com/lainsce/quilter) #vala #libhandy
 
 ### LaTeX
 
@@ -470,7 +470,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Password Management
 
-- [Valawarden](https://github.com/LiljebergXYZ/valawarden) Bitwarden client #vala #granite
 - [PasswordSafe](https://gitlab.gnome.org/World/PasswordSafe) KeePass v4 format based #python #libhandy
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) #python
 - [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
@@ -482,7 +481,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### System and File Cleaning
 
-- [BleachBit](https://www.bleachbit.org/) (GTK3 in git: [modernization](https://github.com/bleachbit/bleachbit/tree/modernization)) #python
+- [BleachBit](https://www.bleachbit.org/) #python
 - [Czkawka](https://github.com/qarmin/czkawka) #rust
 
 ### System Monitoring and Info
@@ -519,7 +518,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Meteo](https://gitlab.com/bitseater/meteo) #vala
 - [bitseater/Weather](https://github.com/bitseater/weather) #vala
-- [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs
+- [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs #gnome
 - [Nimbus](https://github.com/danrabbit/nimbus) #vala
 
 ### Productivity
@@ -528,4 +527,4 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Health & Fitness
 
-- [Health](https://gitlab.gnome.org/Cogitri/Health) currently supports Google Fit #rust #libadwaita
+- [Health](https://gitlab.gnome.org/World/Health) currently supports Google Fit #rust #libadwaita
