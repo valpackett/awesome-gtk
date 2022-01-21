@@ -437,8 +437,8 @@ This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B
 
 ### Remote Desktop
 
+- [Connections](https://gitlab.gnome.org/GNOME/connections) RDP, VNC #vala #gnome
 - [Remmina](https://github.com/FreeRDP/Remmina) RDP, VNC, etc (plugin system) #c
-- [Remotely](https://github.com/haecker-felix/Remotely) VNC #vala
 - [Vinagre](https://wiki.gnome.org/Apps/Vinagre) RDP, VNC, SPICE #c #gnome
 
 ### Database Clients
