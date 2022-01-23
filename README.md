@@ -369,6 +369,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [gnvim](https://github.com/vhakulinen/gnvim) #rust
 - [neovim-gtk](https://github.com/daa84/neovim-gtk) #rust
+  - [maintained fork](https://github.com/Lyude/neovim-gtk)
 - [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) #python
 
 #### Xi GUIs
