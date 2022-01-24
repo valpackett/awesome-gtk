@@ -507,6 +507,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) PulseAudio config tool with a flow graph UI #vala
 - [doppler](https://github.com/spacekookie/doppler) Redshift (f.lux / night light style screen color filter thingy) UI #rust
+- [Flatseal](https://github.com/tchx84/Flatseal) Flatpak permission manager #gjs
 
 ### Installation
 
