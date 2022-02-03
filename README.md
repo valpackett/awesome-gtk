@@ -316,7 +316,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ##### Font
 
 - [Birdfont](https://github.com/johanmattssonm/birdfont) #vala
-- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) #python
+- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) #python #libhandy
 
 ##### CAD/EDA
 
