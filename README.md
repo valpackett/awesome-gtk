@@ -118,6 +118,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Specialized Web Browsers / Wrappers
 
 - [hackup](https://github.com/mdh34/hackup) Hacker News client #vala #granite
+- [Wike](https://hugolabe.github.io/Wike) Wikipedia client #python
 
 ### Social Media Clients
 
