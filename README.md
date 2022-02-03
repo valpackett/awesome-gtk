@@ -93,7 +93,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Video Editors
 
 - [Pitivi](http://www.pitivi.org/) #python
-- [Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) #rust
+- [Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) #rust #libadwaita
 
 ### Video Downloaders (youtube-dl)
 
