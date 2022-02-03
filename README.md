@@ -472,6 +472,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
 - [Hashbrown](https://github.com/GeopJr/Hashbrown) #crystal
 - [GtkHash](https://github.com/tristanheaven/gtkhash) #c
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) #rust
 
 #### Password Management
 
