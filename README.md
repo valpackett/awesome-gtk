@@ -207,6 +207,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Discord
 
 - [gtkcord3](https://github.com/diamondburned/gtkcord3) #go #libadwaita
+- [Discover](https://github.com/trigg/Discover) Discord overlay #python
 
 #### Telegram
 
