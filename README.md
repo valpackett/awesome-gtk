@@ -535,6 +535,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Productivity
 
 - [Workspaces](https://github.com/DevAlien/workspaces) #vala #granite
+- [Random](https://codeberg.org/foreverxml/random) #vala #libadwaita
 
 ### Health & Fitness
 
