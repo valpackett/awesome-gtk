@@ -249,6 +249,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Polo](https://github.com/teejee2008/polo) multi-pane & tab file manager #vala
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) #python
+- [Portofolio](https://github.com/tchx84/Portfolio) file manager for mobile devices #libhandy 
 
 ### Backup
 
