@@ -400,6 +400,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Anjuta](https://wiki.gnome.org/Apps/Anjuta) #c #gnome
 - [Valama](https://github.com/Valama/valama) #vala
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) #julia
+- [Workbench](https://github.com/sonnyp/Workbench) #gjs #libadwaita
 
 ### UI Design
 
