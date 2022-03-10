@@ -393,6 +393,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [NEd](https://github.com/ngtk3/NEd) #nim
 - [Xed](https://github.com/linuxmint/xed) #c #xapps
 - [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) #c #gnome
+- [Norka](https://tenderowl.com/work/norka) #python #granite
 
 #### Larger IDEs
 
