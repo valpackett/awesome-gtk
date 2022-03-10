@@ -521,6 +521,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Installation
 
 - [Parceldude](https://notabug.org/grindhold/parceldude) batch installer for Windows MSI packages #vala
+- [Turtle](https://tenderowl.com/work/turtle) `.deskop` files creation tool #python #granite 
 
 ### News/Feed Readers
 
