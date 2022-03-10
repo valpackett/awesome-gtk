@@ -540,6 +540,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Workspaces](https://github.com/DevAlien/workspaces) #vala #granite
 - [Random](https://codeberg.org/foreverxml/random) #vala #libadwaita
+- [Frog](https://tenderowl.com/work/frog) text extractor #python #granite
 
 ### Health & Fitness
 
