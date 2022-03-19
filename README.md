@@ -547,3 +547,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Health & Fitness
 
 - [Health](https://gitlab.gnome.org/World/Health) currently supports Google Fit #rust #libadwaita
+
+### Containers
+
+- [Symphony](https://github.com/marhkb/symphony) Podman GUI #rust #libadwaita
