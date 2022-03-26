@@ -65,7 +65,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Video Comparison
 
-- [Identity](https://gitlab.gnome.org/YaLTeR/identity) #rust
+- [Identity](https://gitlab.gnome.org/YaLTeR/identity) #rust #libadwaita
 
 #### Live Stream Viewers
 
