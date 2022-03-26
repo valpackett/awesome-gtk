@@ -479,7 +479,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) based on MAT2 #python #libadwaita
 - [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
-- [Hashbrown](https://github.com/GeopJr/Hashbrown) #crystal
+- [Collision](https://github.com/GeopJr/Collision) #crystal #libadwaita
 - [GtkHash](https://github.com/tristanheaven/gtkhash) #c
 
 #### Password Management
