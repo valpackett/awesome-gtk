@@ -477,7 +477,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Security and Privacy
 
-- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) based on MAT2 #python #libhandy
+- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) based on MAT2 #python #libadwaita
 - [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
 - [Hashbrown](https://github.com/GeopJr/Hashbrown) #crystal
 - [GtkHash](https://github.com/tristanheaven/gtkhash) #c
