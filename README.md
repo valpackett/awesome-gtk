@@ -279,7 +279,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Document Viewers
 
 - [Xreader](https://github.com/linuxmint/xreader) PDF, Postscript, Linux Mint #c #xapps
-- [Evince](https://gitlab.gnome.org/GNOME/evince) PDF, Postricpt #c #gnome
+- [Evince](https://gitlab.gnome.org/GNOME/evince) PDF, Postscript, etc. #c #libhandy #gnome
 
 #### PDF Tools
 
