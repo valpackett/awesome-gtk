@@ -13,10 +13,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Music
 
-- [Lollypop](https://gitlab.gnome.org/World/lollypop) #python
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) #python #libhandy
 - [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
 - [elementary Music](https://github.com/elementary/music) #vala #granite
-- [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #gnome
+- [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #libadwaita #gnome
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
 
 ##### Streaming Service Clients
