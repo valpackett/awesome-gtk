@@ -90,6 +90,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) voice changer based on sox #python
 - [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) #c++
 - [EasyEffects](https://github.com/wwmm/easyeffects) #c++ #libadwaita
+- [Myxer](https://github.com/VixenUtils/Myxer) PulseAudio volume mixer #rust
 
 ### Video Editors
 
