@@ -510,6 +510,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
 - [sysctlview](https://gitlab.com/alfix/sysctlview) FreeBSD sysctl MIB tree explorer #c++
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) NVIDIA card monitoring and fan/OC controlling #python
+- [GNOME Logs](https://wiki.gnome.org/Apps/Logs) systemd logs viewer #gnome #libadwaita
 
 ### Network Monitoring / Traffic Analysis
 
