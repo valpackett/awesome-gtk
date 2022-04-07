@@ -185,6 +185,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Solanum](https://gitlab.gnome.org/World/Solanum) (pomodoro) #rust
 - [Khronos](https://github.com/lainsce/khronos) #vala #libhandy
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) (pomodoro) #vala #libadwaita
+- [Furtherance](https://github.com/lakoliu/Furtherance) #rust #libadwaita
 
 ### Email
 
