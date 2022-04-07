@@ -324,6 +324,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Birdfont](https://github.com/johanmattssonm/birdfont) #vala
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader) #python #libhandy
+- [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) #python #libadwaita
 
 ##### CAD/EDA
 
