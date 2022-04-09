@@ -91,6 +91,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) #c++
 - [EasyEffects](https://github.com/wwmm/easyeffects) #c++ #libadwaita
 - [Myxer](https://github.com/VixenUtils/Myxer) PulseAudio volume mixer #rust
+- [Reco](https://github.com/ryonakano/reco) audio recorder #vala #granite #libhandy
 
 ### Video Editors
 
