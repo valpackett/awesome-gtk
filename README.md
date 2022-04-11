@@ -276,7 +276,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Presentation Viewers
 
 - [pdfpc](https://github.com/pdfpc/pdfpc) #vala
-- [Pypmress](https://github.com/Cimbali/pympress) #python
+- [Pympress](https://github.com/Cimbali/pympress) #python
 
 #### OCR
 
