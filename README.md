@@ -18,6 +18,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [elementary Music](https://github.com/elementary/music) #vala #granite
 - [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #libadwaita #gnome
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
+- [Amberol](https://gitlab.gnome.org/ebassi/amberol) #rust #libadwaita
 
 ##### Streaming Service Clients
 
