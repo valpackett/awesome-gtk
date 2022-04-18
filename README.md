@@ -154,6 +154,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Notekit](https://github.com/blackhole89/notekit/) hierarchical markdown notetaking application with tablet support #c++
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) desktop wiki editor #python
 - [Iridium](https://github.com/matze/iridium) Standard Notes client #rust
+- [Notes](https://github.com/Blquinn/notes) #vala #libadwaita
 
 #### Journal/Diary
 
