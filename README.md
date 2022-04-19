@@ -440,6 +440,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Apostrophe](https://gitlab.gnome.org/World/apostrophe) #python #libhandy
 - [markdown-rs](https://github.com/nilgradisnik/markdown-rs) #rust
 - [Quilter](https://github.com/lainsce/quilter) #vala #libhandy
+- [Paper](https://posidon.io/paper) #vala #libhandy
 
 ### LaTeX
 
