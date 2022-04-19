@@ -381,6 +381,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Tilix](https://github.com/gnunn1/tilix) tiling and dropdown terminal #d #vte
 - [GNOME Console](https://gitlab.gnome.org/GNOME/console) #c #vte #gnome
 - [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) #c #vte #gnome
+- [Terminal](https://gitlab.gnome.org/raggesilver/terminal) #vala #libdwaita #vte
 
 ### Code
 
