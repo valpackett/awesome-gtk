@@ -155,6 +155,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) desktop wiki editor #python
 - [Iridium](https://github.com/matze/iridium) Standard Notes client #rust
 - [Notes](https://github.com/Blquinn/notes) #vala #libadwaita
+- [Notorious](https://gitlab.gnome.org/GabMus/notorious) Notational Velocity / nvALT style UI #python #libhandy
 
 #### Journal/Diary
 
