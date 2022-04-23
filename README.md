@@ -506,7 +506,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### One-Time Password
 
-- [Authenticator](https://gitlab.gnome.org/World/Authenticator) #python
+- [Authenticator](https://gitlab.gnome.org/World/Authenticator) #rust #libdawaita
 - [OTPClient](https://github.com/paolostivanin/OTPClient) #c
 
 ### System and File Cleaning
