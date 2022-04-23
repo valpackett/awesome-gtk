@@ -568,4 +568,4 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Containers
 
-- [Symphony](https://github.com/marhkb/symphony) Podman GUI #rust #libadwaita
+- [Pods](https://github.com/marhkb/pods) Podman GUI #rust #libadwaita
