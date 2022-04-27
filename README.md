@@ -84,7 +84,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Audio Workstations (DAWs)
 
-- [zrythm](https://github.com/zrythm/zrythm) #c++
+- [zrythm](https://github.com/zrythm/zrythm) #c++ #libadwaita
 
 ### Audio Tools
 
