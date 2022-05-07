@@ -125,6 +125,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [hackup](https://github.com/mdh34/hackup) Hacker News client #vala #granite
 - [Wike](https://hugolabe.github.io/Wike) Wikipedia client #python
+- [Geopard](https://ranfdev.com/projects/geopard) Gemini web browser #rust #libadwaita
 
 ### Social Media Clients
 
