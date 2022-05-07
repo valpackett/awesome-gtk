@@ -451,6 +451,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gummi](https://github.com/alexandervdm/gummi) #c
 - [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) #vala #gnome
 - [Setzer](https://github.com/cvfosammmm/Setzer) #python
+- [Citations](https://gitlab.gnome.org/World/citations) BibTex bibliography manager #rust #libadwaita
 
 ### Graphviz
 
