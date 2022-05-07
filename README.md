@@ -563,6 +563,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Random](https://codeberg.org/foreverxml/random) #vala #libadwaita
 - [Frog](https://tenderowl.com/work/frog) text extractor #python #granite
 - [Cigale](https://github.com/emmanueltouzery/cigale) activities timesheet #rust
+- [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) emoji picker #gnome #c #libadwaita
 
 ### Health & Fitness
 
