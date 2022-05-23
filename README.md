@@ -264,7 +264,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Backup
 
-- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) UI for [borg](https://github.com/borgbackup/borg) #rust #libhandy
+- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) UI for [borg](https://github.com/borgbackup/borg) #rust #libadwaita
 - ~~[Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python~~ (note: [python2](https://github.com/emersion/bups/issues/34)!)
 - [Timeshift](https://github.com/teejee2008/timeshift) #vala
 
