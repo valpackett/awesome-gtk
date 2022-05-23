@@ -237,6 +237,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Transporter](https://github.com/bleakgrey/Transporter) based on [magic-wormhole](https://github.com/warner/magic-wormhole) #vala #granite
 - [Teleport](https://gitlab.gnome.org/jsparber/teleport) based on Avahi (mDNS) #c
+- [Warp](https://gitlab.gnome.org/felinira/warp) based on [magic-wormhole](https://github.com/warner/magic-wormhole) #rust #libadwaita
 
 #### BitTorrent Clients
 
