@@ -40,7 +40,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Radio
 
 - [Shortwave](https://gitlab.gnome.org/World/Shortwave) #rust #libadwaita
-- [Goodvibes](https://github.com/elboulangero/goodvibes) #c
+- [Goodvibes](https://gitlab.com/goodvibes/goodvibes) #c
 - [radiotray-lite](https://github.com/thekvs/radiotray-lite) #c++
 - [Pithos](https://pithos.github.io/) for Pandora #python
 
@@ -213,7 +213,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### IRC
 
 - [Polari](https://wiki.gnome.org/Apps/Polari/) #gjs #gnome
-- [Srain](https://srain.im/) #c
+- [Srain](https://srain.silverrainz.me/) #c
 
 #### Discord
 
@@ -267,7 +267,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Pika Backup](https://gitlab.gnome.org/World/pika-backup) UI for [borg](https://github.com/borgbackup/borg) #rust #libadwaita
 - ~~[Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python~~ (note: [python2](https://github.com/emersion/bups/issues/34)!)
-- [Timeshift](https://github.com/teejee2008/timeshift) #vala
+- [Timeshift](https://github.com/linuxmint/timeshift) #vala
 
 ### Office
 
