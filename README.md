@@ -539,6 +539,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [doppler](https://github.com/spacekookie/doppler) Redshift (f.lux / night light style screen color filter thingy) UI #rust
 - [Flatseal](https://github.com/tchx84/Flatseal) Flatpak permission manager #gjs
 - [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) GDM settings manager #python #libadwaita
+- [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) GNOME Shell configuration utility #gjs #libadwaita
 
 ### Installation
 
