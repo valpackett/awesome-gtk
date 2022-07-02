@@ -57,6 +57,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Kooha](https://github.com/SeaDve/Kooha) #rust
 - [RecApp](https://github.com/amikha1lov/RecApp) #python
 
+### Image Viewers
+
+- [Image Roll](https://github.com/weclaw1/image-roll) #rust
+- [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) #rust #libadwaita
+
 ### Video Players
 
 - [Celluloid (ex GNOME MPV)](https://github.com/celluloid-player/celluloid) #c
