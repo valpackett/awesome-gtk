@@ -175,7 +175,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Yishu](https://github.com/lainsce/yishu) todo.txt based #vala #granite
 - [Effitask](https://github.com/sanpii/effitask) todo.txt based #rust
-- [GNOME To Do](https://wiki.gnome.org/Apps/Todo) #c #gnome
+- [Endeavour](https://gitlab.gnome.org/World/Endeavour) #c #gnome
 - [Agenda](https://github.com/dahenson/agenda) #vala #granite
 - [Getting Things GNOME (GTG)](https://github.com/getting-things-gnome/gtg) GTD #python #gnome
 
