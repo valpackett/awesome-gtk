@@ -11,7 +11,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Audio Players
 
-#### Musi
+#### Music
 
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) #python #libhandy
 - [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
