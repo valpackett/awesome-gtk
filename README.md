@@ -11,7 +11,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Audio Players
 
-#### Music
+#### Musi
 
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) #python #libhandy
 - [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
@@ -131,6 +131,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [hackup](https://github.com/mdh34/hackup) Hacker News client #vala #granite
 - [Wike](https://hugolabe.github.io/Wike) Wikipedia client #python
 - [Geopard](https://ranfdev.com/projects/geopard) Gemini web browser #rust #libadwaita
+- [Lobjur](https://github.com/ranfdev/Lobjur) lobste.rs client #gjs #libadwaita
 
 ### Social Media Clients
 
