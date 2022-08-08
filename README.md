@@ -251,6 +251,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Transmission](https://transmissionbt.com/) #c
 - [Fragments](https://gitlab.gnome.org/World/Fragments) uses embedded or remote Transmission daemon #rust #libadwaita
 - [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
+- [Deluge](https://deluge-torrent.org) #python
 
 #### Soulseek Clients
 
