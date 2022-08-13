@@ -100,7 +100,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Reco](https://github.com/ryonakano/reco) audio recorder #vala #granite #libhandy
 - [Mousai](https://github.com/SeaDve/Mousai) song identifier #rust #libadwaita
 - [Ear Tag](https://github.com/knuxify/eartag) tag editor #python #libadwaita
-- [Asunder](https://gitlab.gnome.org/Salamandar/asunder) CD ripper and encoder #python
+- [Asunder](https://gitlab.gnome.org/Salamandar/asunder) CD ripper and encoder #c
 
 ### Video Editors
 
