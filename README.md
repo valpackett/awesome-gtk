@@ -509,7 +509,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
 - [Collision](https://github.com/GeopJr/Collision) #crystal #libadwaita
 - [GtkHash](https://github.com/tristanheaven/gtkhash) #c
-- [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) parental controls client #c #libadwaita 
+- [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) parental controls client #c #libadwaita
+- [Raider](https://github.com/ADBeveridge/raider) file shredder #c #libadwaita
 
 #### Password Management
 
