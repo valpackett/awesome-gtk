@@ -54,7 +54,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Screen Recorders
 
-- [Kooha](https://github.com/SeaDve/Kooha) #rust
+- [Kooha](https://github.com/SeaDve/Kooha) #rust #libadwaita
 - [RecApp](https://github.com/amikha1lov/RecApp) #python
 
 ### Image Viewers
