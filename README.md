@@ -434,7 +434,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Glade](https://glade.gnome.org/) #c #gnome
 - [Cambalache](https://gitlab.gnome.org/jpu/cambalache) Glade's successor #python
-- [AdwCustomizer](https://github.com/AdwCustomizerTeam/AdwCustomizer) Libadwaita apps customizer #python #libadwaita
+- [Gradience](https://github.com/GradienceTeam/Gradience) Libadwaita apps customizer #python #libadwaita
 
 ### Version Control and Diffs
 
