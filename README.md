@@ -61,6 +61,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Image Roll](https://github.com/weclaw1/image-roll) #rust
 - [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) #rust #libadwaita
+- [vipsdisp](https://github.com/jcupitt/vipsdisp) technical image viewer #c
 
 ### Video Players
 
