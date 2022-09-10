@@ -387,6 +387,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) #rust #libadwaita
 - [Icon Library](https://gitlab.gnome.org/World/design/icon-library) #rust libadwaita
 - [Emulsion](https://github.com/lainsce/emulsion) color palettes #vala #libadwaita
+- [Eyedropper](https://github.com/FineFindus/eyedropper) color picker and formatter #rust #libadwaita
 
 ### Terminals
 
