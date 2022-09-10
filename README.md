@@ -589,3 +589,4 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Containers
 
 - [Pods](https://github.com/marhkb/pods) Podman GUI #rust #libadwaita
+- [Atoms](https://github.com/AtomsDevs/Atoms) chroot environments manager #python #libadwaita
