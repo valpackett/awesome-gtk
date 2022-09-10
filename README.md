@@ -590,3 +590,4 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Pods](https://github.com/marhkb/pods) Podman GUI #rust #libadwaita
 - [Atoms](https://github.com/AtomsDevs/Atoms) chroot environments manager #python #libadwaita
+- [Bottles](https://github.com/bottlesdevs/Bottles) wineprefix environments manager #python #libadwaita
