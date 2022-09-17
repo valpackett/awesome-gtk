@@ -234,6 +234,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Telegrand](https://github.com/melix99/telegrand) #rust #libadwaita
 
+#### Signal
+
+- [Flare](https://gitlab.com/Schmiddiii/flare) #rust #libadwaita
+
 ### Web Service Clients
 
 #### Translation
