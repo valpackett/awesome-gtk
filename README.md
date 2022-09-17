@@ -554,6 +554,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Flatseal](https://github.com/tchx84/Flatseal) Flatpak permission manager #gjs
 - [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) GDM settings manager #python #libadwaita
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) GNOME Shell configuration utility #gjs #libadwaita
+- [Gradience](https://GitHub.com/GradienceTeam/Gradience) Adwaita Customizer #python #libadwaita
 
 ### Installation
 
