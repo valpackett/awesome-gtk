@@ -242,7 +242,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Translation
 
-- [Dialect](https://github.com/gi-lom/dialect) (Google Translate) #python
+- [Dialect](https://github.com/gi-lom/dialect) (Google Translate) #python #libadwaita
 
 ### File Sharing
 
