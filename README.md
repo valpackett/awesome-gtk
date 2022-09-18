@@ -35,7 +35,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Audiobooks
 
-- [Cozy](https://github.com/geigi/cozy) #python
+- [Cozy](https://cozy.sh) #python
 
 #### Radio
 
