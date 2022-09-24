@@ -480,6 +480,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [RegexTester](https://github.com/artemanufrij/regextester) #vala #granite
 
+### Text Processing
+
+- [Text Pieces](https://github.com/liferooter/textpieces) #vala #libadwaita
+
 ### HTTP Request Testing
 
 - [GetIt](https://getit.bartkessels.net/) #c
