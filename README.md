@@ -121,7 +121,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Foliate](https://github.com/johnfactotum/foliate) #gjs #libhandy
 - [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
-- [Komikku](https://gitlab.com/valos/Komikku) manga reader #python #libhandy
+- [Komikku](https://gitlab.com/valos/Komikku) manga reader #python #libadwaita
 
 ### Web Browsers
 
