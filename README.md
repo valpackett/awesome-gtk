@@ -212,7 +212,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Matrix
 
-- [Fractal](https://gitlab.gnome.org/GNOME/fractal) #rust #libhandy
+- [Fractal](https://gitlab.gnome.org/GNOME/fractal) #rust #libadwaita
 
 #### Jabber/XMPP
 
