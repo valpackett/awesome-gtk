@@ -30,7 +30,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Podcasts
 
-- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) (ex Hammond) #rust #gnome #libhandy
+- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) (ex Hammond) #rust #gnome #libadwaita
 - [Vocal](https://github.com/needle-and-thread/vocal) #vala #granite
 
 #### Audiobooks
