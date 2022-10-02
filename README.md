@@ -50,7 +50,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Ambient Sounds
 
-- [Blanket](https://github.com/rafaelmardojai/blanket) #python #libhandy
+- [Blanket](https://github.com/rafaelmardojai/blanket) #python #libadwaita
 
 ### Screen Recorders
 
