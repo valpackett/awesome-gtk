@@ -22,7 +22,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ##### Streaming Service Clients
 
-- [Spot](https://github.com/xou816/spot) Spotify client #rust #libhandy
+- [Spot](https://github.com/xou816/spot) Spotify client #rust #libadwaita
 
 ##### MPD Clients
 
