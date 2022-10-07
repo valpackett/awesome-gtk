@@ -52,6 +52,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Blanket](https://github.com/rafaelmardojai/blanket) #python #libadwaita
 
+#### Soundboards
+
+- [Zap](https://gitlab.com/rmnvgr/zap) #gjs #libadwaita
+
 ### Screen Recorders
 
 - [Kooha](https://github.com/SeaDve/Kooha) #rust #libadwaita
