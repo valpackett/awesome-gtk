@@ -440,6 +440,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Valama](https://github.com/Valama/valama) #vala
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) #julia
 - [Workbench](https://github.com/sonnyp/Workbench) #gjs #libadwaita
+- [Playhouse](https://github.com/sonnyp/Playhouse) Playground for HTML/CSS/JavaScript #gjs #libadwaita
 
 ### UI Design
 
