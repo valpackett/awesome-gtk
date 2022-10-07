@@ -530,7 +530,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Password Management
 
-- [PasswordSafe](https://gitlab.gnome.org/World/PasswordSafe) KeePass v4 format based #python #libhandy
+- [Secrets](https://gitlab.gnome.org/World/secrets) KeePass v4 format based #python #libadwaita
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) #python
 - [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
 
