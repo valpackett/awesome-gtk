@@ -305,6 +305,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### OCR
 
+- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) An easy to use OCR app based on Tesseract engine #vala #granite
 - [gImageView](https://github.com/manisandro/gImageReader) UI for tesseract #c++
 
 #### Document Viewers
