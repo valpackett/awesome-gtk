@@ -202,7 +202,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) #python
 - [Solanum](https://gitlab.gnome.org/World/Solanum) (pomodoro) #rust
-- [Khronos](https://github.com/lainsce/khronos) #vala #libhandy
+- [Khronos](https://github.com/lainsce/khronos) #vala #libadwaita
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) (pomodoro) #vala #libadwaita
 - [Furtherance](https://github.com/lakoliu/Furtherance) #rust #libadwaita
 
