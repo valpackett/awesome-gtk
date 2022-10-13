@@ -102,7 +102,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Tagger](https://github.com/nlogozzo/NickvisionTagger) #c++ #libadwaita
 - [EasyEffects](https://github.com/wwmm/easyeffects) #c++ #libadwaita
 - [Myxer](https://github.com/VixenUtils/Myxer) PulseAudio volume mixer #rust
-- [Reco](https://github.com/ryonakano/reco) audio recorder #vala #granite #libhandy
+- [Reco](https://github.com/ryonakano/reco) audio recorder #vala #granite
 - [Mousai](https://github.com/SeaDve/Mousai) song identifier #rust #libadwaita
 - [Ear Tag](https://github.com/knuxify/eartag) tag editor #python #libadwaita
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) CD ripper and encoder #c
