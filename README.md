@@ -92,6 +92,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gaupol](https://otsaloma.io/gaupol/) #python
 - [Subtitle Editor](https://github.com/kitone/subtitleeditor) #c++
 
+### Media Servers
+
+- [Girens](https://gitlab.gnome.org/tijder/girens) Plex client #python #libadwaita
+
 ### Audio Workstations (DAWs)
 
 - [zrythm](https://github.com/zrythm/zrythm) #c++ #libadwaita
