@@ -115,7 +115,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Video Downloaders (youtube-dl)
 
 - [gydl](https://github.com/JannikHv/gydl) #python
-- [Nickvision Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) #c++
+- [Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) #c++ #libadwaita
 
 ### Media Encoders
 
