@@ -209,6 +209,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Khronos](https://github.com/lainsce/khronos) #vala #libadwaita
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) (pomodoro) #vala #libadwaita
 - [Furtherance](https://github.com/lakoliu/Furtherance) #rust #libadwaita
+- [Retro](https://github.com/sonnyp/Retro) customizable digital clock #gjs
 
 ### Email
 
