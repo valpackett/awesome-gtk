@@ -534,6 +534,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GtkHash](https://github.com/tristanheaven/gtkhash) #c
 - [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) parental controls client #c #libadwaita
 - [Raider](https://github.com/ADBeveridge/raider) file shredder #c #libadwaita
+- [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) Kerberos tickets monitoring #c #libadwaita
 
 #### Password Management
 
