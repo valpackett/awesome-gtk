@@ -509,6 +509,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Remmina](https://github.com/FreeRDP/Remmina) RDP, VNC, etc (plugin system) #c
 - [Vinagre](https://wiki.gnome.org/Apps/Vinagre) RDP, VNC, SPICE #c #gnome
 
+### SSH
+
+- [EasySSH](https://github.com/muriloventuroso/easyssh) connection manager #vala
+
 ### Database Clients
 
 - [Sequeler](https://github.com/Alecaddd/sequeler) #vala #granite
