@@ -460,6 +460,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Meld](https://gitlab.gnome.org/GNOME/meld) diff #python #gnome
 - [Gnomit](https://github.com/small-tech/gnomit) Git commit message editor #gjs
 - [Commit](https://github.com/sonnyp/Commit) Commit message editor for Git and Mercurial #gjs #libadwaita
+- [Diffuse](https://github.com/MightyCreak/diffuse) text file comparing/merging tool #python
 
 ### Documentation
 
