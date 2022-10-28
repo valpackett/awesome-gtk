@@ -457,7 +457,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Version Control and Diffs
 
 - [gitg](https://wiki.gnome.org/Apps/Gitg) #vala #gnome
-- [Meld](https://gitlab.gnome.org/GNOME/meld) diff #python #gnome
+- [Meld](https://gitlab.gnome.org/GNOME/meld) visual diff and merge tool #python #gnome
 - [Gnomit](https://github.com/small-tech/gnomit) Git commit message editor #gjs
 - [Commit](https://github.com/sonnyp/Commit) Commit message editor for Git and Mercurial #gjs #libadwaita
 - [Diffuse](https://github.com/MightyCreak/diffuse) text file comparing/merging tool #python
