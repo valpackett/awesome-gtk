@@ -496,10 +496,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Text Pieces](https://github.com/liferooter/textpieces) #vala #libadwaita
 
-### HTTP Request Testing
-
-- [GetIt](https://getit.bartkessels.net/) #c
-
 ### Hex Editors
 
 - [GHex](https://wiki.gnome.org/Apps/Ghex) #c #gnome
