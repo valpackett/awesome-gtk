@@ -498,7 +498,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Hex Editors
 
-- [GHex](https://wiki.gnome.org/Apps/Ghex) #c #gnome
+- [GHex](https://wiki.gnome.org/Apps/Ghex) #c #libadwaita #gnome
 
 ### Remote Desktop
 
