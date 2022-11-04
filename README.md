@@ -181,7 +181,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Calendar
 
-- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) #c #gnome 
+- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) #c #libadwaita #gnome 
 
 #### To-Do Lists
 
