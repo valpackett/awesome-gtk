@@ -334,6 +334,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Envelope](https://github.com/cjfloss/envelope) #vala #granite
 - [Grisbi](http://grisbi.org/) #c
+- [Money](https://github.com/nlogozzo/NickvisionMoney) #c++ #libadwaita
 
 #### Exchange Rate Viewers
 
