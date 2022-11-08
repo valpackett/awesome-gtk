@@ -620,3 +620,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Task scheduling
 
 - [Time Switch](https://github.com/fsobolev/timeswitch) computer shutdown timer #python #libadwaita
+
+### Map Viewers
+ 
+- [Atlas](https://github.com/ryonakano/atlas) #vala #libhandy
