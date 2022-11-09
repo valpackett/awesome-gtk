@@ -496,6 +496,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Text Processing
 
 - [Text Pieces](https://github.com/liferooter/textpieces) #vala #libadwaita
+- [KonbuCase](https://github.com/ryonakano/konbucase) case converting app #vala #granite
 
 ### Hex Editors
 
