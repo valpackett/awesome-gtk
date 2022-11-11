@@ -575,7 +575,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) PulseAudio config tool with a flow graph UI #vala
 - [doppler](https://github.com/spacekookie/doppler) Redshift (f.lux / night light style screen color filter thingy) UI #rust
-- [Flatseal](https://github.com/tchx84/Flatseal) Flatpak permission manager #gjs
+- [Flatseal](https://github.com/tchx84/Flatseal) Flatpak permission manager #gjs #libandy
 - [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) GDM settings manager #python #libadwaita
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) GNOME Shell configuration utility #gjs #libadwaita
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) #rust #libadwaita
