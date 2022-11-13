@@ -586,6 +586,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Turtle](https://tenderowl.com/work/turtle) `.deskop` files creation tool #python #granite
 - [mlinstall](https://petabyt.github.io/mlinstall) Magic Lantern installer #python
 - [Pin It!](https://github.com/ryonakano/pinit) portable apps shortcut creator #vala #libadwaita
+- [Extension Manager](https://github.com/mjakeman/extension-manager) for GNOME Shell #c #libadwaita
 
 ### News/Feed Readers
 
