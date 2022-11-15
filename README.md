@@ -588,6 +588,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pin It!](https://github.com/ryonakano/pinit) portable apps shortcut creator #vala #libadwaita
 - [Extension Manager](https://github.com/mjakeman/extension-manager) for GNOME Shell #c #libadwaita
 - [Nix Software Center](https://github.com/vlinkz/nix-software-center) #rust #libadwaita
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) Proton version manager #vala #libadwaita
 
 ### News/Feed Readers
 
