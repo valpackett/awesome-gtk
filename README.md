@@ -629,3 +629,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Map Viewers
  
 - [Atlas](https://github.com/ryonakano/atlas) #vala #libhandy #granite
+
+### Game Launchers
+
+- [Lutris](https://lutris.net) launcher covering most gaming systems #python
