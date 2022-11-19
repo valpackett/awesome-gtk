@@ -596,6 +596,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Extension Manager](https://github.com/mjakeman/extension-manager) for GNOME Shell #c #libadwaita
 - [Nix Software Center](https://github.com/vlinkz/nix-software-center) #rust #libadwaita
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) Proton version manager #vala #libadwaita
+- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer #python #libadwaita
 
 ### News/Feed Readers
 
