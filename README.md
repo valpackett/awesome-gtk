@@ -579,6 +579,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) GDM settings manager #python #libadwaita
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) GNOME Shell configuration utility #gjs #libadwaita
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) #rust #libadwaita
+- [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) #libadwaita #python
 
 ### Installation
 
