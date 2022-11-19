@@ -395,6 +395,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Curtail](https://github.com/Huluti/Curtail) with optipng, pngquant, jpegoptim #python
 - [Refract](https://github.com/Blobfolio/refract) *guided* optimization for WebP, AVIF and JPEG XL #rust
 
+##### Upscaling
+
+- [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) Real-ESRGAN ncnn Vulkan front-end #python #libadwaita
+
 ### Design Utilities
 
 - [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
