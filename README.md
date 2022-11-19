@@ -616,6 +616,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Frog](https://tenderowl.com/work/frog) text extractor #python #granite
 - [Cigale](https://github.com/emmanueltouzery/cigale) activities timesheet #rust
 - [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) emoji picker #gnome #c #libadwaita
+- [Boatswain](https://gitlab.gnome.org/World/boatswain) Elgato Stream Deck controller #c #libadwaita
 
 ### Health & Fitness
 
