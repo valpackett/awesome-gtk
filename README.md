@@ -28,6 +28,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ##### MPD Clients
 
 - [Sonata](https://github.com/multani/sonata) #python
+- [Mpdevil](https://github.com/SoongNoonien/mpdevil) #python
 
 #### Podcasts
 
