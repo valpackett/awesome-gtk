@@ -295,6 +295,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - ~~[Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python~~ (note: [python2](https://github.com/emersion/bups/issues/34)!)
 - [Timeshift](https://github.com/linuxmint/timeshift) #vala
 - [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) #vala #libadwaita
+- [Butter](https://github.com/zhangyuannie/butter) Btrfs snapshot manager #rust #libadwaita
 
 ### Office
 
