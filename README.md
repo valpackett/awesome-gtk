@@ -189,7 +189,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### To-Do Lists
 
-- [Yishu](https://github.com/lainsce/yishu) todo.txt based #vala #granite
+- [Yishu](https://github.com/lainsce/yishu) (archived) todo.txt based #vala #granite #libhandy
 - [Effitask](https://github.com/sanpii/effitask) todo.txt based #rust
 - [Endeavour](https://gitlab.gnome.org/World/Endeavour) #c #libadwaita
 - [Agenda](https://github.com/dahenson/agenda) #vala #granite
