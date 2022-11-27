@@ -194,6 +194,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Endeavour](https://gitlab.gnome.org/World/Endeavour) #c #libadwaita
 - [Agenda](https://github.com/dahenson/agenda) #vala #granite
 - [Getting Things GNOME (GTG)](https://github.com/getting-things-gnome/gtg) GTD #python #gnome
+- [Done](https://done.edfloreshz.dev) #rust #libadwaita
 
 ### Mind Mapping
 
