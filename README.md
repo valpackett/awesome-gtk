@@ -516,6 +516,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Text Pieces](https://github.com/liferooter/textpieces) #vala #libadwaita
 - [KonbuCase](https://github.com/ryonakano/konbucase) case converting app #vala #granite
+- [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) visual semi-structured data (JSON) editor #python #libadwaita
 
 ### Hex Editors
 
