@@ -1,62 +1,78 @@
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Distros: Please do not theme any apps](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app) 
+<img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" align="right" width="144"/>
 
-# awesome-gtk
+# Awesome GTK [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Distros: Please do not theme any apps](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
 
-This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (4 and 3) applications.
+> Collections of awesome native open-source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (4 and 3) applications.
+
+## Contents
+
+- [Apps for GNOME](#apps-for-gnome)
+- [Audio](#audio)
+  - [Audio Players](#audio-players)
+    - [Music Players](#music-players)
+    - [Audio Streaming Service Clients](#audio-streaming-service-clients)
+    - [MPD Clients](#mpd-clients)
+    - [Podcasts](#podcasts)
+    - [Audiobooks](#audiobooks)
+    - [Radio](#radio)
+    - [Transcription](#transcription)
+    - [Ambient Sounds](#ambient-sounds)
+
+## Apps for GNOME
 
 You can find the most up-to-date info on the most well-supported GNOME apps at [Apps for GNOME](https://apps.gnome.org/);
 this list aims to be broader and include apps from various other ecosystems in various states of maintenance.
 
-## Applications
+## Audio
 
 ### Audio Players
 
-#### Music
+#### Music Players
 
-- [Lollypop](https://gitlab.gnome.org/World/lollypop) #python #libhandy
-- [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
-- [elementary Music](https://github.com/elementary/music) #vala #granite
-- [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #libadwaita #gnome
-- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
-- [Amberol](https://gitlab.gnome.org/ebassi/amberol) #rust #libadwaita
-- [G4Music](https://github.com/neithern/g4music) #vala #libadwaita
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lightweight modern music player designed to work excellently on the GNOME desktop environment with party mode, metadata fetching, MTP device sync and scrobbling `#python` `#libhandy`.
+- [Melody](http://anufrij.org/melody) - Music player designed for elementary OS with metadata fetching, online radio and MTP device sync `#vala` `#granite`.
+- [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#granite`.
+- [GNOME Music](https://wiki.gnome.org/Apps/Music) - Official GNOME desktop music player `#python` `#libadwaita` `#gnome`.
+- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gnome`.
+- [Amberol](https://gitlab.gnome.org/ebassi/amberol) - Simple music player well integrated with GNOME `#rust` `#libadwaita`.
+- [G4Music](https://github.com/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#libadwaita`.
 
-##### Streaming Service Clients
+#### Audio Streaming Service Clients
 
-- [Spot](https://github.com/xou816/spot) Spotify client #rust #libadwaita
+- [Spot](https://github.com/xou816/spot) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) `#rust` `#libadwaita`.
 
-##### MPD Clients
+#### MPD Clients
 
-- [Sonata](https://github.com/multani/sonata) #python
-- [Mpdevil](https://github.com/SoongNoonien/mpdevil) #python
+- [Sonata](https://github.com/multani/sonata) - MPD client with tag editor and audio scrobbling support, currently looking for a new maintainer `#python`.
+- [Mpdevil](https://github.com/SoongNoonien/mpdevil) - MPD music browser with MPRIS interface `#python`.
 
 #### Podcasts
 
-- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) (ex Hammond) #rust #gnome #libadwaita
-- [Vocal](https://github.com/needle-and-thread/vocal) #vala #granite
+- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) - (ex Hammond) Official GNOME Podcast client `#rust` `#libadwaita` `#gnome`.
+- [Vocal](https://vocalproject.net/https://github.com/needle-and-thread/vocal) - Podcast application with iTunes Store integration and smart library management `#vala` `#granite`.
 
 #### Audiobooks
 
-- [Cozy](https://cozy.sh) #python
+- [Cozy](https://cozy.sh) - Audiobook player with offline library management and MPRIS integration `#python`.
 
 #### Radio
 
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave) #rust #libadwaita
-- [Goodvibes](https://gitlab.com/goodvibes/goodvibes) #c
-- [radiotray-lite](https://github.com/thekvs/radiotray-lite) #c++
-- [Pithos](https://pithos.github.io/) for Pandora #python
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Internet radio player providing access to the community radio station database [radio-browser.info](http://www.radio-browser.info) `#rust` `#libadwaita`.
+- [Goodvibes](https://gitlab.com/goodvibes/goodvibes) - Simple light-weight internet radio player `#c`.
+- [radiotray-lite](https://github.com/thekvs/radiotray-lite) - Online radio player with minimal interface that runs on the system tray `#c++`.
+- [Pithos](https://pithos.github.io/) - Pandora Radio client `#python`.
 
 #### Transcription
 
-- [Parlatype](https://gkarsay.github.io/parlatype/) #c
+- [Parlatype](https://gkarsay.github.io/parlatype) - Minimal audio player for manual speech transcription `#c`.
 
 #### Ambient Sounds
 
-- [Blanket](https://github.com/rafaelmardojai/blanket) #python #libadwaita
+- [Blanket](https://github.com/rafaelmardojai/blanket) - Ambient sound player/mixer with preset management and MPRIS integration `#python` `#libadwaita`.
 
 #### Soundboards
 
-- [Zap](https://gitlab.com/rmnvgr/zap) #gjs #libadwaita
+- [Zap](https://gitlab.com/rmnvgr/zap) - Sound effects soundboard and collection manager `#gjs` `#libadwaita`.
 
 ### Audio Visualizers
 
@@ -190,7 +206,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Calendar
 
-- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) #c #libadwaita #gnome 
+- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) #c #libadwaita #gnome
 
 #### To-Do Lists
 
@@ -299,7 +315,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Polo](https://github.com/teejee2008/polo) multi-pane & tab file manager #vala
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) #python
-- [Portofolio](https://github.com/tchx84/Portfolio) file manager for mobile devices #libhandy 
+- [Portofolio](https://github.com/tchx84/Portfolio) file manager for mobile devices #libhandy
 
 ### Backup
 
@@ -393,7 +409,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
 - [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust #libadwaita
 - [Swappy](https://github.com/jtheoof/swappy) quick screenshot editing for wlroots based compositors #c
-- [Pizzara](https://pizarra.categulario.tk) digital chalkboard #rust 
+- [Pizzara](https://pizarra.categulario.tk) digital chalkboard #rust
 
 ##### Photo (non-destructive editing)
 
@@ -657,7 +673,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Time Switch](https://github.com/fsobolev/timeswitch) computer shutdown timer #python #libadwaita
 
 ### Map Viewers
- 
+
 - [Atlas](https://github.com/ryonakano/atlas) #vala #libhandy #granite
 
 ### Game Launchers
