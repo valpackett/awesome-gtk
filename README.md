@@ -58,6 +58,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Zap](https://gitlab.com/rmnvgr/zap) #gjs #libadwaita
 
+### Audio Visualizers
+
+- [Cavalier](https://github.com/fsobolev/cavalier) #python #libadwaita
+
 ### Screen Recorders
 
 - [Kooha](https://github.com/SeaDve/Kooha) #rust #libadwaita
