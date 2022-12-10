@@ -17,6 +17,8 @@
     - [Radio](#radio)
     - [Transcription](#transcription)
     - [Ambient Sounds](#ambient-sounds)
+  - [Audio Workstations (DAWs)](#audio-workstations-daws)
+  - [Audio Tools](#audio-tools)
 
 ## Apps for GNOME
 
@@ -74,9 +76,21 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Zap](https://gitlab.com/rmnvgr/zap) - Sound effects soundboard and collection manager `#gjs` `#libadwaita`.
 
-### Audio Visualizers
+### Audio Workstations (DAWs)
 
-- [Cavalier](https://github.com/fsobolev/cavalier) #python #libadwaita
+- [zrythm](https://github.com/zrythm/zrythm) - DAW offering streamlined editing workflows with automation capabilities, chord assistance and support for plugins `#c++` `#libadwaita`.
+
+### Audio Tools
+
+- [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python`.
+- [Tagger](https://github.com/nlogozzo/NickvisionTagger) - Music tag (metadata) editor `#c++` `#libadwaita`.
+- [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#libadwaita`.
+- [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust`.
+- [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#granite`.
+- [Mousai](https://github.com/SeaDve/Mousai) - Song identifier based on [AudD](https://audd.io/) `#rust` `#libadwaita`.
+- [Ear Tag](https://github.com/knuxify/eartag) - Tag editor designed to edit singular files `#python` `#libadwaita`.
+- [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c`.
+- [Cavalier](https://github.com/fsobolev/cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#python` `#libadwaita`.
 
 ### Screen Recorders
 
@@ -117,21 +131,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Servers
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) Plex client #python #libadwaita
-
-### Audio Workstations (DAWs)
-
-- [zrythm](https://github.com/zrythm/zrythm) #c++ #libadwaita
-
-### Audio Tools
-
-- [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) voice changer based on sox #python
-- [Tagger](https://github.com/nlogozzo/NickvisionTagger) #c++ #libadwaita
-- [EasyEffects](https://github.com/wwmm/easyeffects) #c++ #libadwaita
-- [Myxer](https://github.com/VixenUtils/Myxer) PulseAudio volume mixer #rust
-- [Reco](https://github.com/ryonakano/reco) audio recorder #vala #granite
-- [Mousai](https://github.com/SeaDve/Mousai) song identifier #rust #libadwaita
-- [Ear Tag](https://github.com/knuxify/eartag) tag editor #python #libadwaita
-- [Asunder](https://gitlab.gnome.org/Salamandar/asunder) CD ripper and encoder #c
 
 ### Video Editors
 
