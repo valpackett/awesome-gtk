@@ -19,6 +19,13 @@
     - [Ambient Sounds](#ambient-sounds)
   - [Audio Workstations (DAWs)](#audio-workstations-daws)
   - [Audio Tools](#audio-tools)
+- [Video](#video)
+  - [Video Players](#video-players)
+  - [Live Stream Viewers](#live-stream-viewers)
+  - [Video Editors](#video-editors)
+  - [Subtitle Editors](#subtitle-editors)
+  - [Screen Recorders](#screen-recorders)
+  - [Video Tools](#video-tools)
 
 ## Apps for GNOME
 
@@ -92,10 +99,39 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c`.
 - [Cavalier](https://github.com/fsobolev/cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#python` `#libadwaita`.
 
+## Video
+
+### Video Players
+
+- [Celluloid](https://github.com/celluloid-player/celluloid) - (ex GNOME MPV) frontend for MPV `#c` `#libadwaita`.
+- [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#gjs` `#c`.
+- [Movie Monad](https://lettier.github.io/movie-monad/) - Simple video player powered by GStreamer `#haskell`.
+- [GNOME Videos](https://wiki.gnome.org/Apps/Videos) - Official GNOME desktop video player, also known as Totem `#c` `#gnome`.
+- [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust`.
+
+### Live Stream Viewers
+
+- [GNOME Twitch](https://gnome-twitch.vinszent.com) - Twitch client supporting multiple video backends and with subscription management `#c`.
+
+### Video Editors
+
+- [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python`.
+- [Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#libadwaita`.
+
+### Subtitle Editors
+
+- [Gaupol](https://otsaloma.io/gaupol) - Editor for text-based subtitle files with built-in video player `#python`.
+- [Subtitle Editor](https://kitone.github.io/subtitleeditor/) - Subtitle editor with built-in video player and text correction features `#c++`.
+
 ### Screen Recorders
 
-- [Kooha](https://github.com/SeaDve/Kooha) #rust #libadwaita
-- [RecApp](https://github.com/amikha1lov/RecApp) #python
+- [Kooha](https://github.com/SeaDve/Kooha) - Distraction-free screen recorder `#rust` `#libadwaita`.
+- [RecApp](https://github.com/amikha1lov/RecApp) - (archived) Simple screencasting application based on GStreamer `#python`.
+
+### Video Tools
+
+- [Identity](https://gitlab.gnome.org/YaLTeR/identity) - Program for comparing multiple versions of an image or video `#rust` `#libadwaita`.
+- [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust`.
 
 ### Image Viewers
 
@@ -103,39 +139,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) #rust #libadwaita
 - [vipsdisp](https://github.com/jcupitt/vipsdisp) technical image viewer #c
 
-### Video Players
-
-- [Celluloid (ex GNOME MPV)](https://github.com/celluloid-player/celluloid) #c #libadwaita
-- [Clapper](https://github.com/Rafostar/clapper) #gjs #c
-- [Movie Monad](https://github.com/lettier/movie-monad) #haskell
-- [GNOME Videos (Totem)](https://wiki.gnome.org/Apps/Videos) #c #gnome
-- [Glide](https://github.com/philn/glide) #rust
-
-#### Video Comparison
-
-- [Identity](https://gitlab.gnome.org/YaLTeR/identity) #rust #libadwaita
-
-#### Live Stream Viewers
-
-- [GNOME Twitch](https://gnome-twitch.vinszent.com) #c
-
-#### Table of Contents Editors
-
-- [media-toc](https://github.com/fengalin/media-toc) #rust
-
-#### Subtitle Editors
-
-- [Gaupol](https://otsaloma.io/gaupol/) #python
-- [Subtitle Editor](https://github.com/kitone/subtitleeditor) #c++
-
 ### Media Servers
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) Plex client #python #libadwaita
-
-### Video Editors
-
-- [Pitivi](http://www.pitivi.org/) #python
-- [Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) #rust #libadwaita
 
 ### Video Downloaders (youtube-dl)
 
