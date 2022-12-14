@@ -262,6 +262,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Flare](https://gitlab.com/Schmiddiii/flare) #rust #libadwaita
 
+#### QQ
+
+- [gtk-qq](https://github.com/lomirus/gtk-qq) #rust #libadwaita
+
 ### Web Service Clients
 
 #### Translation
