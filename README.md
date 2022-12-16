@@ -672,3 +672,4 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Dictionaries
 
 - [Wordbook](https://github.com/fushinari/Wordbook) english dictionary #python #libadwaita
+- [Diccionario de la Lengua](https://codeberg.org/rafaelmardojai/diccionario-lengua) spanish dictionary #gjs #libadwaita
