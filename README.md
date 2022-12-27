@@ -167,7 +167,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [balistica](https://github.com/steveno/balistica) ballistics calculator #vala
 - [Dippi](https://github.com/cassidyjames/dippi) display DPI calculator #vala #granite
 - [Harvey](https://github.com/danrabbit/harvey) color contrast calculator #vala
-- [Plots](https://github.com/alexhuntley/Plots) #python #opengl
+- [Plots](https://github.com/alexhuntley/Plots) #python #libadwaita #opengl
 - [Graphs](https://github.com/SjoerdB93/Graphs) plotting and data manipulation tool #python #libadwaita
 
 ### Note Taking
