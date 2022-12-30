@@ -669,6 +669,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Game Launchers
 
 - [Lutris](https://lutris.net) launcher covering most gaming systems #python
+- [Game Shelf](https://github.com/kra-mo/game-shelf) launcher with Steam library import #python #libadwaita
 
 ### Dictionaries
 
