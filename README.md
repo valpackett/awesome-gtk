@@ -24,6 +24,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ##### Streaming Service Clients
 
 - [Spot](https://github.com/xou816/spot) Spotify client #rust #libadwaita
+- [Sublime Music](https://sublimemusic.app) Subsonic-compatible servers client #python
 
 ##### MPD Clients
 
