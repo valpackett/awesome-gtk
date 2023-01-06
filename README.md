@@ -150,6 +150,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Wike](https://hugolabe.github.io/Wike) Wikipedia client #python
 - [Geopard](https://ranfdev.com/projects/geopard) Gemini web browser #rust #libadwaita
 - [Lobjur](https://github.com/ranfdev/Lobjur) lobste.rs client #gjs #libadwaita
+- [Tangram](https://github.com/sonnyp/Tangram) Browser for your pinned tabs #gjs #libadwaita
 
 ### Social Media Clients
 
