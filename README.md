@@ -160,7 +160,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
 - [Giara](https://gitlab.gnome.org/World/giara) for Reddit #python #libadwaita
 - [Headlines](https://gitlab.com/caveman250/Headlines) for Reddit #c++ #libadwaita
-- [Plausible](https://github.com/cassidyjames/plausible) wrapper (Google Analytics alternative) #vala #libadwaita
+- [Tally](https://github.com/cassidyjames/tally) Plausible Analytics (Google Analytics alternative) client #vala #libadwaita
 
 ### Calculators & Math
 
