@@ -397,7 +397,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
 - [GIMP](https://www.gimp.org/) (GTK3 in git: [master](https://gitlab.gnome.org/GNOME/gimp)) #c
 - [MyPaint](http://mypaint.org/) #python
-- [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
+- [Effector](https://notabug.org/grindhold/effector) GEGL filter app with a flow graph UI #vala
 - [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust #libadwaita
 - [Swappy](https://github.com/jtheoof/swappy) quick screenshot editing for wlroots based compositors #c
 - [Pizzara](https://pizarra.categulario.tk) digital chalkboard #rust 
