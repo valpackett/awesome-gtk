@@ -26,6 +26,16 @@
   - [Subtitle Editors](#subtitle-editors)
   - [Screen Recorders](#screen-recorders)
   - [Video Tools](#video-tools)
+- [Graphics](#graphics)
+  - [3D Graphics](#3d-graphics)
+  - [Image Viewers](#image-viewers)
+  - [Raster Graphics](#raster-graphics)
+    - [Drawing & Editing](#drawing--editing)
+    - [Photography](#photography)
+    - [Optimizers/Compressors](#optimizerscompressors)
+    - [Upscalers](#upscalers)
+  - [Technical Graphics](#technical-graphics)
+  - [Vector & Fonts](#vector--fonts)
 
 ## Apps for GNOME
 
@@ -134,11 +144,66 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Identity](https://gitlab.gnome.org/YaLTeR/identity) - Program for comparing multiple versions of an image or video `#rust` `#libadwaita`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust`.
 
+## Graphics
+
+### 3D Graphics
+
+- [Shady](https://github.com/misterdanb/shady) - [Shadertoy](https://github.com/misterdanb/shady/blob/master/Shadertoy.com) compatible GLSL shader live editor `#vala`.
+
 ### Image Viewers
 
-- [Image Roll](https://github.com/weclaw1/image-roll) #rust
-- [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) #rust #libadwaita
-- [vipsdisp](https://github.com/jcupitt/vipsdisp) technical image viewer #c
+- [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust`.
+- [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) - Simple image viewer `#rust` `#libadwaita`.
+- [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c`.
+
+### Raster Graphics
+
+#### Converters
+
+- [Converter](https://gitlab.com/adhami3310/Converter) - [ImageMagick](https://imagemagick.org) frontend `#python` `#libadwaita`.
+
+#### Drawing & Editing
+
+- [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python`.
+- [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala`.
+- [GIMP](https://www.gimp.or/) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c`.
+- [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python`.
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) - Private information censoring tool `#rust` `#libadwaita`.
+- [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c`.
+
+#### GIF
+
+- [Gifcurry](https://lettier.github.io/gifcurry) - GIF editor and video-to-GIF converter application `#haskell`.
+- [Gifup](https://github.com/BharatKalluri/Gifup) - Video-to-GIF converter `#vala` `#granite`.
+
+#### Optimizers/Compressors
+
+- [Curtail](https://github.com/Huluti/Curtail) - Image compressor with support for PNG, JPEG and WebP images `#python`.
+- [Refract](https://github.com/Blobfolio/refract) - *Guided* image optimization for JPEGs and PNGs producing WebP, AVIF and JPEG XL clones `#rust`.
+
+#### Photography
+
+- [Darktable](https://www.darktable.org) - Photography workflow application and raw developper `#c`.
+- [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++`.
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Personal photo manager with editing features `#vala` `#gnome`.
+
+#### Upscalers
+
+- [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image upscaler based on [Real-ESRGAN ncnn Vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) `#python` `#libadwaita`.
+
+### Technical Graphics
+
+- [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
+- [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gl`.
+- [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gl`.
+
+### Vector & Fonts
+
+- [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala`.
+- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#libhandy`.
+- [Inkscape](https://inkscape.org) - General vector graphics editor using GTK since version 1.0 `#c++`.
+- [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#libadwaita`.
+- [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Utility to create web font-face kits `#python` `#libadwaita`.
 
 ### Media Servers
 
@@ -381,65 +446,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Crypto](https://github.com/ErikWallstrom/Crypto) #c
 
 *Warning: cryptocurrency is [bad](https://www.reddit.com/r/Buttcoin/)*
-
-### Graphics
-
-#### 3D
-
-- [Shady](https://github.com/misterdanb/shady) shadertoy compatible GLSL live editor #vala
-
-#### Vector
-
-- [Inkscape](https://inkscape.org/en/) (GTK3 since 1.0) #c++
-
-##### Font
-
-- [Birdfont](https://github.com/johanmattssonm/birdfont) #vala
-- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) #python #libhandy
-- [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) #python #libadwaita
-
-##### CAD/EDA
-
-- [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
-- [Horizon](https://github.com/horizon-eda/horizon) printed circuit board PCB design #c++ #gl
-
-##### Diagramming
-
-- [Gaphor](https://gaphor.org) UML/SysML modeling application #python
-
-#### Raster
-
-- [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
-- [GIMP](https://www.gimp.org/) (GTK3 in git: [master](https://gitlab.gnome.org/GNOME/gimp)) #c
-- [MyPaint](http://mypaint.org/) #python
-- [Effector](https://github.com/grindhold/effector) GEGL filter app with a flow graph UI #vala
-- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust #libadwaita
-- [Swappy](https://github.com/jtheoof/swappy) quick screenshot editing for wlroots based compositors #c
-- [Pizzara](https://pizarra.categulario.tk) digital chalkboard #rust
-
-##### Photo (non-destructive editing)
-
-- [Darktable](https://www.darktable.org/) #c
-- [RawTherapee](http://rawtherapee.com/) #c++
-- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) #vala #gnome
-
-##### GIF
-
-- [gifcurry](https://github.com/lettier/gifcurry) #haskell
-- [Gifup](https://github.com/BharatKalluri/Gifup) #vala #granite
-
-##### Optimizers/Compressors
-
-- [Curtail](https://github.com/Huluti/Curtail) with optipng, pngquant, jpegoptim #python
-- [Refract](https://github.com/Blobfolio/refract) *guided* optimization for WebP, AVIF and JPEG XL #rust
-
-##### Upscaling
-
-- [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) Real-ESRGAN ncnn Vulkan front-end #python #libadwaita
-
-##### Converters
-
-- [Converter](https://gitlab.com/adhami3310/Converter) ImageMagick frontend #python #libadwaita
 
 ### Design Utilities
 
