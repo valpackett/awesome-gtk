@@ -205,6 +205,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#libadwaita`.
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Utility to create web font-face kits `#python` `#libadwaita`.
 
+---
+
 ### Media Servers
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) Plex client #python #libadwaita
