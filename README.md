@@ -387,6 +387,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
 - [Horizon](https://github.com/horizon-eda/horizon) printed circuit board PCB design #c++ #gl
+- [Design](https://github.com/dubstar-04/Design) 2D CAD application #gjs #libadwaita
 
 ##### Diagramming
 
