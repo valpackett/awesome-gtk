@@ -436,6 +436,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Emulsion](https://github.com/lainsce/emulsion) color palettes #vala #libadwaita
 - [Eyedropper](https://github.com/FineFindus/eyedropper) color picker and formatter #rust #libadwaita
 - [Emblem](https://gitlab.gnome.org/World/design/emblem) project avatars generator #rust #libadwaita
+- [Schemes](https://gitlab.gnome.org/chergert/schemes) `GtkSourceView` style-schemes editor #c #libadwaita
 
 ### Terminals
 
