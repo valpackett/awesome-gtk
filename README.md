@@ -73,6 +73,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Image Roll](https://github.com/weclaw1/image-roll) #rust
 - [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) #rust #libadwaita
 - [vipsdisp](https://github.com/jcupitt/vipsdisp) technical image viewer #c
+- [Focus Annotator](https://github.com/13hannes11/focus_annotator) tool to annotate the focus plane of z-stacked images #rust #libadwaita
 
 ### Video Players
 
