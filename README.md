@@ -297,6 +297,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### File Synchronization
 
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) UI for [Syncthing](https://syncthing.net/) #python
+- [Celeste](https://github.com/hwittenborn/celeste) GUI file synchronization client that can sync with any cloud provider #rust #libadwaita
 
 ### Remote File Access
 
