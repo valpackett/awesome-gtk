@@ -440,6 +440,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Eyedropper](https://github.com/FineFindus/eyedropper) color picker and formatter #rust #libadwaita
 - [Emblem](https://gitlab.gnome.org/World/design/emblem) project avatars generator #rust #libadwaita
 - [Schemes](https://gitlab.gnome.org/chergert/schemes) `GtkSourceView` style-schemes editor #c #libadwaita
+- [Paleta](https://github.com/nate-xyz/paleta) image dominant color extractor #python #libadwaita
 
 ### Terminals
 
