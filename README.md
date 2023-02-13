@@ -193,7 +193,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Technical Graphics
 
-- [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support.
+- [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#libadwaita`.
 - [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#libadwaita`.
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gl`.
