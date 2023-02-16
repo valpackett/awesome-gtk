@@ -49,6 +49,16 @@
   - [Social Media Clients](#social-media-clients)
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
+- [Office](#office)
+  - [Book Readers](#book-readers)
+  - [Calculators & Math](#calculators--math)
+  - [Calendar](#calendar)
+  - [Document Managers](#document-managers)
+  - [Document Viewers](#document-viewers)
+  - [Note-taking](#note-taking)
+  - [OCR](#ocr)
+  - [PDF Tools](#pdf-tools)
+  - [Presentation](#presentation)
 
 ## Apps for GNOME
 
@@ -239,7 +249,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Chat and VoIP
 
-- [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#libadwaita`
+- [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#libadwaita`.
 - [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python`.
 - [Flare](https://gitlab.com/Schmiddiii/flare) - Signal client `#rust` `#libadwaita`.
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal) - Matrix client for the GNOME desktop `#rust` `#libadwaita`.
@@ -308,47 +318,75 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 [webkit]: https://webkit.org
 
-## TODO
+## Office
 
 ### Book Readers
 
-- [Foliate](https://github.com/johnfactotum/foliate) #gjs #libhandy
-- [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
-- [Komikku](https://gitlab.com/valos/Komikku) manga reader #python #libadwaita
+- [Bookworm](https://babluboy.github.io/bookworm) - Simple eBook reader for elementary OS `#vala` `#granite`.
+- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader based on [Epub.js](https://github.com/futurepress/epub.js) `#gjs` `#libhandy`.
+- [Komikku](https://valos.gitlab.io/Komikku) - Manga reader for the GNOME desktop with online and offline reading `#python` `#libadwaita`.
 
 ### Calculators & Math
 
-- [NaSC](https://github.com/parnold-x/nasc) dual pane text based calculator (like Soulver) #vala
-- [Qalculate! GTK+](https://qalculate.github.io) #c++
-- [balistica](https://github.com/steveno/balistica) ballistics calculator #vala
-- [Dippi](https://github.com/cassidyjames/dippi) display DPI calculator #vala #granite
-- [Harvey](https://github.com/danrabbit/harvey) color contrast calculator #vala
-- [Plots](https://github.com/alexhuntley/Plots) #python #opengl
+- [balistica](https://github.com/fusilero/balistica) - Exterior ballistics calculator `#vala`.
+- [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#libadwaita`.
+- [Graphs](https://github.com/SjoerdB93/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#libadwaita`.
+- [NaSC](http://parnold-x.github.io/nasc) - Dual pane text based calculator `#vala`.
+- [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#opengl`.
+- [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++`.
+- [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c`.
 
-### Note Taking
+### Calendar
 
-- [GNOME Notes (Bijiben)](https://wiki.gnome.org/Apps/Notes) #c #gnome
-- [Gnote](https://wiki.gnome.org/Apps/Gnote) Tomboy port #c++ #gnome
-- [Notejot](https://github.com/lainsce/notejot) sticky notes #vala #granite
-- [Notes-up](https://github.com/Philip-Scott/Notes-up) #vala #granite
-- [Xournal++](https://github.com/xournalpp/xournalpp) handwriting notebook (with tablet pressure) #c++
-- [Rnote](https://github.com/flxzt/rnote) handwriting notebook (with tablet pressure) #rust #libadwaita
-- [Notekit](https://github.com/blackhole89/notekit/) hierarchical markdown notetaking application with tablet support #c++
-- [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) desktop wiki editor #python
-- [Iridium](https://github.com/matze/iridium) Standard Notes client #rust
-- [Notes](https://github.com/Blquinn/notes) #vala #libadwaita
-- [Notorious](https://gitlab.gnome.org/GabMus/notorious) Notational Velocity / nvALT style UI #python #libhandy
-- [Noteworthy](https://github.com/SeaDve/Noteworthy) #rust #libadwaita
+- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) - Simple calendar for the GNOME desktop `#c` `#libadwaita` `#gnome`.
 
-#### Journal/Diary
+### Document Managers
 
-- [RedNotebook](https://rednotebook.sourceforge.io/) #python
+- [GNOME Documents](https://wiki.gnome.org/Apps/Documents) - (archived) Document manager for the GNOME desktop with collection features `#gjs`.
+- [Paperwork](https://openpaper.work) - Document manager with scan features `#python`.
 
-#### Calendar
+### Document Viewers
 
-- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) #c #libadwaita #gnome
+- [Xreader](https://github.com/linuxmint/xreader) - Generic document viewer with support for PDF, Postscript, djvu, comics and more `#c` `#xapps`.
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, djvu, comics etc. and SyncTex support with gedit `#c` `#libhandy` `#gnome`.
 
-#### To-Do Lists
+### Note-taking
+
+- [GNOME Notes](https://wiki.gnome.org/Apps/Notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gnome`.
+- [Gnote](https://wiki.gnome.org/Apps/Gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gnome`.
+- [Iridium](https://github.com/matze/iridium) - [Standard Notes](https://standardnotes.org) local-first client `#rust`.
+- [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#granite`.
+- [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++`.
+- [Notes](https://github.com/Blquinn/notes) - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#libadwaita`.
+- [Notes-Up](https://github.com/Philip-Scott/Notes-up) - Markdown note manager for elementary OS `#vala` `#granite`.
+- [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, fast, and version-controlled Markdown notes application `#rust` `#libadwaita`.
+- [Notorious](https://gitlab.gnome.org/GabMus/notorious) - Keyboard-centric notes application `#python` `#libhandy`.
+- [RedNotebook](https://rednotebook.sourceforge.io) - Desktop journal application that lets you format, tag and search your entries `#python`.
+- [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#libadwaita`.
+- [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++`.
+- [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python`.
+
+### OCR
+
+- [gImageView](https://github.com/manisandro/gImageReader) - GTK/Qt front-end to [Tesseract] `#c++`.
+- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Easy to use OCR application based on [Tesseract] `#vala` `#granite`.
+
+[tesseract]: https://github.com/tesseract-ocr/tesseract
+
+### PDF Tools
+
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor with merging, splitting, rotating, cropping and rearranging based on [pikepdf](https://github.com/pikepdf/pikepdf) `#python`.
+- [PDF Slicer](https://junrrein.github.io/pdfslicer) - Simple application to extract, merge, rotate and reorder pages of PDF documents with undo/redo support `#c++`.
+
+### Presentation
+
+- [pdfpc](https://pdfpc.github.io) - Presentation console with multi-monitor support for PDF files `#vala`.
+- [Pympress](https://github.com/Cimbali/pympress) - Presentation tool designed for dual-screen setups such as presentations and public talks `#python`.
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) - Web presentation editor `#vala` `#granite`.
+
+## TODO
+
+### To-Do Lists
 
 - [Yishu](https://github.com/lainsce/yishu) (archived) todo.txt based #vala #granite #libhandy
 - [Effitask](https://github.com/sanpii/effitask) todo.txt based #rust
@@ -407,41 +445,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) #vala #libadwaita
 - [Butter](https://github.com/zhangyuannie/butter) Btrfs snapshot manager #rust #libadwaita
 
-### Office
-
-#### Spreadsheet Editors
-
-- [Gnumeric](http://www.gnumeric.org) #c
-
-#### Presentation Editors
-
-- [Spice-up](https://github.com/Philip-Scott/Spice-up) #vala #granite
-
-#### Presentation Viewers
-
-- [pdfpc](https://github.com/pdfpc/pdfpc) #vala
-- [Pympress](https://github.com/Cimbali/pympress) #python
-
-#### OCR
-
-- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) An easy to use OCR app based on Tesseract engine #vala #granite
-- [gImageView](https://github.com/manisandro/gImageReader) UI for tesseract #c++
-
-#### Document Viewers
-
-- [Xreader](https://github.com/linuxmint/xreader) PDF, Postscript, Linux Mint #c #xapps
-- [Evince](https://gitlab.gnome.org/GNOME/evince) PDF, Postscript, etc. #c #libhandy #gnome
-
-#### PDF Tools
-
-- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) #python
-- [PDF Slicer](https://github.com/junrrein/pdfslicer) #c++
-
-#### Document Managers
-
-- [Paperwork](https://openpaper.work) #python
-- [GNOME Documents](https://wiki.gnome.org/Apps/Documents) #gjs
-
 ### Finance
 
 #### Budget and Accounting Managers
@@ -467,6 +470,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Icon Library](https://gitlab.gnome.org/World/design/icon-library) #rust libadwaita
 - [Emulsion](https://github.com/lainsce/emulsion) color palettes #vala #libadwaita
 - [Eyedropper](https://github.com/FineFindus/eyedropper) color picker and formatter #rust #libadwaita
+- [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala`.
 
 ### Terminals
 
