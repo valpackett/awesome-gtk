@@ -196,7 +196,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Photography
 
-- [Darktable](https://www.darktable.org) - Photography workflow application and raw developper `#c`.
+- [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c`.
 - [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++`.
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Personal photo manager with editing features `#vala` `#gnome`.
 
