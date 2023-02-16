@@ -40,6 +40,15 @@
   - [Media Downloaders](#media-downloaders)
   - [Media Encoders](#media-encoders)
   - [Media Servers](#media-servers)
+- [Internet and Networking](#internet-and-networking)
+  - [Chat and VoIP](#chat-and-voip)
+  - [Email](#email)
+  - [File Sharing](#file-sharing)
+  - [Network Monitoring](#network-monitoring)
+  - [News/Feed Readers](#newsfeed-readers)
+  - [Social Media Clients](#social-media-clients)
+  - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
+  - [Web Browsers](#web-browsers)
 
 ## Apps for GNOME
 
@@ -226,36 +235,86 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#libadwaita`.
 
----
+## Internet and Networking
+
+### Chat and VoIP
+
+- [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#libadwaita`
+- [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python`.
+- [Flare](https://gitlab.com/Schmiddiii/flare) - Signal client `#rust` `#libadwaita`.
+- [Fractal](https://gitlab.gnome.org/GNOME/fractal) - Matrix client for the GNOME desktop `#rust` `#libadwaita`.
+- [Gajim](https://gajim.org) - Fully-featured XMPP client `#python`.
+- [gtkcord4](https://github.com/diamondburned/gtkcord4) - Discord client written in `#go`.
+- [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#libadwaita`.
+- [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#libadwaita`.
+- [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client `#gjs` `#gnome`.
+- [Telegrand](https://github.com/melix99/telegrand) - Telegram client for the GNOME desktop `#rust` `#libadwaita`.
+- [Srain](https://srain.silverrainz.me) - Modern IRC client `#c`.
+
+### Email
+
+- [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++`.
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Email application for the GNOME desktop build around conversations `#vala` `#gnome` `#libhandy`.
+- [Evolution](https://wiki.gnome.org/Apps/Evolution) - Personal information management application that provides integrated mail, calendaring and address book functionality `#c` `#gnome`.
+
+### File Sharing
+
+- [Deluge](https://deluge-torrent.org) - BitTorrent client available for Linux, macOS and Windows `#python`.
+- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client built on top of Transmission `#rust` `#libadwaita`.
+- [Nicotine+](https://nicotine-plus.org) - Graphical client for the [Soulseek](https://www.slsknet.org) peer-to-peer network `#python`.
+- [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c`.
+- [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c`.
+- [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#granite`.
+- [Warp](https://gitlab.gnome.org/World/warp) based on [magic-wormhole] #rust #libadwaita
+- [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
+
+[magic-wormhole]: https://github.com/warner/magic-wormhole
+
+### Network Monitoring
+
+- [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust`.
+
+### News/Feed Readers
+
+- [Coffee](https://nick92.github.io/coffee) - News and weather reader for sources provided by News API and DarkSky `#vala`.
+- [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#libadwaita`.
+- [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c`.
+- [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#libadwaita`.
+
+### Social Media Clients
+
+- [Cawbird](https://github.com/IBBoard/cawbird) - (archived) Fork of the [Corebird](https://github.com/baedert/corebird) client for Twitter discontinued from January 2023 `#vala`.
+- [Giara](https://gitlab.gnome.org/World/giara) - Reddit fronted created with Linux in mind `#python` `#libadwaita`.
+- [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit client `#c++` `#libadwaita`.
+- [NewCaw](https://github.com/CodedOre/NewCaw) - Rewrite of Cawbird as a Mastodon client `#vala` `#libadwaita`.
+- [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust`.
+- [Tootle](https://gitlab.gnome.org/World/tootle) - Mastodon client `#vala` `#libadwaita`.
+- [Tooth](https://github.com/GeopJr/Tooth) - Mastodon client fork of Tootle `#vala` `#libadwaita`.
+
+### Specialized Web Browsers / Wrappers
+
+- [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#libadwaita`.
+- [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#granite`.
+- [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#libadwaita`.
+- [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#libadwaita`.
+- [Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs `#gjs` `#libadwaita`.
+- [Wike](https://hugolabe.github.io/Wike) - Wikipedia client `#python`.
+
+### Web Browsers
+
+- [Eolie](https://wiki.gnome.org/Apps/Eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#libhandy`.
+- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c` `#gnome` `#libadwaita`.
+- [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#lua`.
+
+[webkit]: https://webkit.org
+
+## TODO
 
 ### Book Readers
 
 - [Foliate](https://github.com/johnfactotum/foliate) #gjs #libhandy
 - [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
 - [Komikku](https://gitlab.com/valos/Komikku) manga reader #python #libadwaita
-
-### Web Browsers
-
-- [Eolie](https://wiki.gnome.org/Apps/Eolie) #python
-- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome #libhandy
-- [luakit](https://luakit.github.io/) #c #lua
-
-#### Specialized Web Browsers / Wrappers
-
-- [hackup](https://github.com/mdh34/hackup) Hacker News client #vala #granite
-- [Wike](https://hugolabe.github.io/Wike) Wikipedia client #python
-- [Geopard](https://ranfdev.com/projects/geopard) Gemini web browser #rust #libadwaita
-- [Lobjur](https://github.com/ranfdev/Lobjur) lobste.rs client #gjs #libadwaita
-
-### Social Media Clients
-
-- [Cawbird](https://github.com/IBBoard/cawbird) (working fork of [Corebird](https://corebird.baedert.org/)) for Twitter #vala
-- [Tootle](https://github.com/bleakgrey/tootle) for Mastodon (archived) #vala #libadwaita
-- [Tooth](https://github.com/GeopJr/Tooth) for Mastodon (Tootle fork) #vala #libadwaita
-- [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
-- [Giara](https://gitlab.gnome.org/World/giara) for Reddit #python #libadwaita
-- [Headlines](https://gitlab.com/caveman250/Headlines) for Reddit #c++ #libadwaita
-- [Plausible](https://github.com/cassidyjames/plausible) wrapper (Google Analytics alternative) #vala #libadwaita
 
 ### Calculators & Math
 
@@ -319,70 +378,12 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Retro](https://github.com/sonnyp/Retro) customizable digital clock #gjs
 - [Timer](https://github.com/vikdevelop/timer) #python #libadwaita
 
-### Email
-
-- [Geary](https://wiki.gnome.org/Apps/Geary) #vala #gnome #libhandy
-- [Evolution](https://wiki.gnome.org/Apps/Evolution) #c #gnome
-- [Astroid](https://astroidmail.github.io/) for [notmuch](https://notmuchmail.org/) #c++
-
-### Chat and VoIP
-
-#### Matrix
-
-- [Fractal](https://gitlab.gnome.org/GNOME/fractal) #rust #libadwaita
-
-#### Jabber/XMPP
-
-- [Dino](https://dino.im/) #vala
-- [Gajim](https://gajim.org/) #python
-
-#### IRC
-
-- [Polari](https://wiki.gnome.org/Apps/Polari/) #gjs #gnome
-- [Srain](https://srain.silverrainz.me/) #c
-
-#### Discord
-
-- [gtkcord4](https://github.com/diamondburned/gtkcord4) #go
-- [Discover](https://github.com/trigg/Discover) Discord overlay #python
-- [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) #python
-
-#### Video Conference
-
-- [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) using BigBlueButton in the background #vala #libadwaita
-
-#### Telegram
-
-- [Telegrand](https://github.com/melix99/telegrand) #rust #libadwaita
-
-#### Signal
-
-- [Flare](https://gitlab.com/Schmiddiii/flare) #rust #libadwaita
 
 ### Web Service Clients
 
 #### Translation
 
 - [Dialect](https://github.com/gi-lom/dialect) (Google Translate) #python #libadwaita
-
-### File Sharing
-
-#### Direct ("beam") Senders/Receivers
-
-- [Transporter](https://github.com/bleakgrey/Transporter) based on [magic-wormhole](https://github.com/warner/magic-wormhole) #vala #granite
-- [Teleport](https://gitlab.gnome.org/jsparber/teleport) based on Avahi (mDNS) #c
-- [Warp](https://gitlab.gnome.org/World/warp) based on [magic-wormhole](https://github.com/warner/magic-wormhole) #rust #libadwaita
-
-#### BitTorrent Clients
-
-- [Transmission](https://transmissionbt.com/) #c
-- [Fragments](https://gitlab.gnome.org/World/Fragments) uses embedded or remote Transmission daemon #rust #libadwaita
-- [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
-- [Deluge](https://deluge-torrent.org) #python
-
-#### Soulseek Clients
-
-- [Nicotine+](https://nicotine-plus.org/) #python
 
 ### File Synchronization
 
@@ -627,10 +628,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) NVIDIA card monitoring and fan/OC controlling #python
 - [GNOME Logs](https://wiki.gnome.org/Apps/Logs) systemd logs viewer #gnome #c #libadwaita
 
-### Network Monitoring / Traffic Analysis
-
-- [Hotwire](https://github.com/emmanueltouzery/hotwire) high level view of tcpdump for specific protocols #rust
-
 #### Disk Usage Explorers
 
 - [GNOME Disk Usage Analyzer (Baobab)](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) DaisyDisk style circle chart #vala #gnome
@@ -655,13 +652,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Nix Software Center](https://github.com/vlinkz/nix-software-center) #rust #libadwaita
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) Proton version manager #vala #libadwaita
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer #python #libadwaita
-
-### News/Feed Readers
-
-- [Feeds](https://gitlab.gnome.org/World/gfeeds) #python
-- [Liferea](https://lzone.de/liferea/) #c
-- [Coffee](https://github.com/nick92/coffee) #vala
-- [News Flash](https://gitlab.com/news-flash/news_flash_gtk) #rust #libhandy
 
 ### Weather Viewers
 
