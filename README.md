@@ -36,6 +36,10 @@
     - [Upscalers](#upscalers)
   - [Technical Graphics](#technical-graphics)
   - [Vector & Fonts](#vector--fonts)
+- [Multimedia](#multimedia)
+  - [Media Downloaders](#media-downloaders)
+  - [Media Encoders](#media-encoders)
+  - [Media Servers](#media-servers)
 
 ## Apps for GNOME
 
@@ -207,20 +211,22 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#libadwaita`.
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Utility to create web font-face kits `#python` `#libadwaita`.
 
----
+## Multimedia
 
-### Media Servers
+### Media Downloaders
 
-- [Girens](https://gitlab.gnome.org/tijder/girens) Plex client #python #libadwaita
-
-### Video Downloaders (youtube-dl)
-
-- [gydl](https://github.com/JannikHv/gydl) #python
-- [Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) #c++ #libadwaita
+- [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://youtube-dl.org) `#python`.
+- [Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#c++`  `#libadwaita`.
 
 ### Media Encoders
 
-- [Selene](https://github.com/teejee2008/selene) #vala
+- [Selene](https://github.com/teejee2008/selene) - Audio/video converter for audio and videos files that can encode them to popular output formats like MKV and MP4 `#vala`.
+
+### Media Servers
+
+- [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#libadwaita`.
+
+---
 
 ### Book Readers
 
