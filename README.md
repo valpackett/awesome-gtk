@@ -425,6 +425,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust`.
 - [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) emoji picker #gnome #c #libadwaita
 - [Random](https://random.amongtech.cc) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
+- [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust`.
+- [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust`.
 - [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementaryOS `#vala` `#granite`.
 
 ### Mind-mapping
@@ -650,10 +652,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GNOME MultiWriter](https://wiki.gnome.org/Apps/MultiWriter) for SD/USB #c #gnome
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) for CD/DVD #c #gnome
 
-### File Renaming
-
-- [Szyszka](https://github.com/qarmin/szyszka) #rust
-- [tv-renamer](https://github.com/mmstick/tv-renamer) #rust
 
 ### System and File Cleaning
 
