@@ -101,6 +101,7 @@
   - [System Configuration](#system-configuration)
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
+- [Gaming](#gaming)
 
 ## Apps for GNOME
 
@@ -703,7 +704,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Time Switch](https://github.com/fsobolev/timeswitch) - Computer shutdown timer `#python` `#libadwaita`.
 
-## TODO
+## Gaming
+
+- [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
+- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam library import `#python` `#libadwaita`.
 
 ### Weather Viewers
 
@@ -719,7 +723,3 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Map Viewers
 
 - [Atlas](https://github.com/ryonakano/atlas) #vala #libhandy #granite
-
-### Game Launchers
-
-- [Lutris](https://lutris.net) launcher covering most gaming systems #python
