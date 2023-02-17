@@ -95,6 +95,12 @@
   - [File Management](#file-management)
   - [File Synchronisation](#file-synchronisation)
   - [Remote File Access](#remote-file-access)
+- [System Management](#system-management)
+  - [Software Installation](#software-installation)
+  - [System and File Cleaning](#system-and-file-cleaning)
+  - [System Configuration](#system-configuration)
+  - [System Monitoring and Info](#system-monitoring-and-info)
+  - [Task Scheduling](#task-scheduling)
 
 ## Apps for GNOME
 
@@ -655,49 +661,49 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Taxi](https://github.com/Alecaddd/taxi) - FTP client that also supports SFTP, WebDAV and AFP `#vala` `#granite`.
 
-## TODO
+## System Management
 
-### SSH
+### Software Installation
 
-- [EasySSH](https://github.com/muriloventuroso/easyssh) connection manager #vala
+- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer `#python` `#libadwaita`.
+- [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#libadwaita`.
+- [mlinstall](https://petabyt.github.io/mlinstall) - USB Magic Lantern installer `#python`.
+- [Parceldude](https://notabug.org/grindhold/parceldude) - Batch installer for Windows MSI packages `#vala`.
+- [Pin It!](https://github.com/ryonakano/pinit) - Portable applications shortcut creator `#vala` `#libadwaita`.
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#libadwaita`.
+- [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#granite`.
+- [Nix Software Center](https://github.com/vlinkz/nix-software-center) - Software center to easity install and manage Nix packages `#rust` `#libadwaita`.
 
 ### System and File Cleaning
 
-- [BleachBit](https://www.bleachbit.org/) #python
-- [Czkawka](https://github.com/qarmin/czkawka) #rust
-
-### System Monitoring and Info
-
-- [GNOME Usage](https://wiki.gnome.org/Apps/Usage) #vala #gnome
-- [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
-- [sysctlview](https://gitlab.com/alfix/sysctlview) FreeBSD sysctl MIB tree explorer #c++
-- [GreenWithEnvy](https://gitlab.com/leinardi/gwe) NVIDIA card monitoring and fan/OC controlling #python
-- [GNOME Logs](https://wiki.gnome.org/Apps/Logs) systemd logs viewer #gnome #c #libadwaita
-
-#### Disk Usage Explorers
-
-- [GNOME Disk Usage Analyzer (Baobab)](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) DaisyDisk style circle chart #vala #gnome
+- [Czkawka](https://github.com/qarmin/czkawka) - Cross-platform, simple and fast application to remove unnecessary files from your computer `#rust`.
+- [BleachBit](https://www.bleachbit.org) - Cross-platform Disk space cleaner and system optimizer `#python`.
 
 ### System Configuration
 
-- [pulse-flow](https://github.com/benwaffle/pulse-flow) PulseAudio config tool with a flow graph UI #vala
-- [doppler](https://github.com/spacekookie/doppler) Redshift (f.lux / night light style screen color filter thingy) UI #rust
-- [Flatseal](https://github.com/tchx84/Flatseal) Flatpak permission manager #gjs #libandy
-- [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) GDM settings manager #python #libadwaita
-- [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) GNOME Shell configuration utility #gjs #libadwaita
-- [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) #rust #libadwaita
-- [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) #libadwaita #python
+- [doppler](https://github.com/spacekookie/doppler) - Fronted for Redshift allowing to configure different display temperatures for each time of day `#rust`.
+- [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#libadwaita`.
+- [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala`.
+- [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#libandy`.
+- [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings) - GNOME's Login Manager (GDM) settings manager `#python` `#libadwaita`.
+- [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#libadwaita`.
+- [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala`.
+- [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#libadwaita`.
 
-### Installation
+### System Monitoring and Info
 
-- [Parceldude](https://notabug.org/grindhold/parceldude) batch installer for Windows MSI packages #vala
-- [Turtle](https://tenderowl.com/work/turtle) `.deskop` files creation tool #python #granite
-- [mlinstall](https://petabyt.github.io/mlinstall) Magic Lantern installer #python
-- [Pin It!](https://github.com/ryonakano/pinit) portable apps shortcut creator #vala #libadwaita
-- [Extension Manager](https://github.com/mjakeman/extension-manager) for GNOME Shell #c #libadwaita
-- [Nix Software Center](https://github.com/vlinkz/nix-software-center) #rust #libadwaita
-- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) Proton version manager #vala #libadwaita
-- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer #python #libadwaita
+- [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c`.
+- [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gnome`.
+- [GNOME Logs](https://wiki.gnome.org/Apps/Logs) - systemd logs viewer `#c` `#gnome` `#libadwaita`.
+- [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System ressources monitoring for the GNOME desktop `#vala` `#gnome`.
+- [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
+- [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
+
+### Task Scheduling
+
+- [Time Switch](https://github.com/fsobolev/timeswitch) - Computer shutdown timer `#python` `#libadwaita`.
+
+## TODO
 
 ### Weather Viewers
 
@@ -709,10 +715,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Health & Fitness
 
 - [Health](https://gitlab.gnome.org/World/Health) currently supports Google Fit #rust #libadwaita
-
-### Task scheduling
-
-- [Time Switch](https://github.com/fsobolev/timeswitch) computer shutdown timer #python #libadwaita
 
 ### Map Viewers
 
