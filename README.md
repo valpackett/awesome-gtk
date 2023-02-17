@@ -59,6 +59,7 @@
   - [OCR](#ocr)
   - [PDF Tools](#pdf-tools)
   - [Presentation](#presentation)
+  - [Translation](#translation)
 - [Productivity](#productivity)
   - [Desktop Productivity](#desktop-productivity)
   - [Mind-mapping](#mind-mapping)
@@ -417,6 +418,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pympress](https://github.com/Cimbali/pympress) - Presentation tool designed for dual-screen setups such as presentations and public talks `#python`.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - Web presentation editor `#vala` `#granite`.
 
+### Translation
+
+- [Dialect](https://github.com/gi-lom/dialect) - Translation based on Google Translate and LibreTranslate `#python` `#libadwaita`.
+
 ## Productivity
 
 ### Desktop Productivity
@@ -601,12 +606,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#libadwaita`.
 
 ## TODO
-
-### Web Service Clients
-
-#### Translation
-
-- [Dialect](https://github.com/gi-lom/dialect) (Google Translate) #python #libadwaita
 
 ### File Synchronization
 
