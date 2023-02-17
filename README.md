@@ -70,6 +70,21 @@
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
   - [Exchange Rate Viewers](#exchange-rate-viewers)
+- [Development](#development)
+  - [Containers](#containers)
+  - [Documentation](#documentation)
+  - [Hex Editors](#hex-editors)
+  - [IDEs](#ides)
+    - [Featureful IDEs](#featureful-ides)
+    - [Neovim GUIs](#neovim-guis)
+    - [Simple Editors and Light IDEs](#simple-editors-and-light-ides)
+    - [Xi GUIs](#xi-guis)
+  - [Markdown](#markdown)
+  - [LaTeX](#latex)
+  - [Terminals](#terminals)
+  - [Text Processing](#text-processing)
+  - [UI Design](#ui-design)
+  - [Version Control and Diffs](#version-control-and-diffs)
 - [Design](#design)
 
 ## Apps for GNOME
@@ -231,8 +246,12 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#libadwaita`.
 - [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#libadwaita`.
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
+- [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gl`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gl`.
+- [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in [Graphviz] `#python`.
+
+[graphviz]: https://www.graphviz.org
 
 ### Vector & Fonts
 
@@ -373,6 +392,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Notes-Up](https://github.com/Philip-Scott/Notes-up) - Markdown note manager for elementary OS `#vala` `#granite`.
 - [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, fast, and version-controlled Markdown notes application `#rust` `#libadwaita`.
 - [Notorious](https://gitlab.gnome.org/GabMus/notorious) - Keyboard-centric notes application `#python` `#libhandy`.
+- [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#libadwaita`.
 - [RedNotebook](https://rednotebook.sourceforge.io) - Desktop journal application that lets you format, tag and search your entries `#python`.
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++`.
@@ -470,6 +490,103 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#libhandy`.
 
+## Development
+
+### Containers
+
+- [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#libadwaita`.
+- [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager `#python` `#libadwaita`.
+- [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#libadwaita`.
+- [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#libadwaita`.
+
+### Documentation
+
+- [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) - [DevDocs] browser and viewer `#python`.
+- [quickDocs](https://github.com/mdh34/quickDocs) - Documentation browser for [DevDocs] and Valadoc `#vala` `#granite`.
+
+[devdocs]: https://devdocs.io 
+
+### Hex Editors
+
+- [GHex](https://wiki.gnome.org/Apps/Ghex) - Tool to load data from any file, view and edit it in either hex or ASCII `#c` `#libadwaita` `#gnome`.
+
+### IDEs
+
+#### Featureful IDEs
+
+- [Anjuta](https://wiki.gnome.org/Apps/Anjuta) - (archived) IDE with a GUI designer for the GNOME desktop `#c` `#gnome`.
+- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Tool to help you write and contribute to great GNOME-based applications `#c` `#libadwaita` `#gnome`.
+- [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) - GTK-based IDE for Julia `#julia`.
+- [Playhouse](https://github.com/sonnyp/Playhouse) - Playground for HTML/CSS/JavaScript `#gjs` `#libadwaita`.
+- [Valama](https://github.com/Valama/valama) - Vala IDE `#vala`.
+- [Workbench](https://apps.gnome.org/app/re.sonny.Workbench) - Tool to experiment with GNOME technologies `#gjs` `#libadwaita`.
+
+#### Neovim GUIs
+
+- [GNvim](https://github.com/vhakulinen/gnvim) - GUI for Neovim without any web bloat `#rust`.
+- [neovim-gtk](https://github.com/Lyude/neovim-gtk) - GUI for Neovim with ligatures support `#rust`.
+- [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) - PyGTK3 frontend to Neovim with some visual GUI elements `#python`.
+
+#### Simple Editors and Light IDEs
+
+- [elementary Code](https://github.com/elementary/code) - Code editor designed for elementaryOS `#vala` `#granite`.
+- [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementaryOS-oriented IDE `#vala` `#granite`.
+- [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c`.
+- [gedit](https://wiki.gnome.org/Apps/Gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gnome`.
+- [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) - Simple text editor that focuses on session management `#c` `#gnome`.
+- [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#granite`.
+- [Vulcan](https://github.com/zesterer/vulcan) - Minimalistic text editor designed for both ordinary use and software development `#vala`.
+- [Xed](https://github.com/linuxmint/xed) - Small and lightweight text editor `#c` `#xapps`.
+
+#### Xi GUIs
+
+- [Tau](https://gitlab.gnome.org/World/Tau) - GTK frontend for Xi, previously called gxi `#rust`.
+- [xi-gtk](https://github.com/eyelash/xi-gtk) - GTK fronted for the Xi `#vala`.
+
+### Markdown
+
+- [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor `#python` `#libadwaita`.
+- [markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Distraction-free Markdown editior `#rust`.
+- [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c`.
+- [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#libadwaita`.
+- [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala`.
+
+### LaTeX
+
+- [Citations](https://gitlab.gnome.org/World/citations) - BibTex bibliography manager `#rust` `#libadwaita`.
+- [Gummi](https://gummi.app) - Simple LaTeX editor `#c`.
+- [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gnome`.
+- [Setzer](https://www.cvfosammmm.org/setzer) - Simple yet full-featured LaTeX editor `#python`.
+
+### Terminals
+
+- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#libdwaita` `#vte`.
+- [GNOME Console](https://gitlab.gnome.org/GNOME/console) - Minimal terminal for the GNOME desktop `#c` `#vte` `#gnome`.
+- [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#vte` `#gnome`.
+- [Guake](http://guake-project.org) - Dropdown terminal for the GNOME desktop `#python` `#vte`.
+- [Tilix](https://gnunn1.github.io/tilix-web) - Tiling and dropdown terminal for the GNOME desktop `#d` `#vte`.
+
+### Text Processing
+
+- [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) - Visual semi-structured data (JSON) editor `#python` `#libadwaita`.
+- [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#granite`.
+- [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#granite`.
+- [Text Pieces](https://github.com/liferooter/textpieces) - Swiss knife of text processing `#vala` `#libadwaita`.
+
+### UI Design
+
+- [Glade](https://glade.gnome.org) - RAD tool to enable quick & easy development of user interfaces for the GTK toolkit and the GNOME desktop `#c` `#gnome`.
+- [Cambalache](https://gitlab.gnome.org/jpu/cambalache) - RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy `#python`.
+- [Gradience](https://github.com/GradienceTeam/Gradience) - Libadwaita applications customizer `#python` `#libadwaita`.
+
+### Version Control and Diffs
+
+- [Commit](https://github.com/sonnyp/Commit) - Commit message editor for Git and Mercurial `#gjs` `#libadwaita`.
+- [Diffuse](https://github.com/MightyCreak/diffuse) - Text file comparing/merging tool `#python`.
+- [gitg](https://wiki.gnome.org/Apps/Gitg) - Git GUI client `#vala` `#gnome`.
+- [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs`.
+- [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gnome`.
+
 ## Design
 
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#libadwaita`.
@@ -510,104 +627,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Timeshift](https://github.com/linuxmint/timeshift) #vala
 - [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) #vala #libadwaita
 - [Butter](https://github.com/zhangyuannie/butter) Btrfs snapshot manager #rust #libadwaita
-
-### Terminals
-
-- [Galacritty](https://github.com/myfreeweb/galacritty) (shameless plug :D) GTK version of [Alacritty](https://github.com/jwilm/alacritty) (not really maintained for now sorry) #rust
-- [Guake](https://github.com/Guake/guake) dropdown terminal #python #vte
-- [Tilix](https://github.com/gnunn1/tilix) tiling and dropdown terminal #d #vte
-- [GNOME Console](https://gitlab.gnome.org/GNOME/console) #c #vte #gnome
-- [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) #c #vte #gnome
-- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) #vala #libdwaita #vte
-
-### Code
-
-#### NeoVim GUIs
-
-- [gnvim](https://github.com/vhakulinen/gnvim) #rust
-- [neovim-gtk](https://github.com/daa84/neovim-gtk) #rust
-  - [maintained fork](https://github.com/Lyude/neovim-gtk)
-- [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) #python
-
-#### Xi GUIs
-
-- [Tau (ex gxi)](https://gitlab.gnome.org/World/Tau) #rust
-- [xi-gtk](https://github.com/eyelash/xi-gtk) #vala
-
-#### Simple editors and Light IDEs
-
-- [gedit](https://wiki.gnome.org/Apps/Gedit) #c #gnome
-- [Geany](https://www.geany.org/) #c
-- [Vulcan](https://github.com/zesterer/vulcan) #vala
-- [elementary IDE](https://github.com/donadigo/elementary-ide) not official elementary #vala #granite
-- [elementary Code](https://github.com/elementary/code) #vala #granite
-- [NEd](https://github.com/ngtk3/NEd) #nim
-- [Xed](https://github.com/linuxmint/xed) #c #xapps
-- [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) #c #gnome
-- [Norka](https://tenderowl.com/work/norka) #python #granite
-
-#### Larger IDEs
-
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) #c #gnome
-- [Anjuta](https://wiki.gnome.org/Apps/Anjuta) #c #gnome
-- [Valama](https://github.com/Valama/valama) #vala
-- [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) #julia
-- [Workbench](https://github.com/sonnyp/Workbench) #gjs #libadwaita
-- [Playhouse](https://github.com/sonnyp/Playhouse) Playground for HTML/CSS/JavaScript #gjs #libadwaita
-
-### UI Design
-
-- [Glade](https://glade.gnome.org/) #c #gnome
-- [Cambalache](https://gitlab.gnome.org/jpu/cambalache) Glade's successor #python
-- [Gradience](https://github.com/GradienceTeam/Gradience) Libadwaita apps customizer #python #libadwaita
-
-### Version Control and Diffs
-
-- [gitg](https://wiki.gnome.org/Apps/Gitg) Git GUI client #vala #gnome
-- [Meld](https://gitlab.gnome.org/GNOME/meld) visual diff and merge tool #python #gnome
-- [Gnomit](https://github.com/small-tech/gnomit) Git commit message editor #gjs
-- [Commit](https://github.com/sonnyp/Commit) Commit message editor for Git and Mercurial #gjs #libadwaita
-- [Diffuse](https://github.com/MightyCreak/diffuse) text file comparing/merging tool #python
-
-### Documentation
-
-- [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) #python
-- [quickDocs](https://github.com/mdh34/quickDocs) #vala #granite
-
-### Markdown
-
-- [Marker](https://github.com/fabiocolacio/Marker) #c
-- [Showdown](https://github.com/craigbarnes/showdown) #vala
-- [Apostrophe](https://gitlab.gnome.org/World/apostrophe) #python #libhandy
-- [markdown-rs](https://github.com/nilgradisnik/markdown-rs) #rust
-- [Quilter](https://github.com/lainsce/quilter) #vala #libhandy
-- [Paper](https://posidon.io/paper) #vala #libadwaita
-
-### LaTeX
-
-- [Gummi](https://github.com/alexandervdm/gummi) #c
-- [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) #vala #gnome
-- [Setzer](https://github.com/cvfosammmm/Setzer) #python
-- [Citations](https://gitlab.gnome.org/World/citations) BibTex bibliography manager #rust #libadwaita
-
-### Graphviz
-
-- [xdot.py](https://github.com/jrfonseca/xdot.py) #python
-- [GraphUI](https://github.com/artemanufrij/graphui) #vala #granite
-
-### Regular Expression
-
-- [RegexTester](https://github.com/artemanufrij/regextester) #vala #granite
-
-### Text Processing
-
-- [Text Pieces](https://github.com/liferooter/textpieces) #vala #libadwaita
-- [KonbuCase](https://github.com/ryonakano/konbucase) case converting app #vala #granite
-- [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) visual semi-structured data (JSON) editor #python #libadwaita
-
-### Hex Editors
-
-- [GHex](https://wiki.gnome.org/Apps/Ghex) #c #libadwaita #gnome
 
 ### Remote Desktop
 
@@ -684,13 +703,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Health & Fitness
 
 - [Health](https://gitlab.gnome.org/World/Health) currently supports Google Fit #rust #libadwaita
-
-### Containers
-
-- [Pods](https://github.com/marhkb/pods) Podman GUI #rust #libadwaita
-- [Atoms](https://github.com/AtomsDevs/Atoms) chroot environments manager #python #libadwaita
-- [Bottles](https://github.com/bottlesdevs/Bottles) wineprefix environments manager #python #libadwaita
-- [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) toolbx containers manager #rust #libadwaita
 
 ### Task scheduling
 
