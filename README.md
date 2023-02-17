@@ -66,6 +66,9 @@
   - [Timers / Time Tracking](#timers--time-tracking)
   - [To-do Lists](#to-do-lists)
 - [Design](#design)
+- [Finance](#finance)
+  - [Budget and Accounting Managers](#budget-and-accounting-managers)
+  - [Exchange Rate Viewers](#exchange-rate-viewers)
 
 ## Apps for GNOME
 
@@ -434,6 +437,19 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 [todo.txt]: https://github.com/todotxt/todo.txt
 
+## Finance
+
+### Budget and Accounting Managers
+
+- [Denaro](https://github.com/nlogozzo/NickvisionMoney) - Cross-platform personal finance manager `#c++` `#libadwaita`.
+- [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#granite`.
+- [Grisbi](http://grisbi.org) - 20 years old accounting application `#c`.
+
+### Exchange Rate Viewers
+
+- [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c`.
+- [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#libhandy`.
+
 ## Design
 
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#libadwaita`.
@@ -474,22 +490,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Timeshift](https://github.com/linuxmint/timeshift) #vala
 - [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) #vala #libadwaita
 - [Butter](https://github.com/zhangyuannie/butter) Btrfs snapshot manager #rust #libadwaita
-
-### Finance
-
-#### Budget and Accounting Managers
-
-- [Envelope](https://github.com/cjfloss/envelope) #vala #granite
-- [Grisbi](http://grisbi.org/) #c
-- [Money](https://github.com/nlogozzo/NickvisionMoney) #c++ #libadwaita
-
-#### Exchange Rate Viewers
-
-- [Markets](https://github.com/bitstower/markets) #vala #libhandy
-- [Coin](https://github.com/lainsce/coin) #vala #granite
-- [Crypto](https://github.com/ErikWallstrom/Crypto) #c
-
-*Warning: cryptocurrency is [bad](https://www.reddit.com/r/Buttcoin/)*
 
 ### Terminals
 
