@@ -102,6 +102,9 @@
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
+- [Health and Fitness](#health-and-fitness)
+- [Map Viewers](#map-viewers)
+- [Weather Viewers](#weather-viewers)
 
 ## Apps for GNOME
 
@@ -709,17 +712,16 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam library import `#python` `#libadwaita`.
 
-### Weather Viewers
+## Health and Fitness
 
-- [Meteo](https://gitlab.com/bitseater/meteo) #vala
-- [bitseater/Weather](https://github.com/bitseater/weather) #vala
-- [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs #gnome
-- [Nimbus](https://github.com/danrabbit/nimbus) #vala
+- [Health](https://gitlab.gnome.org/World/Health) - Fitness goals tracker `#rust` `#libadwaita`.
 
-### Health & Fitness
+## Map Viewers
 
-- [Health](https://gitlab.gnome.org/World/Health) currently supports Google Fit #rust #libadwaita
+- [Atlas](https://github.com/ryonakano/atlas) - Map viewer designed for elementaryOS `#vala` `#granite` `#libhandy`.
 
-### Map Viewers
+## Weather Viewers
 
-- [Atlas](https://github.com/ryonakano/atlas) #vala #libhandy #granite
+- [GNOME Weather](https://wiki.gnome.org/Apps/Weather) - Weather application for the GNOME desktop `#gjs` `#gnome`.
+- [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet  `#vala` `#libhandy`.
+- [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala`.
