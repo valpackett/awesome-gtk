@@ -46,6 +46,7 @@
   - [File Sharing](#file-sharing)
   - [Network Monitoring](#network-monitoring)
   - [News/Feed Readers](#newsfeed-readers)
+  - [Remote Desktop](#remote-desktop)
   - [Social Media Clients](#social-media-clients)
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
@@ -329,6 +330,12 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#libadwaita`.
 - [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c`.
 - [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#libadwaita`.
+
+### Remote Desktop
+
+- [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gnome`.
+- [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c`.
+- [Vinagre](https://wiki.gnome.org/Apps/Vinagre) - Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gnome`.
 
 ### Social Media Clients
 
@@ -649,12 +656,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Taxi](https://github.com/Alecaddd/taxi) - FTP client that also supports SFTP, WebDAV and AFP `#vala` `#granite`.
 
 ## TODO
-
-### Remote Desktop
-
-- [Connections](https://gitlab.gnome.org/GNOME/connections) RDP, VNC #vala #gnome
-- [Remmina](https://github.com/FreeRDP/Remmina) RDP, VNC, etc (plugin system) #c
-- [Vinagre](https://wiki.gnome.org/Apps/Vinagre) RDP, VNC, SPICE #c #gnome
 
 ### SSH
 
