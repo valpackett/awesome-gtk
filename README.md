@@ -65,10 +65,12 @@
   - [Project Management](#project-management)
   - [Timers / Time Tracking](#timers--time-tracking)
   - [To-do Lists](#to-do-lists)
-- [Design](#design)
+- [Security and Privacy](#security-and-privacy)
+  - [Password Management](#password-management)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
   - [Exchange Rate Viewers](#exchange-rate-viewers)
+- [Design](#design)
 
 ## Apps for GNOME
 
@@ -437,6 +439,24 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 [todo.txt]: https://github.com/todotxt/todo.txt
 
+## Security and Privacy
+
+- [Collision](https://collision.geopjr.dev) - Tool to generate, compare and verify hashes `#crystal` `#libadwaita`.
+- [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c`.
+- [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#libadwaita`.
+- [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#libadwaita`.
+- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr) - File metadata cleanre based on MAT2 `#python` `#libadwaita`.
+- [Raider](https://github.com/ADBeveridge/raider) - Application to securely delete your files for the GNOME desktop `#c` `#libadwaita`.
+
+### Password Management
+
+- [Authenticator](https://gitlab.gnome.org/World/Authenticator) - Two-factor authentication codes generator `#rust` `#libdawaita`.
+- [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++`.
+- [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala`.
+- [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c`.
+- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python`.
+- [Secrets](https://gitlab.gnome.org/World/secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#libadwaita`.
+
 ## Finance
 
 ### Budget and Accounting Managers
@@ -615,28 +635,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Szyszka](https://github.com/qarmin/szyszka) #rust
 - [tv-renamer](https://github.com/mmstick/tv-renamer) #rust
-
-### Security and Privacy
-
-- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) based on MAT2 #python #libadwaita
-- [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
-- [Collision](https://github.com/GeopJr/Collision) #crystal #libadwaita
-- [GtkHash](https://github.com/tristanheaven/gtkhash) #c
-- [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) parental controls client #c #libadwaita
-- [Raider](https://github.com/ADBeveridge/raider) file shredder #c #libadwaita
-- [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) Kerberos tickets monitoring #c #libadwaita
-
-#### Password Management
-
-- [Secrets](https://gitlab.gnome.org/World/secrets) KeePass v4 format based #python #libadwaita
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) #python
-- [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
-- [Obliviate](https://github.com/elfenware/obliviate) password manager that does not store passwords #vala
-
-#### One-Time Password
-
-- [Authenticator](https://gitlab.gnome.org/World/Authenticator) #rust #libdawaita
-- [OTPClient](https://github.com/paolostivanin/OTPClient) #c
 
 ### System and File Cleaning
 
