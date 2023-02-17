@@ -65,6 +65,7 @@
   - [Project Management](#project-management)
   - [Timers / Time Tracking](#timers--time-tracking)
   - [To-do Lists](#to-do-lists)
+- [Design](#design)
 
 ## Apps for GNOME
 
@@ -433,6 +434,17 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 [todo.txt]: https://github.com/todotxt/todo.txt
 
+## Design
+
+- [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#libadwaita`.
+- [Eyedropper](https://github.com/FineFindus/eyedropper) - Color picker and formatter `#rust` `#libadwaita`.
+- [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala`.
+- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - System icon browser `#rust` `libadwaita`.
+- [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#vala`.
+- [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#granite`.
+- [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#python` `#libadwaita`.
+- [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#libadwaita`.
+
 ## TODO
 
 ### Web Service Clients
@@ -478,17 +490,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Crypto](https://github.com/ErikWallstrom/Crypto) #c
 
 *Warning: cryptocurrency is [bad](https://www.reddit.com/r/Buttcoin/)*
-
-### Design Utilities
-
-- [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
-- [Icon Preview](https://gitlab.gnome.org/World/icon-tool) #vala
-- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) for gnome xml files #python
-- [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) #rust #libadwaita
-- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) #rust libadwaita
-- [Emulsion](https://github.com/lainsce/emulsion) color palettes #vala #libadwaita
-- [Eyedropper](https://github.com/FineFindus/eyedropper) color picker and formatter #rust #libadwaita
-- [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala`.
 
 ### Terminals
 
