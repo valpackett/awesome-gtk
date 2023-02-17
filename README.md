@@ -325,8 +325,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c`.
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c`.
 - [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#granite`.
-- [Warp](https://gitlab.gnome.org/World/warp) based on [magic-wormhole] #rust #libadwaita
-- [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
+- [Warp](https://apps.gnome.org/app/app.drey.Warp) - [magic-wormhole] client `#rust` `#libadwaita`.
+- [Torrential](https://github.com/davidmhewitt/torrential) - Alternative GUI on top of the Transmission BitTorrent client `#vala` `#granite`.
 
 [magic-wormhole]: https://github.com/warner/magic-wormhole
 
@@ -452,7 +452,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Boatswain](https://gitlab.gnome.org/World/boatswain) - Elgato Stream Deck controller `#c` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust`.
-- [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) emoji picker #gnome #c #libadwaita
+- [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) - Emoji picker `#c` `#libadwaita` `#gnome`.
 - [Random](https://random.amongtech.cc) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust`.
@@ -699,7 +699,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c`.
 - [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gnome`.
 - [GNOME Logs](https://wiki.gnome.org/Apps/Logs) - systemd logs viewer `#c` `#gnome` `#libadwaita`.
-- [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System ressources monitoring for the GNOME desktop `#vala` `#gnome`.
+- [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
 
