@@ -87,6 +87,13 @@
   - [UI Design](#ui-design)
   - [Version Control and Diffs](#version-control-and-diffs)
 - [Design](#design)
+- [File and Data Management](#file-and-data-management)
+  - [Backup](#backup)
+  - [Database Clients](#database-clients)
+  - [Disk Imaging](#disk-imaging)
+  - [File Management](#file-management)
+  - [File Synchronisation](#file-synchronisation)
+  - [Remote File Access](#remote-file-access)
 
 ## Apps for GNOME
 
@@ -605,29 +612,43 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#python` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#libadwaita`.
 
-## TODO
-
-### File Synchronization
-
-- [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) UI for [Syncthing](https://syncthing.net/) #python
-
-### Remote File Access
-
-- [Taxi](https://github.com/Alecaddd/taxi) FTP, SFTP, WebDAV, AFP #vala #granite
-
-### File Management
-
-- [Polo](https://github.com/teejee2008/polo) multi-pane & tab file manager #vala
-- [Organizer](https://gitlab.gnome.org/aviwad/organizer) #python
-- [Portofolio](https://github.com/tchx84/Portfolio) file manager for mobile devices #libhandy
+## File and Data Management
 
 ### Backup
 
-- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) UI for [borg](https://github.com/borgbackup/borg) #rust #libadwaita
-- ~~[Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python~~ (note: [python2](https://github.com/emersion/bups/issues/34)!)
-- [Timeshift](https://github.com/linuxmint/timeshift) #vala
-- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) #vala #libadwaita
-- [Butter](https://github.com/zhangyuannie/butter) Btrfs snapshot manager #rust #libadwaita
+- [Butter](https://github.com/zhangyuannie/butter) - Btrfs snapshot manager `#rust` `#libadwaita`.
+- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) - Simple backup tool for the GNOME desktop `#vala` `#libadwaita`.
+- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Backup application based on [BorgBackup](https://www.borgbackup.org/support/fund.html) with remote, scheduling and encryption features `#rust` `#libadwaita`.
+- [Timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots `#vala`.
+
+### Database Clients
+
+- [Daty](https://gitlab.gnome.org/World/Daty) - Cross-platform advanced Wikidata editor `#python` `#libhandy`.
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#granite`.
+
+### Disk Imaging
+
+- [Brasero](https://wiki.gnome.org/Apps/Brasero) - Application to burn CD/DVD designed to be as simple as possible `#c` `#gnome`.
+- [GNOME MultiWriter](https://wiki.gnome.org/Apps/MultiWriter) - Utility to write an ISO file to multiple USB devices at once `#c` `#gnome`.
+- [Imageburner](https://github.com/artemanufrij/imageburner) - Simple imageburner for SD/USB designed for elementaryOS `#vala` `#granite`.
+- [Popsicle](https://github.com/pop-os/popsicle) - Utility for flashing multiple USB devices in parallel `#rust`.
+
+### File Management
+
+- [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python`.
+- [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala`.
+- [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#libhandy`.
+
+### File Synchronisation
+
+- [Celeste](https://github.com/hwittenborn/celeste) - File synchronization client that can sync with any cloud provider `#rust` `#libadwaita`.
+- [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) - UI for [Syncthing](https://syncthing.net) with the same features as the Web UI `#python`.
+
+### Remote File Access
+
+- [Taxi](https://github.com/Alecaddd/taxi) - FTP client that also supports SFTP, WebDAV and AFP `#vala` `#granite`.
+
+## TODO
 
 ### Remote Desktop
 
@@ -638,19 +659,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### SSH
 
 - [EasySSH](https://github.com/muriloventuroso/easyssh) connection manager #vala
-
-### Database Clients
-
-- [Sequeler](https://github.com/Alecaddd/sequeler) #vala #granite
-- [Daty](https://gitlab.gnome.org/World/Daty) for Wikidata (which is kind of a database?) #python #libhandy
-
-### Disk Imaging
-
-- [Imageburner](https://github.com/artemanufrij/imageburner) for SD/USB #vala #granite
-- [Popsicle](https://github.com/pop-os/popsicle) for SD/USB #rust
-- [GNOME MultiWriter](https://wiki.gnome.org/Apps/MultiWriter) for SD/USB #c #gnome
-- [Brasero](https://wiki.gnome.org/Apps/Brasero) for CD/DVD #c #gnome
-
 
 ### System and File Cleaning
 
