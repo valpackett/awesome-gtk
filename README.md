@@ -59,6 +59,12 @@
   - [OCR](#ocr)
   - [PDF Tools](#pdf-tools)
   - [Presentation](#presentation)
+- [Productivity](#productivity)
+  - [Desktop Productivity](#desktop-productivity)
+  - [Mind-mapping](#mind-mapping)
+  - [Project Management](#project-management)
+  - [Timers / Time Tracking](#timers--time-tracking)
+  - [To-do Lists](#to-do-lists)
 
 ## Apps for GNOME
 
@@ -368,6 +374,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### OCR
 
+- [Frog](https://tenderowl.com/work/frog) - Intuitive text extraction tool for the GNOME desktop.
 - [gImageView](https://github.com/manisandro/gImageReader) - GTK/Qt front-end to [Tesseract] `#c++`.
 - [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Easy to use OCR application based on [Tesseract] `#vala` `#granite`.
 
@@ -384,38 +391,49 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pympress](https://github.com/Cimbali/pympress) - Presentation tool designed for dual-screen setups such as presentations and public talks `#python`.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - Web presentation editor `#vala` `#granite`.
 
-## TODO
+## Productivity
 
-### To-Do Lists
+### Desktop Productivity
 
-- [Yishu](https://github.com/lainsce/yishu) (archived) todo.txt based #vala #granite #libhandy
-- [Effitask](https://github.com/sanpii/effitask) todo.txt based #rust
-- [Endeavour](https://gitlab.gnome.org/World/Endeavour) #c #libadwaita
-- [Agenda](https://github.com/dahenson/agenda) #vala #granite
-- [Getting Things GNOME (GTG)](https://github.com/getting-things-gnome/gtg) GTD #python #gnome
-- [Done](https://done.edfloreshz.dev) #rust #libadwaita
+- [Boatswain](https://gitlab.gnome.org/World/boatswain) - Elgato Stream Deck controller `#c` `#libadwaita`.
+- [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust`.
+- [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) emoji picker #gnome #c #libadwaita
+- [Random](https://random.amongtech.cc) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
+- [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementaryOS `#vala` `#granite`.
 
-### Mind Mapping
+### Mind-mapping
 
-- [Minder](https://github.com/phase1geo/Minder) #vala #granite
+- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for elementaryOS `#vala` `#granite`.
 
 ### Project Management
 
-- [Planner](https://github.com/alainm23/planner) #vala #granite
+- [Planner](https://useplanner.com) - Project and task manager with Todoist support `#vala` `#granite`.
 
 ### Timers / Time Tracking
 
-- [Hourglass](https://github.com/sgpthomas/hourglass) #vala #granite
-- [Tomato](https://github.com/luizaugustomm/tomato) (pomodoro) #vala #granite
-- [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
-- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) #python
-- [Solanum](https://gitlab.gnome.org/World/Solanum) (pomodoro) #rust
-- [Khronos](https://github.com/lainsce/khronos) #vala #libadwaita
-- [Flowtime](https://github.com/Diego-Ivan/Flowtime) (pomodoro) #vala #libadwaita
-- [Furtherance](https://github.com/lakoliu/Furtherance) #rust #libadwaita
-- [Retro](https://github.com/sonnyp/Retro) customizable digital clock #gjs
-- [Timer](https://github.com/vikdevelop/timer) #python #libadwaita
+- [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#libadwaita`.
+- [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#libadwaita`.
+- [hamster-gtk](https://github.com/projecthamster/hamster-gtk) - Time tracker provided by `hamster-lib` `#python`.
+- [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#granite`.
+- [Khronos](https://github.com/lainsce/khronos) - Task time logger `#vala` `#libadwaita`.
+- [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#libadwaita`.
+- [Solanum](https://gitlab.gnome.org/World/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#libadwaita`.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python`.
+- [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementaryOS `#vala` `#granite`.
+- [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#libadwaita`.
 
+### To-do Lists
+
+- [Agenda](https://github.com/dahenson/agenda) - Simple to-do application for elementaryOS `#vala` `#granite`.
+- [Done](https://done.edfloreshz.dev) - To-do application that allows you to consolidate your existing task providers into a single place `#rust` `#libadwaita`.
+- [Endeavour](https://gitlab.gnome.org/World/Endeavour) - Personal tasks manager with complete integration with the GNOME desktop `#c` `#libadwaita`.
+- [Effitask](https://github.com/sanpii/effitask) - [todo.txt] client with due, flag, future note and schedule addons `#rust`.
+- [Getting Things GNOME](https://github.com/getting-things-gnome/gtg) - Personal task organizer for the GNOME desktop inspired by [Getting Things Done](https://gettingthingsdone.com/what-is-gtd) `#python` `#gnome`.
+- [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#granite` `#libhandy`.
+
+[todo.txt]: https://github.com/todotxt/todo.txt
+
+## TODO
 
 ### Web Service Clients
 
@@ -663,15 +681,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [bitseater/Weather](https://github.com/bitseater/weather) #vala
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs #gnome
 - [Nimbus](https://github.com/danrabbit/nimbus) #vala
-
-### Productivity
-
-- [Workspaces](https://github.com/DevAlien/workspaces) #vala #granite
-- [Random](https://codeberg.org/foreverxml/random) #vala #libadwaita
-- [Frog](https://tenderowl.com/work/frog) text extractor #python #granite
-- [Cigale](https://github.com/emmanueltouzery/cigale) activities timesheet #rust
-- [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) emoji picker #gnome #c #libadwaita
-- [Boatswain](https://gitlab.gnome.org/World/boatswain) Elgato Stream Deck controller #c #libadwaita
 
 ### Health & Fitness
 
