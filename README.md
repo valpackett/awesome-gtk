@@ -225,6 +225,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Furtherance](https://github.com/lakoliu/Furtherance) #rust #libadwaita
 - [Retro](https://github.com/sonnyp/Retro) customizable digital clock #gjs
 - [Timer](https://github.com/vikdevelop/timer) #python #libadwaita
+- [Chess Clock](https://apps.gnome.org/app/com.clarahobbs.chessclock) over-the-board chess time control #python #libadwaita
 
 ### Email
 
