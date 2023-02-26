@@ -621,6 +621,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) GNOME Shell configuration utility #gjs #libadwaita
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) #rust #libadwaita
 - [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) #libadwaita #python
+- [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter #rust #relm4
 
 ### Installation
 
