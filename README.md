@@ -404,7 +404,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Effector](https://notabug.org/grindhold/effector) GEGL filter app with a flow graph UI #vala
 - [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust #libadwaita
 - [Swappy](https://github.com/jtheoof/swappy) quick screenshot editing for wlroots based compositors #c
-- [Pizzara](https://pizarra.categulario.xyz/en/) digital chalkboard #rust 
+- [Pizzara](https://pizarra.categulario.xyz/en/) digital chalkboard #rust
+- [Conjure](https://github.com/nate-xyz/conjure) image enhancer based on ImageMagic #python #libadwaita
 
 ##### Photo (non-destructive editing)
 
