@@ -204,6 +204,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Agenda](https://github.com/dahenson/agenda) #vala #granite
 - [Getting Things GNOME (GTG)](https://github.com/getting-things-gnome/gtg) GTD #python #gnome
 - [Done](https://done.edfloreshz.dev) #rust #libadwaita
+- [Remembrance](https://github.com/dgsasha/remembrance) #python #libadwaita
 
 ### Mind Mapping
 
