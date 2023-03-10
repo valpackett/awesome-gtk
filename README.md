@@ -84,6 +84,7 @@
   - [Markdown](#markdown)
   - [LaTeX](#latex)
   - [Terminals](#terminals)
+  - [Toolboxes](#toolboxes)
   - [Text Processing](#text-processing)
   - [UI Design](#ui-design)
   - [Version Control and Diffs](#version-control-and-diffs)
@@ -608,6 +609,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#granite`.
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#granite`.
 - [Text Pieces](https://github.com/liferooter/textpieces) - Swiss knife of text processing `#vala` `#libadwaita`.
+
+### Toolboxes
+
+- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developper toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#pytohn` `#libadwaita`.
 
 ### UI Design
 
