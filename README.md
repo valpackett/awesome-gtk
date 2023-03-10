@@ -539,6 +539,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [KonbuCase](https://github.com/ryonakano/konbucase) case converting app #vala #granite
 - [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) visual semi-structured data (JSON) editor #python #libadwaita
 - [Lorem](https://gitlab.gnome.org/World/design/lorem) Lorem Ipsum placeholder text generator #rust #libadwaita
+- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) with JSON to YAML converter, CRON expression parser, regex tester and more #python #libadwaita
 
 ### Hex Editors
 
