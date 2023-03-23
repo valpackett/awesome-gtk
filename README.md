@@ -142,7 +142,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Web Browsers
 
 - [Eolie](https://wiki.gnome.org/Apps/Eolie) #python
-- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome #libhandy
+- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome #libadwaita
 - [luakit](https://luakit.github.io/) #c #lua
 
 #### Specialized Web Browsers / Wrappers
