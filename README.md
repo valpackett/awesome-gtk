@@ -20,6 +20,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
 - [Amberol](https://gitlab.gnome.org/ebassi/amberol) #rust #libadwaita
 - [G4Music](https://github.com/neithern/g4music) #vala #libadwaita
+- [HBud](https://github.com/swanux/hbud) Audio/video player and karaoke app #python #libadwaita
 
 ##### Streaming Service Clients
 
