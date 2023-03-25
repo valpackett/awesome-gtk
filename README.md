@@ -125,6 +125,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gnome`.
 - [Amberol](https://gitlab.gnome.org/ebassi/amberol) - Simple music player well integrated with GNOME `#rust` `#libadwaita`.
 - [G4Music](https://github.com/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#libadwaita`.
+- [HBud](https://github.com/swanux/hbud) - Audio and video player with karaoke features `#python` `#libadwaita`.
 
 #### Audio Streaming Service Clients
 
