@@ -433,6 +433,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Converter](https://gitlab.com/adhami3310/Converter) ImageMagick frontend #python #libadwaita
 
+##### ASCII art
+
+- [ASCII Images](https://gitlab.com/gregorni/ASCIIImages) jp2a frontend #python #libadwaita
+
 ### Design Utilities
 
 - [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
