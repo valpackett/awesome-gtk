@@ -158,7 +158,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Cawbird](https://github.com/IBBoard/cawbird) (working fork of [Corebird](https://corebird.baedert.org/)) for Twitter #vala
 - [Tootle](https://github.com/bleakgrey/tootle) for Mastodon (archived) #vala #libadwaita
-- [Tooth](https://github.com/GeopJr/Tooth) for Mastodon (Tootle fork) #vala #libadwaita
+- [Tuba](https://github.com/GeopJr/Tuba) for Mastodon (Tootle fork) #vala #libadwaita
 - [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
 - [Giara](https://gitlab.gnome.org/World/giara) for Reddit #python #libadwaita
 - [Headlines](https://gitlab.com/caveman250/Headlines) for Reddit #c++ #libadwaita
