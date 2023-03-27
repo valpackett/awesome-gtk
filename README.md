@@ -79,7 +79,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Video Players
 
 - [Celluloid (ex GNOME MPV)](https://github.com/celluloid-player/celluloid) #c #libadwaita
-- [Clapper](https://github.com/Rafostar/clapper) #gjs #c
+- [Clapper](https://github.com/Rafostar/clapper) #gjs #c #libadwaita
 - [Movie Monad](https://github.com/lettier/movie-monad) #haskell
 - [GNOME Videos (Totem)](https://wiki.gnome.org/Apps/Videos) #c #gnome
 - [Glide](https://github.com/philn/glide) #rust
