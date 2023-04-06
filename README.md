@@ -1,4 +1,4 @@
-<!-- lint ignore awesome-git-repo-age -->
+<!-- lint ignore awesome-toc-->
 
 <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" align="right" width="144"/>
 
