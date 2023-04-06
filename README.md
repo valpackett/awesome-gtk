@@ -1,3 +1,5 @@
+<!-- lint ignore awesome-git-repo-age -->
+
 <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" align="right" width="144"/>
 
 # Awesome GTK [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Distros: Please do not theme any apps](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
@@ -85,8 +87,8 @@
   - [Markdown](#markdown)
   - [LaTeX](#latex)
   - [Terminals](#terminals)
-  - [Toolboxes](#toolboxes)
   - [Text Processing](#text-processing)
+  - [Toolboxes](#toolboxes)
   - [UI Design](#ui-design)
   - [Version Control and Diffs](#version-control-and-diffs)
 - [Design](#design)
