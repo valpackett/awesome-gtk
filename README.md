@@ -1,695 +1,746 @@
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Distros: Please do not theme any apps](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app) 
+<!-- lint ignore awesome-toc-->
 
-# awesome-gtk
+<img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" align="right" width="144"/>
 
-This is a list of native, open source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (4 and 3) applications.
+# Awesome GTK [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Distros: Please do not theme any apps](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
+
+> Collections of awesome native open-source [GTK](https://en.wikipedia.org/wiki/GTK%2B) (4 and 3) applications.
+
+## Contents
+
+- [Apps for GNOME](#apps-for-gnome)
+- [Audio](#audio)
+  - [Audio Players](#audio-players)
+    - [Music Players](#music-players)
+    - [Audio Streaming Service Clients](#audio-streaming-service-clients)
+    - [MPD Clients](#mpd-clients)
+    - [Podcasts](#podcasts)
+    - [Audiobooks](#audiobooks)
+    - [Radio](#radio)
+    - [Transcription](#transcription)
+    - [Ambient Sounds](#ambient-sounds)
+  - [Audio Workstations (DAWs)](#audio-workstations-daws)
+  - [Audio Tools](#audio-tools)
+- [Video](#video)
+  - [Video Players](#video-players)
+  - [Live Stream Viewers](#live-stream-viewers)
+  - [Video Editors](#video-editors)
+  - [Subtitle Editors](#subtitle-editors)
+  - [Screen Recorders](#screen-recorders)
+  - [Video Tools](#video-tools)
+- [Graphics](#graphics)
+  - [3D Graphics](#3d-graphics)
+  - [ASCII Art](#ascii-art)
+  - [Image Viewers](#image-viewers)
+  - [Raster Graphics](#raster-graphics)
+    - [Drawing & Editing](#drawing--editing)
+    - [Photography](#photography)
+    - [Optimizers/Compressors](#optimizerscompressors)
+    - [Upscalers](#upscalers)
+  - [Technical Graphics](#technical-graphics)
+  - [Vector & Fonts](#vector--fonts)
+- [Multimedia](#multimedia)
+  - [Media Downloaders](#media-downloaders)
+  - [Media Encoders](#media-encoders)
+  - [Media Servers](#media-servers)
+- [Internet and Networking](#internet-and-networking)
+  - [Chat and VoIP](#chat-and-voip)
+  - [Email](#email)
+  - [File Sharing](#file-sharing)
+  - [Network Monitoring](#network-monitoring)
+  - [News/Feed Readers](#newsfeed-readers)
+  - [Remote Desktop](#remote-desktop)
+  - [Social Media Clients](#social-media-clients)
+  - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
+  - [Web Browsers](#web-browsers)
+- [Office](#office)
+  - [Book Readers](#book-readers)
+  - [Calculators & Math](#calculators--math)
+  - [Calendar](#calendar)
+  - [Document Managers](#document-managers)
+  - [Document Viewers](#document-viewers)
+  - [Note-taking](#note-taking)
+  - [OCR](#ocr)
+  - [PDF Tools](#pdf-tools)
+  - [Presentation](#presentation)
+  - [Translation](#translation)
+- [Productivity](#productivity)
+  - [Desktop Productivity](#desktop-productivity)
+  - [Mind-mapping](#mind-mapping)
+  - [Project Management](#project-management)
+  - [Timers / Time Tracking](#timers--time-tracking)
+  - [To-do Lists](#to-do-lists)
+- [Security and Privacy](#security-and-privacy)
+  - [Password Management](#password-management)
+- [Finance](#finance)
+  - [Budget and Accounting Managers](#budget-and-accounting-managers)
+  - [Exchange Rate Viewers](#exchange-rate-viewers)
+- [Development](#development)
+  - [Containers](#containers)
+  - [Documentation](#documentation)
+  - [Hex Editors](#hex-editors)
+  - [IDEs](#ides)
+    - [Featureful IDEs](#featureful-ides)
+    - [Neovim GUIs](#neovim-guis)
+    - [Simple Editors and Light IDEs](#simple-editors-and-light-ides)
+    - [Xi GUIs](#xi-guis)
+  - [Markdown](#markdown)
+  - [LaTeX](#latex)
+  - [Terminals](#terminals)
+  - [Text Processing](#text-processing)
+  - [Toolboxes](#toolboxes)
+  - [UI Design](#ui-design)
+  - [Version Control and Diffs](#version-control-and-diffs)
+- [Design](#design)
+- [File and Data Management](#file-and-data-management)
+  - [Backup](#backup)
+  - [Database Clients](#database-clients)
+  - [Disk Imaging](#disk-imaging)
+  - [File Management](#file-management)
+  - [File Synchronisation](#file-synchronisation)
+  - [Remote File Access](#remote-file-access)
+- [System Management](#system-management)
+  - [Software Installation](#software-installation)
+  - [System and File Cleaning](#system-and-file-cleaning)
+  - [System Configuration](#system-configuration)
+  - [System Monitoring and Info](#system-monitoring-and-info)
+  - [Task Scheduling](#task-scheduling)
+- [Gaming](#gaming)
+- [Health and Fitness](#health-and-fitness)
+- [Map Viewers](#map-viewers)
+- [Weather Viewers](#weather-viewers)
+
+## Apps for GNOME
 
 You can find the most up-to-date info on the most well-supported GNOME apps at [Apps for GNOME](https://apps.gnome.org/);
 this list aims to be broader and include apps from various other ecosystems in various states of maintenance.
 
-## Applications
+## Audio
 
 ### Audio Players
 
-#### Music
+#### Music Players
 
-- [Lollypop](https://gitlab.gnome.org/World/lollypop) #python #libhandy
-- [Melody / playmymusic](https://github.com/artemanufrij/playmymusic) #vala #granite
-- [elementary Music](https://github.com/elementary/music) #vala #granite
-- [GNOME Music](https://wiki.gnome.org/Apps/Music) #python #libadwaita #gnome
-- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) #c #gnome
-- [Amberol](https://gitlab.gnome.org/ebassi/amberol) #rust #libadwaita
-- [G4Music](https://github.com/neithern/g4music) #vala #libadwaita
-- [HBud](https://github.com/swanux/hbud) Audio/video player and karaoke app #python #libadwaita
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lightweight modern music player designed to work excellently on the GNOME desktop environment with party mode, metadata fetching, MTP device sync and scrobbling `#python` `#libhandy`.
+- [Melody](http://anufrij.org/melody) - Music player designed for elementary OS with metadata fetching, online radio and MTP device sync `#vala` `#granite`.
+- [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#granite`.
+- [GNOME Music](https://wiki.gnome.org/Apps/Music) - Official GNOME desktop music player `#python` `#libadwaita` `#gnome`.
+- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gnome`.
+- [Amberol](https://gitlab.gnome.org/ebassi/amberol) - Simple music player well integrated with GNOME `#rust` `#libadwaita`.
+- [G4Music](https://github.com/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#libadwaita`.
+- [HBud](https://github.com/swanux/hbud) - Audio and video player with karaoke features `#python` `#libadwaita`.
 
-##### Streaming Service Clients
+#### Audio Streaming Service Clients
 
-- [Spot](https://github.com/xou816/spot) Spotify client #rust #libadwaita
-- [Sublime Music](https://sublimemusic.app) Subsonic-compatible servers client #python
+- [Spot](https://github.com/xou816/spot) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) `#rust` `#libadwaita`.
+- [Sublime Music](https://sublimemusic.app) - Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, *sonic) personal streaming servers `#python`.
 
-##### MPD Clients
+#### MPD Clients
 
-- [Sonata](https://github.com/multani/sonata) #python
-- [Mpdevil](https://github.com/SoongNoonien/mpdevil) #python
+- [Sonata](https://github.com/multani/sonata) - MPD client with tag editor and audio scrobbling support, currently looking for a new maintainer `#python`.
+- [Mpdevil](https://github.com/SoongNoonien/mpdevil) - MPD music browser with MPRIS interface `#python`.
 
 #### Podcasts
 
-- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) (ex Hammond) #rust #gnome #libadwaita
-- [Vocal](https://github.com/needle-and-thread/vocal) #vala #granite
+- [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) - (ex Hammond) Official GNOME Podcast client `#rust` `#libadwaita` `#gnome`.
+- [Vocal](https://vocalproject.net/https://github.com/needle-and-thread/vocal) - Podcast application with iTunes Store integration and smart library management `#vala` `#granite`.
 
 #### Audiobooks
 
-- [Cozy](https://cozy.sh) #python
+- [Cozy](https://cozy.sh) - Audiobook player with offline library management and MPRIS integration `#python`.
 
 #### Radio
 
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave) #rust #libadwaita
-- [Goodvibes](https://gitlab.com/goodvibes/goodvibes) #c
-- [radiotray-lite](https://github.com/thekvs/radiotray-lite) #c++
-- [Pithos](https://pithos.github.io/) for Pandora #python
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Internet radio player providing access to the community radio station database [radio-browser.info](http://www.radio-browser.info) `#rust` `#libadwaita`.
+- [Goodvibes](https://gitlab.com/goodvibes/goodvibes) - Simple light-weight internet radio player `#c`.
+- [radiotray-lite](https://github.com/thekvs/radiotray-lite) - Online radio player with minimal interface that runs on the system tray `#c++`.
+- [Pithos](https://pithos.github.io/) - Pandora Radio client `#python`.
 
 #### Transcription
 
-- [Parlatype](https://gkarsay.github.io/parlatype/) #c
+- [Parlatype](https://gkarsay.github.io/parlatype) - Minimal audio player for manual speech transcription `#c`.
 
 #### Ambient Sounds
 
-- [Blanket](https://github.com/rafaelmardojai/blanket) #python #libadwaita
+- [Blanket](https://github.com/rafaelmardojai/blanket) - Ambient sound player/mixer with preset management and MPRIS integration `#python` `#libadwaita`.
 
 #### Soundboards
 
-- [Zap](https://gitlab.com/rmnvgr/zap) #gjs #libadwaita
-
-### Audio Visualizers
-
-- [Cavalier](https://github.com/fsobolev/cavalier) #python #libadwaita
-
-### Screen Recorders
-
-- [Kooha](https://github.com/SeaDve/Kooha) #rust #libadwaita
-- [RecApp](https://github.com/amikha1lov/RecApp) #python
-
-### Image Viewers
-
-- [Image Roll](https://github.com/weclaw1/image-roll) #rust
-- [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) #rust #libadwaita
-- [vipsdisp](https://github.com/jcupitt/vipsdisp) technical image viewer #c
-- [Focus Annotator](https://github.com/13hannes11/focus_annotator) tool to annotate the focus plane of z-stacked images #rust #libadwaita
-
-### Video Players
-
-- [Celluloid (ex GNOME MPV)](https://github.com/celluloid-player/celluloid) #c #libadwaita
-- [Clapper](https://github.com/Rafostar/clapper) #gjs #c #libadwaita
-- [Movie Monad](https://github.com/lettier/movie-monad) #haskell
-- [GNOME Videos (Totem)](https://wiki.gnome.org/Apps/Videos) #c #gnome
-- [Glide](https://github.com/philn/glide) #rust
-
-#### Video Comparison
-
-- [Identity](https://gitlab.gnome.org/YaLTeR/identity) #rust #libadwaita
-
-#### Live Stream Viewers
-
-- [GNOME Twitch](https://gnome-twitch.vinszent.com) #c
-
-#### Table of Contents Editors
-
-- [media-toc](https://github.com/fengalin/media-toc) #rust
-
-#### Subtitle Editors
-
-- [Gaupol](https://otsaloma.io/gaupol/) #python
-- [Subtitle Editor](https://github.com/kitone/subtitleeditor) #c++
-
-### Media Servers
-
-- [Girens](https://gitlab.gnome.org/tijder/girens) Plex client #python #libadwaita
+- [Zap](https://gitlab.com/rmnvgr/zap) - Sound effects soundboard and collection manager `#gjs` `#libadwaita`.
 
 ### Audio Workstations (DAWs)
 
-- [zrythm](https://github.com/zrythm/zrythm) #c++ #libadwaita
+- [zrythm](https://github.com/zrythm/zrythm) - DAW offering streamlined editing workflows with automation capabilities, chord assistance and support for plugins `#c++` `#libadwaita`.
 
 ### Audio Tools
 
-- [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) voice changer based on sox #python
-- [Tagger](https://github.com/nlogozzo/NickvisionTagger) #c++ #libadwaita
-- [EasyEffects](https://github.com/wwmm/easyeffects) #c++ #libadwaita
-- [Myxer](https://github.com/VixenUtils/Myxer) PulseAudio volume mixer #rust
-- [Reco](https://github.com/ryonakano/reco) audio recorder #vala #granite
-- [Mousai](https://github.com/SeaDve/Mousai) song identifier #rust #libadwaita
-- [Ear Tag](https://github.com/knuxify/eartag) tag editor #python #libadwaita
-- [Asunder](https://gitlab.gnome.org/Salamandar/asunder) CD ripper and encoder #c
+- [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python`.
+- [Tagger](https://github.com/nlogozzo/NickvisionTagger) - Music tag (metadata) editor `#c++` `#libadwaita`.
+- [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#libadwaita`.
+- [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust`.
+- [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#granite`.
+- [Mousai](https://github.com/SeaDve/Mousai) - Song identifier based on [AudD](https://audd.io/) `#rust` `#libadwaita`.
+- [Ear Tag](https://github.com/knuxify/eartag) - Tag editor designed to edit singular files `#python` `#libadwaita`.
+- [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c`.
+- [Cavalier](https://github.com/fsobolev/cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#python` `#libadwaita`.
+
+## Video
+
+### Video Players
+
+- [Celluloid](https://github.com/celluloid-player/celluloid) - (ex GNOME MPV) frontend for MPV `#c` `#libadwaita`.
+- [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#gjs` `#c`.
+- [Movie Monad](https://lettier.github.io/movie-monad/) - Simple video player powered by GStreamer `#haskell`.
+- [GNOME Videos](https://wiki.gnome.org/Apps/Videos) - Official GNOME desktop video player, also known as Totem `#c` `#gnome`.
+- [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust`.
+
+### Live Stream Viewers
+
+- [GNOME Twitch](https://gnome-twitch.vinszent.com) - Twitch client supporting multiple video backends and with subscription management `#c`.
 
 ### Video Editors
 
-- [Pitivi](http://www.pitivi.org/) #python
-- [Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) #rust #libadwaita
+- [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python`.
+- [Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#libadwaita`.
 
-### Video Downloaders (youtube-dl)
+### Subtitle Editors
 
-- [gydl](https://github.com/JannikHv/gydl) #python
-- [Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) #c++ #libadwaita
+- [Gaupol](https://otsaloma.io/gaupol) - Editor for text-based subtitle files with built-in video player `#python`.
+- [Subtitle Editor](https://kitone.github.io/subtitleeditor/) - Subtitle editor with built-in video player and text correction features `#c++`.
+
+### Screen Recorders
+
+- [Kooha](https://github.com/SeaDve/Kooha) - Distraction-free screen recorder `#rust` `#libadwaita`.
+- [RecApp](https://github.com/amikha1lov/RecApp) - (archived) Simple screencasting application based on GStreamer `#python`.
+
+### Video Tools
+
+- [Identity](https://gitlab.gnome.org/YaLTeR/identity) - Program for comparing multiple versions of an image or video `#rust` `#libadwaita`.
+- [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust`.
+
+## Graphics
+
+### 3D Graphics
+
+- [Shady](https://github.com/misterdanb/shady) - [Shadertoy](https://github.com/misterdanb/shady/blob/master/Shadertoy.com) compatible GLSL shader live editor `#vala`.
+
+### ASCII Art
+
+- [ASCII Images](https://gitlab.com/gregorni/ASCIIImages) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) `#python` `#libadwaita`.
+
+### Image Viewers
+
+- [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust`.
+- [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) - Simple image viewer `#rust` `#libadwaita`.
+- [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c`.
+
+### Raster Graphics
+
+#### Converters
+
+- [Converter](https://gitlab.com/adhami3310/Converter) - [ImageMagick] frontend `#python` `#libadwaita`.
+
+#### Drawing & Editing
+
+- [Conjure](https://github.com/nate-xyz/conjure) - Image enhancer based on [ImageMagick] `#python` `#libadwaita`.
+- [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python`.
+- [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala`.
+- [GIMP](https://www.gimp.or/) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c`.
+- [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python`.
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) - Private information censoring tool `#rust` `#libadwaita`.
+- [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c`.
+
+[imagemagick]: https://imagemagick.org
+
+#### GIF
+
+- [Gifcurry](https://lettier.github.io/gifcurry) - GIF editor and video-to-GIF converter application `#haskell`.
+- [Gifup](https://github.com/BharatKalluri/Gifup) - Video-to-GIF converter `#vala` `#granite`.
+
+#### Optimizers/Compressors
+
+- [Curtail](https://github.com/Huluti/Curtail) - Image compressor with support for PNG, JPEG and WebP images `#python`.
+- [Refract](https://github.com/Blobfolio/refract) - *Guided* image optimization for JPEGs and PNGs producing WebP, AVIF and JPEG XL clones `#rust`.
+
+#### Photography
+
+- [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c`.
+- [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++`.
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Personal photo manager with editing features `#vala` `#gnome`.
+
+#### Upscalers
+
+- [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image upscaler based on [Real-ESRGAN ncnn Vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) `#python` `#libadwaita`.
+
+### Technical Graphics
+
+- [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#libadwaita`.
+- [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#libadwaita`.
+- [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
+- [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#granite`.
+- [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gl`.
+- [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gl`.
+- [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in [Graphviz] `#python`.
+
+[graphviz]: https://www.graphviz.org
+
+### Vector & Fonts
+
+- [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala`.
+- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#libhandy`.
+- [Inkscape](https://inkscape.org) - General vector graphics editor using GTK since version 1.0 `#c++`.
+- [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#libadwaita`.
+- [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Utility to create web font-face kits `#python` `#libadwaita`.
+
+## Multimedia
+
+### Media Downloaders
+
+- [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://youtube-dl.org) `#python`.
+- [Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#c++`  `#libadwaita`.
 
 ### Media Encoders
 
-- [Selene](https://github.com/teejee2008/selene) #vala
+- [Selene](https://github.com/teejee2008/selene) - Audio/video converter for audio and videos files that can encode them to popular output formats like MKV and MP4 `#vala`.
 
-### Book Readers
+### Media Servers
 
-- [Foliate](https://github.com/johnfactotum/foliate) #gjs #libhandy
-- [Bookworm](https://github.com/babluboy/bookworm) #vala #granite
-- [Komikku](https://gitlab.com/valos/Komikku) manga reader #python #libadwaita
+- [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#libadwaita`.
 
-### Web Browsers
-
-- [Eolie](https://wiki.gnome.org/Apps/Eolie) #python
-- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) #c #gnome #libadwaita
-- [luakit](https://luakit.github.io/) #c #lua
-
-#### Specialized Web Browsers / Wrappers
-
-- [hackup](https://github.com/mdh34/hackup) Hacker News client #vala #granite
-- [Wike](https://hugolabe.github.io/Wike) Wikipedia client #python
-- [Geopard](https://ranfdev.com/projects/geopard) Gemini web browser #rust #libadwaita
-- [Lobjur](https://github.com/ranfdev/Lobjur) lobste.rs client #gjs #libadwaita
-- [Tangram](https://github.com/sonnyp/Tangram) Browser for your pinned tabs #gjs #libadwaita
-
-### Social Media Clients
-
-- [Cawbird](https://github.com/IBBoard/cawbird) (working fork of [Corebird](https://corebird.baedert.org/)) for Twitter #vala
-- [Tootle](https://github.com/bleakgrey/tootle) for Mastodon (archived) #vala #libadwaita
-- [Tuba](https://github.com/GeopJr/Tuba) for Mastodon (Tootle fork) #vala #libadwaita
-- [Social](https://gitlab.gnome.org/World/Social) for Mastodon and Pleroma #rust
-- [Giara](https://gitlab.gnome.org/World/giara) for Reddit #python #libadwaita
-- [Headlines](https://gitlab.com/caveman250/Headlines) for Reddit #c++ #libadwaita
-- [Tally](https://github.com/cassidyjames/tally) Plausible Analytics (Google Analytics alternative) client #vala #libadwaita
-
-### Calculators & Math
-
-- [NaSC](https://github.com/parnold-x/nasc) dual pane text based calculator (like Soulver) #vala
-- [Qalculate! GTK+](https://qalculate.github.io) #c++
-- [balistica](https://github.com/steveno/balistica) ballistics calculator #vala
-- [Dippi](https://github.com/cassidyjames/dippi) display DPI calculator #vala #granite
-- [Harvey](https://github.com/danrabbit/harvey) color contrast calculator #vala
-- [Plots](https://github.com/alexhuntley/Plots) #python #libadwaita #opengl
-- [Graphs](https://github.com/SjoerdB93/Graphs) plotting and data manipulation tool #python #libadwaita
-
-### Note Taking
-
-- [GNOME Notes (Bijiben)](https://wiki.gnome.org/Apps/Notes) #c #gnome
-- [Gnote](https://wiki.gnome.org/Apps/Gnote) Tomboy port #c++ #gnome
-- [Notejot](https://github.com/lainsce/notejot) sticky notes #vala #granite
-- [Notes-up](https://github.com/Philip-Scott/Notes-up) #vala #granite
-- [Xournal++](https://github.com/xournalpp/xournalpp) handwriting notebook (with tablet pressure) #c++
-- [Rnote](https://github.com/flxzt/rnote) handwriting notebook (with tablet pressure) #rust #libadwaita
-- [Notekit](https://github.com/blackhole89/notekit/) hierarchical markdown notetaking application with tablet support #c++
-- [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) desktop wiki editor #python
-- [Iridium](https://github.com/matze/iridium) Standard Notes client #rust
-- [Notes](https://github.com/Blquinn/notes) #vala #libadwaita
-- [Notorious](https://gitlab.gnome.org/GabMus/notorious) Notational Velocity / nvALT style UI #python #libhandy
-- [Noteworthy](https://github.com/SeaDve/Noteworthy) #rust #libadwaita
-
-#### Journal/Diary
-
-- [RedNotebook](https://rednotebook.sourceforge.io/) #python
-
-#### Calendar
-
-- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) #c #libadwaita #gnome 
-
-#### To-Do Lists
-
-- [Yishu](https://github.com/lainsce/yishu) (archived) todo.txt based #vala #granite #libhandy
-- [Effitask](https://github.com/sanpii/effitask) todo.txt based #rust
-- [Endeavour](https://gitlab.gnome.org/World/Endeavour) #c #libadwaita
-- [Agenda](https://github.com/dahenson/agenda) #vala #granite
-- [Getting Things GNOME (GTG)](https://github.com/getting-things-gnome/gtg) GTD #python #gnome
-- [Done](https://done.edfloreshz.dev) #rust #libadwaita
-- [Remembrance](https://github.com/dgsasha/remembrance) #python #libadwaita
-
-### Mind Mapping
-
-- [Minder](https://github.com/phase1geo/Minder) #vala #granite
-
-### Project Management
-
-- [Planner](https://github.com/alainm23/planner) #vala #granite
-
-### Timers / Time Tracking
-
-- [Hourglass](https://github.com/sgpthomas/hourglass) #vala #granite
-- [Tomato](https://github.com/luizaugustomm/tomato) (pomodoro) #vala #granite
-- [hamster-gtk](https://github.com/projecthamster/hamster-gtk) #python
-- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) #python
-- [Solanum](https://gitlab.gnome.org/World/Solanum) (pomodoro) #rust
-- [Khronos](https://github.com/lainsce/khronos) #vala #libadwaita
-- [Flowtime](https://github.com/Diego-Ivan/Flowtime) (pomodoro) #vala #libadwaita
-- [Furtherance](https://github.com/lakoliu/Furtherance) #rust #libadwaita
-- [Retro](https://github.com/sonnyp/Retro) customizable digital clock #gjs
-- [Timer](https://github.com/vikdevelop/timer) #python #libadwaita
-- [Chess Clock](https://apps.gnome.org/app/com.clarahobbs.chessclock) over-the-board chess time control #python #libadwaita
-
-### Email
-
-- [Geary](https://wiki.gnome.org/Apps/Geary) #vala #gnome #libhandy
-- [Evolution](https://wiki.gnome.org/Apps/Evolution) #c #gnome
-- [Astroid](https://astroidmail.github.io/) for [notmuch](https://notmuchmail.org/) #c++
+## Internet and Networking
 
 ### Chat and VoIP
 
-#### Matrix
+- [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#libadwaita`.
+- [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python`.
+- [Flare](https://gitlab.com/Schmiddiii/flare) - Signal client `#rust` `#libadwaita`.
+- [Fractal](https://gitlab.gnome.org/GNOME/fractal) - Matrix client for the GNOME desktop `#rust` `#libadwaita`.
+- [Gajim](https://gajim.org) - Fully-featured XMPP client `#python`.
+- [gtkcord4](https://github.com/diamondburned/gtkcord4) - Discord client written in `#go`.
+- [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#libadwaita`.
+- [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#libadwaita`.
+- [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client `#gjs` `#gnome`.
+- [Telegrand](https://github.com/melix99/telegrand) - Telegram client for the GNOME desktop `#rust` `#libadwaita`.
+- [Srain](https://srain.silverrainz.me) - Modern IRC client `#c`.
 
-- [Fractal](https://gitlab.gnome.org/GNOME/fractal) #rust #libadwaita
+### Email
 
-#### Jabber/XMPP
-
-- [Dino](https://dino.im/) #vala
-- [Gajim](https://gajim.org/) #python
-
-#### IRC
-
-- [Polari](https://wiki.gnome.org/Apps/Polari/) #gjs #gnome
-- [Srain](https://srain.silverrainz.me/) #c
-
-#### Discord
-
-- [gtkcord4](https://github.com/diamondburned/gtkcord4) #go
-- [Discover](https://github.com/trigg/Discover) Discord overlay #python
-- [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) #python
-
-#### Video Conference
-
-- [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) using BigBlueButton in the background #vala #libadwaita
-
-#### Telegram
-
-- [Telegrand](https://github.com/melix99/telegrand) #rust #libadwaita
-
-#### Signal
-
-- [Flare](https://gitlab.com/Schmiddiii/flare) #rust #libadwaita
-
-#### QQ
-
-- [gtk-qq](https://github.com/lomirus/gtk-qq) #rust #libadwaita
-
-### Web Service Clients
-
-#### Translation
-
-- [Dialect](https://github.com/gi-lom/dialect) (Google Translate) #python #libadwaita
+- [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++`.
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Email application for the GNOME desktop build around conversations `#vala` `#gnome` `#libhandy`.
+- [Evolution](https://wiki.gnome.org/Apps/Evolution) - Personal information management application that provides integrated mail, calendaring and address book functionality `#c` `#gnome`.
 
 ### File Sharing
 
-#### Direct ("beam") Senders/Receivers
-
-- [Transporter](https://github.com/bleakgrey/Transporter) based on [magic-wormhole](https://github.com/warner/magic-wormhole) #vala #granite
-- [Teleport](https://gitlab.gnome.org/jsparber/teleport) based on Avahi (mDNS) #c
-- [Warp](https://gitlab.gnome.org/World/warp) based on [magic-wormhole](https://github.com/warner/magic-wormhole) #rust #libadwaita
-
-#### BitTorrent Clients
-
-- [Transmission](https://transmissionbt.com/) #c
-- [Fragments](https://gitlab.gnome.org/World/Fragments) uses embedded or remote Transmission daemon #rust #libadwaita
-- [Torrential](https://github.com/davidmhewitt/torrential) alternative GUI on top of Transmission #vala #granite #libunity
-- [Deluge](https://deluge-torrent.org) #python
-
-#### Soulseek Clients
-
-- [Nicotine+](https://nicotine-plus.org/) #python
-
-### File Synchronization
-
-- [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) UI for [Syncthing](https://syncthing.net/) #python
-- [Celeste](https://github.com/hwittenborn/celeste) GUI file synchronization client that can sync with any cloud provider #rust #libadwaita
-
-### Remote File Access
-
-- [Taxi](https://github.com/Alecaddd/taxi) FTP, SFTP, WebDAV, AFP #vala #granite
-
-### File Management
-
-- [Polo](https://github.com/teejee2008/polo) multi-pane & tab file manager #vala
-- [Organizer](https://gitlab.gnome.org/aviwad/organizer) #python
-- [Portofolio](https://github.com/tchx84/Portfolio) file manager for mobile devices #libhandy 
-
-### Backup
-
-- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) UI for [borg](https://github.com/borgbackup/borg) #rust #libadwaita
-- ~~[Bups](https://github.com/emersion/bups) UI for [bup](https://github.com/bup/bup) #python~~ (note: [python2](https://github.com/emersion/bups/issues/34)!)
-- [Timeshift](https://github.com/linuxmint/timeshift) #vala
-- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) #vala #libadwaita
-- [Butter](https://github.com/zhangyuannie/butter) Btrfs snapshot manager #rust #libadwaita
-
-### Office
-
-#### Spreadsheet Editors
-
-- [Gnumeric](http://www.gnumeric.org) #c
-
-#### Presentation Editors
-
-- [Spice-up](https://github.com/Philip-Scott/Spice-up) #vala #granite
-
-#### Presentation Viewers
-
-- [pdfpc](https://github.com/pdfpc/pdfpc) #vala
-- [Pympress](https://github.com/Cimbali/pympress) #python
-
-#### OCR
-
-- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) An easy to use OCR app based on Tesseract engine #vala #granite
-- [gImageView](https://github.com/manisandro/gImageReader) UI for tesseract #c++
-
-#### Document Viewers
-
-- [Xreader](https://github.com/linuxmint/xreader) PDF, Postscript, Linux Mint #c #xapps
-- [Evince](https://gitlab.gnome.org/GNOME/evince) PDF, Postscript, etc. #c #libhandy #gnome
-
-#### PDF Tools
-
-- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) #python
-- [PDF Slicer](https://github.com/junrrein/pdfslicer) #c++
-
-#### Document Managers
-
-- [Paperwork](https://openpaper.work) #python
-- [GNOME Documents](https://wiki.gnome.org/Apps/Documents) #gjs
-
-### Finance
-
-#### Budget and Accounting Managers
-
-- [Envelope](https://github.com/cjfloss/envelope) #vala #granite
-- [Grisbi](http://grisbi.org/) #c
-- [Denaro](https://github.com/nlogozzo/NickvisionMoney) #c++ #libadwaita
-
-#### Exchange Rate Viewers
-
-- [Markets](https://github.com/bitstower/markets) #vala #libhandy
-- [Coin](https://github.com/lainsce/coin) #vala #granite
-- [Crypto](https://github.com/ErikWallstrom/Crypto) #c
-
-*Warning: cryptocurrency is [bad](https://www.reddit.com/r/Buttcoin/)*
-
-### Graphics
-
-#### 3D
-
-- [Shady](https://github.com/misterdanb/shady) shadertoy compatible GLSL live editor #vala
-
-#### Vector
-
-- [Inkscape](https://inkscape.org/en/) (GTK3 since 1.0) #c++
-
-##### Font
-
-- [Birdfont](https://github.com/johanmattssonm/birdfont) #vala
-- [Font Downloader](https://github.com/GustavoPeredo/font-downloader) #python #libhandy
-- [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) #python #libadwaita
-
-##### CAD/EDA
-
-- [SolveSpace](http://solvespace.com/index.pl) #c++ #gl
-- [Horizon](https://github.com/horizon-eda/horizon) printed circuit board PCB design #c++ #gl
-- [Design](https://github.com/dubstar-04/Design) 2D CAD application #gjs #libadwaita
-
-##### Diagramming
-
-- [Gaphor](https://gaphor.org) UML/SysML modeling application #python
-
-#### Raster
-
-- [Drawing](https://github.com/maoschanz/drawing) simple like mspaint #python
-- [GIMP](https://www.gimp.org/) (GTK3 in git: [master](https://gitlab.gnome.org/GNOME/gimp)) #c
-- [MyPaint](http://mypaint.org/) #python
-- [Effector](https://notabug.org/grindhold/effector) GEGL filter app with a flow graph UI #vala
-- [Obfuscate](https://gitlab.gnome.org/World/obfuscate) simple redacting/censoring/blurring #rust #libadwaita
-- [Swappy](https://github.com/jtheoof/swappy) quick screenshot editing for wlroots based compositors #c
-- [Pizzara](https://pizarra.categulario.xyz/en/) digital chalkboard #rust
-- [Conjure](https://github.com/nate-xyz/conjure) image enhancer based on ImageMagic #python #libadwaita
-
-##### Photo (non-destructive editing)
-
-- [Darktable](https://www.darktable.org/) #c
-- [RawTherapee](http://rawtherapee.com/) #c++
-- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) #vala #gnome
-
-##### GIF
-
-- [gifcurry](https://github.com/lettier/gifcurry) #haskell
-- [Gifup](https://github.com/BharatKalluri/Gifup) #vala #granite
-
-##### Optimizers/Compressors
-
-- [Curtail](https://github.com/Huluti/Curtail) with optipng, pngquant, jpegoptim #python
-- [Refract](https://github.com/Blobfolio/refract) *guided* optimization for WebP, AVIF and JPEG XL #rust
-
-##### Upscaling
-
-- [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) Real-ESRGAN ncnn Vulkan front-end #python #libadwaita
-
-##### Converters
-
-- [Converter](https://gitlab.com/adhami3310/Converter) ImageMagick frontend #python #libadwaita
-
-##### ASCII art
-
-- [ASCII Images](https://gitlab.com/gregorni/ASCIIImages) jp2a frontend #python #libadwaita
-
-### Design Utilities
-
-- [LookBook](https://github.com/danrabbit/lookbook) system icon browser #vala #granite
-- [Icon Preview](https://gitlab.gnome.org/World/icon-tool) #vala
-- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) for gnome xml files #python
-- [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) #rust #libadwaita
-- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) #rust libadwaita
-- [Emulsion](https://github.com/lainsce/emulsion) color palettes #vala #libadwaita
-- [Eyedropper](https://github.com/FineFindus/eyedropper) color picker and formatter #rust #libadwaita
-- [Emblem](https://gitlab.gnome.org/World/design/emblem) project avatars generator #rust #libadwaita
-- [Schemes](https://gitlab.gnome.org/chergert/schemes) `GtkSourceView` style-schemes editor #c #libadwaita
-- [Paleta](https://github.com/nate-xyz/paleta) image dominant color extractor #python #libadwaita
-
-### Terminals
-
-- [Galacritty](https://github.com/myfreeweb/galacritty) (shameless plug :D) GTK version of [Alacritty](https://github.com/jwilm/alacritty) (not really maintained for now sorry) #rust
-- [Guake](https://github.com/Guake/guake) dropdown terminal #python #vte
-- [Tilix](https://github.com/gnunn1/tilix) tiling and dropdown terminal #d #vte
-- [GNOME Console](https://gitlab.gnome.org/GNOME/console) #c #vte #gnome
-- [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) #c #vte #gnome
-- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) #vala #libdwaita #vte
-
-### Code
-
-#### NeoVim GUIs
-
-- [gnvim](https://github.com/vhakulinen/gnvim) #rust
-- [neovim-gtk](https://github.com/daa84/neovim-gtk) #rust
-  - [maintained fork](https://github.com/Lyude/neovim-gtk)
-- [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) #python
-
-#### Xi GUIs
-
-- [Tau (ex gxi)](https://gitlab.gnome.org/World/Tau) #rust
-- [xi-gtk](https://github.com/eyelash/xi-gtk) #vala
-
-#### Simple editors and Light IDEs
-
-- [gedit](https://wiki.gnome.org/Apps/Gedit) #c #gnome
-- [Geany](https://www.geany.org/) #c
-- [Vulcan](https://github.com/zesterer/vulcan) #vala
-- [elementary IDE](https://github.com/donadigo/elementary-ide) not official elementary #vala #granite
-- [elementary Code](https://github.com/elementary/code) #vala #granite
-- [NEd](https://github.com/ngtk3/NEd) #nim
-- [Xed](https://github.com/linuxmint/xed) #c #xapps
-- [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) #c #gnome
-- [Norka](https://tenderowl.com/work/norka) #python #granite
-
-#### Larger IDEs
-
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) #c #gnome
-- [Anjuta](https://wiki.gnome.org/Apps/Anjuta) #c #gnome
-- [Valama](https://github.com/Valama/valama) #vala
-- [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) #julia
-- [Workbench](https://github.com/sonnyp/Workbench) #gjs #libadwaita
-- [Playhouse](https://github.com/sonnyp/Playhouse) Playground for HTML/CSS/JavaScript #gjs #libadwaita
-
-### UI Design
-
-- [Glade](https://glade.gnome.org/) #c #gnome
-- [Cambalache](https://gitlab.gnome.org/jpu/cambalache) Glade's successor #python
-- [Gradience](https://github.com/GradienceTeam/Gradience) Libadwaita apps customizer #python #libadwaita
-
-### Version Control and Diffs
-
-- [gitg](https://wiki.gnome.org/Apps/Gitg) Git GUI client #vala #gnome
-- [Meld](https://gitlab.gnome.org/GNOME/meld) visual diff and merge tool #python #gnome
-- [Gnomit](https://github.com/small-tech/gnomit) Git commit message editor #gjs
-- [Commit](https://github.com/sonnyp/Commit) Commit message editor for Git and Mercurial #gjs #libadwaita
-- [Diffuse](https://github.com/MightyCreak/diffuse) text file comparing/merging tool #python
-
-### Documentation
-
-- [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) #python
-- [quickDocs](https://github.com/mdh34/quickDocs) #vala #granite
-
-### Markdown
-
-- [Marker](https://github.com/fabiocolacio/Marker) #c
-- [Showdown](https://github.com/craigbarnes/showdown) #vala
-- [Apostrophe](https://gitlab.gnome.org/World/apostrophe) #python #libhandy
-- [markdown-rs](https://github.com/nilgradisnik/markdown-rs) #rust
-- [Quilter](https://github.com/lainsce/quilter) #vala #libhandy
-- [Paper](https://posidon.io/paper) #vala #libadwaita
-
-### LaTeX
-
-- [Gummi](https://github.com/alexandervdm/gummi) #c
-- [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) #vala #gnome
-- [Setzer](https://github.com/cvfosammmm/Setzer) #python
-- [Citations](https://gitlab.gnome.org/World/citations) BibTex bibliography manager #rust #libadwaita
-
-### Graphviz
-
-- [xdot.py](https://github.com/jrfonseca/xdot.py) #python
-- [GraphUI](https://github.com/artemanufrij/graphui) #vala #granite
-
-### Regular Expression
-
-- [RegexTester](https://github.com/artemanufrij/regextester) #vala #granite
-
-### Text Processing
-
-- [Text Pieces](https://github.com/liferooter/textpieces) #vala #libadwaita
-- [KonbuCase](https://github.com/ryonakano/konbucase) case converting app #vala #granite
-- [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) visual semi-structured data (JSON) editor #python #libadwaita
-- [Lorem](https://gitlab.gnome.org/World/design/lorem) Lorem Ipsum placeholder text generator #rust #libadwaita
-- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) with JSON to YAML converter, CRON expression parser, regex tester and more #python #libadwaita
-
-### Hex Editors
-
-- [GHex](https://wiki.gnome.org/Apps/Ghex) #c #libadwaita #gnome
-
-### Remote Desktop
-
-- [Connections](https://gitlab.gnome.org/GNOME/connections) RDP, VNC #vala #gnome
-- [Remmina](https://github.com/FreeRDP/Remmina) RDP, VNC, etc (plugin system) #c
-- [Vinagre](https://wiki.gnome.org/Apps/Vinagre) RDP, VNC, SPICE #c #gnome
-
-### SSH
-
-- [EasySSH](https://github.com/muriloventuroso/easyssh) connection manager #vala
-
-### Database Clients
-
-- [Sequeler](https://github.com/Alecaddd/sequeler) #vala #granite
-- [Daty](https://gitlab.gnome.org/World/Daty) for Wikidata (which is kind of a database?) #python #libhandy
-
-### Disk Imaging
-
-- [Imageburner](https://github.com/artemanufrij/imageburner) for SD/USB #vala #granite
-- [Popsicle](https://github.com/pop-os/popsicle) for SD/USB #rust
-- [GNOME MultiWriter](https://wiki.gnome.org/Apps/MultiWriter) for SD/USB #c #gnome
-- [Brasero](https://wiki.gnome.org/Apps/Brasero) for CD/DVD #c #gnome
-
-### File Renaming
-
-- [Szyszka](https://github.com/qarmin/szyszka) #rust
-- [tv-renamer](https://github.com/mmstick/tv-renamer) #rust
-
-### Security and Privacy
-
-- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) based on MAT2 #python #libadwaita
-- [MAT (Metadata Anonymization Toolkit)](https://0xacab.org/mat/mat) #python
-- [Collision](https://github.com/GeopJr/Collision) #crystal #libadwaita
-- [GtkHash](https://github.com/tristanheaven/gtkhash) #c
-- [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) parental controls client #c #libadwaita
-- [Raider](https://github.com/ADBeveridge/raider) file shredder #c #libadwaita
-- [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) Kerberos tickets monitoring #c #libadwaita
-
-#### Password Management
-
-- [Secrets](https://gitlab.gnome.org/World/secrets) KeePass v4 format based #python #libadwaita
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) #python
-- [Gonepass](https://github.com/jbreams/gonepass) 1Password vault *viewer* #c++
-- [Obliviate](https://github.com/elfenware/obliviate) password manager that does not store passwords #vala
-
-#### One-Time Password
-
-- [Authenticator](https://gitlab.gnome.org/World/Authenticator) #rust #libdawaita
-- [OTPClient](https://github.com/paolostivanin/OTPClient) #c
-
-### System and File Cleaning
-
-- [BleachBit](https://www.bleachbit.org/) #python
-- [Czkawka](https://github.com/qarmin/czkawka) #rust
-
-### System Monitoring and Info
-
-- [GNOME Usage](https://wiki.gnome.org/Apps/Usage) #vala #gnome
-- [CPU-X](https://x0rg.github.io/CPU-X/) similar to CPU-Z #c
-- [sysctlview](https://gitlab.com/alfix/sysctlview) FreeBSD sysctl MIB tree explorer #c++
-- [GreenWithEnvy](https://gitlab.com/leinardi/gwe) NVIDIA card monitoring and fan/OC controlling #python
-- [GNOME Logs](https://wiki.gnome.org/Apps/Logs) systemd logs viewer #gnome #c #libadwaita
-
-### Network Monitoring / Traffic Analysis
-
-- [Hotwire](https://github.com/emmanueltouzery/hotwire) high level view of tcpdump for specific protocols #rust
-
-#### Disk Usage Explorers
-
-- [GNOME Disk Usage Analyzer (Baobab)](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) DaisyDisk style circle chart #vala #gnome
-
-### System Configuration
-
-- [pulse-flow](https://github.com/benwaffle/pulse-flow) PulseAudio config tool with a flow graph UI #vala
-- [doppler](https://github.com/spacekookie/doppler) Redshift (f.lux / night light style screen color filter thingy) UI #rust
-- [Flatseal](https://github.com/tchx84/Flatseal) Flatpak permission manager #gjs #libandy
-- [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) GDM settings manager #python #libadwaita
-- [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) GNOME Shell configuration utility #gjs #libadwaita
-- [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) #rust #libadwaita
-- [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) #libadwaita #python
-- [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter #rust #relm4
-
-### Installation
-
-- [Parceldude](https://notabug.org/grindhold/parceldude) batch installer for Windows MSI packages #vala
-- [Turtle](https://tenderowl.com/work/turtle) `.deskop` files creation tool #python #granite
-- [mlinstall](https://petabyt.github.io/mlinstall) Magic Lantern installer #python
-- [Pin It!](https://github.com/ryonakano/pinit) portable apps shortcut creator #vala #libadwaita
-- [Extension Manager](https://github.com/mjakeman/extension-manager) for GNOME Shell #c #libadwaita
-- [Nix Software Center](https://github.com/vlinkz/nix-software-center) #rust #libadwaita
-- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) Proton version manager #vala #libadwaita
-- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer #python #libadwaita
+- [Deluge](https://deluge-torrent.org) - BitTorrent client available for Linux, macOS and Windows `#python`.
+- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client built on top of Transmission `#rust` `#libadwaita`.
+- [Nicotine+](https://nicotine-plus.org) - Graphical client for the [Soulseek](https://www.slsknet.org) peer-to-peer network `#python`.
+- [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c`.
+- [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c`.
+- [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#granite`.
+- [Warp](https://apps.gnome.org/app/app.drey.Warp) - [magic-wormhole] client `#rust` `#libadwaita`.
+- [Torrential](https://github.com/davidmhewitt/torrential) - Alternative GUI on top of the Transmission BitTorrent client `#vala` `#granite`.
+
+[magic-wormhole]: https://github.com/warner/magic-wormhole
+
+### Network Monitoring
+
+- [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust`.
 
 ### News/Feed Readers
 
-- [Feeds](https://gitlab.gnome.org/World/gfeeds) #python
-- [Liferea](https://lzone.de/liferea/) #c
-- [Coffee](https://github.com/nick92/coffee) #vala
-- [News Flash](https://gitlab.com/news-flash/news_flash_gtk) #rust #libhandy
+- [Coffee](https://nick92.github.io/coffee) - News and weather reader for sources provided by News API and DarkSky `#vala`.
+- [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#libadwaita`.
+- [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c`.
+- [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#libadwaita`.
 
-### Weather Viewers
+### Remote Desktop
 
-- [Meteo](https://gitlab.com/bitseater/meteo) #vala
-- [bitseater/Weather](https://github.com/bitseater/weather) #vala
-- [GNOME Weather](https://wiki.gnome.org/Apps/Weather) #gjs #gnome
-- [Nimbus](https://github.com/danrabbit/nimbus) #vala
+- [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gnome`.
+- [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c`.
+- [Vinagre](https://wiki.gnome.org/Apps/Vinagre) - Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gnome`.
 
-### Productivity
+### Social Media Clients
 
-- [Workspaces](https://github.com/DevAlien/workspaces) #vala #granite
-- [Random](https://codeberg.org/foreverxml/random) #vala #libadwaita
-- [Frog](https://tenderowl.com/work/frog) text extractor #python #granite
-- [Cigale](https://github.com/emmanueltouzery/cigale) activities timesheet #rust
-- [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) emoji picker #gnome #c #libadwaita
-- [Boatswain](https://gitlab.gnome.org/World/boatswain) Elgato Stream Deck controller #c #libadwaita
+- [Cawbird](https://github.com/IBBoard/cawbird) - (archived) Fork of the [Corebird](https://github.com/baedert/corebird) client for Twitter discontinued from January 2023 `#vala`.
+- [Giara](https://gitlab.gnome.org/World/giara) - Reddit fronted created with Linux in mind `#python` `#libadwaita`.
+- [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit client `#c++` `#libadwaita`.
+- [NewCaw](https://github.com/CodedOre/NewCaw) - Rewrite of Cawbird as a Mastodon client `#vala` `#libadwaita`.
+- [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust`.
+- [Tootle](https://gitlab.gnome.org/World/tootle) - Mastodon client `#vala` `#libadwaita`.
+- [Tuba](https://tuba.geopjr.dev) - Mastodon client fork of Tootle `#vala` `#libadwaita`.
 
-### Health & Fitness
+### Specialized Web Browsers / Wrappers
 
-- [Health](https://gitlab.gnome.org/World/Health) currently supports Google Fit #rust #libadwaita
+- [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#libadwaita`.
+- [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#granite`.
+- [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#libadwaita`.
+- [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#libadwaita`.
+- [Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs `#gjs` `#libadwaita`.
+- [Wike](https://hugolabe.github.io/Wike) - Wikipedia client `#python`.
+
+### Web Browsers
+
+- [Eolie](https://wiki.gnome.org/Apps/Eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#libhandy`.
+- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c` `#gnome` `#libadwaita`.
+- [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#lua`.
+
+[webkit]: https://webkit.org
+
+## Office
+
+### Book Readers
+
+- [Bookworm](https://babluboy.github.io/bookworm) - Simple eBook reader for elementary OS `#vala` `#granite`.
+- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader based on [Epub.js](https://github.com/futurepress/epub.js) `#gjs` `#libhandy`.
+- [Komikku](https://valos.gitlab.io/Komikku) - Manga reader for the GNOME desktop with online and offline reading `#python` `#libadwaita`.
+
+### Calculators & Math
+
+- [balistica](https://github.com/fusilero/balistica) - Exterior ballistics calculator `#vala`.
+- [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#libadwaita`.
+- [Graphs](https://github.com/SjoerdB93/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#libadwaita`.
+- [NaSC](http://parnold-x.github.io/nasc) - Dual pane text based calculator `#vala`.
+- [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#opengl`.
+- [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++`.
+- [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c`.
+
+### Calendar
+
+- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) - Simple calendar for the GNOME desktop `#c` `#libadwaita` `#gnome`.
+
+### Document Managers
+
+- [GNOME Documents](https://wiki.gnome.org/Apps/Documents) - (archived) Document manager for the GNOME desktop with collection features `#gjs`.
+- [Paperwork](https://openpaper.work) - Document manager with scan features `#python`.
+
+### Document Viewers
+
+- [Xreader](https://github.com/linuxmint/xreader) - Generic document viewer with support for PDF, Postscript, djvu, comics and more `#c` `#xapps`.
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, djvu, comics etc. and SyncTex support with gedit `#c` `#libhandy` `#gnome`.
+
+### Note-taking
+
+- [GNOME Notes](https://wiki.gnome.org/Apps/Notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gnome`.
+- [Gnote](https://wiki.gnome.org/Apps/Gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gnome`.
+- [Iridium](https://github.com/matze/iridium) - [Standard Notes](https://standardnotes.org) local-first client `#rust`.
+- [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#granite`.
+- [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++`.
+- [Notes](https://github.com/Blquinn/notes) - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#libadwaita`.
+- [Notes-Up](https://github.com/Philip-Scott/Notes-up) - Markdown note manager for elementary OS `#vala` `#granite`.
+- [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, fast, and version-controlled Markdown notes application `#rust` `#libadwaita`.
+- [Notorious](https://gitlab.gnome.org/GabMus/notorious) - Keyboard-centric notes application `#python` `#libhandy`.
+- [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#libadwaita`.
+- [RedNotebook](https://rednotebook.sourceforge.io) - Desktop journal application that lets you format, tag and search your entries `#python`.
+- [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#libadwaita`.
+- [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++`.
+- [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python`.
+
+### OCR
+
+- [Frog](https://tenderowl.com/work/frog) - Intuitive text extraction tool for the GNOME desktop.
+- [gImageView](https://github.com/manisandro/gImageReader) - GTK/Qt front-end to [Tesseract] `#c++`.
+- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Easy to use OCR application based on [Tesseract] `#vala` `#granite`.
+
+[tesseract]: https://github.com/tesseract-ocr/tesseract
+
+### PDF Tools
+
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor with merging, splitting, rotating, cropping and rearranging based on [pikepdf](https://github.com/pikepdf/pikepdf) `#python`.
+- [PDF Slicer](https://junrrein.github.io/pdfslicer) - Simple application to extract, merge, rotate and reorder pages of PDF documents with undo/redo support `#c++`.
+
+### Presentation
+
+- [pdfpc](https://pdfpc.github.io) - Presentation console with multi-monitor support for PDF files `#vala`.
+- [Pympress](https://github.com/Cimbali/pympress) - Presentation tool designed for dual-screen setups such as presentations and public talks `#python`.
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) - Web presentation editor `#vala` `#granite`.
+
+### Translation
+
+- [Dialect](https://github.com/gi-lom/dialect) - Translation based on Google Translate and LibreTranslate `#python` `#libadwaita`.
+
+## Productivity
+
+### Desktop Productivity
+
+- [Boatswain](https://gitlab.gnome.org/World/boatswain) - Elgato Stream Deck controller `#c` `#libadwaita`.
+- [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust`.
+- [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) - Emoji picker `#c` `#libadwaita` `#gnome`.
+- [Random](https://random.amongtech.cc) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
+- [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust`.
+- [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust`.
+- [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementaryOS `#vala` `#granite`.
+
+### Mind-mapping
+
+- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for elementaryOS `#vala` `#granite`.
+
+### Project Management
+
+- [Planner](https://useplanner.com) - Project and task manager with Todoist support `#vala` `#granite`.
+
+### Timers / Time Tracking
+
+- [Chess Clock](https://apps.gnome.org/app/com.clarahobbs.chessclock) - Over-the-board chess time control `#python` `#libadwaita`.
+- [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#libadwaita`.
+- [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#libadwaita`.
+- [hamster-gtk](https://github.com/projecthamster/hamster-gtk) - Time tracker provided by `hamster-lib` `#python`.
+- [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#granite`.
+- [Khronos](https://github.com/lainsce/khronos) - Task time logger `#vala` `#libadwaita`.
+- [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#libadwaita`.
+- [Solanum](https://gitlab.gnome.org/World/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#libadwaita`.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python`.
+- [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementaryOS `#vala` `#granite`.
+- [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#libadwaita`.
+
+### To-do Lists
+
+- [Agenda](https://github.com/dahenson/agenda) - Simple to-do application for elementaryOS `#vala` `#granite`.
+- [Done](https://done.edfloreshz.dev) - To-do application that allows you to consolidate your existing task providers into a single place `#rust` `#libadwaita`.
+- [Endeavour](https://gitlab.gnome.org/World/Endeavour) - Personal tasks manager with complete integration with the GNOME desktop `#c` `#libadwaita`.
+- [Effitask](https://github.com/sanpii/effitask) - [todo.txt] client with due, flag, future note and schedule addons `#rust`.
+- [Getting Things GNOME](https://github.com/getting-things-gnome/gtg) - Personal task organizer for the GNOME desktop inspired by [Getting Things Done](https://gettingthingsdone.com/what-is-gtd) `#python` `#gnome`.
+- [Remembrance](https://github.com/dgsasha/remembrance) - Simple reminder app `#python` `#libadwaita`.
+- [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#granite` `#libhandy`.
+
+[todo.txt]: https://github.com/todotxt/todo.txt
+
+## Security and Privacy
+
+- [Collision](https://collision.geopjr.dev) - Tool to generate, compare and verify hashes `#crystal` `#libadwaita`.
+- [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c`.
+- [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#libadwaita`.
+- [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#libadwaita`.
+- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr) - File metadata cleanre based on MAT2 `#python` `#libadwaita`.
+- [Raider](https://github.com/ADBeveridge/raider) - Application to securely delete your files for the GNOME desktop `#c` `#libadwaita`.
+
+### Password Management
+
+- [Authenticator](https://gitlab.gnome.org/World/Authenticator) - Two-factor authentication codes generator `#rust` `#libdawaita`.
+- [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++`.
+- [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala`.
+- [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c`.
+- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python`.
+- [Secrets](https://gitlab.gnome.org/World/secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#libadwaita`.
+
+## Finance
+
+### Budget and Accounting Managers
+
+- [Denaro](https://github.com/nlogozzo/NickvisionMoney) - Cross-platform personal finance manager `#c++` `#libadwaita`.
+- [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#granite`.
+- [Grisbi](http://grisbi.org) - 20 years old accounting application `#c`.
+
+### Exchange Rate Viewers
+
+- [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c`.
+- [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#libhandy`.
+
+## Development
 
 ### Containers
 
-- [Pods](https://github.com/marhkb/pods) Podman GUI #rust #libadwaita
-- [Atoms](https://github.com/AtomsDevs/Atoms) chroot environments manager #python #libadwaita
-- [Bottles](https://github.com/bottlesdevs/Bottles) wineprefix environments manager #python #libadwaita
-- [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) toolbx containers manager #rust #libadwaita
+- [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#libadwaita`.
+- [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager `#python` `#libadwaita`.
+- [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#libadwaita`.
+- [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#libadwaita`.
 
-### Task scheduling
+### Documentation
 
-- [Time Switch](https://github.com/fsobolev/timeswitch) computer shutdown timer #python #libadwaita
+- [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) - [DevDocs] browser and viewer `#python`.
+- [quickDocs](https://github.com/mdh34/quickDocs) - Documentation browser for [DevDocs] and Valadoc `#vala` `#granite`.
 
-### Map Viewers
- 
-- [Atlas](https://github.com/ryonakano/atlas) #vala #libhandy #granite
+[devdocs]: https://devdocs.io
 
-### Game Launchers
+### Hex Editors
 
-- [Lutris](https://lutris.net) launcher covering most gaming systems #python
-- [Cartridges](https://github.com/kra-mo/cartridges) launcher with Steam library import #python #libadwaita
+- [GHex](https://wiki.gnome.org/Apps/Ghex) - Tool to load data from any file, view and edit it in either hex or ASCII `#c` `#libadwaita` `#gnome`.
 
-### Dictionaries
+### IDEs
 
-- [Wordbook](https://github.com/fushinari/Wordbook) english dictionary #python #libadwaita
-- [Diccionario de la Lengua](https://codeberg.org/rafaelmardojai/diccionario-lengua) spanish dictionary #gjs #libadwaita
+#### Featureful IDEs
+
+- [Anjuta](https://wiki.gnome.org/Apps/Anjuta) - (archived) IDE with a GUI designer for the GNOME desktop `#c` `#gnome`.
+- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Tool to help you write and contribute to great GNOME-based applications `#c` `#libadwaita` `#gnome`.
+- [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) - GTK-based IDE for Julia `#julia`.
+- [Playhouse](https://github.com/sonnyp/Playhouse) - Playground for HTML/CSS/JavaScript `#gjs` `#libadwaita`.
+- [Valama](https://github.com/Valama/valama) - Vala IDE `#vala`.
+- [Workbench](https://apps.gnome.org/app/re.sonny.Workbench) - Tool to experiment with GNOME technologies `#gjs` `#libadwaita`.
+
+#### Neovim GUIs
+
+- [GNvim](https://github.com/vhakulinen/gnvim) - GUI for Neovim without any web bloat `#rust`.
+- [neovim-gtk](https://github.com/Lyude/neovim-gtk) - GUI for Neovim with ligatures support `#rust`.
+- [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) - PyGTK3 frontend to Neovim with some visual GUI elements `#python`.
+
+#### Simple Editors and Light IDEs
+
+- [elementary Code](https://github.com/elementary/code) - Code editor designed for elementaryOS `#vala` `#granite`.
+- [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementaryOS-oriented IDE `#vala` `#granite`.
+- [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c`.
+- [gedit](https://wiki.gnome.org/Apps/Gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gnome`.
+- [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) - Simple text editor that focuses on session management `#c` `#gnome`.
+- [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#granite`.
+- [Vulcan](https://github.com/zesterer/vulcan) - Minimalistic text editor designed for both ordinary use and software development `#vala`.
+- [Xed](https://github.com/linuxmint/xed) - Small and lightweight text editor `#c` `#xapps`.
+
+#### Xi GUIs
+
+- [Tau](https://gitlab.gnome.org/World/Tau) - GTK frontend for Xi, previously called gxi `#rust`.
+- [xi-gtk](https://github.com/eyelash/xi-gtk) - GTK fronted for the Xi `#vala`.
+
+### Markdown
+
+- [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor `#python` `#libadwaita`.
+- [markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Distraction-free Markdown editior `#rust`.
+- [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c`.
+- [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#libadwaita`.
+- [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala`.
+
+### LaTeX
+
+- [Citations](https://gitlab.gnome.org/World/citations) - BibTex bibliography manager `#rust` `#libadwaita`.
+- [Gummi](https://gummi.app) - Simple LaTeX editor `#c`.
+- [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gnome`.
+- [Setzer](https://www.cvfosammmm.org/setzer) - Simple yet full-featured LaTeX editor `#python`.
+
+### Terminals
+
+- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#libdwaita` `#vte`.
+- [GNOME Console](https://gitlab.gnome.org/GNOME/console) - Minimal terminal for the GNOME desktop `#c` `#vte` `#gnome`.
+- [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#vte` `#gnome`.
+- [Guake](http://guake-project.org) - Dropdown terminal for the GNOME desktop `#python` `#vte`.
+- [Tilix](https://gnunn1.github.io/tilix-web) - Tiling and dropdown terminal for the GNOME desktop `#d` `#vte`.
+
+### Text Processing
+
+- [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) - Visual semi-structured data (JSON) editor `#python` `#libadwaita`.
+- [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#granite`.
+- [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#granite`.
+- [Text Pieces](https://github.com/liferooter/textpieces) - Swiss knife of text processing `#vala` `#libadwaita`.
+
+### Toolboxes
+
+- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developper toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#pytohn` `#libadwaita`.
+
+### UI Design
+
+- [Glade](https://glade.gnome.org) - RAD tool to enable quick & easy development of user interfaces for the GTK toolkit and the GNOME desktop `#c` `#gnome`.
+- [Cambalache](https://gitlab.gnome.org/jpu/cambalache) - RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy `#python`.
+- [Gradience](https://github.com/GradienceTeam/Gradience) - Libadwaita applications customizer `#python` `#libadwaita`.
+
+### Version Control and Diffs
+
+- [Commit](https://github.com/sonnyp/Commit) - Commit message editor for Git and Mercurial `#gjs` `#libadwaita`.
+- [Diffuse](https://github.com/MightyCreak/diffuse) - Text file comparing/merging tool `#python`.
+- [gitg](https://wiki.gnome.org/Apps/Gitg) - Git GUI client `#vala` `#gnome`.
+- [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs`.
+- [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gnome`.
+
+## Design
+
+- [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#libadwaita`.
+- [Eyedropper](https://github.com/FineFindus/eyedropper) - Color picker and formatter `#rust` `#libadwaita`.
+- [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala`.
+- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - System icon browser `#rust` `libadwaita`.
+- [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#vala`.
+- [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#granite`.
+- [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#python` `#libadwaita`.
+- [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#libadwaita`.
+
+## File and Data Management
+
+### Backup
+
+- [Butter](https://github.com/zhangyuannie/butter) - Btrfs snapshot manager `#rust` `#libadwaita`.
+- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) - Simple backup tool for the GNOME desktop `#vala` `#libadwaita`.
+- [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Backup application based on [BorgBackup](https://www.borgbackup.org/support/fund.html) with remote, scheduling and encryption features `#rust` `#libadwaita`.
+- [Timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots `#vala`.
+
+### Database Clients
+
+- [Daty](https://gitlab.gnome.org/World/Daty) - Cross-platform advanced Wikidata editor `#python` `#libhandy`.
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#granite`.
+
+### Disk Imaging
+
+- [Brasero](https://wiki.gnome.org/Apps/Brasero) - Application to burn CD/DVD designed to be as simple as possible `#c` `#gnome`.
+- [GNOME MultiWriter](https://wiki.gnome.org/Apps/MultiWriter) - Utility to write an ISO file to multiple USB devices at once `#c` `#gnome`.
+- [Imageburner](https://github.com/artemanufrij/imageburner) - Simple imageburner for SD/USB designed for elementaryOS `#vala` `#granite`.
+- [Popsicle](https://github.com/pop-os/popsicle) - Utility for flashing multiple USB devices in parallel `#rust`.
+
+### File Management
+
+- [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python`.
+- [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala`.
+- [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#libhandy`.
+
+### File Synchronisation
+
+- [Celeste](https://github.com/hwittenborn/celeste) - File synchronization client that can sync with any cloud provider `#rust` `#libadwaita`.
+- [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) - UI for [Syncthing](https://syncthing.net) with the same features as the Web UI `#python`.
+
+### Remote File Access
+
+- [Taxi](https://github.com/Alecaddd/taxi) - FTP client that also supports SFTP, WebDAV and AFP `#vala` `#granite`.
+
+## System Management
+
+### Software Installation
+
+- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer `#python` `#libadwaita`.
+- [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#libadwaita`.
+- [mlinstall](https://petabyt.github.io/mlinstall) - USB Magic Lantern installer `#python`.
+- [Parceldude](https://notabug.org/grindhold/parceldude) - Batch installer for Windows MSI packages `#vala`.
+- [Pin It!](https://github.com/ryonakano/pinit) - Portable applications shortcut creator `#vala` `#libadwaita`.
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#libadwaita`.
+- [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#granite`.
+- [Nix Software Center](https://github.com/vlinkz/nix-software-center) - Software center to easity install and manage Nix packages `#rust` `#libadwaita`.
+
+### System and File Cleaning
+
+- [Czkawka](https://github.com/qarmin/czkawka) - Cross-platform, simple and fast application to remove unnecessary files from your computer `#rust`.
+- [BleachBit](https://www.bleachbit.org) - Cross-platform Disk space cleaner and system optimizer `#python`.
+
+### System Configuration
+
+- [doppler](https://github.com/spacekookie/doppler) - Fronted for Redshift allowing to configure different display temperatures for each time of day `#rust`.
+- [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#libadwaita`.
+- [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala`.
+- [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#libandy`.
+- [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings) - GNOME's Login Manager (GDM) settings manager `#python` `#libadwaita`.
+- [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#libadwaita`.
+- [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala`.
+- [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#libadwaita`.
+- [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#relm4`.
+
+### System Monitoring and Info
+
+- [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c`.
+- [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gnome`.
+- [GNOME Logs](https://wiki.gnome.org/Apps/Logs) - systemd logs viewer `#c` `#gnome` `#libadwaita`.
+- [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
+- [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
+- [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
+
+### Task Scheduling
+
+- [Time Switch](https://github.com/fsobolev/timeswitch) - Computer shutdown timer `#python` `#libadwaita`.
+
+## Gaming
+
+- [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
+- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam library import `#python` `#libadwaita`.
+
+## Health and Fitness
+
+- [Health](https://gitlab.gnome.org/World/Health) - Fitness goals tracker `#rust` `#libadwaita`.
+
+## Map Viewers
+
+- [Atlas](https://github.com/ryonakano/atlas) - Map viewer designed for elementaryOS `#vala` `#granite` `#libhandy`.
+
+## Weather Viewers
+
+- [GNOME Weather](https://wiki.gnome.org/Apps/Weather) - Weather application for the GNOME desktop `#gjs` `#gnome`.
+- [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet  `#vala` `#libhandy`.
+- [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala`.
