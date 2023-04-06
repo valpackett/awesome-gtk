@@ -360,7 +360,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [NewCaw](https://github.com/CodedOre/NewCaw) - Rewrite of Cawbird as a Mastodon client `#vala` `#libadwaita`.
 - [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust`.
 - [Tootle](https://gitlab.gnome.org/World/tootle) - Mastodon client `#vala` `#libadwaita`.
-- [Tooth](https://github.com/GeopJr/Tooth) - Mastodon client fork of Tootle `#vala` `#libadwaita`.
+- [Tuba](https://tuba.geopjr.dev) - Mastodon client fork of Tootle `#vala` `#libadwaita`.
 
 ### Specialized Web Browsers / Wrappers
 
@@ -542,7 +542,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) - [DevDocs] browser and viewer `#python`.
 - [quickDocs](https://github.com/mdh34/quickDocs) - Documentation browser for [DevDocs] and Valadoc `#vala` `#granite`.
 
-[devdocs]: https://devdocs.io 
+[devdocs]: https://devdocs.io
 
 ### Hex Editors
 
