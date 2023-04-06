@@ -28,6 +28,7 @@
   - [Video Tools](#video-tools)
 - [Graphics](#graphics)
   - [3D Graphics](#3d-graphics)
+  - [ASCII Art](#ascii-art)
   - [Image Viewers](#image-viewers)
   - [Raster Graphics](#raster-graphics)
     - [Drawing & Editing](#drawing--editing)
@@ -220,6 +221,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### 3D Graphics
 
 - [Shady](https://github.com/misterdanb/shady) - [Shadertoy](https://github.com/misterdanb/shady/blob/master/Shadertoy.com) compatible GLSL shader live editor `#vala`.
+
+### ASCII Art
+
+- [ASCII Images](https://gitlab.com/gregorni/ASCIIImages) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) `#python` `#libadwaita`.
 
 ### Image Viewers
 
