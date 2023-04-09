@@ -179,7 +179,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#libadwaita`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust`.
 - [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#granite`.
-- [Mousai](https://github.com/SeaDve/Mousai) - Song identifier based on [AudD](https://audd.io/) `#rust` `#libadwaita`.
+- [Mousai](https://github.com/SeaDve/Mousai) - Song identifier based on [AudD](https://audd.io/) with MPRIS support `#rust` `#libadwaita`.
 - [Ear Tag](https://github.com/knuxify/eartag) - Tag editor designed to edit singular files `#python` `#libadwaita`.
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c`.
 - [Cavalier](https://github.com/fsobolev/cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#python` `#libadwaita`.
