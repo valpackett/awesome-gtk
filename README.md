@@ -620,7 +620,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Toolboxes
 
-- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developper toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#pytohn` `#libadwaita`.
+- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#libadwaita`.
 
 ### UI Design
 
