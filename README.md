@@ -129,6 +129,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Amberol](https://gitlab.gnome.org/ebassi/amberol) - Simple music player well integrated with GNOME `#rust` `#libadwaita`.
 - [G4Music](https://github.com/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#libadwaita`.
 - [HBud](https://github.com/swanux/hbud) - Audio and video player with karaoke features `#python` `#libadwaita`.
+- [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling`#rust` `#python``#libadwaita`.
 
 #### Audio Streaming Service Clients
 
