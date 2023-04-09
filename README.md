@@ -259,7 +259,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Optimizers/Compressors
 
-- [Curtail](https://github.com/Huluti/Curtail) - Image compressor with support for PNG, JPEG and WebP images `#python`.
+- [Curtail](https://github.com/Huluti/Curtail) - Image compressor with support for PNG, JPEG, WebP and SVG images `#python` `#libadwaita`.
 - [Refract](https://github.com/Blobfolio/refract) - *Guided* image optimization for JPEGs and PNGs producing WebP, AVIF and JPEG XL clones `#rust`.
 
 #### Photography
