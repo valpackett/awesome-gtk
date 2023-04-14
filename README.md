@@ -377,7 +377,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#libadwaita`.
 - [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#libadwaita`.
 - [Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs `#gjs` `#libadwaita`.
-- [Wike](https://hugolabe.github.io/Wike) - Wikipedia client `#python`.
+- [Wike](https://hugolabe.github.io/Wike) - Wikipedia client `#python` `#libadwaita`.
 
 ### Web Browsers
 
