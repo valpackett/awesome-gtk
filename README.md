@@ -730,7 +730,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ## Gaming
 
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
-- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam library import `#python` `#libadwaita`.
+- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import `#python` `#libadwaita`.
 
 ## Health and Fitness
 
