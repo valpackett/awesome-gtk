@@ -502,6 +502,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Getting Things GNOME](https://github.com/getting-things-gnome/gtg) - Personal task organizer for the GNOME desktop inspired by [Getting Things Done](https://gettingthingsdone.com/what-is-gtd) `#python` `#gnome`.
 - [Remembrance](https://github.com/dgsasha/remembrance) - Simple reminder app `#python` `#libadwaita`.
 - [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#granite` `#libhandy`.
+- [List](https://github.com/mrvladus/List) - Simple todo application for those who prefer simplicity `#c` `#libadwaita`.
 
 [todo.txt]: https://github.com/todotxt/todo.txt
 
