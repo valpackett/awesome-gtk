@@ -176,7 +176,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Audio Tools
 
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python`.
-- [Tagger](https://github.com/nlogozzo/NickvisionTagger) - Music tag (metadata) editor `#c++` `#libadwaita`.
+- [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#c++` `#libadwaita`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#libadwaita`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust`.
 - [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#granite`.
@@ -298,7 +298,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Downloaders
 
 - [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://youtube-dl.org) `#python`.
-- [Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#c++`  `#libadwaita`.
+- [Tube Converter](https://github.com/NickvisionApps/TubeConverter) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#c++`  `#libadwaita`.
 
 ### Media Encoders
 
@@ -528,7 +528,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Budget and Accounting Managers
 
-- [Denaro](https://github.com/nlogozzo/NickvisionMoney) - Cross-platform personal finance manager `#c++` `#libadwaita`.
+- [Denaro](https://github.com/NickvisionApps/Denaro) - Cross-platform personal finance manager `#c++` `#libadwaita`.
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#granite`.
 - [Grisbi](http://grisbi.org) - 20 years old accounting application `#c`.
 
