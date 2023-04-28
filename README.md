@@ -708,7 +708,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [doppler](https://github.com/spacekookie/doppler) - Fronted for Redshift allowing to configure different display temperatures for each time of day `#rust`.
 - [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala`.
-- [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#libandy`.
+- [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#libadwaita`.
 - [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings) - GNOME's Login Manager (GDM) settings manager `#python` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#libadwaita`.
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala`.
