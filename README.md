@@ -372,6 +372,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Specialized Web Browsers / Wrappers
 
+- [Bavarder](https://github.com/Bavarder/Bavarder) - ChatGPT chatting interface `#python` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#granite`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#libadwaita`.
