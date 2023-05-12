@@ -624,6 +624,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Toolboxes
 
 - [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#libadwaita`.
+- [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#libadwaita`.
 
 ### UI Design
 
