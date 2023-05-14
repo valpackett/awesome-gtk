@@ -321,7 +321,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#libadwaita`.
 - [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client `#gjs` `#gnome`.
-- [Telegrand](https://github.com/melix99/telegrand) - Telegram client for the GNOME desktop `#rust` `#libadwaita`.
+- [Telegrand](https://github.com/paper-plane-developers/paper-plane) - Telegram client for the GNOME desktop `#rust` `#libadwaita`.
 - [Srain](https://srain.silverrainz.me) - Modern IRC client `#c`.
 
 ### Email
