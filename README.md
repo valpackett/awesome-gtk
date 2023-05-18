@@ -375,6 +375,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, Bait Chat, HuggingChat) interface `#python` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#granite`.
+- [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Stable Diffusion) interface `#python` `#libadwaita`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#libadwaita`.
 - [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#libadwaita`.
 - [Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs `#gjs` `#libadwaita`.
