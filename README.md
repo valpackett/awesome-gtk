@@ -109,7 +109,6 @@
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
 - [Weather Viewers](#weather-viewers)
-- [AU
 
 ## Apps for GNOME
 
