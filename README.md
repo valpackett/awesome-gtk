@@ -372,7 +372,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Specialized Web Browsers / Wrappers
 
-- [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, Bait Chat, HuggingChat) interface `#python` `#libadwaita`.
+- [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#granite`.
 - [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Stable Diffusion) interface `#python` `#libadwaita`.
