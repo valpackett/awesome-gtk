@@ -505,6 +505,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Remembrance](https://github.com/dgsasha/remembrance) - Simple reminder app `#python` `#libadwaita`.
 - [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#granite` `#libhandy`.
 - [List](https://github.com/mrvladus/List) - Simple todo application for those who prefer simplicity `#c` `#libadwaita`.
+- [IPlan](https://github.com/iman-salmani/iplan) - Personal task manager with project-based task grouping, task timers and drag and drop arranging `#rust` `#libadwaita`.
 
 [todo.txt]: https://github.com/todotxt/todo.txt
 
