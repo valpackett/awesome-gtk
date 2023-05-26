@@ -30,7 +30,7 @@
   - [Video Tools](#video-tools)
 - [Graphics](#graphics)
   - [3D Graphics](#3d-graphics)
-  - [ASCII/Pixel Art](#ascii-art)
+  - [ASCII/Pixel Art](#asciipixel-art)
   - [Image Viewers](#image-viewers)
   - [Raster Graphics](#raster-graphics)
     - [Drawing & Editing](#drawing--editing)
