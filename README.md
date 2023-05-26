@@ -30,7 +30,7 @@
   - [Video Tools](#video-tools)
 - [Graphics](#graphics)
   - [3D Graphics](#3d-graphics)
-  - [ASCII Art](#ascii-art)
+  - [ASCII/Pixel Art](#asciipixel-art)
   - [Image Viewers](#image-viewers)
   - [Raster Graphics](#raster-graphics)
     - [Drawing & Editing](#drawing--editing)
@@ -225,9 +225,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Shady](https://github.com/misterdanb/shady) - [Shadertoy](https://github.com/misterdanb/shady/blob/master/Shadertoy.com) compatible GLSL shader live editor `#vala`.
 
-### ASCII Art
+### ASCII/Pixel Art
 
-- [Letterpress](https://gitlab.com/gregorni/Letterpress) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) `#python` `#libadwaita`.
+- [Letterpress](https://gitlab.com/gregorni/Letterpress) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) `#python` `#libadwaita`. 
+- [Halftone](https://github.com/tfuxu/Halftone) - Image to pixel art converter `#python` `#libadwaita`.
 
 ### Image Viewers
 
