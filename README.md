@@ -645,6 +645,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ## Design
 
+- [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#libadwaita`.
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#libadwaita`.
 - [Eyedropper](https://github.com/FineFindus/eyedropper) - Color picker and formatter `#rust` `#libadwaita`.
 - [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala`.
