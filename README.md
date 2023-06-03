@@ -640,6 +640,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Commit](https://github.com/sonnyp/Commit) - Commit message editor for Git and Mercurial `#gjs` `#libadwaita`.
 - [Diffuse](https://github.com/MightyCreak/diffuse) - Text file comparing/merging tool `#python`.
+- [Forge Sparks](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) notification application `#gjs` `#libadwaita`.
 - [gitg](https://wiki.gnome.org/Apps/Gitg) - Git GUI client `#vala` `#gnome`.
 - [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs`.
 - [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gnome`.
