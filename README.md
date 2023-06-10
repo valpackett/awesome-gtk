@@ -622,6 +622,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) - Visual semi-structured data (JSON) editor `#python` `#libadwaita`.
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#granite`.
+- [Patterns](https://github.com/fkinoshita/Patterns) - Regex tester `#rust` `#libadwaita`.
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#granite`.
 - [Text Pieces](https://github.com/liferooter/textpieces) - Swiss knife of text processing `#vala` `#libadwaita`.
 
