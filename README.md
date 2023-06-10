@@ -705,6 +705,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#granite`.
 - [Nix Software Center](https://github.com/vlinkz/nix-software-center) - Software center to easity install and manage Nix packages `#rust` `#libadwaita`.
+- [Impression](https://gitlab.com/adhami3310/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#libadwaita`.
 
 ### System and File Cleaning
 
