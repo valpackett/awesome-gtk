@@ -1,2 +1,4 @@
 [default.extend-words]
+Astroid = "Astroid"
 Daty = "Daty"
+relm = "relm"
