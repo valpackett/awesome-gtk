@@ -451,6 +451,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### PDF Tools
 
+- [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor `#vala` `#libadwaita`.
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor with merging, splitting, rotating, cropping and rearranging based on [pikepdf](https://github.com/pikepdf/pikepdf) `#python`.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer) - Simple application to extract, merge, rotate and reorder pages of PDF documents with undo/redo support `#c++`.
 
