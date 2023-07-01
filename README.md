@@ -301,7 +301,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Downloaders
 
 - [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://youtube-dl.org) `#python`.
-- [Tube Converter](https://github.com/NickvisionApps/TubeConverter) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#c++`  `#libadwaita`.
+- [Parabolic](https://github.com/NickvisionApps/Parabolic) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#c++`  `#libadwaita`.
 
 ### Media Encoders
 
