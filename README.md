@@ -123,6 +123,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lightweight modern music player designed to work excellently on the GNOME desktop environment with party mode, metadata fetching, MTP device sync and scrobbling `#python` `#libhandy`.
 - [Melody](http://anufrij.org/melody) - Music player designed for elementary OS with metadata fetching, online radio and MTP device sync `#vala` `#granite`.
+- [Muzika](https://github.com/vixalien/muzika) - Music player with customizable home screen and Google Music integration `#gjs` `#libadwaita`.
 - [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#granite`.
 - [GNOME Music](https://wiki.gnome.org/Apps/Music) - Official GNOME desktop music player `#python` `#libadwaita` `#gnome`.
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gnome`.
