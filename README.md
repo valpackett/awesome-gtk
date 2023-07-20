@@ -51,6 +51,7 @@
   - [News/Feed Readers](#newsfeed-readers)
   - [Remote Desktop](#remote-desktop)
   - [Social Media Clients](#social-media-clients)
+    - [Social Graveyard](#social-graveyard)
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
 - [Office](#office)
@@ -366,13 +367,16 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Social Media Clients
 
-- [Cawbird](https://github.com/IBBoard/cawbird) - (archived) Fork of the [Corebird](https://github.com/baedert/corebird) client for Twitter discontinued from January 2023 `#vala`.
-- [Giara](https://gitlab.gnome.org/World/giara) - Reddit fronted created with Linux in mind `#python` `#libadwaita`.
-- [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit client `#c++` `#libadwaita`.
-- [NewCaw](https://github.com/CodedOre/NewCaw) - Rewrite of Cawbird as a Mastodon client `#vala` `#libadwaita`.
-- [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust`.
-- [Tootle](https://gitlab.gnome.org/World/tootle) - Mastodon client `#vala` `#libadwaita`.
 - [Tuba](https://tuba.geopjr.dev) - Mastodon client fork of Tootle `#vala` `#libadwaita`.
+- [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust`.
+
+#### Social Graveyard
+
+Clients for commercial social platforms that had their API access cut off in a wave of [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/).
+
+- Corebird / [Cawbird](https://github.com/IBBoard/cawbird) / [NewCaw](https://github.com/CodedOre/NewCaw) - Used to be a Twitter client, rewrite to Mastodon API abandoned `#vala`.
+- [Headlines](https://gitlab.com/caveman250/Headlines) - Used to be a Reddit client `#c++` `#libadwaita`.
+- [Giara](https://gitlab.gnome.org/World/giara) - Used to be a Reddit client (not officially deprecated yet) `#python` `#libadwaita`.
 
 ### Specialized Web Browsers / Wrappers
 
