@@ -465,6 +465,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [pdfpc](https://pdfpc.github.io) - Presentation console with multi-monitor support for PDF files `#vala`.
 - [Pympress](https://github.com/Cimbali/pympress) - Presentation tool designed for dual-screen setups such as presentations and public talks `#python`.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - Web presentation editor `#vala` `#granite`.
+- [Teleprompter](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen `#python` `#libadwaita`.
 
 ### Translation
 
