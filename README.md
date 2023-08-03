@@ -248,6 +248,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Drawing & Editing
 
+- [Annotator](https://github.com/phase1geo/annotator) - Communicate with images. Better. `#vala` `#granite`.
 - [Conjure](https://github.com/nate-xyz/conjure) - Image enhancer based on [ImageMagick] `#python` `#libadwaita`.
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala`.
@@ -434,12 +435,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Notes](https://wiki.gnome.org/Apps/Notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gnome`.
 - [Gnote](https://wiki.gnome.org/Apps/Gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gnome`.
 - [Iridium](https://github.com/matze/iridium) - [Standard Notes](https://standardnotes.org) local-first client `#rust`.
+- [Journaler](https://github.com/phase1geo/journaler) - Journaling application for elementary OS `#vala` `#granite`.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#granite`.
 - [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++`.
 - [Notes](https://github.com/Blquinn/notes) - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#libadwaita`.
 - [Notes-Up](https://github.com/Philip-Scott/Notes-up) - Markdown note manager for elementary OS `#vala` `#granite`.
 - [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, fast, and version-controlled Markdown notes application `#rust` `#libadwaita`.
 - [Notorious](https://gitlab.gnome.org/GabMus/notorious) - Keyboard-centric notes application `#python` `#libhandy`.
+- [Outliner](https://github.com/phase1geo/outliner) - Outlining application for elementary OS `#vala` `#granite`.
 - [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#libadwaita`.
 - [RedNotebook](https://rednotebook.sourceforge.io) - Desktop journal application that lets you format, tag and search your entries `#python`.
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#libadwaita`.
@@ -475,6 +478,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Desktop Productivity
 
+- [Actioneer](https://github.com/phase1geo/actioneer) - Automate actions on file changes `#vala` `#granite`.
 - [Boatswain](https://gitlab.gnome.org/World/boatswain) - Elgato Stream Deck controller `#c` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust`.
 - [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) - Emoji picker `#c` `#libadwaita` `#gnome`.
@@ -633,6 +637,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Patterns](https://github.com/fkinoshita/Patterns) - Regex tester `#rust` `#libadwaita`.
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#granite`.
 - [Text Pieces](https://github.com/liferooter/textpieces) - Swiss knife of text processing `#vala` `#libadwaita`.
+- [TextShine](https://github.com/phase1geo/textshine) - Text conversion utility `#vala` `#granite`.
 
 ### Toolboxes
 
