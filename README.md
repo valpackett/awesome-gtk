@@ -435,7 +435,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Notes](https://wiki.gnome.org/Apps/Notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gnome`.
 - [Gnote](https://wiki.gnome.org/Apps/Gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gnome`.
 - [Iridium](https://github.com/matze/iridium) - [Standard Notes](https://standardnotes.org) local-first client `#rust`.
-- [Journaler](https://github.com/phase1geo/journaler) - Journaling application for elementary OS `#vala` `#granite`.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#granite`.
 - [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++`.
 - [Notes](https://github.com/Blquinn/notes) - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#libadwaita`.
