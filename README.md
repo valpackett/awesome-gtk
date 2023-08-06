@@ -444,11 +444,16 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Notorious](https://gitlab.gnome.org/GabMus/notorious) - Keyboard-centric notes application `#python` `#libhandy`.
 - [Outliner](https://github.com/phase1geo/outliner) - Outlining application for elementary OS `#vala` `#granite`.
 - [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#libadwaita`.
-- [RedNotebook](https://rednotebook.sourceforge.io) - Desktop journal application that lets you format, tag and search your entries `#python`.
+
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++`.
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python`.
 
+### Journaling
+
+- [Journaler](https://github.com/phase1geo/journaler) - Journaling application for elementary OS `#vala` `#granite`.
+- [RedNotebook](https://rednotebook.sourceforge.io) - Desktop journal application that lets you format, tag and search your entries `#python`.
+ 
 ### OCR
 
 - [Frog](https://tenderowl.com/work/frog) - Intuitive text extraction tool for the GNOME desktop.
