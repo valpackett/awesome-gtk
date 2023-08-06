@@ -248,7 +248,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Drawing & Editing
 
-- [Annotator](https://github.com/phase1geo/annotator) - Communicate with images. Better. `#vala` `#granite`.
+- [Annotator](https://github.com/phase1geo/annotator) - Image annotation application designed for elementary OS `#vala` `#granite`.
 - [Conjure](https://github.com/nate-xyz/conjure) - Image enhancer based on [ImageMagick] `#python` `#libadwaita`.
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala`.
