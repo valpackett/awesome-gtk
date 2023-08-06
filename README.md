@@ -478,7 +478,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Desktop Productivity
 
-- [Actioneer](https://github.com/phase1geo/actioneer) - Automate actions on file changes `#vala` `#granite`.
+- [Actioneer](https://github.com/phase1geo/actioneer) - Tool to automate actions on file changes `#vala` `#granite`.
 - [Boatswain](https://gitlab.gnome.org/World/boatswain) - Elgato Stream Deck controller `#c` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust`.
 - [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) - Emoji picker `#c` `#libadwaita` `#gnome`.
