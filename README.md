@@ -61,6 +61,7 @@
   - [Document Managers](#document-managers)
   - [Document Viewers](#document-viewers)
   - [Note-taking](#note-taking)
+  - [Journaling](#journaling)
   - [OCR](#ocr)
   - [PDF Tools](#pdf-tools)
   - [Presentation](#presentation)
