@@ -752,6 +752,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#libadwaita`.
+- [Resources](https://github.com/nokyan/resources) -  CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
 
 ### Task Scheduling
