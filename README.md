@@ -179,14 +179,14 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Audio Tools
 
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python`.
-- [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#c++` `#libadwaita`.
+- [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#libadwaita`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#libadwaita`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust`.
 - [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#granite`.
 - [Mousai](https://github.com/SeaDve/Mousai) - Song identifier based on [AudD](https://audd.io/) with MPRIS support `#rust` `#libadwaita`.
 - [Ear Tag](https://github.com/knuxify/eartag) - Tag editor designed to edit singular files `#python` `#libadwaita`.
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c`.
-- [Cavalier](https://github.com/fsobolev/cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#python` `#libadwaita`.
+- [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#csharp` `#libadwaita`.
 
 ## Video
 
@@ -305,7 +305,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Downloaders
 
 - [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://youtube-dl.org) `#python`.
-- [Parabolic](https://github.com/NickvisionApps/Parabolic) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#c++`  `#libadwaita`.
+- [Parabolic](https://github.com/NickvisionApps/Parabolic) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#csharp`  `#libadwaita`.
 
 ### Media Encoders
 
@@ -550,7 +550,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Budget and Accounting Managers
 
-- [Denaro](https://github.com/NickvisionApps/Denaro) - Cross-platform personal finance manager `#c++` `#libadwaita`.
+- [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#libadwaita`.
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#granite`.
 - [Grisbi](http://grisbi.org) - 20 years old accounting application `#c`.
 
