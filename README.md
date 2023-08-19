@@ -762,7 +762,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Gaming
 
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
-- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import `#python` `#libadwaita`.
+- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#libadwaita`.
 
 ## Health and Fitness
 
