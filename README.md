@@ -231,6 +231,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### ASCII/Pixel Art
 
+- [ASCII Draw](https://github.com/Nokse22/ascii-draw) - App to draw diagrams or anything using only ASCII `#python` `#libadwaita`.
 - [Calligraphy](https://gitlab.com/gregorni/Calligraphy) - Text to ASCII banners converter `#python` `#libadwaita`.
 - [Letterpress](https://gitlab.com/gregorni/Letterpress) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) `#python` `#libadwaita`. 
 - [Halftone](https://github.com/tfuxu/Halftone) - Image to pixel art converter `#python` `#libadwaita`.
