@@ -54,6 +54,7 @@
     - [Social Graveyard](#social-graveyard)
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
+  - [WiFi](#wifi)
 - [Office](#office)
   - [Book Readers](#book-readers)
   - [Calculators & Math](#calculators--math)
@@ -399,6 +400,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#lua`.
 
 [webkit]: https://webkit.org
+
+### WiFi
+
+- [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c`.
 
 ## Office
 
