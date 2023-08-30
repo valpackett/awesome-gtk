@@ -392,10 +392,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs `#gjs` `#libadwaita`.
 - [Wike](https://hugolabe.github.io/Wike) - Wikipedia client `#python` `#libadwaita`.
 
-### WiFi
-
-- [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c`.
-
 ### Web Browsers
 
 - [Eolie](https://wiki.gnome.org/Apps/Eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#libhandy`.
@@ -403,6 +399,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#lua`.
 
 [webkit]: https://webkit.org
+
+### WiFi
+
+- [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c`.
 
 ## Office
 
