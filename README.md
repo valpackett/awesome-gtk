@@ -51,7 +51,7 @@
   - [News/Feed Readers](#newsfeed-readers)
   - [Remote Desktop](#remote-desktop)
   - [Social Media Clients](#social-media-clients)
-  - [Social Graveyard](#social-graveyard)
+    - [Social Graveyard](#social-graveyard)
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
   - [WiFi](#wifi)
