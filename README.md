@@ -784,3 +784,4 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) - Weather application for the GNOME desktop `#gjs` `#gnome`.
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet  `#vala` `#libhandy`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala`.
+- [Weather](https://github.com/amit9838/weather) - Beautiful and lightweight weather app build using Gtk4, `#Libadwaita` and `#Python`.
