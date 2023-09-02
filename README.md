@@ -188,6 +188,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Ear Tag](https://github.com/knuxify/eartag) - Tag editor designed to edit singular files `#python` `#libadwaita`.
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c`.
 - [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#csharp` `#libadwaita`.
+- [pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume mixer `#rust` `#libadwaita`.
 
 ## Video
 
