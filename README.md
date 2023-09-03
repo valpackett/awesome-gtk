@@ -744,7 +744,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [doppler](https://github.com/spacekookie/doppler) - Fronted for Redshift allowing to configure different display temperatures for each time of day `#rust`.
 - [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#libadwaita`.
-- [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Set historic GNOME wallpapers `#vala` `#libadwaita`.
+- [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala`.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io/) - GNOME's Login Manager (GDM) settings manager `#python` `#libadwaita`.
