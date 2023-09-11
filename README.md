@@ -533,6 +533,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#granite` `#libhandy`.
 - [List](https://github.com/mrvladus/List) - Simple todo application for those who prefer simplicity `#c` `#libadwaita`.
 - [IPlan](https://github.com/iman-salmani/iplan) - Personal task manager with project-based task grouping, task timers and drag and drop arranging `#rust` `#libadwaita`.
+- [Errands](https://github.com/mrvladus/Errands) - Simple to-do application with subtasks, accent colors and drag & drop support `#python` `#libadwaita`.
 
 [todo.txt]: https://github.com/todotxt/todo.txt
 
