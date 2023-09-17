@@ -292,6 +292,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gl`.
+- [Photometric Viewer](https://github.com/dlippok/photometric-viewer) -  IES and EULUMDAT photometric files viewer `#python` `#libadwaita`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gl`.
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in [Graphviz] `#python`.
 
