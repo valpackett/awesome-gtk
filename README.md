@@ -138,7 +138,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Audio Streaming Service Clients
 
 - [Spot](https://github.com/xou816/spot) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) `#rust` `#libadwaita`.
-- [Sublime Music](https://sublimemusic.app) - Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, *sonic) personal streaming servers `#python`.
+- [Sublime Music](https://sublimemusic.app) - Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python`.
 
 #### MPD Clients
 
@@ -237,7 +237,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [ASCII Draw](https://github.com/Nokse22/ascii-draw) - App to draw diagrams or anything using only ASCII `#python` `#libadwaita`.
 - [Calligraphy](https://gitlab.com/gregorni/Calligraphy) - Text to ASCII banners converter `#python` `#libadwaita`.
-- [Letterpress](https://gitlab.com/gregorni/Letterpress) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) `#python` `#libadwaita`. 
+- [Letterpress](https://gitlab.com/gregorni/Letterpress) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) `#python` `#libadwaita`.
 - [Halftone](https://github.com/tfuxu/Halftone) - Image to pixel art converter `#python` `#libadwaita`.
 
 ### Image Viewers
@@ -273,7 +273,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Optimizers/Compressors
 
 - [Curtail](https://github.com/Huluti/Curtail) - Image compressor with support for PNG, JPEG, WebP and SVG images `#python` `#libadwaita`.
-- [Refract](https://github.com/Blobfolio/refract) - *Guided* image optimization for JPEGs and PNGs producing WebP, AVIF and JPEG XL clones `#rust`.
+- [Refract](https://github.com/Blobfolio/refract) - _Guided_ image optimization for JPEGs and PNGs producing WebP, AVIF and JPEG XL clones `#rust`.
 
 #### Photography
 
@@ -292,7 +292,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gl`.
-- [Photometric Viewer](https://github.com/dlippok/photometric-viewer) -  IES and EULUMDAT photometric files viewer `#python` `#libadwaita`.
+- [Photometric Viewer](https://github.com/dlippok/photometric-viewer) - IES and EULUMDAT photometric files viewer `#python` `#libadwaita`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gl`.
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in [Graphviz] `#python`.
 
@@ -311,7 +311,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Downloaders
 
 - [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://youtube-dl.org) `#python`.
-- [Parabolic](https://github.com/NickvisionApps/Parabolic) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#csharp`  `#libadwaita`.
+- [Parabolic](https://github.com/NickvisionApps/Parabolic) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#csharp` `#libadwaita`.
 
 ### Media Encoders
 
@@ -464,7 +464,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Journaler](https://github.com/phase1geo/journaler) - Journaling application for elementary OS `#vala` `#granite`.
 - [RedNotebook](https://rednotebook.sourceforge.io) - Desktop journal application that lets you format, tag and search your entries `#python`.
- 
+
 ### OCR
 
 - [Frog](https://tenderowl.com/work/frog) - Intuitive text extraction tool for the GNOME desktop.
@@ -616,7 +616,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gedit](https://wiki.gnome.org/Apps/Gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gnome`.
 - [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) - Simple text editor that focuses on session management `#c` `#gnome`.
 - [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#granite`.
-- [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++`
+- [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++`.
 - [Vulcan](https://github.com/zesterer/vulcan) - Minimalistic text editor designed for both ordinary use and software development `#vala`.
 - [Xed](https://github.com/linuxmint/xed) - Small and lightweight text editor `#c` `#xapps`.
 
@@ -676,7 +676,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gitg](https://wiki.gnome.org/Apps/Gitg) - Git GUI client `#vala` `#gnome`.
 - [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs`.
 - [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gnome`.
-- [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems, context menus and specific dialogues for complex operations `#python`  `#libadwaita`.
+- [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems, context menus and specific dialogues for complex operations `#python` `#libadwaita`.
 
 ## Design
 
@@ -767,7 +767,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#libadwaita`.
-- [Resources](https://github.com/nokyan/resources) -  CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
+- [Resources](https://github.com/nokyan/resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
 
 ### Task Scheduling
@@ -790,6 +790,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Weather Viewers
 
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) - Weather application for the GNOME desktop `#gjs` `#gnome`.
-- [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet  `#vala` `#libhandy`.
+- [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#libhandy`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala`.
 - [Weather](https://github.com/amit9838/weather) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#libadwaita`.
