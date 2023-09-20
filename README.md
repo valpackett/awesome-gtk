@@ -616,7 +616,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gedit](https://wiki.gnome.org/Apps/Gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gnome`.
 - [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) - Simple text editor that focuses on session management `#c` `#gnome`.
 - [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#granite`.
-- [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight GTK-based programming editor `#c++`
+- [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++`
 - [Vulcan](https://github.com/zesterer/vulcan) - Minimalistic text editor designed for both ordinary use and software development `#vala`.
 - [Xed](https://github.com/linuxmint/xed) - Small and lightweight text editor `#c` `#xapps`.
 
