@@ -657,6 +657,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#granite`.
 - [Patterns](https://github.com/fkinoshita/Patterns) - Regex tester `#rust` `#libadwaita`.
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#granite`.
+- [Snoop](https://gitlab.gnome.org/philippun1/snoop) - Tool to search through your files and providing a Nautilus extension `#vala` `#libadwaita`.
 - [Text Pieces](https://github.com/liferooter/textpieces) - Swiss knife of text processing `#vala` `#libadwaita`.
 - [TextShine](https://github.com/phase1geo/textshine) - Text conversion utility `#vala` `#granite`.
 
