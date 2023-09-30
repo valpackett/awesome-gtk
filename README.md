@@ -109,6 +109,7 @@
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
+  - [Boardgames](#boardgames)
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
 - [Weather Viewers](#weather-viewers)
@@ -783,6 +784,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#libadwaita`.
+
+### Board Games
+
+- [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games `#python` `#libadwaita`.
 
 ## Health and Fitness
 
