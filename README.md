@@ -503,6 +503,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) - Emoji picker `#c` `#libadwaita` `#gnome`.
 - [Random](https://random.amongtech.cc) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust`.
+- [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust`.
 - [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementaryOS `#vala` `#granite`.
 
