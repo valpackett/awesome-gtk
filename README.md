@@ -109,7 +109,7 @@
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
-  - [Boardgames](#boardgames)
+  - [Board Games](#board-games)
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
 - [Weather Viewers](#weather-viewers)
