@@ -430,6 +430,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#opengl`.
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c`.
+- [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#libadwaita`.
 
 ### Calendar
 
