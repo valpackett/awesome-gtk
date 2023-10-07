@@ -765,6 +765,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#libadwaita`.
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#relm4`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#libadwaita`.
+- [Warehouse](https://github.com/flattool/warehouse) - Versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks `#python` `#libadwaita`.
 
 ### System Monitoring and Info
 
@@ -775,6 +776,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#libadwaita`.
 - [Resources](https://github.com/nokyan/resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
+- [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
 
 ### Task Scheduling
