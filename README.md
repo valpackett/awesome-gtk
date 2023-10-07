@@ -776,7 +776,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#libadwaita`.
 - [Resources](https://github.com/nokyan/resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
-- [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe/) - Virtualization viewer using QEMU over DBus `#c` `#libadwaita`.
+- [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
 
 ### Task Scheduling
