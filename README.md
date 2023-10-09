@@ -795,6 +795,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Health and Fitness
 
 - [Health](https://gitlab.gnome.org/World/Health) - Fitness goals tracker `#rust` `#libadwaita`.
+- [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#libadwaita`.
 
 ## Map Viewers
 
