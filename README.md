@@ -44,6 +44,7 @@
   - [Media Encoders](#media-encoders)
   - [Media Servers](#media-servers)
 - [Internet and Networking](#internet-and-networking)
+  - [Bluetooth](#bluetooth)
   - [Chat and VoIP](#chat-and-voip)
   - [Email](#email)
   - [File Sharing](#file-sharing)
