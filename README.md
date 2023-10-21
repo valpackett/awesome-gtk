@@ -44,6 +44,7 @@
   - [Media Encoders](#media-encoders)
   - [Media Servers](#media-servers)
 - [Internet and Networking](#internet-and-networking)
+  - [Bluetooth](#bluetooth)
   - [Chat and VoIP](#chat-and-voip)
   - [Email](#email)
   - [File Sharing](#file-sharing)
@@ -326,6 +327,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#libadwaita`.
 
 ## Internet and Networking
+
+### Bluetooth
+
+- [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust``#libadwaita`.
 
 ### Chat and VoIP
 
