@@ -327,6 +327,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ## Internet and Networking
 
+### Bluetooh
+
+- [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust``#libadwaita`.
+
 ### Chat and VoIP
 
 - [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#libadwaita`.
