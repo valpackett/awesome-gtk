@@ -328,7 +328,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ## Internet and Networking
 
-### Bluetooh
+### Bluetooth
 
 - [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust``#libadwaita`.
 
