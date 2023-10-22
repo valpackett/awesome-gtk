@@ -183,6 +183,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Audio Tools
 
+- [Chromatic](https://github.com/nate-xyz/chromatic) - Instruments tuner `#rust` `#libadwaita`.
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#libadwaita`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#libadwaita`.
