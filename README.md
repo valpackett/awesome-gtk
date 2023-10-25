@@ -300,6 +300,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Photometric Viewer](https://github.com/dlippok/photometric-viewer) - IES and EULUMDAT photometric files viewer `#python` `#libadwaita`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gl`.
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in [Graphviz] `#python`.
+- [Dune 3D](https://dune3d.org/) - Parametric 3D CAD tool based on OpenCASCADE+SolveSpace from the author of Horizon EDA `#c`.
 
 [graphviz]: https://www.graphviz.org
 
