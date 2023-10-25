@@ -208,7 +208,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Live Stream Viewers
 
-- [GNOME Twitch](https://gnome-twitch.vinszent.com) - Twitch client supporting multiple video backends and with subscription management `#c`.
 - [Multiplex](https://github.com/pojntfx/multiplex) - Application to stream and watch torrents together, providing an experience similar to Apple's SharePlay and Amazon's Prime Video Watch Party `#go` `#libadwaita`.
 
 ### Video Editors
