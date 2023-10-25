@@ -331,13 +331,13 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Bluetooth
 
-- [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust``#libadwaita`.
+- [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust` `#libadwaita`.
 
 ### Chat and VoIP
 
 - [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#libadwaita`.
 - [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python`.
-- [Flare](https://gitlab.com/Schmiddiii/flare) - Signal client `#rust` `#libadwaita`.
+- [Flare](https://gitlab.com/schmiddi-on-mobile/flare) - Signal client `#rust` `#libadwaita`.
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal) - Matrix client for the GNOME desktop `#rust` `#libadwaita`.
 - [Gajim](https://gajim.org) - Fully-featured XMPP client `#python`.
 - [gtkcord4](https://github.com/diamondburned/gtkcord4) - Discord client written in `#go`.
@@ -385,7 +385,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Social Media Clients
 
-- [Tuba](https://tuba.geopjr.dev) - Mastodon client fork of Tootle `#vala` `#libadwaita`.
+- [Tuba](https://tuba.geopjr.dev) - Mastodon client, fork of Tootle `#vala` `#libadwaita`.
 - [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust`.
 
 #### Social Graveyard
@@ -466,7 +466,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Outliner](https://github.com/phase1geo/outliner) - Outlining application for elementary OS `#vala` `#granite`.
 - [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#libadwaita`.
 - [Iotas](https://gitlab.gnome.org/World/iotas) - Simple Markdown note-taking application with Nextcloud Notes integration `#python` `#libadwaita`.
-
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++`.
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python`.
