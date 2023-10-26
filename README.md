@@ -361,8 +361,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c`.
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c`.
 - [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#granite`.
-- [Warp](https://apps.gnome.org/app/app.drey.Warp) - [magic-wormhole] client `#rust` `#libadwaita`.
 - [Torrential](https://github.com/davidmhewitt/torrential) - Alternative GUI on top of the Transmission BitTorrent client `#vala` `#granite`.
+- [Warp](https://apps.gnome.org/app/app.drey.Warp) - [magic-wormhole] client `#rust` `#libadwaita`.
+- [Warpinator](https://github.com/linuxmint/warpinator) - Linux Mint's LAN file sharing program `#c++`.
 
 [magic-wormhole]: https://github.com/warner/magic-wormhole
 
