@@ -357,6 +357,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Deluge](https://deluge-torrent.org) - BitTorrent client available for Linux, macOS and Windows `#python`.
 - [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client built on top of Transmission `#rust` `#libadwaita`.
+- [Gabut Download Manager](https://github.com/gabutakut/gabutdm) - Download manager supporting torrents and direct download with Firefox integration  `#vala`.
 - [Nicotine+](https://nicotine-plus.org) - Graphical client for the [Soulseek](https://www.slsknet.org) peer-to-peer network `#python`.
 - [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c`.
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c`.
