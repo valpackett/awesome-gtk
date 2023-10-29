@@ -331,6 +331,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Bluetooth
 
+- [IP Lookup](https://github.com/Bytezz/IPLookup-gtk) - Simple application to find information about an IP address `#python` `#libadwaita`.
 - [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust` `#libadwaita`.
 
 ### Chat and VoIP
