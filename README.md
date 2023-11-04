@@ -554,6 +554,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 [todo.txt]: https://github.com/todotxt/todo.txt
 
+## Inventory
+
+- [Jellybean](https://codeberg.org/turtle/jellybean) - Inventory manager with refill functions and a handy low-stock indicator `#vala` `#libadwaita`.
+
 ## Security and Privacy
 
 - [Collision](https://collision.geopjr.dev) - Tool to generate, compare and verify hashes `#crystal` `#libadwaita`.
