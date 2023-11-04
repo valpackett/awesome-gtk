@@ -74,6 +74,7 @@
   - [Project Management](#project-management)
   - [Timers / Time Tracking](#timers--time-tracking)
   - [To-do Lists](#to-do-lists)
+  - [Inventory](#inventory)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
 - [Finance](#finance)
@@ -553,6 +554,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Errands](https://github.com/mrvladus/Errands) - Simple to-do application with subtasks, accent colors and drag & drop support `#python` `#libadwaita`.
 
 [todo.txt]: https://github.com/todotxt/todo.txt
+
+### Inventory
+
+- [Jellybean](https://codeberg.org/turtle/jellybean) - Inventory manager with refill functions and a handy low-stock indicator `#vala` `#libadwaita`.
 
 ## Security and Privacy
 
