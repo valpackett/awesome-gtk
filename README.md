@@ -601,6 +601,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Documentation
 
+- [Biblioteca](https://github.com/workbenchdev/Biblioteca) - GNOME/Libadwaita documentation browser and viewer `#gjs` `#libadwaita`.
 - [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) - [DevDocs] browser and viewer `#python`.
 - [quickDocs](https://github.com/mdh34/quickDocs) - Documentation browser for [DevDocs] and Valadoc `#vala` `#granite`.
 
