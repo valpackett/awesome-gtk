@@ -512,6 +512,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Boatswain](https://gitlab.gnome.org/World/boatswain) - Elgato Stream Deck controller `#c` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust`.
 - [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) - Emoji picker `#c` `#libadwaita` `#gnome`.
+- [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#libadwaita`.
 - [Random](https://random.amongtech.cc) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#libadwaita`.
