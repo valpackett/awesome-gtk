@@ -250,7 +250,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Geeqie](https://www.geeqie.org/) - Cross-platform image viewer and organizer `#c++`.
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust`.
 - [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) - Simple image viewer `#rust` `#libadwaita`.
-- [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger `#python` `#libadwaita`.
+- [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#libadwaita`.
 - [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c`.
 
 ### Raster Graphics
