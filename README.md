@@ -758,6 +758,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#libadwaita`.
 - [mlinstall](https://petabyt.github.io/mlinstall) - USB Magic Lantern installer `#python`.
 - [Parceldude](https://notabug.org/grindhold/parceldude) - Batch installer for Windows MSI packages `#vala`.
+- [PinApp](https://github.com/fabrialberio/PinApp) - `.desktop` files creator/editor `#python` `#libadwaita`.
 - [Pin It!](https://github.com/ryonakano/pinit) - Portable applications shortcut creator `#vala` `#libadwaita`.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#granite`.
