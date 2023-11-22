@@ -196,6 +196,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#csharp` `#libadwaita`.
 - [pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume mixer `#rust` `#libadwaita`.
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties.
+- [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python`.
 
 ## Video
 
@@ -250,6 +251,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Geeqie](https://www.geeqie.org/) - Cross-platform image viewer and organizer `#c++`.
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust`.
 - [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) - Simple image viewer `#rust` `#libadwaita`.
+- [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#libadwaita`.
 - [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c`.
 
 ### Raster Graphics
@@ -756,6 +758,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#libadwaita`.
 - [mlinstall](https://petabyt.github.io/mlinstall) - USB Magic Lantern installer `#python`.
 - [Parceldude](https://notabug.org/grindhold/parceldude) - Batch installer for Windows MSI packages `#vala`.
+- [PinApp](https://github.com/fabrialberio/PinApp) - `.desktop` files creator/editor `#python` `#libadwaita`.
 - [Pin It!](https://github.com/ryonakano/pinit) - Portable applications shortcut creator `#vala` `#libadwaita`.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#granite`.
@@ -790,6 +793,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#libadwaita`.
+- [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#libadwaita`.
 - [Resources](https://github.com/nokyan/resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
 - [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
