@@ -258,7 +258,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Converters
 
-- [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - [ImageMagick] frontend `#python` `#libadwaita`.
+- [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick] frontend) `#python` `#libadwaita`.
 
 #### Drawing & Editing
 
