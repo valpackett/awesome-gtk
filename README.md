@@ -770,6 +770,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#granite`.
 - [Nix Software Center](https://github.com/vlinkz/nix-software-center) - Software center to easity install and manage Nix packages `#rust` `#libadwaita`.
 - [Impression](https://gitlab.com/adhami3310/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#libadwaita`.
+- [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#libadwaita`.
 
 ### System and File Cleaning
 
