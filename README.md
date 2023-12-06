@@ -56,6 +56,7 @@
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
   - [WiFi](#wifi)
+  - [Proxy](#proxy)
 - [Office](#office)
   - [Book Readers](#book-readers)
   - [Calculators & Math](#calculators--math)
