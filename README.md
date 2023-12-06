@@ -426,6 +426,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c`.
 
+### Proxy
+
+- [Carburetor](https://tractor.frama.io/carburetor) - Graphical setting app to easily set up a TOR proxy on your session, without getting your hands dirty with system configs `#python` `#libadwaita`.
+
 ## Office
 
 ### Book Readers
