@@ -331,6 +331,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Servers
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#libadwaita`.
+- [Playlifin](https://gitlab.com/Krafting/playlifin-gtk) - Tool to convert YouTube playlists to Jellyfin playlists `#python` `#libadwaita`.
 
 ## Internet and Networking
 
