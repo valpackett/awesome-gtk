@@ -539,6 +539,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Timers / Time Tracking
 
 - [Chess Clock](https://apps.gnome.org/app/com.clarahobbs.chessclock) - Over-the-board chess time control `#python` `#libadwaita`.
+- [Exerciqe Timer](https://github.com/mfep/exercise-timer) - Interval training timer `#rust` `#libadwaita`.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#libadwaita`.
 - [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#libadwaita`.
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) - Time tracker provided by `hamster-lib` `#python`.
