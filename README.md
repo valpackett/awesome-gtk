@@ -140,7 +140,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#libadwaita`.
 - [Monophony](https://gitlab.com/zehkira/monophony) - Application for streaming music from YouTube `#python` `#libadwaita`.
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Audio player for the Netease Cloud Music `#rust` `#libadwaita`.
-- [Decibels](https://github.com/vixalien/decibels) - Audio player with waveform view `#gjs``#libadwaita`.
+- [Decibels](https://github.com/vixalien/decibels) - Audio player with waveform view `#gjs` `#libadwaita`.
 
 #### Audio Streaming Service Clients
 
