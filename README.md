@@ -370,6 +370,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c`.
 - [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#granite`.
 - [Torrential](https://github.com/davidmhewitt/torrential) - Alternative GUI on top of the Transmission BitTorrent client `#vala` `#granite`.
+- [Varia](https://github.com/giantpinkrobots/varia) - Download manager based on [aria2](https://github.com/aria2/aria2) `#python` `#libadwaita`.
 - [Warp](https://apps.gnome.org/app/app.drey.Warp) - [magic-wormhole] client `#rust` `#libadwaita`.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Linux Mint's LAN file sharing program `#c++`.
 
