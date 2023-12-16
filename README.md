@@ -115,6 +115,7 @@
   - [Board Games](#board-games)
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
+- [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
 
 ## Apps for GNOME
@@ -831,6 +832,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Map Viewers
 
 - [Atlas](https://github.com/ryonakano/atlas) - Map viewer designed for elementaryOS `#vala` `#granite` `#libhandy`.
+
+## Public Transports
+
+- [Railway](https://gitlab.com/schmiddi-on-mobile/railwayde) - Application to look up information about (german) train journeys in one place `#rust` `#libadwaita`.  
 
 ## Weather Viewers
 
