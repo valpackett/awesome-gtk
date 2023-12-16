@@ -115,6 +115,7 @@
   - [Board Games](#board-games)
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
+- [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
 
 ## Apps for GNOME
