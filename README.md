@@ -232,6 +232,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Tools
 
+- [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus `̀#python` `#libadwaita`.
 - [Identity](https://gitlab.gnome.org/YaLTeR/identity) - Program for comparing multiple versions of an image or video `#rust` `#libadwaita`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust`.
 
