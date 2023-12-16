@@ -681,6 +681,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Console](https://gitlab.gnome.org/GNOME/console) - Minimal terminal for the GNOME desktop `#c` `#vte` `#gnome`.
 - [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#vte` `#gnome`.
 - [Guake](http://guake-project.org) - Dropdown terminal for the GNOME desktop `#python` `#vte`.
+- [Prompt](https://gitlab.gnome.org/chergert/prompt) - Terminal with first-class support for containers `#c` `#vte`.
 - [Tilix](https://gnunn1.github.io/tilix-web) - Tiling and dropdown terminal for the GNOME desktop `#d` `#vte`.
 
 ### Text Processing
