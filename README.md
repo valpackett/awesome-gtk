@@ -536,7 +536,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Project Management
 
-- [Planner](https://useplanner.com) - Project and task manager with Todoist support `#vala` `#granite`.
+- [Planify](https://useplanner.com) - Project and task manager with Todoist support `#vala` `#libadwaita`.
 
 ### Timers / Time Tracking
 
