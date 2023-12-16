@@ -832,6 +832,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Atlas](https://github.com/ryonakano/atlas) - Map viewer designed for elementaryOS `#vala` `#granite` `#libhandy`.
 
+## Public Transports
+
+- [Railway](https://gitlab.com/schmiddi-on-mobile/railwayde) - Application to look up information about (german) train journeys in one place `#rust` `#libadwaita`.  
+
 ## Weather Viewers
 
 - [GNOME Weather](https://wiki.gnome.org/Apps/Weather) - Weather application for the GNOME desktop `#gjs` `#gnome`.
