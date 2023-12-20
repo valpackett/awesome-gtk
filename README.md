@@ -611,6 +611,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#libadwaita`.
 - [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager `#python` `#libadwaita`.
+- [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#libadwaita`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#libadwaita`.
 
