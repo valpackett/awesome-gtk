@@ -147,6 +147,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Spot](https://github.com/xou816/spot) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) `#rust` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python`.
+- [High Tide](https://github.com/Nokse22/high-tide) - Tidal streaming client `#python` `#libdawaita`.
 
 #### MPD Clients
 
