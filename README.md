@@ -726,7 +726,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - System icon browser `#rust` `libadwaita`.
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#vala`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#granite`.
-- [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#python` `#libadwaita`.
+- [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#libadwaita`.
 
 ## File and Data Management
