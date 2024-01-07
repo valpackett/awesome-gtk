@@ -211,7 +211,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#gjs` `#c`.
 - [Movie Monad](https://lettier.github.io/movie-monad/) - Simple video player powered by GStreamer `#haskell`.
 - [GNOME Videos](https://wiki.gnome.org/Apps/Videos) - Official GNOME desktop video player, also known as Totem `#c` `#gnome`.
-- [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust`.
+- [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `libadwaita`.
 
 ### Live Stream Viewers
 
