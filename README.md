@@ -56,6 +56,7 @@
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
   - [WiFi](#wifi)
+  - [Proxy](#proxy)
 - [Office](#office)
   - [Book Readers](#book-readers)
   - [Calculators & Math](#calculators--math)
@@ -114,6 +115,7 @@
   - [Board Games](#board-games)
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
+- [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
 
 ## Apps for GNOME
@@ -139,11 +141,13 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#libadwaita`.
 - [Monophony](https://gitlab.com/zehkira/monophony) - Application for streaming music from YouTube `#python` `#libadwaita`.
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Audio player for the Netease Cloud Music `#rust` `#libadwaita`.
+- [Decibels](https://github.com/vixalien/decibels) - Audio player with waveform view `#gjs` `#libadwaita`.
 
 #### Audio Streaming Service Clients
 
 - [Spot](https://github.com/xou816/spot) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) `#rust` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python`.
+- [High Tide](https://github.com/Nokse22/high-tide) - Tidal streaming client `#python` `#libdawaita`.
 
 #### MPD Clients
 
@@ -197,6 +201,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume mixer `#rust` `#libadwaita`.
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties.
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python`.
+- [Audio Sharing](https://gitlab.gnome.org/World/AudioSharing) - Application to share audio playback in the form of an RTSP stream `#rust` `#libadwaita`.
 
 ## Video
 
@@ -206,7 +211,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#gjs` `#c`.
 - [Movie Monad](https://lettier.github.io/movie-monad/) - Simple video player powered by GStreamer `#haskell`.
 - [GNOME Videos](https://wiki.gnome.org/Apps/Videos) - Official GNOME desktop video player, also known as Totem `#c` `#gnome`.
-- [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust`.
+- [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `libadwaita`.
 
 ### Live Stream Viewers
 
@@ -230,6 +235,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Tools
 
+- [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus `#python` `#libadwaita`.
 - [Identity](https://gitlab.gnome.org/YaLTeR/identity) - Program for comparing multiple versions of an image or video `#rust` `#libadwaita`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust`.
 
@@ -258,7 +264,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Converters
 
-- [Converter](https://gitlab.com/adhami3310/Converter) - [ImageMagick] frontend `#python` `#libadwaita`.
+- [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick] frontend) `#python` `#libadwaita`.
 
 #### Drawing & Editing
 
@@ -295,6 +301,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Technical Graphics
 
+- [Dagger](https://github.com/SeaDve/dagger) - [Graphviz] DOT graphs viewer and editor `#rust` `#libadwaita`.
 - [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#libadwaita`.
 - [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#libadwaita`.
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
@@ -329,6 +336,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Servers
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#libadwaita`.
+- [Playlifin](https://gitlab.com/Krafting/playlifin-gtk) - Tool to convert YouTube playlists to Jellyfin playlists `#python` `#libadwaita`.
 
 ## Internet and Networking
 
@@ -367,6 +375,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c`.
 - [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#granite`.
 - [Torrential](https://github.com/davidmhewitt/torrential) - Alternative GUI on top of the Transmission BitTorrent client `#vala` `#granite`.
+- [Varia](https://github.com/giantpinkrobots/varia) - Download manager based on [aria2](https://github.com/aria2/aria2) `#python` `#libadwaita`.
 - [Warp](https://apps.gnome.org/app/app.drey.Warp) - [magic-wormhole] client `#rust` `#libadwaita`.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Linux Mint's LAN file sharing program `#c++`.
 
@@ -425,12 +434,16 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c`.
 
+### Proxy
+
+- [Carburetor](https://tractor.frama.io/carburetor) - Graphical setting app to easily set up a TOR proxy on your session, without getting your hands dirty with system configs `#python` `#libadwaita`.
+
 ## Office
 
 ### Book Readers
 
 - [Bookworm](https://babluboy.github.io/bookworm) - Simple eBook reader for elementary OS `#vala` `#granite`.
-- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader based on [Epub.js](https://github.com/futurepress/epub.js) `#gjs` `#libhandy`.
+- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader based on [Epub.js](https://github.com/futurepress/epub.js) `#gjs` `#libadwaita`.
 - [Komikku](https://valos.gitlab.io/Komikku) - Manga reader for the GNOME desktop with online and offline reading `#python` `#libadwaita`.
 
 ### Calculators & Math
@@ -527,11 +540,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Project Management
 
-- [Planner](https://useplanner.com) - Project and task manager with Todoist support `#vala` `#granite`.
+- [Planify](https://useplanner.com) - Project and task manager with Todoist support `#vala` `#libadwaita`.
 
 ### Timers / Time Tracking
 
 - [Chess Clock](https://apps.gnome.org/app/com.clarahobbs.chessclock) - Over-the-board chess time control `#python` `#libadwaita`.
+- [Exerciqe Timer](https://github.com/mfep/exercise-timer) - Interval training timer `#rust` `#libadwaita`.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#libadwaita`.
 - [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#libadwaita`.
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) - Time tracker provided by `hamster-lib` `#python`.
@@ -599,6 +613,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#libadwaita`.
 - [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager `#python` `#libadwaita`.
+- [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#libadwaita`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#libadwaita`.
 
@@ -669,6 +684,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Console](https://gitlab.gnome.org/GNOME/console) - Minimal terminal for the GNOME desktop `#c` `#vte` `#gnome`.
 - [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#vte` `#gnome`.
 - [Guake](http://guake-project.org) - Dropdown terminal for the GNOME desktop `#python` `#vte`.
+- [Prompt](https://gitlab.gnome.org/chergert/prompt) - Terminal with first-class support for containers `#c` `#vte`.
 - [Tilix](https://gnunn1.github.io/tilix-web) - Tiling and dropdown terminal for the GNOME desktop `#d` `#vte`.
 
 ### Text Processing
@@ -711,7 +727,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - System icon browser `#rust` `libadwaita`.
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#vala`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#granite`.
-- [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#python` `#libadwaita`.
+- [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#libadwaita`.
 
 ## File and Data Management
@@ -764,6 +780,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#granite`.
 - [Nix Software Center](https://github.com/vlinkz/nix-software-center) - Software center to easity install and manage Nix packages `#rust` `#libadwaita`.
 - [Impression](https://gitlab.com/adhami3310/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#libadwaita`.
+- [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#libadwaita`.
 
 ### System and File Cleaning
 
@@ -775,6 +792,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [doppler](https://github.com/spacekookie/doppler) - Fronted for Redshift allowing to configure different display temperatures for each time of day `#rust`.
 - [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#libadwaita`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#libadwaita`.
+- [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala`.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io/) - GNOME's Login Manager (GDM) settings manager `#python` `#libadwaita`.
@@ -819,6 +837,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Map Viewers
 
 - [Atlas](https://github.com/ryonakano/atlas) - Map viewer designed for elementaryOS `#vala` `#granite` `#libhandy`.
+
+## Public Transports
+
+- [Railway](https://gitlab.com/schmiddi-on-mobile/railwayde) - Application to look up information about (german) train journeys in one place `#rust` `#libadwaita`.  
 
 ## Weather Viewers
 
