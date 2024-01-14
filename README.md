@@ -580,6 +580,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Collision](https://collision.geopjr.dev) - Tool to generate, compare and verify hashes `#crystal` `#libadwaita`.
 - [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c`.
+- [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps `#rust` `#libadwaita`.
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#libadwaita`.
 - [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#libadwaita`.
 - [Metadata Cleaner](https://metadatacleaner.romainvigier.fr) - File metadata cleanre based on MAT2 `#python` `#libadwaita`.
