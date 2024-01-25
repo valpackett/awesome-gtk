@@ -669,7 +669,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Markdown
 
 - [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor `#python` `#libadwaita`.
-- [markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Distraction-free Markdown editior `#rust`.
+- [markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Distraction-free Markdown editor `#rust`.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c`.
 - [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#libadwaita`.
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala`.
