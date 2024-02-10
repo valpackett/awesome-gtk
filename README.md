@@ -273,7 +273,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Conjure](https://github.com/nate-xyz/conjure) - Image enhancer based on [ImageMagick] `#python` `#libadwaita`.
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala`.
-- [GIMP](https://www.gimp.or/) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c`.
+- [GIMP](https://www.gimp.org/) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python`.
 - [Obfuscate](https://gitlab.gnome.org/World/obfuscate) - Private information censoring tool `#rust` `#libadwaita`.
 - [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c`.
