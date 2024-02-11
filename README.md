@@ -157,7 +157,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Podcasts
 
 - [GNOME Podcasts](https://gitlab.gnome.org/World/podcasts) - (ex Hammond) Official GNOME Podcast client `#rust` `#libadwaita` `#gnome`.
-- [Vocal](https://vocalproject.net/https://github.com/needle-and-thread/vocal) - Podcast application with iTunes Store integration and smart library management `#vala` `#granite`.
+- [Vocal](https://vocalproject.net) - Podcast application with iTunes Store integration and smart library management `#vala` `#granite`.
 
 #### Audiobooks
 
@@ -172,7 +172,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Transcription
 
-- [Parlatype](https://gkarsay.github.io/parlatype) - Minimal audio player for manual speech transcription `#c`.
+- [Parlatype](https://github.com/gkarsay/parlatype) - Minimal audio player for manual speech transcription `#c`.
 
 #### Ambient Sounds
 
@@ -244,7 +244,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### 3D Graphics
 
-- [Shady](https://github.com/misterdanb/shady) - [Shadertoy](https://github.com/misterdanb/shady/blob/master/Shadertoy.com) compatible GLSL shader live editor `#vala`.
+- [Shady](https://github.com/misterdanb/shady) - [Shadertoy](https://www.shadertoy.com) compatible GLSL shader live editor `#vala`.
 
 ### ASCII/Pixel Art
 
@@ -327,7 +327,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Media Downloaders
 
-- [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://youtube-dl.org) `#python`.
+- [Gydl](https://github.com/JannikHv/gydl) - GUI wrapper around [youtube-dl](https://github.com/ytdl-org/youtube-dl) `#python`.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - [yt-dlp](https://github.com/yt-dlp/yt-dlp) graphical fronted `#csharp` `#libadwaita`.
 
 ### Media Encoders
@@ -452,7 +452,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [balistica](https://github.com/fusilero/balistica) - Exterior ballistics calculator `#vala`.
 - [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#libadwaita`.
 - [Graphs](https://github.com/SjoerdB93/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#libadwaita`.
-- [NaSC](http://parnold-x.github.io/nasc) - Dual pane text based calculator `#vala`.
+- [NaSC](https://github.com/parnoldx/nasc) - Dual pane text based calculator `#vala`.
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#opengl`.
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c`.
@@ -530,7 +530,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#libadwaita`.
 - [GNOME Characters](https://apps.gnome.org/app/org.gnome.Characters) - Emoji picker `#c` `#libadwaita` `#gnome`.
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#libadwaita`.
-- [Random](https://random.amongtech.cc) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
+- [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust`.
@@ -542,7 +542,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Project Management
 
-- [Planify](https://useplanner.com) - Project and task manager with Todoist support `#vala` `#libadwaita`.
+- [Planify](https://github.com/alainm23/planify) - Project and task manager with Todoist support `#vala` `#libadwaita`.
 
 ### Timers / Time Tracking
 
@@ -687,7 +687,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#libdwaita` `#vte`.
 - [GNOME Console](https://gitlab.gnome.org/GNOME/console) - Minimal terminal for the GNOME desktop `#c` `#vte` `#gnome`.
 - [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#vte` `#gnome`.
-- [Guake](http://guake-project.org) - Dropdown terminal for the GNOME desktop `#python` `#vte`.
+- [Guake](https://github.com/Guake/guake) - Dropdown terminal for the GNOME desktop `#python` `#vte`.
 - [Prompt](https://gitlab.gnome.org/chergert/prompt) - Terminal with first-class support for containers `#c` `#vte`.
 - [Tilix](https://gnunn1.github.io/tilix-web) - Tiling and dropdown terminal for the GNOME desktop `#d` `#vte`.
 
@@ -695,7 +695,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) - Visual semi-structured data (JSON) editor `#python` `#libadwaita`.
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#granite`.
-- [Wildcard](https://github.com/fkinoshita/Wildcard) - Regex tester `#rust` `#libadwaita`.
+- [Wildcard](https://gitlab.gnome.org/World/Wildcard) - Regex tester `#rust` `#libadwaita`.
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#granite`.
 - [Snoop](https://gitlab.gnome.org/philippun1/snoop) - Tool to search through your files and providing a Nautilus extension `#vala` `#libadwaita`.
 - [Text Pieces](https://github.com/liferooter/textpieces) - Swiss knife of text processing `#vala` `#libadwaita`.
@@ -846,7 +846,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Public Transports
 
-- [Railway](https://gitlab.com/schmiddi-on-mobile/railwayde) - Application to look up information about (german) train journeys in one place `#rust` `#libadwaita`.  
+- [Railway](https://gitlab.com/schmiddi-on-mobile/railway) - Application to look up information about (german) train journeys in one place `#rust` `#libadwaita`.  
 
 ## Weather Viewers
 
