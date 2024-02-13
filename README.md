@@ -147,7 +147,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Spot](https://github.com/xou816/spot) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) `#rust` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python`.
-- [High Tide](https://github.com/Nokse22/high-tide) - Tidal streaming client `#python` `#libdawaita`.
+- [High Tide](https://github.com/Nokse22/high-tide) - Tidal streaming client `#python` `#libadwaita`.
 
 #### MPD Clients
 
@@ -590,7 +590,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Password Management
 
-- [Authenticator](https://gitlab.gnome.org/World/Authenticator) - Two-factor authentication codes generator `#rust` `#libdawaita`.
+- [Authenticator](https://gitlab.gnome.org/World/Authenticator) - Two-factor authentication codes generator `#rust` `#libadwaita`.
 - [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c`.
@@ -684,7 +684,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Terminals
 
-- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#libdwaita` `#vte`.
+- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#libadwaita` `#vte`.
 - [GNOME Console](https://gitlab.gnome.org/GNOME/console) - Minimal terminal for the GNOME desktop `#c` `#vte` `#gnome`.
 - [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#vte` `#gnome`.
 - [Guake](https://github.com/Guake/guake) - Dropdown terminal for the GNOME desktop `#python` `#vte`.
