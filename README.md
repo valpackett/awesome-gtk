@@ -78,6 +78,7 @@
   - [Inventory](#inventory)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
+- [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
   - [Exchange Rate Viewers](#exchange-rate-viewers)
@@ -596,6 +597,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python`.
 - [Secrets](https://gitlab.gnome.org/World/secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#libadwaita`.
+
+## Digital Forensics
+
+- [Hashes](https://github.com/zefr0x/hashes) - Identify hashing algorithms `#python` `#libadwaita`.
 
 ## Finance
 
