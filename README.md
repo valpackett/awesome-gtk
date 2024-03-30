@@ -114,6 +114,7 @@
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
   - [Board Games](#board-games)
+  - [Puzzles](#puzzles)
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
 - [Public Transports](#public-transports)
@@ -835,10 +836,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#libadwaita`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
 
-
 ### Board Games
 
 - [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games `#python` `#libadwaita`.
+
+### Puzzles
+
+- [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs.
 
 ## Health and Fitness
 
