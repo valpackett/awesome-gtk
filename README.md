@@ -686,6 +686,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Citations](https://gitlab.gnome.org/World/citations) - BibTex bibliography manager `#rust` `#libadwaita`.
 - [Gummi](https://gummi.app) - Simple LaTeX editor `#c`.
 - [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gnome`.
+- [Hieroglyphic](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching, fork of TeX Match `#rust` `#libadwaita`.
 - [Setzer](https://www.cvfosammmm.org/setzer) - Simple yet full-featured LaTeX editor `#python`.
 - [TeX Match](https://github.com/zoeyfyi/TeX-Match) - Application to search for LaTeX symbols by sketching `#rust`.
 
