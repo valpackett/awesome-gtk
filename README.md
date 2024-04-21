@@ -847,6 +847,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Puzzles
 
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs.
+- [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where you need to find a secret word.
 
 ## Health and Fitness
 
