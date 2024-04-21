@@ -839,6 +839,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#libadwaita`.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#libadwaita`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python`.
+- [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#libadwaita`.
 
 ### Board Games
 
