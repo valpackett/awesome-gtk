@@ -766,6 +766,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Management
 
+- [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#libadwaita`.
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala`.
 - [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#libhandy`.
