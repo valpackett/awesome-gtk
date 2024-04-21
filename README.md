@@ -842,6 +842,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Board Games
 
 - [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games `#python` `#libadwaita`.
+- [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#gnome` `#vala` `#libadwaita`.
 
 ### Puzzles
 
