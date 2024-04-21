@@ -520,7 +520,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Translation
 
-- [Dialect](https://github.com/gi-lom/dialect) - Translation based on Google Translate and LibreTranslate `#python` `#libadwaita`.
+- [Dialect](https://github.com/gi-lom/dialect) - Translation based on Google Translate, LibreTranslate and the free DeepL API `#python` `#libadwaita`.
 
 ## Productivity
 
