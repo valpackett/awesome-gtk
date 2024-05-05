@@ -324,6 +324,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Inkscape](https://inkscape.org) - General vector graphics editor using GTK since version 1.0 `#c++`.
 - [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#libadwaita`.
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator) - Utility to create web font-face kits `#python` `#libadwaita`.
+- [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#libadwaita`.
 
 ## Multimedia
 
