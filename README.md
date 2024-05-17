@@ -135,8 +135,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Melody](http://anufrij.org/melody) - Music player designed for elementary OS with metadata fetching, online radio and MTP device sync `#vala` `#granite`.
 - [Muzika](https://github.com/vixalien/muzika) - Music player with customizable home screen and Google Music integration `#gjs` `#libadwaita`.
 - [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#granite`.
-- [GNOME Music](https://wiki.gnome.org/Apps/Music) - Official GNOME desktop music player `#python` `#libadwaita` `#gnome`.
-- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gnome`.
+- [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#libadwaita` `#gnome`.
+- [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gnome`.
 - [Amberol](https://gitlab.gnome.org/ebassi/amberol) - Simple music player well integrated with GNOME `#rust` `#libadwaita`.
 - [G4Music](https://github.com/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#libadwaita`.
 - [HBud](https://github.com/swanux/hbud) - Audio and video player with karaoke features `#python` `#libadwaita`.
@@ -213,7 +213,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#gjs` `#c`.
 - [Delfin](https://codeberg.org/avery42/delfin) - Application to stream movies/TV shows from Jellyfin `#rust` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad/) - Simple video player powered by GStreamer `#haskell`.
-- [GNOME Videos](https://wiki.gnome.org/Apps/Videos) - Official GNOME desktop video player, also known as Totem `#c` `#gnome`.
+- [GNOME Videos](https://apps.gnome.org/Totem) - Official GNOME desktop video player, also known as Totem `#c` `#gnome`.
 - [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `#libadwaita`.
 
 ### Live Stream Viewers
@@ -296,7 +296,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c`.
 - [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++`.
-- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Personal photo manager with editing features `#vala` `#gnome`.
+- [Shotwell](https://gitlab.gnome.org/GNOME/shotwell) - Personal photo manager with editing features `#vala` `#gnome`.
 
 #### Upscalers
 
@@ -359,15 +359,15 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [gtkcord4](https://github.com/diamondburned/gtkcord4) - Discord client written in `#go`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#libadwaita`.
-- [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client `#gjs` `#gnome`.
+- [Polari](https://apps.gnome.org/Polari) - IRC client `#gjs` `#gnome`.
 - [Paper Plane](https://github.com/paper-plane-developers/paper-plane) - Telegram client for the GNOME desktop `#rust` `#libadwaita`.
 - [Srain](https://srain.silverrainz.me) - Modern IRC client `#c`.
 
 ### Email
 
 - [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++`.
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Email application for the GNOME desktop build around conversations `#vala` `#gnome` `#libhandy`.
-- [Evolution](https://wiki.gnome.org/Apps/Evolution) - Personal information management application that provides integrated mail, calendaring and address book functionality `#c` `#gnome`.
+- [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gnome` `#libhandy`.
+- [Evolution](https://gitlab.gnome.org/GNOME/evolution) - Personal information management application that provides integrated mail, calendaring and address book functionality `#c` `#gnome`.
 
 ### File Sharing
 
@@ -400,7 +400,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gnome`.
 - [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c`.
-- [Vinagre](https://wiki.gnome.org/Apps/Vinagre) - Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gnome`.
+- [Vinagre](https://gitlab.gnome.org/Archive/vinagre) - (archive) Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gnome`.
 
 ### Social Media Clients
 
@@ -428,8 +428,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Web Browsers
 
-- [Eolie](https://wiki.gnome.org/Apps/Eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#libhandy`.
-- [GNOME Web (Epiphany)](https://wiki.gnome.org/Apps/Web) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c` `#gnome` `#libadwaita`.
+- [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#libhandy`.
+- [GNOME Web (Epiphany)](https://apps.gnome.org/Epiphany) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c` `#gnome` `#libadwaita`.
 - [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#lua`.
 
 [webkit]: https://webkit.org
@@ -463,22 +463,22 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Calendar
 
-- [GNOME Calendar](https://wiki.gnome.org/Apps/Calendar) - Simple calendar for the GNOME desktop `#c` `#libadwaita` `#gnome`.
+- [GNOME Calendar](https://apps.gnome.org/Calendar) - Simple calendar for the GNOME desktop `#c` `#libadwaita` `#gnome`.
 
 ### Document Managers
 
-- [GNOME Documents](https://wiki.gnome.org/Apps/Documents) - (archived) Document manager for the GNOME desktop with collection features `#gjs`.
+- [GNOME Documents](https://gitlab.gnome.org/Archive/gnome-documents) - (archived) Document manager for the GNOME desktop with collection features `#gjs`.
 - [Paperwork](https://openpaper.work) - Document manager with scan features `#python`.
 
 ### Document Viewers
 
 - [Xreader](https://github.com/linuxmint/xreader) - Generic document viewer with support for PDF, Postscript, djvu, comics and more `#c` `#xapps`.
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, djvu, comics etc. and SyncTex support with gedit `#c` `#libhandy` `#gnome`.
+- [Evince](https://apps.gnome.org/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, djvu, comics etc. and SyncTex support with gedit `#c` `#libhandy` `#gnome`.
 
 ### Note-taking
 
-- [GNOME Notes](https://wiki.gnome.org/Apps/Notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gnome`.
-- [Gnote](https://wiki.gnome.org/Apps/Gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gnome`.
+- [GNOME Notes](https://gitlab.gnome.org/GNOME/gnome-notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gnome`.
+- [Gnote](https://gitlab.gnome.org/GNOME/gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gnome`.
 - [Iridium](https://github.com/matze/iridium) - [Standard Notes](https://standardnotes.org) local-first client `#rust`.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#granite`.
 - [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++`.
@@ -638,14 +638,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Hex Editors
 
-- [GHex](https://wiki.gnome.org/Apps/Ghex) - Tool to load data from any file, view and edit it in either hex or ASCII `#c` `#libadwaita` `#gnome`.
+- [GHex](https://gitlab.gnome.org/GNOME/ghex) - Tool to load data from any file, view and edit it in either hex or ASCII `#c` `#libadwaita` `#gnome`.
 
 ### IDEs
 
 #### Featureful IDEs
 
-- [Anjuta](https://wiki.gnome.org/Apps/Anjuta) - (archived) IDE with a GUI designer for the GNOME desktop `#c` `#gnome`.
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Tool to help you write and contribute to great GNOME-based applications `#c` `#libadwaita` `#gnome`.
+- [Anjuta](https://gitlab.gnome.org/Archive/anjuta) - (archived) IDE with a GUI designer for the GNOME desktop `#c` `#gnome`.
+- [GNOME Builder](https://apps.gnome.org/Builder) - Tool to help you write and contribute to great GNOME-based applications `#c` `#libadwaita` `#gnome`.
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) - GTK-based IDE for Julia `#julia`.
 - [Playhouse](https://github.com/sonnyp/Playhouse) - Playground for HTML/CSS/JavaScript `#gjs` `#libadwaita`.
 - [Valama](https://github.com/Valama/valama) - Vala IDE `#vala`.
@@ -662,7 +662,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [elementary Code](https://github.com/elementary/code) - Code editor designed for elementaryOS `#vala` `#granite`.
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementaryOS-oriented IDE `#vala` `#granite`.
 - [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c`.
-- [gedit](https://wiki.gnome.org/Apps/Gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gnome`.
+- [gedit](https://gitlab.gnome.org/GNOME/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gnome`.
 - [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor) - Simple text editor that focuses on session management `#c` `#gnome`.
 - [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#granite`.
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++`.
@@ -687,7 +687,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Citations](https://gitlab.gnome.org/World/citations) - BibTex bibliography manager `#rust` `#libadwaita`.
 - [Gummi](https://gummi.app) - Simple LaTeX editor `#c`.
-- [GNOME LaTeX (LaTeXila)](https://wiki.gnome.org/Apps/GNOME-LaTeX) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gnome`.
+- [GNOME LaTeX (LaTeXila)](https://gitlab.gnome.org/swilmet/gnome-latex) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gnome`.
 - [Hieroglyphic](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching, fork of TeX Match `#rust` `#libadwaita`.
 - [Setzer](https://www.cvfosammmm.org/setzer) - Simple yet full-featured LaTeX editor `#python`.
 - [TeX Match](https://github.com/zoeyfyi/TeX-Match) - Application to search for LaTeX symbols by sketching `#rust`.
@@ -727,7 +727,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Commit](https://github.com/sonnyp/Commit) - Commit message editor for Git and Mercurial `#gjs` `#libadwaita`.
 - [Diffuse](https://github.com/MightyCreak/diffuse) - Text file comparing/merging tool `#python`.
 - [Forge Sparks](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) notification application `#gjs` `#libadwaita`.
-- [gitg](https://wiki.gnome.org/Apps/Gitg) - Git GUI client `#vala` `#gnome`.
+- [gitg](https://gitlab.gnome.org/GNOME/gitg) - Git GUI client `#vala` `#gnome`.
 - [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs`.
 - [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gnome`.
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems, context menus and specific dialogues for complex operations `#python` `#libadwaita`.
@@ -749,7 +749,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Backup
 
 - [Butter](https://github.com/zhangyuannie/butter) - Btrfs snapshot manager `#rust` `#libadwaita`.
-- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup) - Simple backup tool for the GNOME desktop `#vala` `#libadwaita`.
+- [Déjà Dup Backups](https://apps.gnome.org/DejaDup/) - Simple backup tool for the GNOME desktop `#vala` `#libadwaita`.
 - [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Backup application based on [BorgBackup](https://www.borgbackup.org/support/fund.html) with remote, scheduling and encryption features `#rust` `#libadwaita`.
 - [Timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots `#vala`.
 
@@ -760,8 +760,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Disk Imaging
 
-- [Brasero](https://wiki.gnome.org/Apps/Brasero) - Application to burn CD/DVD designed to be as simple as possible `#c` `#gnome`.
-- [GNOME MultiWriter](https://wiki.gnome.org/Apps/MultiWriter) - Utility to write an ISO file to multiple USB devices at once `#c` `#gnome`.
+- [Brasero](https://gitlab.gnome.org/GNOME/brasero) - Application to burn CD/DVD designed to be as simple as possible `#c` `#gnome`.
+- [GNOME MultiWriter](https://gitlab.gnome.org/GNOME/gnome-multi-writer) - Utility to write an ISO file to multiple USB devices at once `#c` `#gnome`.
 - [Imageburner](https://github.com/artemanufrij/imageburner) - Simple imageburner for SD/USB designed for elementaryOS `#vala` `#granite`.
 - [Popsicle](https://github.com/pop-os/popsicle) - Utility for flashing multiple USB devices in parallel `#rust`.
 
@@ -823,9 +823,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### System Monitoring and Info
 
 - [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c`.
-- [GNOME Disk Usage Analyzer](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gnome`.
-- [GNOME Logs](https://wiki.gnome.org/Apps/Logs) - systemd logs viewer `#c` `#gnome` `#libadwaita`.
-- [GNOME Usage](https://wiki.gnome.org/Apps/Usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
+- [GNOME Disk Usage Analyzer](https://apps.gnome.org/Baobab) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gnome`.
+- [GNOME Logs](https://apps.gnome.org/Logs/) - systemd logs viewer `#c` `#gnome` `#libadwaita`.
+- [GNOME Usage](https://gitlab.gnome.org/GNOME/gnome-usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#libadwaita`.
 - [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#libadwaita`.
@@ -870,7 +870,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Weather Viewers
 
-- [GNOME Weather](https://wiki.gnome.org/Apps/Weather) - Weather application for the GNOME desktop `#gjs` `#gnome`.
+- [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#gnome`.
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#libhandy`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala`.
 - [Mousam](https://github.com/amit9838/mousam) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#libadwaita`.
