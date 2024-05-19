@@ -460,6 +460,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c`.
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#libadwaita`.
+- [Binary](https://github.com/fizzyizzy05/binary) - Small application to convert numbers to different bases `#python` `#libadwaita`.
 
 ### Calendar
 
