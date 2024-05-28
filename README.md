@@ -775,6 +775,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala`.
 - [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#libhandy`.
+- [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#libadwaita`.
 
 ### File Synchronisation
 
