@@ -441,7 +441,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Proxy
 
 - [Carburetor](https://tractor.frama.io/carburetor) - Graphical setting app to easily set up a TOR proxy on your session, without getting your hands dirty with system configs `#python` `#libadwaita`.
-- [Haguichi](https://haguichi.ne) - Graphical fronted for Hamachi `#vala`.
+- [Haguichi](https://haguichi.net) - Graphical fronted for Hamachi `#vala`.
 
 ## Office
 
