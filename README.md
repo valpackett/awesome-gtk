@@ -215,7 +215,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Movie Monad](https://lettier.github.io/movie-monad/) - Simple video player powered by GStreamer `#haskell`.
 - [GNOME Videos](https://apps.gnome.org/Totem) - Official GNOME desktop video player, also known as Totem `#c` `#gnome`.
 - [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `#libadwaita`.
-- [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#libadwaita`
+- [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#libadwaita`.
 
 ### Live Stream Viewers
 
