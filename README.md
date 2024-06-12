@@ -830,6 +830,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### System Monitoring and Info
 
+- [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences `#rust` `#libadwaita`.
 - [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c`.
 - [GNOME Disk Usage Analyzer](https://apps.gnome.org/Baobab) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gnome`.
 - [GNOME Logs](https://apps.gnome.org/Logs/) - systemd logs viewer `#c` `#gnome` `#libadwaita`.
