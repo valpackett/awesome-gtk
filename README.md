@@ -306,6 +306,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Dagger](https://github.com/SeaDve/dagger) - [Graphviz] DOT graphs viewer and editor `#rust` `#libadwaita`.
 - [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#libadwaita`.
+- [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats `#python` `#libadwaita`.
 - [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#libadwaita`.
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python`.
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#granite`.
