@@ -836,6 +836,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Logs](https://apps.gnome.org/Logs/) - systemd logs viewer `#c` `#gnome` `#libadwaita`.
 - [GNOME Usage](https://gitlab.gnome.org/GNOME/gnome-usage) - System resources monitoring for the GNOME desktop `#vala` `#gnome`.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python`.
+- [Inspector](https://flathub.org/apps/io.github.nokse22.inspector) - Application to view system information such as USB/disk/PCIE/networks devices and motherboard/CPU information `#python` `#libadwaita`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#libadwaita`.
 - [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#libadwaita`.
 - [Resources](https://github.com/nokyan/resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
