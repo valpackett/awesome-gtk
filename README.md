@@ -859,6 +859,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Board Games
 
 - [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games `#python` `#libadwaita`.
+- [Convolution](https://flathub.org/apps/org.gnome.gitlab.bazylevnik0.Convolution) - Logic game about escaping from a maze `#gjs` `#libadwaita`.
 - [Crosswords](https://flathub.org/apps/org.gnome.Crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#gnome` `#vala` `#libadwaita`.
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#libadwaita`.
