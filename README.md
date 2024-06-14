@@ -841,6 +841,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#libadwaita`.
 - [Resources](https://github.com/nokyan/resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#libadwaita`.
 - [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#libadwaita`.
+- [Stimulator](https://flathub.org/apps/io.github.sigmasd.stimulator) - Application to keep the computer awake with AppIndicator support `#typescript` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++`.
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources `#vala` `#elementaryos`.
 
