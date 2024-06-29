@@ -828,6 +828,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#relm4`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks `#python` `#libadwaita`.
+- [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#libadwaita`.
 
 ### System Monitoring and Info
 
