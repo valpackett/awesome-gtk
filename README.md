@@ -567,6 +567,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#libadwaita`.
 - [Solanum](https://gitlab.gnome.org/World/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python`.
+- [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#libadwaita`.
 - [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementaryOS `#vala` `#granite`.
 - [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#libadwaita`.
 
