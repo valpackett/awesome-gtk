@@ -464,6 +464,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c`.
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#libadwaita`.
 - [Binary](https://github.com/fizzyizzy05/binary) - Small application to convert numbers to different bases `#python` `#libadwaita`.
+- [Valuta](https://apps.gnome.org/en/Valuta) - Simple currency conversion tool `#python` `#libadwaita`.
 
 ### Calendar
 
