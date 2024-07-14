@@ -58,6 +58,7 @@
   - [WiFi](#wifi)
   - [Proxy](#proxy)
 - [Office](#office)
+  - [Office Suites](#office-suites)
   - [Book Readers](#book-readers)
   - [Calculators & Math](#calculators--math)
   - [Calendar](#calendar)
@@ -448,6 +449,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Haguichi](https://haguichi.net) - Graphical fronted for Hamachi `#vala`.
 
 ## Office
+
+### Office Suites
+
+- [LibreOffice](https://www.libreoffice.org) - Cross-platform office suite using the OpenDocument format and supports variety of formats including Microsoft Office `#C++`.
 
 ### Book Readers
 
