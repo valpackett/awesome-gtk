@@ -223,6 +223,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Editors
 
+- [Flowblade](https://jliljebl.github.io/flowblade) - Multitrack non-linear video editor `#python`.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips `#rust` `#libadwaita`.
 - [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python`.
 - [Video Trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#libadwaita`.
