@@ -50,13 +50,14 @@
   - [File Sharing](#file-sharing)
   - [Network Monitoring](#network-monitoring)
   - [News/Feed Readers](#newsfeed-readers)
+  - [Proxy](#proxy)
   - [Remote Desktop](#remote-desktop)
   - [Social Media Clients](#social-media-clients)
     - [Social Graveyard](#social-graveyard)
   - [Specialized Web Browsers / Wrappers](#specialized-web-browsers--wrappers)
   - [Web Browsers](#web-browsers)
+  - [VPN](#vpn)
   - [WiFi](#wifi)
-  - [Proxy](#proxy)
 - [Office](#office)
   - [Office Suites](#office-suites)
   - [Book Readers](#book-readers)
@@ -401,6 +402,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c`.
 - [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#libadwaita`.
 
+### Proxy
+
+- [Carburetor](https://tractor.frama.io/carburetor) - Graphical setting app to easily set up a TOR proxy on your session, without getting your hands dirty with system configs `#python` `#libadwaita`.
+
 ### Remote Desktop
 
 - [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gnome`.
@@ -431,6 +436,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs `#gjs` `#libadwaita`.
 - [Wike](https://hugolabe.github.io/Wike) - Wikipedia client `#python` `#libadwaita`.
 
+### VPN
+
+- [Haguichi](https://haguichi.net) - Graphical fronted for Hamachi `#vala` `#libadwaita`.
+
 ### Web Browsers
 
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#libhandy`.
@@ -442,11 +451,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### WiFi
 
 - [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c`.
-
-### Proxy
-
-- [Carburetor](https://tractor.frama.io/carburetor) - Graphical setting app to easily set up a TOR proxy on your session, without getting your hands dirty with system configs `#python` `#libadwaita`.
-- [Haguichi](https://haguichi.net) - Graphical fronted for Hamachi `#vala`.
 
 ## Office
 
