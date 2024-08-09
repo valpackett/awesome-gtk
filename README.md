@@ -78,6 +78,7 @@
   - [Timers / Time Tracking](#timers--time-tracking)
   - [To-do Lists](#to-do-lists)
   - [Inventory](#inventory)
+  - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
 - [Digital Forensics](#digital-forensics)
@@ -602,6 +603,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Jellybean](https://codeberg.org/turtle/jellybean) - Inventory manager with refill functions and a handy low-stock indicator `#vala` `#libadwaita`.
 
+### Chat Bots and Virtual assistants
+
+- [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#libadwaita`.
+
 ## Security and Privacy
 
 - [Collision](https://collision.geopjr.dev) - Tool to generate, compare and verify hashes `#crystal` `#libadwaita`.
@@ -736,6 +741,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#libadwaita`.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#libadwaita`.
 - [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub `#python` `#libadwaita`.
+- [Cartero](https://cartero.danirod.es) - Graphical HTTP client to perform HTTP requests and test web APIs `#rust` `#libadwaita`.
  
 ### UI Design
 
