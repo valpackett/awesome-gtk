@@ -598,6 +598,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Jellybean](https://codeberg.org/turtle/jellybean) - Inventory manager with refill functions and a handy low-stock indicator `#vala` `#libadwaita`.
 
+### Chat Bots and Virtual assistants
+
+- [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#libadwaita`.
+
 ## Security and Privacy
 
 - [Collision](https://collision.geopjr.dev) - Tool to generate, compare and verify hashes `#crystal` `#libadwaita`.
