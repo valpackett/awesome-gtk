@@ -77,6 +77,7 @@
   - [Timers / Time Tracking](#timers--time-tracking)
   - [To-do Lists](#to-do-lists)
   - [Inventory](#inventory)
+  - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
 - [Digital Forensics](#digital-forensics)
