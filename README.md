@@ -263,6 +263,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Image Viewers
 
+- [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Android motion photos `#rust` `#libadwaita`.
 - [Geeqie](https://www.geeqie.org/) - Cross-platform image viewer and organizer `#c++`.
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust`.
 - [Loupe](https://gitlab.gnome.org/BrainBlasted/loupe) - Simple image viewer `#rust` `#libadwaita`.
