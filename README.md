@@ -904,6 +904,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Map Viewers
 
 - [Atlas](https://github.com/ryonakano/atlas) - Map viewer designed for elementaryOS `#vala` `#granite` `#libhandy`.
+- [GNOME Maps](https://apps.gnome.org/Maps) - GNOME's map viewer using OpenStreetMap database `#gnome` `#libadwaita` `#c` `#javascript`.
 
 ## Public Transports
 
