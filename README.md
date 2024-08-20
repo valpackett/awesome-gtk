@@ -359,6 +359,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Chat and VoIP
 
+- [Chats](https://flathub.org/apps/sm.puri.Chatty) - Mobile and desktop messaging application supporting SMS, MMS, XMPP and Matrix `#c` `#libadwaita`.
 - [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#libadwaita`.
 - [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python`.
 - [Flare](https://gitlab.com/schmiddi-on-mobile/flare) - Signal client `#rust` `#libadwaita`.
