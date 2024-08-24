@@ -842,6 +842,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala`.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#libadwaita`.
+- [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io/) - GNOME's Login Manager (GDM) settings manager `#python` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#libadwaita`.
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala`.
