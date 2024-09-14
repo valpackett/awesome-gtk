@@ -435,6 +435,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#granite`.
 - [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Portrait Plus, Stable Diffusion, Custom Provider) interface `#python` `#libadwaita`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#libadwaita`.
+- [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube and PeerTube client with offline subscription and playlist features `#rust` `#libadwaita`.
 - [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#libadwaita`.
 - [Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs `#gjs` `#libadwaita`.
 - [Wike](https://hugolabe.github.io/Wike) - Wikipedia client `#python` `#libadwaita`.
