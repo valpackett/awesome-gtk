@@ -397,6 +397,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Network Monitoring
 
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust`.
+- [Echo](https://github.com/lo2dev/Echo) - Simple utility to ping websites using GTK4 and Libadwaita. `#python` `#libadwaita`.
 
 ### News/Feed Readers
 
