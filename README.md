@@ -204,7 +204,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust` `#gtk3`.
 - [pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume mixer `#rust` `#gtk4` `#libadwaita`.
 - [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#gtk4` `#granite`.
-- [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`
+- [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 
@@ -575,7 +575,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Timers / Time Tracking
 
-- [Chess Clock](https://apps.gnome.org/app/com.clarahobbs.chessclock) - Over-the-board chess time control `#python` `#gtk4` `#libadwaita`.
+- [Chess Clock](https://apps.gnome.org/Chessclock/) - Over-the-board chess time control `#python` `#gtk4` `#libadwaita`.
 - [Exercise Timer](https://github.com/mfep/exercise-timer) - Interval training timer `#rust` `#gtk4` `#libadwaita`.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#gtk4` `#libadwaita`.
 - [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#gtk4` `#libadwaita`.
@@ -889,7 +889,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Board Games
 
-- [Chess Clock](https://apps.gnome.org/app/com.clarahobbs.chessclock) - Timer for over-the-board chess games `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution/) - Logic game about escaping from a maze `#gjs` `#gtk4` `#libadwaita`.
 - [Crosswords](https://gitlab.gnome.org/jrb/crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de/) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#gtk4` `#libadwaita`.
