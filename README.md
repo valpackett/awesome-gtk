@@ -404,7 +404,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Coffee](https://nick92.github.io/coffee) - News and weather reader for sources provided by News API and DarkSky `#vala` `#gtk3`.
 - [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c` `#gtk3`.
-- [NewsFlash](https://apps.gnome.org/NewsFlash/) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [NewsFlash](https://apps.gnome.org/NewsFlash) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Proxy
 
@@ -419,13 +419,13 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Social Media Clients
 
 - [Tuba](https://apps.gnome.org/Tuba) - Mastodon client, fork of Tootle `#vala` `#gtk4` `#libadwaita` `#gnome`.
-- [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust` `#gtk4` `#gnome`.
+- [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust` `#gtk4`.
 
 #### Social Graveyard
 
 Clients for commercial social platforms that had their API access cut off in a wave of [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai).
 
-- [Giara](https://gitlab.gnome.org/World/giara) - Used to be a Reddit client (not officially deprecated yet) `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [Giara](https://gitlab.gnome.org/World/giara) - Used to be a Reddit client (not officially deprecated yet) `#python` `#gtk4` `#libadwaita`.
 - [Headlines](https://gitlab.com/caveman250/Headlines) - Used to be a Reddit client `#c++` `#gtk4` `#libadwaita`.
 - [NewCaw](https://github.com/CodedOre/NewCaw) - Used to be a Twitter client, rewrite to Mastodon API abandoned `#vala`.
 
@@ -557,7 +557,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
 - [GNOME Characters](https://apps.gnome.org/Characters) - Emoji picker `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita` `#gnome`. 
+- [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
@@ -583,7 +583,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#gtk4` `#granite`.
 - [Khronos](https://apps.gnome.org/Khronos) - Task time logger `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#gtk4` `#libadwaita`.
-- [Solanum](https://apps.gnome.org/Solanum/) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
 - [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#gtk4` `#libadwaita`.
 - [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementaryOS `#vala` `#gtk3` `#granite`.
@@ -691,7 +691,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [elementary Code](https://github.com/elementary/code) - Code editor designed for elementaryOS `#vala` `#gtk3` `#granite` `#elementary`.
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementaryOS-oriented IDE `#vala` `#gtk3` `#granite`.
 - [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c` `#gtk3`.
-- [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3` `#gnome`.
+- [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#gtk3` `#granite`.
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++` `#gtk3`.
@@ -701,7 +701,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 #### Xi GUIs
 
-- [Tau](https://gitlab.gnome.org/World/Tau) - GTK frontend for Xi, previously called gxi `#rust` `#gtk3` `#gnome`.
+- [Tau](https://gitlab.gnome.org/World/Tau) - GTK frontend for Xi, previously called gxi `#rust` `#gtk3`.
 - [xi-gtk](https://github.com/eyelash/xi-gtk) - GTK fronted for the Xi `#vala` `#gtk3`.
 
 ### Markdown
