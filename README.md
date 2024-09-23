@@ -136,7 +136,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Amberol](https://apps.gnome.org/Amberol) - Simple music player well integrated with GNOME `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Decibels](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#gtk4` `#libadwaita` `#gnome`.
-- [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#elementary`.
+- [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita` `#elementary`.
 - [G4Music](https://github.com/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [HBud](https://github.com/swanux/hbud) - Audio and video player with karaoke features `#python` `#gtk4` `#libadwaita`.
@@ -369,7 +369,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Dissent](https://github.com/diamondburned/dissent) - Discord client `#go` `#gtk4` `#libadwaita`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#gtk4` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#gtk4` `#libadwaita`.
-- [Polari](https://apps.gnome.org/Polari) - IRC client `#gjs` `#gtk4` `#gnome`.
+- [Polari](https://apps.gnome.org/Polari) - IRC client `#gjs` `#gtk4` `#libadwaita` `#gnome`.
 - [Paper Plane](https://github.com/paper-plane-developers/paper-plane) - Telegram client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Srain](https://srain.silverrainz.me) - Modern IRC client `#c` `#gtk3`.
 
