@@ -397,7 +397,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Network Monitoring
 
-- [Echo](https://github.com/lo2dev/Echo) - Simple utility to ping websites `#python` `#libadwaita`.
+- [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 
 ### News/Feed Readers
