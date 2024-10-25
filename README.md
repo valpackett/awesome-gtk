@@ -690,7 +690,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 #### Simple Editors and Light IDEs
 
-- [Bluefish](https://bluefish.openoffice.nl) - Editor targeted towards programmers and web developers (C, JavaScript, Java, PHP, Python, markup languages HTML, YAML and XML) `#c` `#gtk3`.
+
+- [Bluefish](https://bluefish.openoffice.nl) - Editor targeted towards programmers and web developers (C, JavaScript, Java, PHP, Python and markup languages: HTML, YAML and XML) `#c` `#gtk3`.
 - [elementary Code](https://github.com/elementary/code) - Code editor designed for elementaryOS `#vala` `#gtk3` `#granite` `#elementary`.
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementaryOS-oriented IDE `#vala` `#gtk3` `#granite`.
 - [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c` `#gtk3`.
