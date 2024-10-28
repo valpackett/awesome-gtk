@@ -81,6 +81,7 @@
   - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
+  - [Cryptography](#cryptography)
 - [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
@@ -239,6 +240,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Screen Recorders
 
+- [Kazam2](https://github.com/henrywoo/kazam) - Versatile tool for screen recording, broadcasting, capturing and optical character recognition `#python` `#gtk3`.
 - [Kooha](https://github.com/SeaDve/Kooha) - Distraction-free screen recorder `#rust` `#gtk4` `#libadwaita`.
 - [RecApp](https://github.com/amikha1lov/RecApp) - (archived) Simple screencasting application based on GStreamer `#python` `#gtk3` `#libhandy`.
 
@@ -330,7 +332,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala` `#gtk3`.
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#gtk3` `#libhandy`.
-- [Inkscape](https://inkscape.org) - General vector graphics editor using GTK since version 1.0 `#c++` `#gtk4`.
+- [Inkscape](https://inkscape.org) - General vector graphics editor using GTK since version 1.0 `#c++` `#gtk3`.
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
 - [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -462,7 +464,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Office Suites
 
-- [LibreOffice](https://www.libreoffice.org) - Cross-platform office suite using the OpenDocument format and supports variety of formats including Microsoft Office `#C++` `#gtk4`.
+- [LibreOffice](https://www.libreoffice.org) - Cross-platform office suite using the OpenDocument format and supports variety of formats including Microsoft Office `#C++` `#gtk3`.
 
 ### Book Readers
 
@@ -630,6 +632,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
 - [Secrets](https://apps.gnome.org/Secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#gtk4` `#libadwaita` `#gnome`.
+
+### Cryptography
+
+- [Lock](https://konstantintutsch.com/Lock) - GnuPG front-end for cryptography operations and key management `#c` `#gtk4` `#libadwaita`.
 
 ## Digital Forensics
 
