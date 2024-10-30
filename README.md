@@ -45,7 +45,7 @@
   - [Media Servers](#media-servers)
 - [Internet and Networking](#internet-and-networking)
   - [Bluetooth](#bluetooth)
-  - [Chat and VoIP](#chat-and-voip)
+  - [Chat, VoIP, and Phone](#chat-and-voip)
   - [Email](#email)
   - [File Sharing](#file-sharing)
   - [Network Monitoring](#network-monitoring)
@@ -360,8 +360,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [IP Lookup](https://github.com/Bytezz/IPLookup-gtk) - Simple application to find information about an IP address `#python` `#gtk4` `#libadwaita`.
 - [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust` `#gtk4` `#libadwaita`.
 
-### Chat and VoIP
+### Chat, VoIP, and Phone
 
+- [Calls](https://gitlab.gnome.org/GNOME/calls) - Phone dialer and call handler for cellular modems and VoIP (SIP) `#c` `#vala` `#gtk4` `#libadwaita`.
 - [Chats](https://gitlab.gnome.org/World/Chatty) - Mobile and desktop messaging application supporting SMS, MMS, XMPP and Matrix `#c` `#gtk4` `#libadwaita`.
 - [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#gtk4` `#libadwaita`.
 - [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python` `#gtk3`.
