@@ -45,7 +45,7 @@
   - [Media Servers](#media-servers)
 - [Internet and Networking](#internet-and-networking)
   - [Bluetooth](#bluetooth)
-  - [Chat, VoIP, and Phone](#chat-and-voip-and-phone)
+  - [Chat, VoIP, and Phone](#chat-voip-and-phone)
   - [Email](#email)
   - [File Sharing](#file-sharing)
   - [Network Monitoring](#network-monitoring)
