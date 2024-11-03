@@ -348,6 +348,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Media Encoders
 
+- [Aviator](https://github.com/gianni-rosato/aviator) - Easy-to-use GUI for encoding with SVT-AV1-PSY & libopus `#python` `#gtk4` `#libadwaita`.
 - [Selene](https://github.com/teejee2008/selene) - Audio/video converter for audio and videos files that can encode them to popular output formats like MKV and MP4 `#vala`.
 
 ### Media Servers
