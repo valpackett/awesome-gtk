@@ -242,6 +242,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Kazam2](https://github.com/henrywoo/kazam) - Versatile tool for screen recording, broadcasting, capturing and optical character recognition `#python` `#gtk3`.
 - [Kooha](https://github.com/SeaDve/Kooha) - Distraction-free screen recorder `#rust` `#gtk4` `#libadwaita`.
+- [Wayfarer](https://github.com/stronnag/wayfarer) - Screen Recorder for GNOME / Wayland / Pipewire `#vala` `#gtk4`.
 - [RecApp](https://github.com/amikha1lov/RecApp) - (archived) Simple screencasting application based on GStreamer `#python` `#gtk3` `#libhandy`.
 
 ### Video Tools
@@ -808,6 +809,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Management
 
+- [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python` `#gtk3` `#libhandy`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
