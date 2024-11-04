@@ -348,7 +348,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Encoders
 
 - [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus `#python` `#gtk4` `#libadwaita`.
-- [Selene](https://github.com/teejee2008/selene) - Audio/video converter for audio and videos files that can encode them to popular output formats like MKV and MP4 `#vala`.
+- [Selene](https://github.com/teejee2008/selene) - Audio/video converter for audio and videos files that can encode them to popular output formats like MKV and MP4 `#vala` `#gtk3`.
 
 ### Media Servers
 
@@ -402,7 +402,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Network Monitoring
 
-- [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#libadwaita`.
+- [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 
 ### News/Feed Readers
