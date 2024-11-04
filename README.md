@@ -247,7 +247,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Tools
 
-- [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus `#python` `#gtk4` `#libadwaita`.
 - [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk3`.
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
@@ -348,6 +347,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Media Encoders
 
+- [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus `#python` `#gtk4` `#libadwaita`.
 - [Selene](https://github.com/teejee2008/selene) - Audio/video converter for audio and videos files that can encode them to popular output formats like MKV and MP4 `#vala`.
 
 ### Media Servers
