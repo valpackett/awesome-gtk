@@ -332,8 +332,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Vector & Fonts
 
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala` `#gtk3`.
+- [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#c++` `#gtk3`.
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#gtk3` `#libhandy`.
-- [Inkscape](https://inkscape.org) - General vector graphics editor using GTK since version 1.0 `#c++` `#gtk3`.
+- [Inkscape](https://inkscape.org) - General vector graphics editor `#c++` `#gtk3`.
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
 - [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
