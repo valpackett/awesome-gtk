@@ -483,7 +483,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#gtk4` `#libadwaita`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c` `#gtk3`.
 - [Graphs](https://apps.gnome.org/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#gtk4` `#libadwaita` `#gnome`.
-- [Gretl](https://gretl.sourceforge.net/) - Cross-platform statistical package for econometric analysis `#c` `#gtk3.
+- [Gretl](https://gretl.sourceforge.net) - Cross-platform statistical package for econometric analysis `#c` `#gtk3`.
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
 - [NaSC](https://github.com/parnoldx/nasc) - Dual pane text based calculator `#vala` `#gtk3` `#granite`.
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
