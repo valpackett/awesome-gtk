@@ -71,6 +71,7 @@
   - [PDF Tools](#pdf-tools)
   - [Presentation](#presentation)
   - [Translation](#translation)
+  - [Word processors](#word-processors)
 - [Productivity](#productivity)
   - [Desktop Productivity](#desktop-productivity)
   - [Mind-mapping](#mind-mapping)
@@ -554,6 +555,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Translation
 
 - [Dialect](https://apps.gnome.org/Dialect) - Translation based on Google Translate, LibreTranslate and the free DeepL API `#python` `#gtk4` `#libadwaita` `#gnome`.
+
+### Word Processors
+- [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor `#c++` `#gtk3`.
+
 
 ## Productivity
 
