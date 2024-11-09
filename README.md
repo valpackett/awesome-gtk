@@ -469,7 +469,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Office Suites
 
-- [LibreOffice](https://www.libreoffice.org) - Cross-platform office suite using the OpenDocument format and supports variety of formats including Microsoft Office. Components: Word processor, spreadsheet editor, presentation program, graphics editor, math formulae editor, database application `#C++` `#gtk3`.
+- [LibreOffice](https://www.libreoffice.org) - Cross-platform office suite using the OpenDocument format and supports variety of formats including Microsoft Office. Components: Word processor, spreadsheet editor, presentation program, graphics editor, math formulae editor, database application `#c++` `#gtk3`.
 
 ### Book Readers
 
