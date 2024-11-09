@@ -560,7 +560,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
 
-
 ## Productivity
 
 ### Desktop Productivity
