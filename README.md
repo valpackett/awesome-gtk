@@ -557,7 +557,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Dialect](https://apps.gnome.org/Dialect) - Translation based on Google Translate, LibreTranslate and the free DeepL API `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Word Processors
-- [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor `#c++` `#gtk3`.
+
+- [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
 
 
 ## Productivity
