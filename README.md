@@ -71,7 +71,7 @@
   - [PDF Tools](#pdf-tools)
   - [Presentation](#presentation)
   - [Translation](#translation)
-  - [Word processors](#word-processors)
+  - [Word Processors](#word-processors)
 - [Productivity](#productivity)
   - [Desktop Productivity](#desktop-productivity)
   - [Mind-mapping](#mind-mapping)
