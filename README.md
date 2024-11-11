@@ -658,6 +658,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#gtk4` `#libadwaita`.
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#gtk3` `#granite`.
 - [Grisbi](http://grisbi.org) - 20 years old accounting application `#c` `#gtk3`.
+- [HomeBank](https://www.gethomebank.org) - Cross-platform personal accounting application with dynamic reports and import from QIF, OFX, QFX, and CSV.
+ `#c` `#gtk3`.
 
 ### Exchange Rate Viewers
 
