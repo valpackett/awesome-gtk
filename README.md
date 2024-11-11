@@ -876,7 +876,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#gtk4` `#libadwaita`.
-- [Warehouse](https://github.com/flattool/warehouse) - Versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks `#python` `#gtk4` `#libadwaita`.
+- [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 
 ### System Monitoring and Info
 
