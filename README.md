@@ -74,6 +74,7 @@
   - [Word Processors](#word-processors)
 - [Productivity](#productivity)
   - [Desktop Productivity](#desktop-productivity)
+  - [Education](#education)
   - [Mind-mapping](#mind-mapping)
   - [Project Management](#project-management)
   - [Timers / Time Tracking](#timers--time-tracking)
@@ -579,6 +580,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
 - [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementaryOS `#vala` `#gtk3` `#granite`.
+
+### Education
+
+- [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 
 ### Mind-mapping
 
