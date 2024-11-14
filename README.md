@@ -65,6 +65,7 @@
   - [Calendar](#calendar)
   - [Document Managers](#document-managers)
   - [Document Viewers](#document-viewers)
+  - [Document Scanners](#document-scanners)
   - [Note-taking](#note-taking)
   - [Journaling](#journaling)
   - [OCR](#ocr)
@@ -509,6 +510,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Evince](https://apps.gnome.org/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, DjVu, comics etc. and SyncTex support with gedit `#c` `#gtk3` `#libhandy` `#gnome`.
 - [Papers](https://apps.gnome.org/en/Papers) - Document viewer for the GNOME desktop (GTK 4 fork of Evince) with support for PDF, Postscript, DjVu, EPS, XPS and comics archives `#c` `#gtk4` `#libadwaita` `#gnome`.
 
+### Document Scanners
+
+- [Decoder](https://apps.gnome.org/Decoder) - QR Codes scanner and generator `#rust` `#gtk4` `#libadwaita`.
+- [Document Scanner](https://apps.gnome.org/SimpleScan) - Document scanner using the SANE framework with crop and rotate editing features `#vala` `#libadwaita` `#gnome`.
+
 ### Note-taking
 
 - [Folio](https://github.com/toolstack/Folio) - Markdown note-taking application with GNOME desktop integration (Paper fork with additional features) `#vala` `#gtk4` `#libadwaita`.
@@ -527,7 +533,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#gtk4` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++` `#gtk3`.
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python` `#gtk3`.
-
 
 ### Journaling
 
@@ -572,7 +577,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [StreamController](https://github.com/StreamController/StreamController) - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
-- [Decoder](https://apps.gnome.org/Decoder) - QR Codes scanner and generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Characters](https://apps.gnome.org/Characters) - Emoji picker `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
