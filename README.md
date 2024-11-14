@@ -514,7 +514,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Decoder](https://apps.gnome.org/Decoder) - QR Codes scanner and generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Document Scanner (SimpleScan)](https://apps.gnome.org/SimpleScan) - Document scanner using the SANE framework with crop and rotate editing features `#vala` `#gtk4``#libadwaita` `#gnome`.
-- [gscan2pdf](https://gscan2pdf.sourceforge.net/) - Document scanner that can scan, clean the scan and do OCR on the scan or imported images (incl. existing PDFs, DjVus or other file types), and make PDF and DjVu-files with embedded OCR-text `#perl` `#gtk3`.
+- [gscan2pdf](https://gscan2pdf.sourceforge.net) - Document scanner with cleaning and OCR features (on the scan or imported images incl. PDFs, DjVus or other file types) `#perl` `#gtk3`.
 
 ### Note-taking
 
