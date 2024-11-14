@@ -512,7 +512,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Document Scanners
 
-- [Decoder](https://apps.gnome.org/Decoder) - QR Codes scanner and generator `#rust` `#gtk4` `#libadwaita`.
+- [Decoder](https://apps.gnome.org/Decoder) - QR Codes scanner and generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Document Scanner](https://apps.gnome.org/SimpleScan) - Document scanner using the SANE framework with crop and rotate editing features `#vala` `#libadwaita` `#gnome`.
 
 ### Note-taking
