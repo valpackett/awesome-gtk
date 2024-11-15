@@ -938,8 +938,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Health and Fitness
 
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator `#python` `#gtk4` `#libadwaita`.
-- [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#gtk4` `#libadwaita`.
+- [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Jogger](https://codeberg.org/baarkerlounger/jogger) - App for Gnome Mobile to Track running and other workouts `#rust` `#gtk4` `#libadwaita`.
 
 ## Map Viewers
 
