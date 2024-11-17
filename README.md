@@ -48,6 +48,7 @@
   - [Chat, VoIP, and Phone](#chat-voip-and-phone)
   - [Email](#email)
   - [File Sharing](#file-sharing)
+  - [Network Configuration](#network-configuration)
   - [Network Monitoring](#network-monitoring)
   - [News/Feed Readers](#newsfeed-readers)
   - [Proxy](#proxy)
@@ -405,6 +406,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Warpinator](https://github.com/linuxmint/warpinator) - Linux Mint's LAN file sharing program `#c++` `#gtk3`.
 
 [magic-wormhole]: https://github.com/warner/magic-wormhole
+
+### Network Configuration
+
+- [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks `#python` `#gtk4` `#libadwaita`.
 
 ### Network Monitoring
 
