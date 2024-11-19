@@ -705,7 +705,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 #### Featureful IDEs
 
-- [Anjuta](https://gitlab.gnome.org/Archive/anjuta) - (archived) IDE with a GUI designer for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Builder](https://apps.gnome.org/Builder) - Tool to help you write and contribute to great GNOME-based applications `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) - GTK-based IDE for Julia `#julia` `#gtk3`.
 - [Playhouse](https://github.com/sonnyp/Playhouse) - Playground for HTML/CSS/JavaScript `#gjs` `#gtk4` `#libadwaita`.
