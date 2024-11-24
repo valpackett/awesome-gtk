@@ -775,7 +775,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#gtk3` `#granite`.
 - [Snoop](https://gitlab.gnome.org/philippun1/snoop) - Tool to search through your files and providing a Nautilus extension `#vala` `#gtk4` `#libadwaita`.
 - [Text Pieces](https://apps.gnome.org/TextPieces) - Swiss knife of text processing `#vala` `#gtk4` `#libadwaita` `#gnome`.
-- [TextShine](https://github.com/phase1geo/textshine) - Text conversion utility `#vala` `#gtk3` `#granite`.
+- [TextShine](https://github.com/phase1geo/textshine) - Text conversion utility `#vala` `#gtk4` `#granite`.
 
 ### Toolboxes
 
