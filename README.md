@@ -83,6 +83,7 @@
   - [To-do Lists](#to-do-lists)
   - [Inventory](#inventory)
   - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
+- [Accessibility and Assistive technologies](#accessibility-and-assistive-technologies)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
   - [Cryptography](#cryptography)
@@ -641,6 +642,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Chat Bots and Virtual assistants
 
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#gtk4` `#libadwaita`.
+
+## Accessibility and Assistive technologies
+- [Orca](https://gitlab.gnome.org/GNOME/orca) - Screen reader for graphical applications that use the atspi protocol, via speech or Braille. `#python` `#gtk3`.
 
 ## Security and Privacy
 
