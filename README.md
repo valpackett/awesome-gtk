@@ -253,6 +253,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Tools
 
+- [Camera (Snapshot)](https://apps.gnome.org/Snapshot/) - Application to take pictures and videos  `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk3`.
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
