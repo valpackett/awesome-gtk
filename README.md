@@ -841,7 +841,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
 - [GNOME Files (Nautilus)](https://apps.gnome.org/Nautilus) - Default file manager of the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [Nemo](https://github.com/linuxmint/nemo/) - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
+- [Nemo](https://github.com/linuxmint/nemo) - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python` `#gtk3` `#libhandy`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
 - [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
