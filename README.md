@@ -46,7 +46,7 @@
 - [Internet and Networking](#internet-and-networking)
   - [Bluetooth](#bluetooth)
   - [Chat, VoIP, and Phone](#chat-voip-and-phone)
-  - [Email](#email)
+  - [Email, Personal information mananagement (PIM)](#email-personal-information-management-(pim))
   - [File Sharing](#file-sharing)
   - [Network Configuration](#network-configuration)
   - [Network Monitoring](#network-monitoring)
@@ -386,11 +386,12 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Paper Plane](https://github.com/paper-plane-developers/paper-plane) - Telegram client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Srain](https://srain.silverrainz.me) - Modern IRC client `#c` `#gtk3`.
 
-### Email
+### Email, Personal information mananagement (PIM)
 
 - [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++` `#gtk3`.
 - [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gtk3` `#libhandy`.
-- [Evolution](https://gitlab.gnome.org/GNOME/evolution) - Personal information management application that provides integrated mail, calendaring and address book functionality `#c` `#gtk3`.
+- [GNOME Contacts](https://apps.gnome.org/Contacts/) - Adress book for contacts information and contact management for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`. 
+- [Evolution](https://gitlab.gnome.org/GNOME/evolution) - Personal information management (PIM) application that provides integrated mail, calendaring and address book functionality `#c` `#gtk3`.
 
 ### File Sharing
 
