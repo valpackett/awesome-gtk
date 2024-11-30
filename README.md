@@ -253,7 +253,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Tools
 
-- [Camera (Snapshot)](https://apps.gnome.org/Snapshot/) - Application to take pictures and videos  `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [cameractrls](https://github.com/soyersoyer/cameractrls) - GUI and camera Viewer (SDL) to set the camera controls (V4L2) in Linux `#python` `#gtk4`.
 - [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk3`.
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
