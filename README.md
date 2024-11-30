@@ -128,6 +128,7 @@
 - [Map Viewers](#map-viewers)
 - [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
+- [Libraries](#libraries)
 
 ## Apps for GNOME
 
@@ -973,3 +974,15 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala` `#gtk3`.
 - [Mousam](https://github.com/amit9838/mousam) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
+
+## Libraries
+
+Libraries used by developers to create GTK and LibAdwaita apps.
+
+- [gjs](https://gjs.guide/) - GTK library for JavaScript. `#gjs` `#gtk4` `#libadwaita`.
+- [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita) - Official library containing GNOME patterns and widgets `#gtk4` `#libadwaita` `#gnome`.
+- [libbismuth](https://github.com/tau-OS/libbismuth) - Libadwaita's responsive widgets but for tauOS `#gtk4` `#libadwaita`.
+- [libhandy](https://gitlab.gnome.org/GNOME/libhandy) - Building blocks for modern adaptive GNOME apps `#gtk3` `libhandy`.
+- [libhelium](https://github.com/tau-OS/libhelium) - The Application Framework for tauOS apps `#gtk4` `#vala`.
+- [owlketlle](https://github.com/can-lehmann/owlkettle) - A declarative user interface framework `#gtk4` `#libadwaita` `#nim`.
+- [relm4](https://relm4.org/) - Library for native GTK applications with Rust `#gtk4` `#rust`.
