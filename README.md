@@ -914,6 +914,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Door Knocker](https://codeberg.org/tytan652/door-knocker) - Tool to check availability of all `xdg-desktop-portal` portals `#c` `#gtk4` `#libadwaita`.
 - [GNOME Disk Usage Analyzer (Baobab)](https://apps.gnome.org/Baobab) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Logs](https://apps.gnome.org/Logs) - systemd logs viewer `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [GNOME System Monitor](https://apps.gnome.org/SystemMonitor) - Process viewer and system monitor `#c++` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Usage](https://gitlab.gnome.org/GNOME/gnome-usage) - System resources monitoring for the GNOME desktop `#vala` `#gtk4` `#libadwaita`.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python` `#gtk3`.
 - [Inspector](https://github.com/Nokse22/inspector) - Application to view system information such as USB/disk/PCIE/networks devices and motherboard/CPU information `#python` `#gtk4` `#libadwaita`.
