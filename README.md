@@ -387,7 +387,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Paper Plane](https://github.com/paper-plane-developers/paper-plane) - Telegram client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Srain](https://srain.silverrainz.me) - Modern IRC client `#c` `#gtk3`.
 
-### Email, Personal information mananagement (PIM)
+### Email, Personal information management (PIM)
 
 - [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++` `#gtk3`.
 - [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gtk3` `#libhandy`.
