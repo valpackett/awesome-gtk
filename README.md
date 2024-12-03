@@ -46,7 +46,7 @@
 - [Internet and Networking](#internet-and-networking)
   - [Bluetooth](#bluetooth)
   - [Chat, VoIP, and Phone](#chat-voip-and-phone)
-  - [Email, Personal information mananagement (PIM)](#email-personal-information-management-(pim))
+  - [Email, Personal information mananagement (PIM)](#email-personal-information-management-pim)
   - [File Sharing](#file-sharing)
   - [Network Configuration](#network-configuration)
   - [Network Monitoring](#network-monitoring)
