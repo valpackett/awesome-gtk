@@ -21,6 +21,7 @@
     - [Ambient Sounds](#ambient-sounds)
   - [Audio Workstations (DAWs)](#audio-workstations-daws)
   - [Audio Tools](#audio-tools)
+  - [Music Software](#music-software)
 - [Video](#video)
   - [Video Players](#video-players)
   - [Live Stream Viewers](#live-stream-viewers)
@@ -216,6 +217,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 
+### Music Software
+- [Fretboard](https://apps.gnome.org/Fretboard/) - Software for guitarists to look up guitar chords `#rust` `#gtk4` `#libadwaita` `#gnome`.
 
 ## Video
 
