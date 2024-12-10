@@ -217,6 +217,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Music Software
 
+- [ALSA Scarlett2 Control Panel (alsa-scarlett-gui)](https://github.com/geoffreybennett/alsa-scarlett-gui) - GUI for the Focusrite USB audio interfaces (Scarlett Gen 2, 3, 4, Clarett, and Vocaster) for instrument, microphone or MIDI recording `#c` `#gtk4`.
 - [Amp Rack](https://github.com/djshaji/alana) - Guitar / voice audio effects processor for PC (Linux, Windows) and Android `#c++` `#gtk4`.
 - [Chromatic](https://github.com/nate-xyz/chromatic) - Instruments tuner `#rust` `#gtk4` `#libadwaita`.
 - [Drum Machine](https://github.com/Revisto/drum-machine) - Drum machine application to create and play drum beats `#python` `#gtk4` `#libadwaita`.
