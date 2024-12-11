@@ -156,7 +156,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 - [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gtk3`.
 - [Tauon](https://tauonmusicbox.rocks) - Playlist oriented music player with many features such has MPRIS support, Android remote control and Spotify playlist management `#python` `#gtk3`.
-- [Victrola](https://github.com/tau-OS/victrola) - Elegant music player `#vala` `#gtk4`.
+- [Victrola](https://github.com/tau-OS/victrola) - tauOS's minimal player `#vala` `#gtk4`.
 
 #### Audio Streaming Service Clients
 
