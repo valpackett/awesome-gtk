@@ -635,6 +635,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) - Time tracker provided by `hamster-lib` `#python` `#gtk3`.
 - [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#gtk4` `#granite`.
 - [Khronos](https://apps.gnome.org/Khronos) - Task time logger `#vala` `#gtk4` `#libadwaita`.
+- [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
