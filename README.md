@@ -714,6 +714,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
 
 ### Emulators and Compatibility Layers
+
 - [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of Wine `#python` `#gtk4` `#libadwaita`.
 - [Fuse](https://fuse-emulator.sourceforge.net/) - ZX Spectrum emulator `#c` `#gtk3`.
 
