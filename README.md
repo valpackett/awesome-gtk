@@ -92,6 +92,7 @@
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
   - [Exchange Rate Viewers](#exchange-rate-viewers)
+  - [Emulators and Compatibility Layers](emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
   - [Documentation](#documentation)
@@ -712,12 +713,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
 
+### Emulators and Compatibility Layers
+- [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of Wine `#python` `#gtk4` `#libadwaita`.
+
 ## Development
 
 ### Containers
 
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#gtk4` `#libadwaita`.
-- [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager `#python` `#gtk4` `#libadwaita`.
 - [Boxes](https://apps.gnome.org/Boxes) - Application to access virtual machines `#vala` `#gtk3`.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#gtk4` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
