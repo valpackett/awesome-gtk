@@ -92,7 +92,7 @@
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
   - [Exchange Rate Viewers](#exchange-rate-viewers)
-  - [Emulators and Compatibility Layers](emulators-and-compatibility-layers)
+  - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
   - [Documentation](#documentation)
