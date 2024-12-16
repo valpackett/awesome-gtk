@@ -405,6 +405,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Email, Personal information management (PIM)
 
 - [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++` `#gtk3`.
+- [Balsa](https://gitlab.gnome.org/GNOME/balsa) - Lightweight email client `#c` `#gtk3`.
 - [Claws Mail](https://claws-mail.org) - Email client with plugin system to extend functionalities (news reader, calendar, etc.)  `#c` `#gtk3`.
 - [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gtk3` `#libhandy`.
 - [GNOME Contacts](https://apps.gnome.org/Contacts) - Address book for contacts information and contact management for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`. 
