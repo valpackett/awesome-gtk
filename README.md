@@ -918,6 +918,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
+- [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
