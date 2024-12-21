@@ -708,6 +708,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Grisbi](http://grisbi.org) - 20 years old accounting application `#c` `#gtk3`.
 - [HomeBank](https://www.gethomebank.org) - Cross-platform personal accounting application with dynamic reports and import from QIF, OFX, QFX, and CSV.
  `#c` `#gtk3`.
+- [Saldo](https://www.tabos.org/projects/saldo) - Online banking application based on FinTS `#python` `#gtk4` `#libadwaita`.
 
 ### Exchange Rate Viewers
 
