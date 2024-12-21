@@ -320,7 +320,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### GIF
 
-- [Fig](https://github.com/Q1CHENL/fig) - GIF editor `#python` `#gtk4`.
+- [Fig](https://github.com/Q1CHENL/fig) - GIF editor (cropping, trimming, reversing, removing/extracting frames) `#python` `#gtk4`.
 - [Gifcurry](https://lettier.github.io/gifcurry) - GIF editor and video-to-GIF converter application `#haskell` `#gtk3`.
 - [Gifup](https://github.com/BharatKalluri/Gifup) - Video-to-GIF converter `#vala` `#gtk3` `#granite`.
 
