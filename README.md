@@ -218,6 +218,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
+- [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4`.
 
 ### Music Software
 
@@ -255,6 +256,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Subtitle Editors
 
 - [Gaupol](https://otsaloma.io/gaupol) - Editor for text-based subtitle files with built-in video player `#python` `#gtk3`.
+- [Gnome Subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles) - Subtitle editor for the GNOME desktop `#csharp` `#gtk3`.
 - [Subtitle Editor](https://kitone.github.io/subtitleeditor) - Subtitle editor with built-in video player and text correction features `#c++` `#gtk3`.
 
 ### Screen Recorders
@@ -318,6 +320,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### GIF
 
+- [Fig](https://github.com/Q1CHENL/fig) - GIF editor (cropping, trimming, reversing, removing/extracting frames) `#python` `#gtk4`.
 - [Gifcurry](https://lettier.github.io/gifcurry) - GIF editor and video-to-GIF converter application `#haskell` `#gtk3`.
 - [Gifup](https://github.com/BharatKalluri/Gifup) - Video-to-GIF converter `#vala` `#gtk3` `#granite`.
 
@@ -358,6 +361,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#c++` `#gtk3`.
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#gtk3` `#libhandy`.
 - [GNOME Fonts (Font Viewer)](https://apps.gnome.org/FontViewer) - Utility to view and install fonts on your system `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
 - [Inkscape](https://inkscape.org) - General vector graphics editor `#c++` `#gtk3`.
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
 - [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
@@ -610,6 +614,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
+- [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
 - [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementaryOS `#vala` `#gtk3` `#granite`.
@@ -704,9 +709,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#gtk4` `#libadwaita`.
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#gtk3` `#granite`.
-- [Grisbi](http://grisbi.org) - 20 years old accounting application `#c` `#gtk3`.
+- [GnuCash](https://gnucash.org) - Personal and small business double entry accounting application `#c++` `#gtk3`.
+- [Grisbi](http://grisbi.org) - Personal financial management and accounting application `#c` `#gtk3`.
 - [HomeBank](https://www.gethomebank.org) - Cross-platform personal accounting application with dynamic reports and import from QIF, OFX, QFX, and CSV.
  `#c` `#gtk3`.
+- [Saldo](https://www.tabos.org/projects/saldo) - Online banking application based on FinTS `#python` `#gtk4` `#libadwaita`.
 
 ### Exchange Rate Viewers
 
@@ -846,6 +853,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `libadwaita`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
+- [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#gtk4` `#libadwaita`.
 
 ## File and Data Management
@@ -880,6 +888,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
 - [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
+- [Thunar](https://gitlab.xfce.org/xfce/thunar) - File manager for the Xfce desktop `#c` `#gtk3`.
 
 ### File Synchronisation
 
