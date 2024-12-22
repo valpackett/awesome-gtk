@@ -261,6 +261,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Screen Recorders
 
+- [GPU Screen Recorder GTK](https://git.dec05eba.com/gpu-screen-recorder-gtk/about) - GTK frontend to GPU Screen Recorder, a fast, GPU-based, screen recorder `#c++` `#gtk3`.
 - [Kazam2](https://github.com/henrywoo/kazam) - Versatile tool for screen recording, broadcasting, capturing and optical character recognition `#python` `#gtk3`.
 - [Kooha](https://github.com/SeaDve/Kooha) - Distraction-free screen recorder `#rust` `#gtk4` `#libadwaita`.
 - [Wayfarer](https://github.com/stronnag/wayfarer) - Screen Recorder for GNOME / Wayland / Pipewire `#vala` `#gtk4`.
