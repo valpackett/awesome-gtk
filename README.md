@@ -342,9 +342,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Technical Graphics
 
+- [AstraLite](https://github.com/art-den/astra_lite) - Software for deepsky astrophotography and live stacking `#rust` `#gtk3`.
 - [Delineate](https://github.com/SeaDve/Delineate) - [Graphviz] DOT graphs viewer and editor `#rust` `#gtk4` `#libadwaita`.
 - [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#gtk4` `#libadwaita`.
 - [Dune 3D](https://dune3d.org) - Parametric 3D CAD tool based on OpenCASCADE+SolveSpace from the author of Horizon EDA `#c` `#c++` `#gtk4`.
+- [Electra](https://github.com/art-den/electra_stacking) - Software for stacking of deep sky astronomical images `#rust` `#gtk3`.
 - [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats `#python` `#gtk4` `#libadwaita`.
 - [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#gtk4` `#libadwaita`.
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python` `#gtk4` `#libadwaita` `#gnome`.
