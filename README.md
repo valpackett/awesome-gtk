@@ -261,6 +261,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Screen Recorders
 
+- [GPU Screen Recorder GTK](https://git.dec05eba.com/gpu-screen-recorder-gtk/about) - GTK frontend to GPU Screen Recorder, a fast, GPU-based, screen recorder `#c++` `#gtk3`.
 - [Kazam2](https://github.com/henrywoo/kazam) - Versatile tool for screen recording, broadcasting, capturing and optical character recognition `#python` `#gtk3`.
 - [Kooha](https://github.com/SeaDve/Kooha) - Distraction-free screen recorder `#rust` `#gtk4` `#libadwaita`.
 - [Wayfarer](https://github.com/stronnag/wayfarer) - Screen Recorder for GNOME / Wayland / Pipewire `#vala` `#gtk4`.
@@ -341,9 +342,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Technical Graphics
 
+- [AstraLite](https://github.com/art-den/astra_lite) - Software for deepsky astrophotography and live stacking `#rust` `#gtk3`.
 - [Delineate](https://github.com/SeaDve/Delineate) - [Graphviz] DOT graphs viewer and editor `#rust` `#gtk4` `#libadwaita`.
 - [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#gtk4` `#libadwaita`.
 - [Dune 3D](https://dune3d.org) - Parametric 3D CAD tool based on OpenCASCADE+SolveSpace from the author of Horizon EDA `#c` `#c++` `#gtk4`.
+- [Electra](https://github.com/art-den/electra_stacking) - Software for stacking of deep sky astronomical images `#rust` `#gtk3`.
 - [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats `#python` `#gtk4` `#libadwaita`.
 - [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#gtk4` `#libadwaita`.
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -473,6 +476,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Specialized Web Browsers / Wrappers
 
+- [Alpaca](https://jeffser.com/alpaca) - Software to chat with local AI models (Ollama client) `#python` `#gtk4` `#libadwaita`.
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#gtk4` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#gtk4` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
@@ -529,6 +533,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Calendar
 
 - [GNOME Calendar](https://apps.gnome.org/Calendar) - Simple calendar for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Karlender](https://gitlab.com/floers/calendar-stuff/karlender) - Mobile-friendly calendar application using CalDAV `#rust` `#gtk4` `#libadwaita`.
 
 ### Document Managers
 
@@ -606,6 +611,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Actioneer](https://github.com/phase1geo/actioneer) - Tool to automate actions on file changes `#vala` `#gtk3` `#granite`.
 - [Boatswain](https://apps.gnome.org/Boatswain) - Elgato Stream Deck controller `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Confy](https://confy.kirgroup.net) - Conferences schedule viewer `#python` `#gtk4` `#libadwaita`.
 - [StreamController](https://github.com/StreamController/StreamController) - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
@@ -707,6 +713,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Budget and Accounting Managers
 
+- [CheckWriter](https://github.com/ashafq/CheckWriter) - Application to simplify the process of writing checks `#c` `#gtk4` `#libadwaita`.
 - [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#gtk4` `#libadwaita`.
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#gtk3` `#granite`.
 - [GnuCash](https://gnucash.org) - Personal and small business double entry accounting application `#c++` `#gtk3`.
@@ -821,10 +828,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Toolboxes
 
-- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#gtk4` `#libadwaita`.
-- [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#gtk4` `#libadwaita`.
 - [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub `#python` `#gtk4` `#libadwaita`.
 - [Cartero](https://cartero.danirod.es) - Graphical HTTP client to perform HTTP requests and test web APIs `#rust` `#gtk4` `#libadwaita`.
+- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#gtk4` `#libadwaita`.
+- [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#gtk4` `#libadwaita`.
+- [Share Preview](https://apps.gnome.org/SharePreview) - Application to preview and debug websites metadata tags for social media share `#rust` `#gtk4` `#libadwaita`.
+
  
 ### UI Design
 
@@ -973,9 +982,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#gtk4` `#relm4` `#libadwaita`.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#gtk4` `#libadwaita`.
-- [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita`.
+- [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
 
 ### Board Games
 
@@ -992,7 +1001,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Health and Fitness
 
-- [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator `#python` `#gtk4` `#libadwaita`.
+- [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#gtk4` `#libadwaita`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Jogger](https://codeberg.org/baarkerlounger/jogger) - Running (and other workout) tracker for GNOME Mobile with import from Fitotrack  `#rust` `#gtk4` `#libadwaita`.
