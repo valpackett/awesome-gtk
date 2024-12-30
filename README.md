@@ -271,7 +271,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cameractrls](https://github.com/soyersoyer/cameractrls) - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
-- [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk3`.
+- [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk4`.
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
 - [Megapixels](https://gitlab.com/megapixels-org/Megapixels) - Camera application for Linux phones `#c` `#gtk4`.
