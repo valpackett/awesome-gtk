@@ -809,7 +809,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Terminals
 
-- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#gtk4` `#libadwaita` .
+- [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#gtk4` `#libadwaita`.
+- [Ghostty](https://ghostty.org) - Cross-platform terminal emulator with GPU acceleration `#zig` `#gtk4` `#libadwaita`.
 - [GNOME Console](https://apps.gnome.org/Console) - Minimal terminal for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Guake](https://github.com/Guake/guake) - Dropdown terminal for the GNOME desktop `#python` `#gtk3`.
