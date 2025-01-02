@@ -973,6 +973,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources `#vala` `#gtk3` `#libhandy` `#granite`.
 - [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#gtk4` `#libadwaita`.
 - [Resources](https://apps.gnome.org/Resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Turn On](https://github.com/swsnr/turnon) - Utility for the GNOME desktop to send Wake On LAN (WoL) magic packets to devices in a network `#rust` `#gtk4` `#libadwaita`.
 - [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#gtk4` `#libadwaita`.
 - [Stimulator](https://github.com/sigmaSd/stimulator) - Application to keep the computer awake with AppIndicator support `#typescript` `#gtk4` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++` `#gtk3`.
