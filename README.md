@@ -679,6 +679,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#gtk4` `#libadwaita`.
 
 ## Academia and Research
+also see section [Technical Graphics](#technical-graphics) for the processing of discipline-specific research graphics and images
 
 ### Electronics and Engineering
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
@@ -693,7 +694,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Statistics
 - [Gretl](https://gretl.sourceforge.net) - Cross-platform statistical package for econometric analysis `#c` `#gtk3`.
-
 
 ## Accessibility and Assistive technologies
 
