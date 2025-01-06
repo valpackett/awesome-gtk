@@ -84,6 +84,7 @@
   - [To-do Lists](#to-do-lists)
   - [Inventory](#inventory)
   - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
+- [Academia and Research](#academia-and-research)
 - [Accessibility and Assistive technologies](#accessibility-and-assistive-technologies)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
@@ -679,6 +680,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Chat Bots and Virtual assistants
 
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#gtk4` `#libadwaita`.
+
+## Academia and Research
+
+### Genealogy
+
+### Physics
+
+### Statistics
 
 ## Accessibility and Assistive technologies
 
