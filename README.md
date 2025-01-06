@@ -688,6 +688,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Physics
 - [balistica](https://github.com/fusilero/balistica) - Exterior ballistics calculator `#vala` `#gtk3`.
+- [Cadabra](https://cadabra.science) - Symbolic computer algebra system, designed specifically for the solution of problems encountered in quantum and classical field theory `#c++` `#python` `#gtk3`.
 - [Elastic](https://gitlab.gnome.org/World/elastic) - Design of spring animations `#vala` `#gtk4` `#libadwaita`.
 
 ### Statistics
