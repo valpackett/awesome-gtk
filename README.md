@@ -685,6 +685,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
 
 ### Genealogy
+
 - [Gramps](https://gramps-project.org) - Feature-rich genealogy program for both hobbyists and professional genealogists  `#python` `#gtk3`.
 
 ### Physics
