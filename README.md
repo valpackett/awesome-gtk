@@ -695,6 +695,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Elastic](https://gitlab.gnome.org/World/elastic) - Design of spring animations `#vala` `#gtk4` `#libadwaita`.
 
 ### Statistics
+
 - [Gretl](https://gretl.sourceforge.net) - Cross-platform statistical package for econometric analysis `#c` `#gtk3`.
 
 ## Accessibility and Assistive technologies
