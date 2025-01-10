@@ -84,6 +84,7 @@
   - [To-do Lists](#to-do-lists)
   - [Inventory](#inventory)
   - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
+- [Academia and Research](#academia-and-research)
 - [Accessibility and Assistive technologies](#accessibility-and-assistive-technologies)
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
@@ -519,14 +520,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Calculators & Math
 
-- [balistica](https://github.com/fusilero/balistica) - Exterior ballistics calculator `#vala` `#gtk3`.
 - [Binary](https://apps.gnome.org/Binary) - Small application to convert numbers to different bases `#python` `#gtk4` `#libadwaita`.
 - [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Calculator](https://apps.gnome.org/Calculator) - Default calculator for the Gnome desktop for arithmetic, scientific or financial calculations `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c` `#gtk3`.
 - [Graphs](https://apps.gnome.org/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#gtk4` `#libadwaita` `#gnome`.
-- [Gretl](https://gretl.sourceforge.net) - Cross-platform statistical package for econometric analysis `#c` `#gtk3`.
-- [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
 - [NaSC](https://github.com/parnoldx/nasc) - Dual pane text based calculator `#vala` `#gtk3` `#granite`.
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++` `#gtk3`.
@@ -679,6 +677,26 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Chat Bots and Virtual assistants
 
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#gtk4` `#libadwaita`.
+
+## Academia and Research
+
+### Electronics and Engineering
+
+- [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
+
+### Genealogy
+
+- [Gramps](https://gramps-project.org) - Feature-rich genealogy program for both hobbyists and professional genealogists  `#python` `#gtk3`.
+
+### Physics
+
+- [balistica](https://github.com/fusilero/balistica) - Exterior ballistics calculator `#vala` `#gtk3`.
+- [Cadabra](https://cadabra.science) - Symbolic computer algebra system, designed specifically for the solution of problems encountered in quantum and classical field theory `#c++` `#python` `#gtk3`.
+- [Elastic](https://gitlab.gnome.org/World/elastic) - Design of spring animations `#vala` `#gtk4` `#libadwaita`.
+
+### Statistics
+
+- [Gretl](https://gretl.sourceforge.net) - Cross-platform statistical package for econometric analysis `#c` `#gtk3`.
 
 ## Accessibility and Assistive technologies
 
