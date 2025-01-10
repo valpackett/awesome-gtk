@@ -686,6 +686,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Gramps](https://gramps-project.org) - Feature-rich genealogy program for both hobbyists and professional genealogists  `#python` `#gtk3`.
 
+### Geography 
+
+- [NOAA APT](https://github.com/bareboat-necessities/noaa-apt) - Weather satellite image decoder `#rust` `#gtk3`.
+
 ### Physics
 
 - [AstraLite](https://github.com/art-den/astra_lite) - Software for deepsky astrophotography and live stacking `#rust` `#gtk3`.
