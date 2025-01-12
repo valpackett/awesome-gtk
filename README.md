@@ -369,7 +369,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
 - [Inkscape](https://inkscape.org) - General vector graphics editor `#c++` `#gtk3`.
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
-- [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
+- [Pizarra](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ## Multimedia
