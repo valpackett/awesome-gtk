@@ -208,9 +208,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c` `#gtk3`.
 - [Audio Sharing](https://apps.gnome.org/AudioSharing) - Application to share audio playback in the form of an RTSP stream `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#csharp` `#gtk4` `#libadwaita`.
+- [Chronograph](https://github.com/Dzheremi2/Chronograph) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#gtk4` `#libadwaita`.
-- [LRCMake](https://github.com/Dzheremi2/LRCMake-GTK) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
+- [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) - Patchbay application to route and patch together audio signals, made for pipewire `#rust` `#gtk4` `#libadwaita`.
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python` `#gtk3`.
 - [Mousai](https://apps.gnome.org/ru/Mousai) - Song identifier based on [AudD](https://audd.io) with MPRIS support `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust` `#gtk3`.
@@ -233,6 +234,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
 - [Metronome](https://gitlab.gnome.org/World/metronome) - Metronome application that beats the rhythm to keep the tempo `#rust` `#gtk4` `#libadwaita`.
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
+- [SysEx Controls](https://github.com/soyersoyer/sysex-controls) - Application for configuring MIDI devices from Akai and Arturia `#c` `#gtk4` `#libadwaita`.
 
 ## Video
 
@@ -275,6 +277,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cameractrls](https://github.com/soyersoyer/cameractrls) - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
+- [GstPipelineStudio](https://gitlab.freedesktop.org/dabrain34/GstPipelineStudio) - Graphical user interface to the multimedia framework GStreamer `#rust` `#gtk4`.
 - [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk4`.
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
@@ -369,7 +372,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
 - [Inkscape](https://inkscape.org) - General vector graphics editor `#c++` `#gtk3`.
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
-- [Pizzara](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
+- [Pizarra](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ## Multimedia
@@ -420,6 +423,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gtk3` `#libhandy`.
 - [GNOME Contacts](https://apps.gnome.org/Contacts) - Address book for contacts information and contact management for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`. 
 - [Evolution](https://gitlab.gnome.org/GNOME/evolution) - Personal information management (PIM) application that provides integrated mail, calendaring and address book functionality `#c` `#gtk3`.
+- [Mail](https://github.com/elementary/mail) - Email application for the elementary OS desktop `#vala` `#gtk3` `#libhandy` `#granite`.
 
 ### File Sharing
 
