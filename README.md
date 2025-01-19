@@ -234,6 +234,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
 - [Metronome](https://gitlab.gnome.org/World/metronome) - Metronome application that beats the rhythm to keep the tempo `#rust` `#gtk4` `#libadwaita`.
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
+- [POD UI](https://arteme.github.io/pod-ui) - Application for controlling Line6 POD family of guitar modelling amps via MIDI `#rust` `#gtk3`.
 - [SysEx Controls](https://github.com/soyersoyer/sysex-controls) - Application for configuring MIDI devices from Akai and Arturia `#c` `#gtk4` `#libadwaita`.
 
 ## Video
@@ -278,6 +279,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cameractrls](https://github.com/soyersoyer/cameractrls) - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
 - [GstPipelineStudio](https://gitlab.freedesktop.org/dabrain34/GstPipelineStudio) - Graphical user interface to the multimedia framework GStreamer `#rust` `#gtk4`.
+- [Guvcview](https://sourceforge.net/projects/guvcview) - Video and audio grabber and webcam application, compatible with V4L2 camera devices  `#c` `#gtk3`.
 - [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk4`.
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
@@ -531,6 +533,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [NaSC](https://github.com/parnoldx/nasc) - Dual pane text based calculator `#vala` `#gtk3` `#granite`.
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++` `#gtk3`.
+- [Sums](https://gitlab.com/leesonwai/sums) - Simple calculator that uses postfix notation `#c` `#gtk4` `#libadwaita`.
 - [Valuta](https://apps.gnome.org/Valuta) - Simple currency conversion tool `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Calendar
@@ -956,6 +959,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#gtk4` `#libadwaita`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
+- [Web Apps](https://flathub.org/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
 
 ### System and File Cleaning
 
@@ -975,6 +979,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
+- [LACT](https://github.com/ilya-zlobintsev/LACT) - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
