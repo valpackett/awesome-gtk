@@ -959,7 +959,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#gtk4` `#libadwaita`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
-- [webapps](https://codeberg.org/eyekay/webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
+- [Web Apps](https://flathub.org/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
 
 ### System and File Cleaning
 
