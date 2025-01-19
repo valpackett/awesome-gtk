@@ -533,7 +533,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [NaSC](https://github.com/parnoldx/nasc) - Dual pane text based calculator `#vala` `#gtk3` `#granite`.
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++` `#gtk3`.
-- [sums](https://gitlab.com/leesonwai/sums) - Simple calculator that uses postfix notation `#c` `#gtk4` `#libadwaita`.
+- [Sums](https://gitlab.com/leesonwai/sums) - Simple calculator that uses postfix notation `#c` `#gtk4` `#libadwaita`.
 - [Valuta](https://apps.gnome.org/Valuta) - Simple currency conversion tool `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Calendar
