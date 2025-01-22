@@ -408,10 +408,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Chats](https://gitlab.gnome.org/World/Chatty) - Mobile and desktop messaging application supporting SMS, MMS, XMPP and Matrix `#c` `#gtk4` `#libadwaita`.
 - [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#gtk4` `#libadwaita`.
 - [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python` `#gtk3`.
+- [Dissent](https://github.com/diamondburned/dissent) - Discord client `#go` `#gtk4` `#libadwaita`.
 - [Flare](https://gitlab.com/schmiddi-on-mobile/flare) - Signal client `#rust` `#gtk4` `#libadwaita`.
 - [Fractal](https://gitlab.gnome.org/World/fractal) - Matrix client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Gajim](https://gajim.org) - Fully-featured XMPP client `#python` `#gtk3`.
-- [Dissent](https://github.com/diamondburned/dissent) - Discord client `#go` `#gtk4` `#libadwaita`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#gtk4` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#gtk4` `#libadwaita`.
 - [Polari](https://apps.gnome.org/Polari) - IRC client `#gjs` `#gtk4` `#libadwaita` `#gnome`.
