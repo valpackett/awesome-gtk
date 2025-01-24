@@ -408,10 +408,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Chats](https://gitlab.gnome.org/World/Chatty) - Mobile and desktop messaging application supporting SMS, MMS, XMPP and Matrix `#c` `#gtk4` `#libadwaita`.
 - [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#gtk4` `#libadwaita`.
 - [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python` `#gtk3`.
+- [Dissent](https://github.com/diamondburned/dissent) - Discord client `#go` `#gtk4` `#libadwaita`.
 - [Flare](https://gitlab.com/schmiddi-on-mobile/flare) - Signal client `#rust` `#gtk4` `#libadwaita`.
 - [Fractal](https://gitlab.gnome.org/World/fractal) - Matrix client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Gajim](https://gajim.org) - Fully-featured XMPP client `#python` `#gtk3`.
-- [Dissent](https://github.com/diamondburned/dissent) - Discord client `#go` `#gtk4` `#libadwaita`.
+- [GNUnet Messenger](https://git.gnunet.org/messenger-gtk.git/about) - Messaging application for the GNUnet Messenger service `#c` `#gtk3` `#libhandy`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#gtk4` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#gtk4` `#libadwaita`.
 - [Polari](https://apps.gnome.org/Polari) - IRC client `#gjs` `#gtk4` `#libadwaita` `#gnome`.
@@ -750,6 +751,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [CheckWriter](https://github.com/ashafq/CheckWriter) - Application to simplify the process of writing checks `#c` `#gtk4` `#libadwaita`.
 - [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#gtk4` `#libadwaita`.
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#gtk3` `#granite`.
+- [Fruit Credits](https://fruitcredits.dz4k.com) - Double-entry personal accounting application, based on hledger `#vala` `#gtk4` `#libadwaita`.
 - [GnuCash](https://gnucash.org) - Personal and small business double entry accounting application `#c++` `#gtk3`.
 - [Grisbi](http://grisbi.org) - Personal financial management and accounting application `#c` `#gtk3`.
 - [HomeBank](https://www.gethomebank.org) - Cross-platform personal accounting application with dynamic reports and import from QIF, OFX, QFX, and CSV.
@@ -1051,6 +1053,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Public Transports
 
+- [Passes](https://flathub.org/apps/me.sanchezrodriguez.passes) - Application to manage digital passes in PKPass or esPass format, such as boarding passes, bus tickets, coupons, loyalty cards, event tickets, etc. `#python` `#gtk4` `#libadwaita`.
 - [Railway](https://apps.gnome.org/DieBahn) - Application to look up information about (german) train journeys in one place `#rust` `#gtk4` `#libadwaita` `#gnome`.  
 
 ## Weather Viewers
