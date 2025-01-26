@@ -249,6 +249,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
 - [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#gtk4` `#libadwaita`.
+- [Phantom Player](https://www.phantom-player.com/) - Smart video player and playlist manager powered by VLC `#python` `#gtk3` `#libvlc`.
 
 ### Live Stream Viewers
 
