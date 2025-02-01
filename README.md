@@ -989,6 +989,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
+- [pipemenu](https://github.com/soanvig/pipemenu) - GTK4 `libadwaita` dmenu alternative `#rust` `#gtk4` `#libadwaita`.
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala` `#gtk3`.
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
