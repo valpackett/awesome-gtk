@@ -959,7 +959,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Nix Software Center](https://github.com/snowfallorg/nix-software-center) - Software center to easity install and manage Nix packages `#rust` `#gtk4` `#libadwaita` `#relm4`. 
 - [Parceldude](https://notabug.org/grindhold/parceldude) - Batch installer for Windows MSI packages `#vala` `#gtk3`.
 - [Pin It!](https://github.com/ryonakano/pinit) - Portable applications shortcut creator `#vala` `#gtk4` `#libadwaita`.
-- [PinApp](https://github.com/fabrialberio/PinApp) - `.desktop` files creator/editor `#python` `#gtk4` `#libadwaita`.
+- [Pins](https://flathub.org/apps/io.github.fabrialberio.pinapp) - `.desktop` files creator/editor `#c` `#gtk4` `#libadwaita`.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#gtk4` `#libadwaita`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
