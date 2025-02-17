@@ -1069,4 +1069,4 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Home Automation & Internet of Things
 
--  [Butler](https://github.com/cassidyjames/butler) - Native UI wrapper for the Home Assistant dashboard `#vala` `#gtk4` `#libadwaita`.
+- [Butler](https://github.com/cassidyjames/butler) - Native UI wrapper for the Home Assistant dashboard `#vala` `#gtk4` `#libadwaita`.
