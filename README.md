@@ -229,7 +229,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [ALSA Scarlett2 Control Panel (alsa-scarlett-gui)](https://github.com/geoffreybennett/alsa-scarlett-gui) - GUI for the Focusrite USB audio interfaces (Scarlett Gen 2, 3, 4, Clarett, and Vocaster) for instrument, microphone or MIDI recording `#c` `#gtk4`.
 - [Amp Rack](https://github.com/djshaji/alana) - Guitar / voice audio effects processor for PC (Linux, Windows) and Android `#c++` `#gtk4`.
 - [Chromatic](https://github.com/nate-xyz/chromatic) - Instruments tuner `#rust` `#gtk4` `#libadwaita`.
-- [Drum Machine](https://github.com/Revisto/drum-machine) - Drum machine application to create and play drum beats `#python` `#gtk4` `#libadwaita`.
+- [Drum Machine](https://github.com/Revisto/drum-machine) - Drum machine application to create and play drum beats `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [Elektroid](https://dagargo.github.io/elektroid) - Sample and MIDI device manager supporting Elektron, Arturia, Novation, a.o. synths and beatboxes `#c` `#gtk3`.
 - [Fretboard](https://apps.gnome.org/Fretboard) - Software for guitarists to look up guitar chords `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
