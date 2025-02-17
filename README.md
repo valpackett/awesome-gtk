@@ -131,6 +131,7 @@
 - [Map Viewers](#map-viewers)
 - [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
+- [Home Automation & Internet of Things](#home-automation--internet-of-things)
 
 ## Apps for GNOME
 
@@ -1065,3 +1066,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala` `#gtk3`.
 - [Mousam](https://github.com/amit9838/mousam) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
+
+## Home Automation & Internet of Things
+
+-  [Butler](https://github.com/cassidyjames/butler) - Native UI wrapper for the Home Assistant dashboard `#vala` `#gtk4` `#libadwaita`.
