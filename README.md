@@ -567,7 +567,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Folio](https://github.com/toolstack/Folio) - Markdown note-taking application with GNOME desktop integration (Paper fork with additional features) `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Notes](https://gitlab.gnome.org/GNOME/gnome-notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gtk4` `#libadwaita`.
 - [Gnote](https://gitlab.gnome.org/GNOME/gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gtk4` `#libadwaita`.
-- [Iotas](https://apps.gnome.org/Iotas) - Distraction-free note-taking application with mobile-first design and with GNOME shell and Nextcloud integrations `#python` `#gtk4` `#libadwaita`.
+- [Iotas](https://apps.gnome.org/Iotas) - Distraction-free markdown note-taking application with mobile-first design and with GNOME shell and Nextcloud Notes integrations `#python` `#gtk4` `#libadwaita`.
 - [Iridium](https://github.com/matze/iridium) - [Standard Notes](https://standardnotes.org) local-first client `#rust` `#gtk3`.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#gtk4` `#libadwaita`.
 - [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++` `#gtk3`.
@@ -577,7 +577,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Notorious](https://gitlab.gnome.org/GabMus/notorious) - Keyboard-centric notes application `#python` `#gtk3` `#libhandy`.
 - [Outliner](https://github.com/phase1geo/outliner) - Outlining application for elementary OS `#vala` `#gtk3` `#granite`.
 - [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#gtk4` `#libadwaita`.
-- [Iotas](https://gitlab.gnome.org/World/iotas) - Simple Markdown note-taking application with Nextcloud Notes integration `#python` `#gtk4` `#libadwaita`.
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#gtk4` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++` `#gtk3`.
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python` `#gtk3`.
