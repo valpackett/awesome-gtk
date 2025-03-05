@@ -412,7 +412,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Dissent](https://github.com/diamondburned/dissent) - Discord client `#go` `#gtk4` `#libadwaita`.
 - [Flare](https://gitlab.com/schmiddi-on-mobile/flare) - Signal client `#rust` `#gtk4` `#libadwaita`.
 - [Fractal](https://gitlab.gnome.org/World/fractal) - Matrix client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
-- [Gajim](https://gajim.org) - Fully-featured XMPP client `#python` `#gtk3`.
+- [Gajim](https://gajim.org) - Fully-featured XMPP client `#python` `#gtk4`.
 - [GNUnet Messenger](https://git.gnunet.org/messenger-gtk.git/about) - Messaging application for the GNUnet Messenger service `#c` `#gtk3` `#libhandy`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#gtk4` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#gtk4` `#libadwaita`.
