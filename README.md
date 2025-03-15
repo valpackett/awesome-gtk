@@ -732,6 +732,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Authenticator](https://apps.gnome.org/Authenticator) - Two-factor authentication codes generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++` `#gtk3`.
+- [LPTK](https://flathub.org/apps/me.ogarcia.lptk) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala` `#gtk3` `#granite` `#libhandy`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
