@@ -344,6 +344,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Photography
 
 - [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c` `#gtk3`.
+- [nip4](https://github.com/jcupitt/nip4) - A spreadsheet-like GUI for the vips8 image processing library. `#c` `#gtk4`.
 - [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++` `#gtk3`.
 - [Shotwell](https://gitlab.gnome.org/GNOME/shotwell) - Personal photo manager with editing features `#vala` `#gtk4`.
 
