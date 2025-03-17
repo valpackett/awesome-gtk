@@ -210,7 +210,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c` `#gtk3`.
 - [Audio Sharing](https://apps.gnome.org/AudioSharing) - Application to share audio playback in the form of an RTSP stream `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#csharp` `#gtk4` `#libadwaita`.
-- [Cavasik]((https://flathub.org/apps/io.github.TheWisker.Cavasik) - Audio visualizer based on CAVA `#python` `#gtk4` `#libadwaita`.
+- [Cavasik](https://flathub.org/apps/io.github.TheWisker.Cavasik) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#python` `#gtk4` `#libadwaita`.
 - [Chronograph](https://github.com/Dzheremi2/Chronograph) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#gtk4` `#libadwaita`.
