@@ -209,7 +209,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c` `#gtk3`.
 - [Audio Sharing](https://apps.gnome.org/AudioSharing) - Application to share audio playback in the form of an RTSP stream `#rust` `#gtk4` `#libadwaita` `#gnome`.
-- [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#csharp` `#gtk4` `#libadwaita`.
+- [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA] `#csharp` `#gtk4` `#libadwaita`.
+- [Cavasik](https://flathub.org/apps/io.github.TheWisker.Cavasik) - Audio visualizer based on [CAVA] `#python` `#gtk4` `#libadwaita`.
 - [Chronograph](https://github.com/Dzheremi2/Chronograph) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#gtk4` `#libadwaita`.
@@ -224,6 +225,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 - [Vocalis](https://flathub.org/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#gtk4` `#libadwaita`.
 - [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4`.
+
+[cava]: https://github.com/karlstav/cava
 
 ### Music Software
 
@@ -344,6 +347,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Photography
 
 - [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c` `#gtk3`.
+- [PicPlanner](https://gitlab.com/Zwarf/picplanner) - Application for photographers (desktop, phone) to calculate the position of the Sun, Moon and Milky Way in order to plan the position and time for a photograph `#c` `#gtk4` `#libadwaita`.
 - [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++` `#gtk3`.
 - [Shotwell](https://gitlab.gnome.org/GNOME/shotwell) - Personal photo manager with editing features `#vala` `#gtk4`.
 
@@ -700,7 +704,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Geography 
 
+- [Geobug](https://tpikonen.codeberg.page/geobug) - Adaptive client for GeoClue, the geolocation service from freedesktop.org, to display location information (coordinates, speed etc.), saves a track of movements to a GPX-file. `#python` `#gtk4` `#libadwaita`.
 - [NOAA APT](https://github.com/bareboat-necessities/noaa-apt) - Weather satellite image decoder `#rust` `#gtk3`.
+- [Satellite](https://flathub.org/apps/page.codeberg.tpikonen.satellite) - Application to display GNSS (GPS, Galileo, Glonass etc.) information, e.g. location information (coordinates, speed etc.), saves a track of movements to a GPX-file `#python` `#gtk4` `#libadwaita`.
 
 ### Physics
 
