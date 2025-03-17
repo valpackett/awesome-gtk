@@ -863,6 +863,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Text Processing
 
+- [Bender](https://github.com/revathskumar/bender) - Application to bend and transform text `#typescript` `#gjs` `#gtk4` `#libadwaita`.
 - [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) - Visual semi-structured data (JSON) editor `#python` `#gtk4` `#libadwaita`.
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#gtk4` `#libadwaita`.
 - [Wildcard](https://gitlab.gnome.org/World/Wildcard) - Regex tester `#rust` `#gtk4` `#libadwaita`.
