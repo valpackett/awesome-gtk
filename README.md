@@ -226,7 +226,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Vocalis](https://flathub.org/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#gtk4` `#libadwaita`.
 - [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4`.
 
-[CAVA]: https://github.com/karlstav/cava
+[cava]: https://github.com/karlstav/cava
 
 ### Music Software
 
