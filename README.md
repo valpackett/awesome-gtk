@@ -708,6 +708,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Geography 
 
 - [Geobug](https://tpikonen.codeberg.page/geobug) - Adaptive client for GeoClue, the geolocation service from freedesktop.org, to display location information (coordinates, speed etc.), saves a track of movements to a GPX-file. `#python` `#gtk4` `#libadwaita`.
+- [gpsami](https://gitlab.gnome.org/hub/gpsami) - Application to download data from GPS loggers and to save it as GPX `#rust` `#gtk4` `#libadwaita`.
 - [NOAA APT](https://github.com/bareboat-necessities/noaa-apt) - Weather satellite image decoder `#rust` `#gtk3`.
 - [Satellite](https://flathub.org/apps/page.codeberg.tpikonen.satellite) - Application to display GNSS (GPS, Galileo, Glonass etc.) information, e.g. location information (coordinates, speed etc.), saves a track of movements to a GPX-file `#python` `#gtk4` `#libadwaita`.
 
