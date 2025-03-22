@@ -919,6 +919,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Backup
 
 - [Butter](https://github.com/zhangyuannie/butter) - Btrfs snapshot manager `#rust` `#gtk4` `#libadwaita`.
+- [Cronopete](https://www.rastersoft.com/programas/cronopete.html) - Backup utility similar to Apple Time Machine `#vala` `#gtk3`.
 - [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backup tool for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Backup application based on [BorgBackup](https://www.borgbackup.org/support/fund.html) with remote, scheduling and encryption features `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots `#vala` `#gtk3`.
