@@ -571,6 +571,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Note-taking
 
+- [Buffer](https://flathub.org/apps/org.gnome.gitlab.cheywood.Buffer) - Application that provides a minimal editing space `#python` `#gtk4` `#libadwaita`.
 - [Folio](https://github.com/toolstack/Folio) - Markdown note-taking application with GNOME desktop integration (Paper fork with additional features) `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Notes](https://gitlab.gnome.org/GNOME/gnome-notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gtk4` `#libadwaita`.
 - [Gnote](https://gitlab.gnome.org/GNOME/gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gtk4` `#libadwaita`.
