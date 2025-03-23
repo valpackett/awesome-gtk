@@ -494,6 +494,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Specialized Web Browsers / Wrappers
 
 - [Alpaca](https://jeffser.com/alpaca) - Software to chat with local AI models (Ollama client) `#python` `#gtk4` `#libadwaita`.
+- [Archives](https://flathub.org/apps/dev.geopjr.Archives) - Software to archive any website, including its assets, into a self-contained hybrid HTML/ZIP, and to view the web archive `#vala` `#gtk4` `#libadwaita`.
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#gtk4` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#gtk4` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
