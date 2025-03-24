@@ -658,7 +658,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Timers / Time Tracking
 
 - [Chess Clock](https://apps.gnome.org/Chessclock) - Over-the-board chess time control `#python` `#gtk4` `#libadwaita`.
-- [CubeTimer](https://flathub.org/apps/io.github.vallabhvidy.CubeTimer) - 3x3 Rubiks Cube Timer application for the gnome desktop `#python` `#gtk4` `#libadwaita`.
+- [CubeTimer](https://flathub.org/apps/io.github.vallabhvidy.CubeTimer) - 3x3 Rubiks Cube Timer application `#python` `#gtk4` `#libadwaita`.
 - [Exercise Timer](https://github.com/mfep/exercise-timer) - Interval training timer `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#gtk4` `#libadwaita`.
 - [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#gtk4` `#libadwaita`.
