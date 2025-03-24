@@ -616,7 +616,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Translation
 
 - [Dialect](https://apps.gnome.org/Dialect) - Translation based on Google Translate, LibreTranslate and the free DeepL API `#python` `#gtk4` `#libadwaita` `#gnome`.
-- [lfy](https://github.com/ldrfy/lfy) - Translation application supporting Baidu, Tencent, Google Translate, Bing, Aliyun, Huoshan `#python` `#gtk4` `#libadwaita`.
+- [lfy](https://flathub.org/apps/cool.ldr.lfy) - Translation application supporting Baidu, Tencent, Google Translate, Bing, Aliyun, Huoshan `#python` `#gtk4` `#libadwaita`.
 
 ### Word Processors
 
