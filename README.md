@@ -368,6 +368,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#gtk3` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gtk3`.
 - [Photometric Viewer](https://github.com/dlippok/photometric-viewer) - IES and EULUMDAT photometric files viewer `#python` `#gtk4` `#libadwaita`.
+- [rlr](https://github.com/epilys/rlr) -  Interactive pixel screen ruler and protractor `#rust` `#gtk3`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gtk3`.
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in [Graphviz] `#python` `#gtk3`.
 
@@ -618,6 +619,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Translation
 
 - [Dialect](https://apps.gnome.org/Dialect) - Translation based on Google Translate, LibreTranslate and the free DeepL API `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [lfy](https://flathub.org/apps/cool.ldr.lfy) - Translation application supporting Baidu, Tencent, Google Translate, Bing, Aliyun, Huoshan `#python` `#gtk4` `#libadwaita`.
 
 ### Word Processors
 
@@ -660,6 +662,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Timers / Time Tracking
 
 - [Chess Clock](https://apps.gnome.org/Chessclock) - Over-the-board chess time control `#python` `#gtk4` `#libadwaita`.
+- [CubeTimer](https://flathub.org/apps/io.github.vallabhvidy.CubeTimer) - 3x3 Rubiks Cube Timer application `#python` `#gtk4` `#libadwaita`.
 - [Exercise Timer](https://github.com/mfep/exercise-timer) - Interval training timer `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#gtk4` `#libadwaita`.
 - [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#gtk4` `#libadwaita`.
@@ -710,6 +713,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Geography 
 
 - [Geobug](https://tpikonen.codeberg.page/geobug) - Adaptive client for GeoClue, the geolocation service from freedesktop.org, to display location information (coordinates, speed etc.), saves a track of movements to a GPX-file. `#python` `#gtk4` `#libadwaita`.
+- [gpsami](https://gitlab.gnome.org/hub/gpsami) - Application to download data from GPS loggers and to save it as GPX `#rust` `#gtk4` `#libadwaita`.
 - [NOAA APT](https://github.com/bareboat-necessities/noaa-apt) - Weather satellite image decoder `#rust` `#gtk3`.
 - [Satellite](https://flathub.org/apps/page.codeberg.tpikonen.satellite) - Application to display GNSS (GPS, Galileo, Glonass etc.) information, e.g. location information (coordinates, speed etc.), saves a track of movements to a GPX-file `#python` `#gtk4` `#libadwaita`.
 
@@ -921,6 +925,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Backup
 
 - [Butter](https://github.com/zhangyuannie/butter) - Btrfs snapshot manager `#rust` `#gtk4` `#libadwaita`.
+- [Cronopete](https://www.rastersoft.com/programas/cronopete.html) - Backup utility similar to Apple Time Machine `#vala` `#gtk3`.
 - [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backup tool for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Backup application based on [BorgBackup](https://www.borgbackup.org/support/fund.html) with remote, scheduling and encryption features `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots `#vala` `#gtk3`.
@@ -1024,11 +1029,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#gtk4` `#libadwaita`.
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources `#vala` `#gtk3` `#libhandy` `#granite`.
 - [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#gtk4` `#libadwaita`.
+- [Packetry](https://github.com/greatscottgadgets/packetry) - USB 2.0 protocol analysis application for use with the hardware device Cynthion `#rust` `#gtk4`.
 - [Resources](https://apps.gnome.org/Resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Turn On](https://github.com/swsnr/turnon) - Utility for the GNOME desktop to send Wake On LAN (WoL) magic packets to devices in a network `#rust` `#gtk4` `#libadwaita`.
 - [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#gtk4` `#libadwaita`.
 - [Stimulator](https://github.com/sigmaSd/stimulator) - Application to keep the computer awake with AppIndicator support `#typescript` `#gtk4` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++` `#gtk3`.
+- [Uruk Systemd Manager](https://codeberg.org/alimiracle/uruk-systemd-manager.git) - Application for managing systemd services on GNU/Linux systems.  `#python` `#gtk4` `#libadwaita`.
 
 ### Task Scheduling
 
