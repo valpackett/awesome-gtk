@@ -346,6 +346,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Photography
 
+- [ART](https://art.pixls.us/) - Raw image processing program, derivative of RawTherapee `#c++` `#gtk3`.
 - [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c` `#gtk3`.
 - [nip4](https://github.com/jcupitt/nip4) - Spreadsheet-like GUI for the vips8 image processing library. `#c` `#gtk4`.
 - [PicPlanner](https://gitlab.com/Zwarf/picplanner) - Application for photographers (desktop, phone) to calculate the position of the Sun, Moon and Milky Way in order to plan the position and time for a photograph `#c` `#gtk4` `#libadwaita`.
@@ -493,6 +494,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Specialized Web Browsers / Wrappers
 
 - [Alpaca](https://jeffser.com/alpaca) - Software to chat with local AI models (Ollama client) `#python` `#gtk4` `#libadwaita`.
+- [Archives](https://flathub.org/apps/dev.geopjr.Archives) - Software to archive any website, including its assets, into a self-contained hybrid HTML/ZIP, and to view the web archive `#vala` `#gtk4` `#libadwaita`.
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#gtk4` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#gtk4` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
@@ -569,6 +571,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Note-taking
 
+- [Buffer](https://flathub.org/apps/org.gnome.gitlab.cheywood.Buffer) - Desktop note-taking application that provides a minimal editing space for things that don't need keeping  `#python` `#gtk4` `#libadwaita`.
 - [Folio](https://github.com/toolstack/Folio) - Markdown note-taking application with GNOME desktop integration (Paper fork with additional features) `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Notes](https://gitlab.gnome.org/GNOME/gnome-notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gtk4` `#libadwaita`.
 - [Gnote](https://gitlab.gnome.org/GNOME/gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gtk4` `#libadwaita`.
@@ -619,6 +622,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Word Processors
 
 - [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
+- [Eloquent](https://flathub.org/apps/re.sonny.Eloquent) - Proofreading software for 20+ languages, powered by LanguageTool standalone server `#gjs` `#gtk4` `#libadwaita`.
 
 ## Productivity
 
