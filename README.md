@@ -1012,6 +1012,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
+- [Picture of the Day](https://flathub.org/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
 - [pipemenu](https://github.com/soanvig/pipemenu) - GTK4 `libadwaita` dmenu alternative `#rust` `#gtk4` `#libadwaita`.
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala` `#gtk3`.
 - [Refine](https://tesk.page/refine) - GNOME Tweaks alternative that lets you tweaks with GNOME settings and try experimental features `#python` `#gtk4` `#libadwaita`.
