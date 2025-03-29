@@ -1017,7 +1017,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### System Monitoring and Info
 
-- [Bustle](https://gitlab.gnome.org/World/bustle) - D-Bus activity viewer that draws diagram sequences `#rust` `#gtk4` `#libadwaita`.
+- [Bustle](https://apps.gnome.org/Bustle) - D-Bus activity viewer that draws diagram sequences `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c` `#c++` `#gtk3`.
 - [Door Knocker](https://codeberg.org/tytan652/door-knocker) - Tool to check availability of all `xdg-desktop-portal` portals `#c` `#gtk4` `#libadwaita`.
 - [GNOME Disk Usage Analyzer (Baobab)](https://apps.gnome.org/Baobab) - Disk usage analyzer, also known as Baobab, with DaisyDisk style circle chart `#vala` `#gtk4` `#libadwaita` `#gnome`.
