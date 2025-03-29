@@ -887,6 +887,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Cartero](https://cartero.danirod.es) - Graphical HTTP client to perform HTTP requests and test web APIs `#rust` `#gtk4` `#libadwaita`.
 - [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#gtk4` `#libadwaita`.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#gtk4` `#libadwaita`.
+- [GTKWave](https://gtkwave.github.io/gtkwave) - Wave viewer for debugging Verilog or VHDL simulation models, particularly for post-mortem analysis by analyzing dumpfiles (e.g. FST, LXT, LXT2, VZT, GHW, Verilog VCD/EVCD files) `#c` `#gtk4`.
 - [Share Preview](https://apps.gnome.org/SharePreview) - Application to preview and debug websites metadata tags for social media share `#rust` `#gtk4` `#libadwaita`.
 
  
