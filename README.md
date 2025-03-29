@@ -637,6 +637,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
 - [GNOME Characters](https://apps.gnome.org/Characters) - Emoji picker `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Junction](https://apps.gnome.org/Junction) - Application menu that allows you to choose the application to open files or links `#gjs` `#gtk4` `#libadwaita` `#gnome`.
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
@@ -658,6 +659,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Planner](https://gitlab.gnome.org/World/planner) - Cross-platform project management tool, for planning, scheduling and tracking projects `#c` `#gtk3`.
 - [Planify](https://github.com/alainm23/planify) - Project and task manager with Todoist support `#vala` `#gtk4` `#libadwaita`.
+- [ThisWeekInMyLife (Schedule)](https://flathub.org/apps/io.github.zhrexl.thisweekinmylife) - Kanban-styled planner that aims to help organize a workflow and keep track of activities `#c` `#gtk4` `#libadwaita`.
 
 ### Timers / Time Tracking
 
@@ -792,6 +794,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#gtk4` `#libadwaita`.
 - [Boxes](https://apps.gnome.org/Boxes) - Virtual machine manager for the GNOME desktop `#vala` `#gtk3`.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#gtk4` `#libadwaita`.
+- [Field Monitor](https://flathub.org/apps/de.capypara.FieldMonitor) - Remote desktop client to access virtual machines (VMs) and external screens, supporting Proxmox and QEMU/KVM, but also SPICE, RDP or VNC `#rust` `#gtk4` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
@@ -833,6 +836,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#gtk3` `#granite`.
+- [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++` `#gtk3`.
 - [Scripter](https://github.com/david-swift/Scripter) - Simple application to write and execute small Python scripts `#swift` `#gtk4` `#libadwaita`.
 - [Vulcan](https://github.com/zesterer/vulcan) - Minimalistic text editor designed for both ordinary use and software development `#vala` `#gtk3`.
@@ -887,6 +891,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Cartero](https://cartero.danirod.es) - Graphical HTTP client to perform HTTP requests and test web APIs `#rust` `#gtk4` `#libadwaita`.
 - [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#gtk4` `#libadwaita`.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#gtk4` `#libadwaita`.
+- [GTKWave](https://gtkwave.github.io/gtkwave) - Wave viewer for debugging Verilog or VHDL simulation models, particularly for post-mortem analysis by analyzing dumpfiles (e.g. FST, LXT, LXT2, VZT, GHW, Verilog VCD/EVCD files) `#c` `#gtk4`.
 - [Share Preview](https://apps.gnome.org/SharePreview) - Application to preview and debug websites metadata tags for social media share `#rust` `#gtk4` `#libadwaita`.
 
  
@@ -950,6 +955,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Files (Nautilus)](https://apps.gnome.org/Nautilus) - Default file manager of the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Nemo](https://github.com/linuxmint/nemo) - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python` `#gtk3` `#libhandy`.
+- [PCManFM](https://github.com/lxde/pcmanfm) - Lighweight file manager, standard file manager for LXDE `#c` `#gtk3`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
 - [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
@@ -1007,6 +1013,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
+- [Picture of the Day](https://flathub.org/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
 - [pipemenu](https://github.com/soanvig/pipemenu) - GTK4 `libadwaita` dmenu alternative `#rust` `#gtk4` `#libadwaita`.
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala` `#gtk3`.
 - [Refine](https://tesk.page/refine) - GNOME Tweaks alternative that lets you tweaks with GNOME settings and try experimental features `#python` `#gtk4` `#libadwaita`.
