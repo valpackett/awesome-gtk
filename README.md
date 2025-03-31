@@ -918,6 +918,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
 - [Eyedropper](https://apps.gnome.org/Eyedropper) - Color picker and formatter `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala` `#gtk4` `#granite`.
+- [Iconic](https://flathub.org/apps/nl.emphisia.icon) - Application to create folder icons and add them on top of folders in GNOME `#rust` `#gtk4` `libadwaita`.
 - [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - System icon browser `#rust` `#gtk4` `libadwaita`.
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `libadwaita`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
