@@ -801,6 +801,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Documentation
 
+- [6502 Assembly Learning Environment](https://flathub.org/apps/eu.jumplink.Learn6502) - Complete learning environment for programming vintage computers and game consoles, incl. tutorial, dedicated editor and debugger, virtual game console `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Biblioteca](https://apps.gnome.org/Biblioteca) - GNOME/Libadwaita documentation browser and viewer `#gjs` `#gtk4` `#libadwaita` `#gnome`.
 - [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) - [DevDocs] browser and viewer `#python` `#gtk3`.
 - [quickDocs](https://github.com/mdh34/quickDocs) - Documentation browser for [DevDocs] and Valadoc `#vala` `#gtk3` `#granite`.
