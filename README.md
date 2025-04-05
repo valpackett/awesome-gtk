@@ -560,6 +560,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Document Viewers
 
 - [Evince](https://apps.gnome.org/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, DjVu, comics etc. and SyncTex support with gedit `#c` `#gtk3` `#libhandy` `#gnome`.
+- [jumpdf](https://github.com/b43NnUNF4vidFYFhpqaLWy2ANawtRbMtUXZY9Pf/jumpdf) - Keyboard-focused PDF viewer for documents where one needs to jump between different sections of the document frequently `#c` `#gtk4`.
 - [Papers](https://apps.gnome.org/en/Papers) - Document viewer for the GNOME desktop (GTK 4 fork of Evince) with support for PDF, Postscript, DjVu, EPS, XPS and comics archives `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Xreader](https://github.com/linuxmint/xreader) - Generic document viewer with support for PDF, Postscript, DjVu, comics and more `#c` `#gtk3` `#libxapp`.
 - [zathura](https://pwmt.org/projects/zathura) - Minimalist and customizable document viewer with support for PDF, PostScript, DjVu and comic book `#c` `#gtk3`.
@@ -633,6 +634,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Actioneer](https://github.com/phase1geo/actioneer) - Tool to automate actions on file changes `#vala` `#gtk3` `#granite`.
 - [Boatswain](https://apps.gnome.org/Boatswain) - Elgato Stream Deck controller `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Confy](https://confy.kirgroup.net) - Conferences schedule viewer `#python` `#gtk4` `#libadwaita`.
+- [Counters](https://flathub.org/apps/io.gitlab.guillermop.Counters) - Simple counting application to create counters to keep track of anything `#vala` `#gtk4` `#libadwaita`.
 - [StreamController](https://github.com/StreamController/StreamController) - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
@@ -801,6 +803,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Documentation
 
+- [6502 Assembly Learning Environment](https://flathub.org/apps/eu.jumplink.Learn6502) - Complete learning environment for programming vintage computers and game consoles, incl. tutorial, dedicated editor and debugger, virtual game console `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Biblioteca](https://apps.gnome.org/Biblioteca) - GNOME/Libadwaita documentation browser and viewer `#gjs` `#gtk4` `#libadwaita` `#gnome`.
 - [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) - [DevDocs] browser and viewer `#python` `#gtk3`.
 - [quickDocs](https://github.com/mdh34/quickDocs) - Documentation browser for [DevDocs] and Valadoc `#vala` `#gtk3` `#granite`.
