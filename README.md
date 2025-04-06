@@ -305,6 +305,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Image Viewers
 
+- [Eye of Gnome (EoG)](https://flathub.org/apps/org.gnome.eog) - Image viewer, designed for the Gnome Desktop `#c` `#gtk3` `#libhandy`.
 - [Fotema](https://github.com/blissd/fotema) - Photo gallery with support for iOS Live Photos and Android motion photos `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Geeqie](https://www.geeqie.org) - Cross-platform image viewer and organizer `#c++` `#gtk4`.
 - [gThumb](https://flathub.org/apps/org.gnome.gThumb) - Image viewer, editor, browser and organizer `#c` `#gtk3`.
