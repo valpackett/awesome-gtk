@@ -307,6 +307,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Fotema](https://github.com/blissd/fotema) - Photo gallery with support for iOS Live Photos and Android motion photos `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Geeqie](https://www.geeqie.org) - Cross-platform image viewer and organizer `#c++` `#gtk4`.
+- [gThumb](https://flathub.org/apps/org.gnome.gThumb) - Image viewer, editor, browser and organizer `#c` `#gtk3`.
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust` `#gtk4`.
 - [Image Viewer (Loupe)](https://apps.gnome.org/Loupe) - Simple image viewer `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#gtk4` `#libadwaita`.
