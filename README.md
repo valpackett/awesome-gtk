@@ -646,6 +646,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
+- [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the Gnome desktop `#python` `#gtk4` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
