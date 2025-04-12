@@ -330,7 +330,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
-- [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk3`.
+- [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk4` `#libadwaita`.
 - [RS-Paint](https://github.com/lucasscharenbroch/rs-paint) - A light-weight image editor inspired by MS-Paint `#rust` `#gtk4`.
 - [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
