@@ -146,7 +146,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Amberol](https://apps.gnome.org/Amberol) - Simple music player well integrated with GNOME `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [DeaDBeeF](https://deadbeef.sourceforge.io) - Modular cross-platform music player for desktop operating systems with conversion and tagging features `#c` `#gtk3`.
-- [Decibels](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#gtk4` `#libadwaita` `#gnome`.
+- [Decibels](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
 - [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita` `#elementary`.
 - [Gapless](https://gitlab.gnome.org/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -330,7 +330,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
-- [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk3`.
+- [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk4` `#libadwaita`.
 - [RS-Paint](https://github.com/lucasscharenbroch/rs-paint) - A light-weight image editor inspired by MS-Paint `#rust` `#gtk4`.
 - [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
@@ -646,6 +646,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
+- [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
@@ -1096,7 +1097,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Weather Viewers
 
-- [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#gtk4` `#libadwaita` `#gnome`.
+- [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala` `#gtk3`.
 - [Mousam](https://github.com/amit9838/mousam) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
