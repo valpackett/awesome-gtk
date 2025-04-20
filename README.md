@@ -442,6 +442,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### File Sharing
 
+- [DataFall](https://github.com/kutu-dev/datafall) - Application for multithreaded HTTP file downloading `#rust` `#gtk4` `#libadwaita`.
 - [Deluge](https://deluge-torrent.org) - BitTorrent client available for Linux, macOS and Windows `#python` `#gtk3`.
 - [Fragments](https://apps.gnome.org/Fragments) - BitTorrent client built on top of Transmission `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Gabut Download Manager](https://github.com/gabutakut/gabutdm) - Download manager supporting torrents and direct download with Firefox integration  `#vala` `#gtk4` `#libadwaita`.
