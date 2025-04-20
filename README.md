@@ -170,6 +170,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### MPD Clients
 
 - [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - MPD client focusing on albums instead of single tracks `#python` `#gtk4` `#libadwaita`.
+- [Euphonica](https://github.com/htkhiem/euphonica) - Feature-packed MPD client with MPIRS support, customisable spectrum visualiser, dBFS readout support and more `#rust` `#gtk4` `#libadwaita`.
 - [Mpdevil](https://github.com/SoongNoonien/mpdevil) - MPD music browser with MPRIS interface `#python` `#gtk4` `#libadwaita`.
 - [Sonata](https://github.com/multani/sonata) - MPD client with tag editor and audio scrobbling support, currently looking for a new maintainer `#python` `#gtk3`.
 
