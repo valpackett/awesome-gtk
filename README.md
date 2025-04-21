@@ -642,6 +642,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Counters](https://flathub.org/apps/io.gitlab.guillermop.Counters) - Simple counting application to create counters to keep track of anything `#vala` `#gtk4` `#libadwaita`.
 - [StreamController](https://github.com/StreamController/StreamController) - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
+- [Clicker](https://flathub.org/apps/net.codelogistics.clicker) - Auto clicker application to simulate user input repeatedly `#python` `#gtk4` `#libadwaita`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
 - [GNOME Characters](https://apps.gnome.org/Characters) - Emoji picker `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Junction](https://apps.gnome.org/Junction) - Application menu that allows you to choose the application to open files or links `#gjs` `#gtk4` `#libadwaita` `#gnome`.
