@@ -970,7 +970,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python` `#gtk3` `#libhandy`.
 - [PCManFM](https://github.com/lxde/pcmanfm) - Lighweight file manager, standard file manager for LXDE `#c` `#gtk3`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
-- [Portofolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
+- [Portfolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
 - [Thunar](https://gitlab.xfce.org/xfce/thunar) - File manager for the Xfce desktop `#c` `#gtk3`.
 
