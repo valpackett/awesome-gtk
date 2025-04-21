@@ -658,6 +658,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Education
 
+- [JapaChar](https://flathub.org/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 
 ### Mind-mapping
