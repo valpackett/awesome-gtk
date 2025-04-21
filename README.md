@@ -963,6 +963,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Management
 
+- [Elementary Files](https://github.com/elementary/files) - File browser for elementary OS `#vala `#gtk3` `#libhandy`.
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
 - [GNOME Files (Nautilus)](https://apps.gnome.org/Nautilus) - Default file manager of the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
