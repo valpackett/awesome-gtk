@@ -284,6 +284,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cameractrls](https://github.com/soyersoyer/cameractrls) - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
+- [Facetracker](https://codeberg.org/ZRayEntertainment/Facetracker) - Wrapper UI for OpenSeeFace's facetracker `#python` `#gtk4` `#libadwaita`.
 - [GstPipelineStudio](https://gitlab.freedesktop.org/dabrain34/GstPipelineStudio) - Graphical user interface to the multimedia framework GStreamer `#rust` `#gtk4`.
 - [Guvcview](https://sourceforge.net/projects/guvcview) - Video and audio grabber and webcam application, compatible with V4L2 camera devices  `#c` `#gtk3`.
 - [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk4`.
