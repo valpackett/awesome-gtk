@@ -252,6 +252,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Delfin](https://codeberg.org/avery42/delfin) - Application to stream movies/TV shows from Jellyfin `#rust` `#gtk4` `#libadwaita`.
 - [GNOME Videos (Totem)](https://apps.gnome.org/Totem) - Official GNOME desktop video player, also known as Totem `#c` `#gtk3`. `#gnome`.
 - [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `#gtk4` `#libadwaita`.
+- [livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
 - [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#gtk4` `#libadwaita`.
 
@@ -508,6 +509,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Portrait Plus, Stable Diffusion, Custom Provider) interface `#python` `#gtk4` `#libadwaita`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#gtk4` `#libadwaita`.
 - [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube and PeerTube client with offline subscription and playlist features `#rust` `#gtk4` `#libadwaita`.
+- [Read It Later](https://flathub.org/apps/com.belmoussaoui.ReadItLater) - A Wallabag client that allows to save web articles and read them later `#rust` `#gtk4` `#libadwaita`.
 - [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#gtk4` `#libadwaita`.
 - [Tangram](https://apps.gnome.org/Tangram) - Browser for your pinned tabs `#gjs` `#gtk4` `#libadwaita` `#gnome`.
 - [Wike](https://apps.gnome.org/Wike) - Wikipedia client `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -964,7 +966,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Management
 
-- [Elementary Files](https://github.com/elementary/files) - File browser for elementary OS `#vala `#gtk3` `#libhandy`.
+- [Elementary Files](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy`.
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
 - [GNOME Files (Nautilus)](https://apps.gnome.org/Nautilus) - Default file manager of the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
@@ -1013,6 +1015,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Concessio](https://flathub.org/apps/io.github.ronniedroid.concessio) - GUI to convert between numeric and symbolic Unix file permissions `#gjs` `#gtk4` `#libadwaita`.
 - [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc) `#vala` `#gtk4` `#libadwaita`.
+- [Dconf Editor](https://apps.gnome.org/DconfEditor) - Graphical tool for editing the dconf database `#vala` `#gtk3` `#libhandy`.
 - [doppler](https://github.com/spacekookie/doppler) - Fronted for Redshift allowing to configure different display temperatures for each time of day `#rust` `#gtk3`.
 - [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#gtk4` `#libadwaita`.
 - [Embellish](https://github.com/getnf/embellish) - Application to install and manage Nerd Fonts on the system `#gjs` `#gtk4` `#libadwaita`.
