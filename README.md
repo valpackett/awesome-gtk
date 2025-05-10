@@ -926,6 +926,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gitg](https://gitlab.gnome.org/GNOME/gitg) - Git GUI client `#vala` `#gtk3`.
 - [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs` `#gtk3`.
 - [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gtk3`.
+- [Stage](https://flathub.org/apps/io.github.aganzha.Stage) - Git GUI client inspired by Magit `#rust` `#gtk4` `#libadwaita`.
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems, context menus and specific dialogues for complex operations `#python` `#gtk4` `#libadwaita`.
 
 ## Design
