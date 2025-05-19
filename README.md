@@ -650,6 +650,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
 - [GNOME Characters](https://apps.gnome.org/Characters) - Emoji picker `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Junction](https://apps.gnome.org/Junction) - Application menu that allows you to choose the application to open files or links `#gjs` `#gtk4` `#libadwaita` `#gnome`.
+- [Kasasa](https://flathub.org/apps/io.github.kelvinnovais.Kasasa) - Always on top window to clip and keep an eye on important things without switching window/workspace in the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
