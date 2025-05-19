@@ -105,6 +105,7 @@
     - [Xi GUIs](#xi-guis)
   - [Markdown](#markdown)
   - [LaTeX](#latex)
+  - [Typst](#typst)
   - [Terminals](#terminals)
   - [Text Processing](#text-processing)
   - [Toolboxes](#toolboxes)
@@ -882,6 +883,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Hieroglyphic](https://apps.gnome.org/Hieroglyphic) - Application to search for LaTeX symbols by sketching, fork of TeX Match `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Setzer](https://www.cvfosammmm.org/setzer) - Simple yet full-featured LaTeX editor `#python` `#gtk4`.
 - [TeX Match](https://github.com/zoeyfyi/TeX-Match) - Application to search for LaTeX symbols by sketching `#rust` `#gtk3`.
+
+### Typst
+
+- [Typewriter](https://flathub.org/apps/app.drey.Typewriter) - Simple Typst editor `#rust` `#gtk4` `#libadwaita`.
 
 ### Terminals
 
