@@ -1007,6 +1007,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Pins](https://flathub.org/apps/io.github.fabrialberio.pinapp) - `.desktop` files creator/editor `#c` `#gtk4` `#libadwaita`.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#gtk4` `#libadwaita`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
+- [Spider](https://flathub.org/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integreation with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
 - [Web Apps](https://flathub.org/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
 
