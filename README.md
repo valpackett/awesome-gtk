@@ -582,6 +582,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Note-taking
 
+- [Bookup](https://flathub.org/apps/org.gnome.gitlab.ilhooq.Bookup) - Markdown notes manager with SQLite database and PDF export (clone of Notes-Up) `#c` `#gtk4` `#libadwaita`.
 - [Buffer](https://flathub.org/apps/org.gnome.gitlab.cheywood.Buffer) - Desktop note-taking application that provides a minimal editing space for things that don't need keeping  `#python` `#gtk4` `#libadwaita`.
 - [Folio](https://github.com/toolstack/Folio) - Markdown note-taking application with GNOME desktop integration (Paper fork with additional features) `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Notes](https://gitlab.gnome.org/GNOME/gnome-notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gtk4` `#libadwaita`.
