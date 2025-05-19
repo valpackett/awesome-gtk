@@ -886,7 +886,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Typst
 
-- [Escritoire](https://flathub.org/apps/page.codeberg.dudenix.escritoire) - Application to write standart-compliant letter using Typst `#rust` `#gtk4` `#libadwaita`.
+- [Escritoire](https://flathub.org/apps/page.codeberg.dudenix.escritoire) - Application to write standard-compliant letter using Typst `#rust` `#gtk4` `#libadwaita`.
 - [Typewriter](https://flathub.org/apps/app.drey.Typewriter) - Simple Typst editor `#rust` `#gtk4` `#libadwaita`.
 
 ### Terminals
