@@ -639,6 +639,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
 - [Eloquent](https://flathub.org/apps/re.sonny.Eloquent) - Proofreading software for 20+ languages, powered by LanguageTool standalone server `#gjs` `#gtk4` `#libadwaita`.
+- [Typewriter](https://flathub.org/apps/app.drey.Typewriter) - Document editor based on Typst, a markup-based typesetting system that is designed to be as powerful as LaTeX while easy to learn and use `#rust` `#gtk4` `#libadwaita`.
 
 ## Productivity
 
