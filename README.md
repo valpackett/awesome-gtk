@@ -749,8 +749,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Social Sciences
 
-- .
-
+- [ReCast](https://github.com/hardcoeur/recast) - Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper `#python` `#gtk4` `#libadwaita`.
 
 ### Statistics
 
