@@ -89,6 +89,7 @@
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
   - [Cryptography](#cryptography)
+  - [Antiviruses and Malware Scanners](#antiviruses-and-malware-scanners)
 - [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
@@ -780,6 +781,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Cryptography
 
 - [Lock](https://konstantintutsch.com/Lock) - GnuPG front-end for cryptography operations and key management `#c` `#gtk4` `#libadwaita`.
+
+### Antiviruses and Malware Scanners
+
+- [Kapitano](https://flathub.org/apps/page.codeberg.zynequ.Kapitano) - Malware scanner for non-technical users `#gtk4` `#libadwaita`.
 
 ## Digital Forensics
 
