@@ -1033,7 +1033,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [BleachBit](https://www.bleachbit.org) - Cross-platform Disk space cleaner and system optimizer `#python` `#gtk3`.
 - [Czkawka](https://github.com/qarmin/czkawka) - Cross-platform, simple and fast application to remove unnecessary files from your computer `#rust` `#gtk4`.
-- [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Duplicate file finder `#c++` `#gtk3`
+- [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Duplicate file finder `#c++` `#gtk3`.
 
 
 ### System Configuration
