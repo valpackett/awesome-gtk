@@ -813,7 +813,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Emulators and Compatibility Layers
 
-- [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of Wine `#python` `#gtk4` `#libadwaita`. 
+- [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of Wine `#python` `#gtk4` `#libadwaita`.
 - [Fuse](https://fuse-emulator.sourceforge.net) - ZX Spectrum emulator `#c` `#gtk3`.
 - [WineCharm](https://github.com/fastrizwaan/WineCharm) - GUI designed to simplify running and managing Windows applications on Linux using Wine `#python` `#gtk4` `#libadwaita`.
 - [WineZGUI](https://flathub.org/apps/io.github.fastrizwaan.WineZGUI) - Zenity GUI for managing Wine prefixes and launching Windows binaries through Wine `#python` `#gtk4` `#libadwaita`.
