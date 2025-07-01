@@ -376,6 +376,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#gtk3` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gtk3`.
+- [Length](https://flathub.org/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4`.
 - [Photometric Viewer](https://github.com/dlippok/photometric-viewer) - IES and EULUMDAT photometric files viewer `#python` `#gtk4` `#libadwaita`.
 - [rlr](https://github.com/epilys/rlr) -  Interactive pixel screen ruler and protractor `#rust` `#gtk3`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gtk3`.
@@ -641,6 +642,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
 - [Eloquent](https://flathub.org/apps/re.sonny.Eloquent) - Proofreading software for 20+ languages, powered by LanguageTool standalone server `#gjs` `#gtk4` `#libadwaita`.
 - [WebkitWord](https://flathub.org/apps/io.github.fastrizwaan.WebkitWord) - Rich text editor with powerful word processing capabilities in a clutter-free modern interface `#python` `#gtk4` `#libadwaita`.
+- [Scriptorium](https://flathub.org/apps/io.github.cgueret.Scriptorium) - Text editor coupled with a plotting and formatting tool to provide writers with an environment to plan, plot, write and edit e-books `#python` `#gtk4` `#libadwaita`.
 
 ## Productivity
 
@@ -1035,8 +1037,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### System and File Cleaning
 
-- [Czkawka](https://github.com/qarmin/czkawka) - Cross-platform, simple and fast application to remove unnecessary files from your computer `#rust` `#gtk4`.
 - [BleachBit](https://www.bleachbit.org) - Cross-platform Disk space cleaner and system optimizer `#python` `#gtk3`.
+- [Czkawka](https://github.com/qarmin/czkawka) - Cross-platform, simple and fast application to remove unnecessary files from your computer `#rust` `#gtk4`.
+- [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Duplicate file finder `#c++` `#gtk3`.
+
 
 ### System Configuration
 
