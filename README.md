@@ -89,7 +89,6 @@
 - [Security and Privacy](#security-and-privacy)
   - [Password Management](#password-management)
   - [Cryptography](#cryptography)
-  - [Antiviruses and Malware Scanners](#antiviruses-and-malware-scanners)
 - [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
@@ -196,6 +195,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Transcription
 
 - [Parlatype](https://github.com/gkarsay/parlatype) - Minimal audio player for manual speech transcription `#c` `#gtk4` `#libadwaita`.
+- [ReCast](https://github.com/hardcoeur/recast) - Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper `#python` `#gtk4` `#libadwaita`.
 
 #### Ambient Sounds
 
@@ -489,6 +489,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Remote Desktop
 
 - [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gtk3` `#gnome`.
+- [MirrorHall](https://flathub.org/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4`.
 - [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c` `#gtk3`.
 - [Vinagre](https://gitlab.gnome.org/Archive/vinagre) - (archive) Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gtk3`.
 
@@ -641,6 +642,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
 - [Eloquent](https://flathub.org/apps/re.sonny.Eloquent) - Proofreading software for 20+ languages, powered by LanguageTool standalone server `#gjs` `#gtk4` `#libadwaita`.
+- [WebkitWord](https://flathub.org/apps/io.github.fastrizwaan.WebkitWord) - Rich text editor with powerful word processing capabilities in a clutter-free modern interface `#python` `#gtk4` `#libadwaita`.
 - [Scriptorium](https://flathub.org/apps/io.github.cgueret.Scriptorium) - Text editor coupled with a plotting and formatting tool to provide writers with an environment to plan, plot, write and edit e-books `#python` `#gtk4` `#libadwaita`.
 
 ## Productivity
@@ -662,6 +664,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
+- [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
@@ -713,6 +716,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Getting Things GNOME](https://github.com/getting-things-gnome/gtg) - Personal task organizer for the GNOME desktop inspired by [Getting Things Done](https://gettingthingsdone.com/what-is-gtd) `#python` `#gtk3`.
 - [IPlan](https://github.com/iman-salmani/iplan) - Personal task manager with project-based task grouping, task timers and drag and drop arranging `#rust` `#gtk4` `#libadwaita`.
 - [Remembrance](https://github.com/dgsasha/remembrance) - Simple reminder app `#python` `#gtk4` `#libadwaita`.
+- [Tasks](https://github.com/elementary/tasks) - Manager for tasks and reminders designed for elementary OS that support syncing via CalDAV `#vala` `#gtk4` `#libadwaita` `#libgranite`.
 - [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#gtk3` `#granite` `#libhandy`.
 
 [todo.txt]: https://github.com/todotxt/todo.txt
@@ -762,6 +766,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Collision](https://apps.gnome.org/app/dev.geopjr.Collision) - Tool to generate, compare and verify hashes `#crystal` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c` `#gtk3`.
+- [Kapitano](https://flathub.org/apps/page.codeberg.zynequ.Kapitano) - User-friendly antivirus tool and malware scanner for Linux (malware, viruses, and threats) based on ClamAV `#python` `#gtk4` `#libadwaita`.
 - [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps `#rust` `#gtk4` `#libadwaita`.
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#gtk4` `#libadwaita`.
 - [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#gtk4` `#libadwaita`.
@@ -781,10 +786,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Cryptography
 
 - [Lock](https://konstantintutsch.com/Lock) - GnuPG front-end for cryptography operations and key management `#c` `#gtk4` `#libadwaita`.
-
-### Antiviruses and Malware Scanners
-
-- [Kapitano](https://flathub.org/apps/page.codeberg.zynequ.Kapitano) - Malware scanner for non-technical users `#gtk4` `#libadwaita`.
 
 ## Digital Forensics
 
@@ -812,7 +813,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Emulators and Compatibility Layers
 
 - [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of Wine `#python` `#gtk4` `#libadwaita`.
-- [Fuse](https://fuse-emulator.sourceforge.net/) - ZX Spectrum emulator `#c` `#gtk3`.
+- [Fuse](https://fuse-emulator.sourceforge.net) - ZX Spectrum emulator `#c` `#gtk3`.
+- [WineCharm](https://github.com/fastrizwaan/WineCharm) - GUI designed to simplify running and managing Windows applications on Linux using Wine `#python` `#gtk4` `#libadwaita`.
+- [WineZGUI](https://flathub.org/apps/io.github.fastrizwaan.WineZGUI) - Zenity GUI for managing Wine prefixes and launching Windows binaries through Wine `#python` `#gtk4` `#libadwaita`.
 
 ## Development
 
