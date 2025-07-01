@@ -754,10 +754,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Elastic](https://gitlab.gnome.org/World/elastic) - Design of spring animations `#vala` `#gtk4` `#libadwaita`.
 - [Electra](https://github.com/art-den/electra_stacking) - Software for stacking of deep sky astronomical images `#rust` `#gtk3`.
 
-### Social Sciences
-
-- [ReCast](https://github.com/hardcoeur/recast) - Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper `#python` `#gtk4` `#libadwaita`.
-
 ### Statistics
 
 - [Gretl](https://gretl.sourceforge.net) - Cross-platform statistical package for econometric analysis `#c` `#gtk3`.
