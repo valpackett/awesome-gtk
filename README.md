@@ -890,6 +890,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c` `#gtk3`.
 - [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#gtk4` `#libadwaita`.
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala` `#gtk3`.
+- [Tabëla](https://flathub.org/apps/com.mastropaolo.www.tabela) - Utility to format tables to Markdown or HTML `#rust` `#gtk4` `#libadwaita`.
 
 ### LaTeX
 
