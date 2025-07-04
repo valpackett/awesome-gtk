@@ -782,6 +782,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala` `#gtk3` `#granite` `#libhandy`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
+- [Projectpad](https://flathub.org/apps/com.github.emmanueltouzery.projectpad) - Manager for secret credentials and server information `#rust` `#gtk4` `#libadwaita`.
 - [Secrets](https://apps.gnome.org/Secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Cryptography
