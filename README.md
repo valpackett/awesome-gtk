@@ -1006,6 +1006,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Thunar](https://gitlab.xfce.org/xfce/thunar) - File manager for the Xfce desktop `#c` `#gtk3`.
 
 ### File Search
+- [FSearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility `#c` `#gtk3`.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
 
 
