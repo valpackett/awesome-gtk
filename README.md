@@ -26,7 +26,7 @@
   - [Video Players](#video-players)
   - [Live Stream Viewers](#live-stream-viewers)
   - [Video Editors](#video-editors)
-  - [Subtitle Editors](#subtitle-editors)
+  - [Subtitle Editors and Extractors](#subtitle-editors-and-extractors)
   - [Screen Recorders](#screen-recorders)
   - [Video Tools](#video-tools)
 - [Graphics](#graphics)
@@ -270,10 +270,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python` `#gtk3`.
 - [Video Trimmer](https://apps.gnome.org/VideoTrimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#gtk4` `#libadwaita`.
 
-### Subtitle Editors
+### Subtitle Editors and Extractors
 
 - [Gaupol](https://otsaloma.io/gaupol) - Editor for text-based subtitle files with built-in video player `#python` `#gtk3`.
 - [Gnome Subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles) - Subtitle editor for the GNOME desktop `#csharp` `#gtk3`.
+- [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions) - Application that provides live captioning (in English) based on trained models `#c` `#gtk4` `#libadwaita`.
 - [Subtitle Editor](https://kitone.github.io/subtitleeditor) - Subtitle editor with built-in video player and text correction features `#c++` `#gtk3`.
 
 ### Screen Recorders
