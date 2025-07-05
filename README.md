@@ -117,6 +117,7 @@
   - [Database Clients](#database-clients)
   - [Disk Imaging](#disk-imaging)
   - [File Management](#file-management)
+  - [File Search](#file-search)
   - [File Synchronisation](#file-synchronisation)
   - [Remote File Access](#remote-file-access)
 - [System Management](#system-management)
@@ -782,6 +783,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala` `#gtk3` `#granite` `#libhandy`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
+- [Projectpad](https://flathub.org/apps/com.github.emmanueltouzery.projectpad) - Manager for secret credentials and server information `#rust` `#gtk4` `#libadwaita`.
 - [Secrets](https://apps.gnome.org/Secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Cryptography
@@ -888,6 +890,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c` `#gtk3`.
 - [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#gtk4` `#libadwaita`.
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala` `#gtk3`.
+- [Tabëla](https://flathub.org/apps/com.mastropaolo.www.tabela) - Utility to format tables to Markdown or HTML `#rust` `#gtk4` `#libadwaita`.
 
 ### LaTeX
 
@@ -993,6 +996,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### File Management
 
 - [Elementary Files](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy`.
+- [fm](https://github.com/euclio/fm) - Small, general purpose file manager `#rust` `#gtk4` `#libadwaita`.
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
 - [GNOME Files (Nautilus)](https://apps.gnome.org/Nautilus) - Default file manager of the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
@@ -1001,8 +1005,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PCManFM](https://github.com/lxde/pcmanfm) - Lighweight file manager, standard file manager for LXDE `#c` `#gtk3`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
 - [Portfolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
-- [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
 - [Thunar](https://gitlab.xfce.org/xfce/thunar) - File manager for the Xfce desktop `#c` `#gtk3`.
+
+### File Search
+
+- [Clapgrep](https://flathub.org/apps/de.leopoldluley.Clapgrep) - Application to search through file contents of all sorts of text files, PDFs and office documents `#rust` `#gtk4` `#libadwaita`.
+- [FSearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility `#c` `#gtk3`.
+- [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
 
 ### File Synchronisation
 
