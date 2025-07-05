@@ -677,6 +677,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Lexi](https://flathub.org/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
+- [Spedread](https://flathub.org/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
 
 ### Mind-mapping
 
