@@ -1061,6 +1061,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
+- [Ignition](https://flathub.org/apps/io.github.flattool.Ignition) Utility to manage startup apps and scripts - `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [LACT](https://github.com/ilya-zlobintsev/LACT) - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
