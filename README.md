@@ -26,7 +26,7 @@
   - [Video Players](#video-players)
   - [Live Stream Viewers](#live-stream-viewers)
   - [Video Editors](#video-editors)
-  - [Subtitle Editors](#subtitle-editors)
+  - [Subtitle Editors and Extractors](#subtitle-editors-and-extractors)
   - [Screen Recorders](#screen-recorders)
   - [Video Tools](#video-tools)
 - [Graphics](#graphics)
@@ -271,10 +271,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python` `#gtk3`.
 - [Video Trimmer](https://apps.gnome.org/VideoTrimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#gtk4` `#libadwaita`.
 
-### Subtitle Editors
+### Subtitle Editors and Extractors
 
 - [Gaupol](https://otsaloma.io/gaupol) - Editor for text-based subtitle files with built-in video player `#python` `#gtk3`.
 - [Gnome Subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles) - Subtitle editor for the GNOME desktop `#csharp` `#gtk3`.
+- [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions) - Application that provides live captioning (in English) based on trained models `#c` `#gtk4` `#libadwaita`.
 - [Subtitle Editor](https://kitone.github.io/subtitleeditor) - Subtitle editor with built-in video player and text correction features `#c++` `#gtk3`.
 
 ### Screen Recorders
@@ -395,6 +396,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
 - [Inkscape](https://inkscape.org) - General vector graphics editor `#c++` `#gtk3`.
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
+- [Oh My SVG](https://flathub.org/apps/re.sonny.OhMySVG) - Utility to reduce the size of SVGs  `#gjs` `#gtk4` `#libadwaita`.
 - [Pizarra](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
 
@@ -663,6 +665,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Kasasa](https://flathub.org/apps/io.github.kelvinnovais.Kasasa) - Always on top window to clip and keep an eye on important things without switching window/workspace in the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
+- [Onboard](https://github.com/dr-ni/onboard) - Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users `#python` `#gtk3`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
@@ -678,6 +681,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Lexi](https://flathub.org/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
+- [Spedread](https://flathub.org/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
 
 ### Mind-mapping
 
@@ -985,6 +989,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Daty](https://gitlab.gnome.org/World/Daty) - Cross-platform advanced Wikidata editor `#python` `#gtk3` `#libhandy`.
 - [PSequel](https://github.com/ppvan/psequel) - Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#gtk3` `#granite`.
+- [Tarug](https://flathub.org/apps/io.github.ppvan.tarug) - Minimal modern Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 
 ### Disk Imaging
 
@@ -1059,15 +1064,18 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Embellish](https://github.com/getnf/embellish) - Application to install and manage Nerd Fonts on the system `#gjs` `#gtk4` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala` `#gtk3`.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#gtk4` `#libadwaita`.
+- [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) - Flatpak leftover cleaner `#python` `#gtk4` `#libadwaita`.
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
 - [Folder Manager (Foldy)](https://altlinux.space/alt-gnome/Foldy) - Tool to manage folders in GNOME desktop application menu `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
+- [Ignition](https://flathub.org/apps/io.github.flattool.Ignition) - Utility to manage startup apps and scripts (Freedesktop autostart entries) `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [LACT](https://github.com/ilya-zlobintsev/LACT) - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
+- [Main Menu](https://flathub.org/apps/page.codeberg.libre_menu_editor.LibreMenuEditor) - Utility to customize the application launchers and the main menu in Freedesktop-compliant desktop environments `#python` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
 - [Picture of the Day](https://flathub.org/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
