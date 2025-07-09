@@ -123,7 +123,6 @@
 - [System Management](#system-management)
   - [Software Installation](#software-installation)
   - [System and File Cleaning](#system-and-file-cleaning)
-  - [guration](#system-configuration)
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
