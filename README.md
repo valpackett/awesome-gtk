@@ -516,6 +516,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#gtk4` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#gtk4` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
+- [Hypathia](https://flathub.org/apps/net.hypatiaproject.Hypatia) - Research helper tool that provides context and information about interesting topics, e.g., definitions, explanations, and answers related to the text on the display `#vala` `#gtk4` `#libadwaita`.
 - [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Portrait Plus, Stable Diffusion, Custom Provider) interface `#python` `#gtk4` `#libadwaita`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#gtk4` `#libadwaita`.
 - [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube and PeerTube client with offline subscription and playlist features `#rust` `#gtk4` `#libadwaita`.
@@ -898,6 +899,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### LaTeX
 
+- [Bada Bib!](https://flathub.org/apps/com.github.rogercrocker.badabib) - BibTex viewer and editor `#python` `#gtk4` `#libadwaita`.
 - [Citations](https://apps.gnome.org/Citations) - BibTex bibliography manager `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Gummi](https://gummi.app) - Simple LaTeX editor `#c` `#gtk3`.
 - [GNOME LaTeX (LaTeXila)](https://gitlab.gnome.org/swilmet/enter-tex) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gtk3`.
@@ -1067,9 +1069,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) - Flatpak leftover cleaner `#python` `#gtk4` `#libadwaita`.
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
 - [Folder Manager (Foldy)](https://altlinux.space/alt-gnome/Foldy) - Tool to manage folders in GNOME desktop application menu `#vala` `#gtk4` `#libadwaita`.
+- [gconfig](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/scripts/kconfig) - Graphical kernel configuration utility for the Linux kernel `#c` `#gtk3`.
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
+- [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [Ignition](https://flathub.org/apps/io.github.flattool.Ignition) - Utility to manage startup apps and scripts (Freedesktop autostart entries) `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [LACT](https://github.com/ilya-zlobintsev/LACT) - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
