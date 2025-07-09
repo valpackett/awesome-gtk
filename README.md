@@ -898,6 +898,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### LaTeX
 
+- [Bada Bib!](https://flathub.org/apps/com.github.rogercrocker.badabib) - BibTex viewer and editor `#python` `#gtk4` `#libadwaita`.
 - [Citations](https://apps.gnome.org/Citations) - BibTex bibliography manager `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Gummi](https://gummi.app) - Simple LaTeX editor `#c` `#gtk3`.
 - [GNOME LaTeX (LaTeXila)](https://gitlab.gnome.org/swilmet/enter-tex) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gtk3`.
