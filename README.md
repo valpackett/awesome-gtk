@@ -123,6 +123,7 @@
 - [System Management](#system-management)
   - [Software Installation](#software-installation)
   - [System and File Cleaning](#system-and-file-cleaning)
+  - [System Configuration](#system-configuration)
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
@@ -486,6 +487,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Proxy
 
+- [Carburetor](https://tractor.frama.io/carburetor) - Graphical setting app to easily set up a TOR proxy on your session, without getting your hands dirty with system configs `#python` `#gtk4` `#libadwaita`.
 
 ### Remote Desktop
 
