@@ -487,7 +487,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Proxy
 
-- [Carburetor](https://tractor.frama.io/carburetor) - Graphical setting app to easily set up a TOR proxy on your session, without getting your hands dirty with gs `#python` `#gtk4` `#libadwaita`.
 
 ### Remote Desktop
 
