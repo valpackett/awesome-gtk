@@ -516,6 +516,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#gtk4` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#gtk4` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
+- [Hypathia](https://flathub.org/apps/net.hypatiaproject.Hypatia) - Research helper tool that provides context and information about interesting topics, e.g., definitions, explanations, and answers related to the text on the display `#vala` `#gtk4` `#libadwaita`.
 - [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Portrait Plus, Stable Diffusion, Custom Provider) interface `#python` `#gtk4` `#libadwaita`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#gtk4` `#libadwaita`.
 - [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube and PeerTube client with offline subscription and playlist features `#rust` `#gtk4` `#libadwaita`.
