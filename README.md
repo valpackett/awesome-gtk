@@ -924,7 +924,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Text Processing
 
-- [Bender](https://github.com/revathskumar/bender) - Application to bend and transform text `#typescript` `#gjs` `#gtk4` `#libadwaita`.
+- [Bender](https://github.com/revathskumar/bender) - Application to bend and transform text `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) - Visual semi-structured data (JSON) editor `#python` `#gtk4` `#libadwaita`.
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#gtk4` `#libadwaita`.
 - [Wildcard](https://gitlab.gnome.org/World/Wildcard) - Regex tester `#rust` `#gtk4` `#libadwaita`.
@@ -1108,7 +1108,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Resources](https://apps.gnome.org/Resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Turn On](https://codeberg.org/swsnr/turnon) - Utility for the GNOME desktop to send Wake On LAN (WoL) magic packets to devices in a network `#rust` `#gtk4` `#libadwaita`.
 - [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#gtk4` `#libadwaita`.
-- [Stimulator](https://github.com/sigmaSd/stimulator) - Application to keep the computer awake with AppIndicator support `#typescript` `#gtk4` `#libadwaita`.
+- [Stimulator](https://github.com/sigmaSd/stimulator) - Application to keep the computer awake with AppIndicator support `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++` `#gtk3`.
 - [Uruk Systemd Manager](https://codeberg.org/alimiracle/uruk-systemd-manager.git) - Application for managing systemd services on GNU/Linux systems.  `#python` `#gtk4` `#libadwaita`.
 
