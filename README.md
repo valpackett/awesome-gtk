@@ -362,6 +362,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [ART](https://art.pixls.us/) - Raw image processing program, derivative of RawTherapee `#c++` `#gtk3`.
 - [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c` `#gtk3`.
+- [Filmbook](https://flathub.org/apps/page.codeberg.bjawebos.Filmbook) - Simple application to track analog film usage in cameras `#rust` `#gtk4` `#libadwaita`.
 - [nip4](https://github.com/jcupitt/nip4) - Spreadsheet-like GUI for the vips8 image processing library. `#c` `#gtk4`.
 - [PicPlanner](https://gitlab.com/Zwarf/picplanner) - Application for photographers (desktop, phone) to calculate the position of the Sun, Moon and Milky Way in order to plan the position and time for a photograph `#c` `#gtk4` `#libadwaita`.
 - [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++` `#gtk3`.
