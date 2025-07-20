@@ -434,6 +434,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Flare](https://gitlab.com/schmiddi-on-mobile/flare) - Signal client `#rust` `#gtk4` `#libadwaita`.
 - [Fractal](https://gitlab.gnome.org/World/fractal) - Matrix client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Gajim](https://gajim.org) - Fully-featured XMPP client `#python` `#gtk4`.
+- [Karere](https://flathub.org/apps/io.github.tobagin.karere) - Native WhatsApp client, based on WhatsApp Web `#python` `#gtk4` `#libadwaita`.
 - [GNUnet Messenger](https://git.gnunet.org/messenger-gtk.git/about) - Messaging application for the GNUnet Messenger service `#c` `#gtk3` `#libhandy`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#gtk4` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#gtk4` `#libadwaita`.
