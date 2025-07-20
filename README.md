@@ -943,6 +943,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#gtk4` `#libadwaita`.
 - [GTKWave](https://gtkwave.github.io/gtkwave) - Wave viewer for debugging Verilog or VHDL simulation models, particularly for post-mortem analysis by analyzing dumpfiles (e.g. FST, LXT, LXT2, VZT, GHW, Verilog VCD/EVCD files) `#c` `#gtk4`.
 - [Share Preview](https://apps.gnome.org/SharePreview) - Application to preview and debug websites metadata tags for social media share `#rust` `#gtk4` `#libadwaita`.
+- [Sonar](https://nginx-flathub.apps.openshift.gnome.org/ga/apps/io.github.tobagin.sonar) - Development utility for capturing and inspecting webhook requests `#python` `#gtk4` `#libadwaita`.
 
  
 ### UI Design
