@@ -986,6 +986,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
+- [Pigment](https://flathub.org/apps/com.jeffser.Pigment) - Utility to extract a palette of colors from your images offline `#python` `#gtk4` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#gtk4` `#libadwaita`.
 
 ## File and Data Management
