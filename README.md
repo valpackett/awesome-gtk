@@ -246,6 +246,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
 - [POD UI](https://arteme.github.io/pod-ui) - Application for controlling Line6 POD family of guitar modelling amps via MIDI `#rust` `#gtk3`.
 - [SysEx Controls](https://github.com/soyersoyer/sysex-controls) - Application for configuring MIDI devices from Akai and Arturia `#c` `#gtk4` `#libadwaita`.
+- [Tempo](https://github.com/tobagin/tempo) - Metronome application with professional-grade accuracy, customizable tempo (40-240 BPM), multiple time signatures, visual beat indicators, and tap tempo functionality `#python` `#gtk4` `#libadwaita`.
+
 
 ## Video
 
@@ -475,7 +477,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Network Configuration
 
+- [Bouncer](https://flathub.org/apps/io.github.justinrdonnelly.bouncer) - Application to help you choose the correct firewall zone for wireless connections `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks `#python` `#gtk4` `#libadwaita`.
+
 
 ### Network Monitoring
 
@@ -968,6 +972,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Design
 
+- [Bella](https://flathub.org/apps/io.github.josephmawa.Bella) - Utility to pick a color from anywhere on your screen and save it in one of the common color formats `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#gtk4` `#libadwaita`.
 - [Emblem](https://apps.gnome.org/Emblem) -  Tool to create project avatars/symbolic icons for Matrix rooms or Git forges `#rust` `#gtk4` `#libadwaita`.
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
@@ -980,6 +985,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
+- [Pigment](https://flathub.org/apps/com.jeffser.Pigment) - Utility to extract a palette of colors from your images offline `#python` `#gtk4` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#gtk4` `#libadwaita`.
 
 ## File and Data Management
@@ -1095,6 +1101,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 
 ### System Monitoring and Info
@@ -1133,6 +1140,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Board Games
 
+- [Chance](https://flathub.org/apps/dev.zelikos.rollit) - Roll the Dice application that rolls a six-sided dice by default and allows custom dice of up to 999 sides `#rust` `#gtk4` `#libadwaita`.
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Crosswords](https://gitlab.gnome.org/jrb/crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
