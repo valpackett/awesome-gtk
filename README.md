@@ -781,7 +781,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps `#rust` `#gtk4` `#libadwaita`.
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#gtk4` `#libadwaita`.
 - [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#gtk4` `#libadwaita`.
-- [Metadata Cleaner](https://apps.gnome.org/MetadataCleaner) - File metadata cleanre based on MAT2 `#python` `#gtk4` `#libadwaita`.
 - [File Shredder (Raider)](https://apps.gnome.org/Raider) - Application to securely delete your files for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 
 ### Password Management
