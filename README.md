@@ -246,6 +246,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
 - [POD UI](https://arteme.github.io/pod-ui) - Application for controlling Line6 POD family of guitar modelling amps via MIDI `#rust` `#gtk3`.
 - [SysEx Controls](https://github.com/soyersoyer/sysex-controls) - Application for configuring MIDI devices from Akai and Arturia `#c` `#gtk4` `#libadwaita`.
+- [Tempo](https://github.com/tobagin/tempo) - Metronome application with professional-grade accuracy, customizable tempo (40-240 BPM), multiple time signatures, visual beat indicators, and tap tempo functionality `#python` `#gtk4` `#libadwaita`.
+
 
 ## Video
 
