@@ -85,6 +85,7 @@
   - [Inventory](#inventory)
   - [Chat Bots and Virtual assistants](#chat-bots-and-virtual-assistants)
 - [Academia and Research](#academia-and-research)
+  - [Chemistry](#chemistry)
   - [Electronics and Engineering](#electronics-and-engineering)
   - [Genealogy](#genealogy)
   - [Geography](#geography)
@@ -751,6 +752,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#gtk4` `#libadwaita`.
 
 ## Academia and Research
+
+### Chemistry
 
 ### Electronics and Engineering
 
