@@ -491,7 +491,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
-- [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - A simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
+- [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
 
 ### News/Feed Readers
 
@@ -572,7 +572,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Binary](https://apps.gnome.org/Binary) - Small application to convert numbers to different bases `#python` `#gtk4` `#libadwaita`.
 - [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#gtk4` `#libadwaita`.
-- [Gauge](https://flathub.org/apps/io.github.josephmawa.Gauge) - A high precision unit conversion tool `#javascript` `#gtk4` `#libadwaita`.
+- [Gauge](https://flathub.org/apps/io.github.josephmawa.Gauge) - High precision unit conversion tool `#javascript` `#gtk4` `#libadwaita`.
 - [GNOME Calculator](https://apps.gnome.org/Calculator) - Default calculator for the Gnome desktop for arithmetic, scientific or financial calculations `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c` `#gtk3`.
 - [Graphs](https://apps.gnome.org/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -756,7 +756,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Chemistry
 
-- [Nucleus](https://flathub.org/apps/page.codeberg.lo_vely.Nucleus) - View the periodic table of the elements with a variety of properties for each element `#python` `#gtk4` `#libadwaita`.
+- [Nucleus](https://flathub.org/apps/page.codeberg.lo_vely.Nucleus) - Periodic table of the elements viewer that lets you explore the properties of each element `#python` `#gtk4` `#libadwaita`.
 
 ### Electronics and Engineering
 
@@ -1111,7 +1111,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala` `#gtk3`.
 - [Refine](https://tesk.page/refine) - GNOME Tweaks alternative that lets you tweaks with GNOME settings and try experimental features `#python` `#gtk4` `#libadwaita`.
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
-- [Rewaita](https://flathub.org/apps/io.github.swordpuffin.rewaita) - A utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
+- [Rewaita](https://flathub.org/apps/io.github.swordpuffin.rewaita) - Utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
