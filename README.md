@@ -755,6 +755,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Chemistry
 
+- [Nucleus](https://flathub.org/apps/page.codeberg.lo_vely.Nucleus) - View the periodic table of the elements with a variety of properties for each element `#python` `#gtk4` `#libadwaita`.
+
 ### Electronics and Engineering
 
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
