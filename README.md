@@ -492,6 +492,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 - [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
+- [Xtraceroute AI revamped](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/) -  Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
 
 ### News/Feed Readers
 
