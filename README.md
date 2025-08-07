@@ -98,7 +98,7 @@
 - [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
-  - [Exchange Rate Viewers](#exchange-rate-viewers)
+  - [Exchange Rate and Price Viewers](#exchange-rate-and-price-viewers)
   - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
@@ -833,10 +833,11 @@ Clients for commercial social platforms that had their API access cut off in a w
  `#c` `#gtk3`.
 - [Saldo](https://www.tabos.org/projects/saldo) - Online banking application based on FinTS `#python` `#gtk4` `#libadwaita`.
 
-### Exchange Rate Viewers
+### Exchange Rate and Price Viewers
 
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
+- [Octopus](https://flathub.org/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
 
 ### Emulators and Compatibility Layers
 
