@@ -1118,6 +1118,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Rewaita](https://flathub.org/apps/io.github.swordpuffin.rewaita) - Utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Solaar](https://github.com/pwr-Solaar/Solaar/tree/master) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 
