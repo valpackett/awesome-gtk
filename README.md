@@ -991,7 +991,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Eyedropper](https://apps.gnome.org/Eyedropper) - Color picker and formatter `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala` `#gtk4` `#granite`.
 - [Iconic](https://flathub.org/apps/nl.emphisia.icon) - Application to create folder icons and add them on top of folders in GNOME `#rust` `#gtk4` `libadwaita`.
-- [Icon Browser](https://flathub.org/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#cpp` `#gtk4` `#libadwaita`.
+- [Icon Browser](https://flathub.org/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#c++` `#gtk4` `#libadwaita`.
 - [Icon Library](https://flathub.org/apps/org.gnome.design.IconLibrary) - System icon browser `#rust` `#gtk4` `libadwaita`.
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `libadwaita`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
