@@ -268,6 +268,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
 - [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#gtk4` `#libadwaita`.
+- [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
 
 ### Live Stream Viewers
 
