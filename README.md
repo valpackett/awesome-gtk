@@ -154,7 +154,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Amberol](https://apps.gnome.org/Amberol) - Simple music player well integrated with GNOME `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [DeaDBeeF](https://deadbeef.sourceforge.io) - Modular cross-platform music player for desktop operating systems with conversion and tagging features `#c` `#gtk3`.
-- [Decibels](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
+- [Audio Player (Decibels)](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
 - [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita` `#elementary`.
 - [Gapless](https://gitlab.gnome.org/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -168,6 +168,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 - [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gtk3`.
 - [Tauon](https://tauonmusicbox.rocks) - Playlist oriented music player with many features such has MPRIS support, Android remote control and Spotify playlist management `#python` `#gtk3`.
+- [Turntable](https://flathub.org/apps/dev.geopjr.Turntable) - MPRIS-enabled music player focusing on scrobbling music to Last.fm, ListenBrainz, Libre.fm and Maloja, embedding MusicBrainz information `#vala` `#gtk4` `#libadwaita`.
 - [Victrola](https://github.com/tau-OS/victrola) - tauOS's minimal player `#vala` `#gtk4`.
 
 #### Audio Streaming Service Clients
@@ -267,6 +268,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
 - [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#gtk4` `#libadwaita`.
+- [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
 
 ### Live Stream Viewers
 
@@ -1059,6 +1061,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer `#python` `#gtk4` `#libadwaita`.
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
+- [Gear lever](https://flathub.org/apps/it.mijorus.gearlever) - Utility to manage AppImages `#python` `#gtk4` `#libadwaita`.
 - [GNOME Software](https://apps.gnome.org/Software) - Application to install and update applications (Debian-, RPM-, Flatpak-, and Snap packages, Firmware updates)  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Icicle](https://github.com/snowfallorg/icicle) - Graphical installer for NixOS based distributions `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Impression](https://apps.gnome.org/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -1116,6 +1119,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
+- [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
+
 
 ### System Monitoring and Info
 
