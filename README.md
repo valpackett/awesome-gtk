@@ -236,7 +236,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 - [Vocalis](https://flathub.org/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
-- [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4`.
+- [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4` `#libadwaita`.
 
 [cava]: https://github.com/karlstav/cava
 
@@ -359,7 +359,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### GIF
 
-- [Fig](https://github.com/Q1CHENL/fig) - GIF editor (cropping, trimming, reversing, removing/extracting frames) `#python` `#gtk4`.
+- [Fig](https://github.com/Q1CHENL/fig) - GIF editor (cropping, trimming, reversing, removing/extracting frames) `#python` `#gtk4` `#libadwaita`.
 - [Gifcurry](https://lettier.github.io/gifcurry) - GIF editor and video-to-GIF converter application `#haskell` `#gtk3`.
 - [Gifup](https://github.com/BharatKalluri/Gifup) - Video-to-GIF converter `#vala` `#gtk3` `#granite`.
 
@@ -392,7 +392,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#gtk3` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gtk3`.
-- [Length](https://flathub.org/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4`.
+- [Length](https://flathub.org/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4` `#libadwaita`.
 - [Photometric Viewer](https://github.com/dlippok/photometric-viewer) - IES and EULUMDAT photometric files viewer `#python` `#gtk4` `#libadwaita`.
 - [rlr](https://github.com/epilys/rlr) -  Interactive pixel screen ruler and protractor `#rust` `#gtk3`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gtk3`.
@@ -510,7 +510,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Remote Desktop
 
 - [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gtk3` `#gnome`.
-- [MirrorHall](https://flathub.org/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4`.
+- [MirrorHall](https://flathub.org/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4` `#libadwaita`.
 - [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c` `#gtk3`.
 - [Vinagre](https://gitlab.gnome.org/Archive/vinagre) - (archive) Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gtk3`.
 
