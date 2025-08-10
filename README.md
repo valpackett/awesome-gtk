@@ -458,7 +458,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++` `#gtk3`.
 - [Balsa](https://gitlab.gnome.org/GNOME/balsa) - Lightweight email client `#c` `#gtk3`.
 - [Claws Mail](https://claws-mail.org) - Email client with plugin system to extend functionalities (news reader, calendar, etc.)  `#c` `#gtk3`.
-- [Envelope](https://gitlab.gnome.org/felinira/envelope) - Mobile and desktop email client (pre-alpha quality) for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gtk3` `#libhandy`.
 - [GNOME Contacts](https://apps.gnome.org/Contacts) - Address book for contacts information and contact management for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`. 
 - [Evolution](https://gitlab.gnome.org/GNOME/evolution) - Personal information management (PIM) application that provides integrated mail, calendaring and address book functionality `#c` `#gtk3`.
