@@ -98,7 +98,7 @@
 - [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
-  - [Exchange Rate Viewers](#exchange-rate-viewers)
+  - [Exchange Rate and Price Viewers](#exchange-rate-and-price-viewers)
   - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
@@ -494,6 +494,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 - [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
+- [pingpath](https://github.com/yvs2014/pingpath) - Network diagnostic tool based on parsing ping output with functionality of traceroute `#c` `#gtk4`.
 
 ### News/Feed Readers
 
@@ -587,7 +588,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Calendar
 
 - [GNOME Calendar](https://apps.gnome.org/Calendar) - Simple calendar for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [Karlender](https://gitlab.com/floers/calendar-stuff/karlender) - Mobile-friendly calendar application using CalDAV `#rust` `#gtk4` `#libadwaita`.
+- [Karlender (Events)](https://gitlab.com/floers/calendar-stuff/karlender) - Mobile-friendly calendar application using CalDAV `#rust` `#gtk4` `#libadwaita`.
 
 ### Document Managers
 
@@ -724,6 +725,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#gtk4` `#granite`.
 - [Khronos](https://apps.gnome.org/Khronos) - Task time logger `#vala` `#gtk4` `#libadwaita`.
 - [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
+- [Punchclock](https://flathub.org/apps/codes.loers.Punchclock) - Minimal time tracking application `#rust` `#gtk4` `#libadwaita`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
@@ -834,10 +836,11 @@ Clients for commercial social platforms that had their API access cut off in a w
  `#c` `#gtk3`.
 - [Saldo](https://www.tabos.org/projects/saldo) - Online banking application based on FinTS `#python` `#gtk4` `#libadwaita`.
 
-### Exchange Rate Viewers
+### Exchange Rate and Price Viewers
 
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
+- [Octopus](https://flathub.org/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
 
 ### Emulators and Compatibility Layers
 
@@ -1117,6 +1120,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Rewaita](https://flathub.org/apps/io.github.swordpuffin.rewaita) - Utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Solaar](https://github.com/pwr-Solaar/Solaar) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 - [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
