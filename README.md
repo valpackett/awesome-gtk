@@ -98,7 +98,7 @@
 - [Digital Forensics](#digital-forensics)
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
-  - [Exchange Rate Viewers](#exchange-rate-viewers)
+  - [Exchange Rate and Price Viewers](#exchange-rate-and-price-viewers)
   - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
@@ -154,7 +154,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Amberol](https://apps.gnome.org/Amberol) - Simple music player well integrated with GNOME `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [DeaDBeeF](https://deadbeef.sourceforge.io) - Modular cross-platform music player for desktop operating systems with conversion and tagging features `#c` `#gtk3`.
-- [Decibels](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
+- [Audio Player (Decibels)](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
 - [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita` `#elementary`.
 - [Gapless](https://gitlab.gnome.org/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -168,6 +168,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 - [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gtk3`.
 - [Tauon](https://tauonmusicbox.rocks) - Playlist oriented music player with many features such has MPRIS support, Android remote control and Spotify playlist management `#python` `#gtk3`.
+- [Turntable](https://flathub.org/apps/dev.geopjr.Turntable) - MPRIS-enabled music player focusing on scrobbling music to Last.fm, ListenBrainz, Libre.fm and Maloja, embedding MusicBrainz information `#vala` `#gtk4` `#libadwaita`.
 - [Victrola](https://github.com/tau-OS/victrola) - tauOS's minimal player `#vala` `#gtk4`.
 
 #### Audio Streaming Service Clients
@@ -235,7 +236,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 - [Vocalis](https://flathub.org/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
-- [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4`.
+- [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4` `#libadwaita`.
 
 [cava]: https://github.com/karlstav/cava
 
@@ -267,6 +268,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
 - [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#gtk4` `#libadwaita`.
+- [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
 
 ### Live Stream Viewers
 
@@ -357,7 +359,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### GIF
 
-- [Fig](https://github.com/Q1CHENL/fig) - GIF editor (cropping, trimming, reversing, removing/extracting frames) `#python` `#gtk4`.
+- [Fig](https://github.com/Q1CHENL/fig) - GIF editor (cropping, trimming, reversing, removing/extracting frames) `#python` `#gtk4` `#libadwaita`.
 - [Gifcurry](https://lettier.github.io/gifcurry) - GIF editor and video-to-GIF converter application `#haskell` `#gtk3`.
 - [Gifup](https://github.com/BharatKalluri/Gifup) - Video-to-GIF converter `#vala` `#gtk3` `#granite`.
 
@@ -390,7 +392,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#gtk3` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gtk3`.
-- [Length](https://flathub.org/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4`.
+- [Length](https://flathub.org/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4` `#libadwaita`.
 - [Photometric Viewer](https://github.com/dlippok/photometric-viewer) - IES and EULUMDAT photometric files viewer `#python` `#gtk4` `#libadwaita`.
 - [rlr](https://github.com/epilys/rlr) -  Interactive pixel screen ruler and protractor `#rust` `#gtk3`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gtk3`.
@@ -492,6 +494,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 - [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
+- [pingpath](https://github.com/yvs2014/pingpath) - Network diagnostic tool based on parsing ping output with functionality of traceroute `#c` `#gtk4`.
 - [Xtraceroute AI revamped](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/) -  Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
 
 ### News/Feed Readers
@@ -508,7 +511,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Remote Desktop
 
 - [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gtk3` `#gnome`.
-- [MirrorHall](https://flathub.org/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4`.
+- [MirrorHall](https://flathub.org/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4` `#libadwaita`.
 - [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c` `#gtk3`.
 - [Vinagre](https://gitlab.gnome.org/Archive/vinagre) - (archive) Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gtk3`.
 
@@ -586,7 +589,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Calendar
 
 - [GNOME Calendar](https://apps.gnome.org/Calendar) - Simple calendar for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [Karlender](https://gitlab.com/floers/calendar-stuff/karlender) - Mobile-friendly calendar application using CalDAV `#rust` `#gtk4` `#libadwaita`.
+- [Karlender (Events)](https://gitlab.com/floers/calendar-stuff/karlender) - Mobile-friendly calendar application using CalDAV `#rust` `#gtk4` `#libadwaita`.
 
 ### Document Managers
 
@@ -724,6 +727,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#gtk4` `#granite`.
 - [Khronos](https://apps.gnome.org/Khronos) - Task time logger `#vala` `#gtk4` `#libadwaita`.
 - [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
+- [Punchclock](https://flathub.org/apps/codes.loers.Punchclock) - Minimal time tracking application `#rust` `#gtk4` `#libadwaita`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
@@ -834,10 +838,11 @@ Clients for commercial social platforms that had their API access cut off in a w
  `#c` `#gtk3`.
 - [Saldo](https://www.tabos.org/projects/saldo) - Online banking application based on FinTS `#python` `#gtk4` `#libadwaita`.
 
-### Exchange Rate Viewers
+### Exchange Rate and Price Viewers
 
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
+- [Octopus](https://flathub.org/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
 
 ### Emulators and Compatibility Layers
 
@@ -992,10 +997,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
 - [Eyedropper](https://apps.gnome.org/Eyedropper) - Color picker and formatter `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala` `#gtk4` `#granite`.
-- [Iconic](https://flathub.org/apps/nl.emphisia.icon) - Application to create folder icons and add them on top of folders in GNOME `#rust` `#gtk4` `libadwaita`.
-- [Icon Browser](https://flathub.org/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#cpp` `#gtk4` `#libadwaita`.
-- [Icon Library](https://flathub.org/apps/org.gnome.design.IconLibrary) - System icon browser `#rust` `#gtk4` `libadwaita`.
-- [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `libadwaita`.
+- [Iconic](https://flathub.org/apps/nl.emphisia.icon) - Application to create folder icons and add them on top of folders in GNOME `#rust` `#gtk4` `#libadwaita`.
+- [Icon Browser](https://flathub.org/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#c++` `#gtk4` `#libadwaita`.
+- [Icon Library](https://flathub.org/apps/org.gnome.design.IconLibrary) - System icon browser `#rust` `#gtk4` `#libadwaita`.
+- [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `#libadwaita`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
@@ -1061,6 +1066,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer `#python` `#gtk4` `#libadwaita`.
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
+- [Gear lever](https://flathub.org/apps/it.mijorus.gearlever) - Utility to manage AppImages `#python` `#gtk4` `#libadwaita`.
 - [GNOME Software](https://apps.gnome.org/Software) - Application to install and update applications (Debian-, RPM-, Flatpak-, and Snap packages, Firmware updates)  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Icicle](https://github.com/snowfallorg/icicle) - Graphical installer for NixOS based distributions `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Impression](https://apps.gnome.org/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -1116,8 +1122,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Rewaita](https://flathub.org/apps/io.github.swordpuffin.rewaita) - Utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Solaar](https://github.com/pwr-Solaar/Solaar) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
+- [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
+
 
 ### System Monitoring and Info
 
