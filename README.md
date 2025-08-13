@@ -495,7 +495,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 - [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
 - [pingpath](https://github.com/yvs2014/pingpath) - Network diagnostic tool based on parsing ping output with functionality of traceroute `#c` `#gtk4`.
-- [Xtraceroute AI revamped](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/) -  Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
+- [Xtraceroute AI revamped](https://gitlab.com/cschalle/xtraceroute-ai-revamped) -  Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
 
 ### News/Feed Readers
 
