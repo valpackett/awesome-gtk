@@ -495,6 +495,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 - [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
 - [pingpath](https://github.com/yvs2014/pingpath) - Network diagnostic tool based on parsing ping output with functionality of traceroute `#c` `#gtk4`.
+- [Xtraceroute AI revamped](https://gitlab.com/cschalle/xtraceroute-ai-revamped) -  Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
 
 ### News/Feed Readers
 
@@ -702,6 +703,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
 - [Spedread](https://flathub.org/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
+- [Word2IPA](https://flathub.org/apps/io.github.mohfy.word2ipa) - Utility to show the pronunciation of words or entire phrases in the IPA format, tailored for language learners, linguists, or speech technology developers `#python` `#gtk4` `#libadwaita`.
 
 ### Mind-mapping
 
