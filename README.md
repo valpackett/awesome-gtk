@@ -1162,7 +1162,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
 
-### Board Games
+### Action, Platformer, Jump 'n' run
+
+### Adventure
+
+### Board and Card Games
 
 - [Chance](https://flathub.org/apps/dev.zelikos.rollit) - Roll the Dice application that rolls a six-sided dice by default and allows custom dice of up to 999 sides `#rust` `#gtk4` `#libadwaita`.
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
@@ -1175,6 +1179,15 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where you need to find a secret word `#python` `#gtk4` `#libadwaita`.
+
+### Role-playing
+
+### Simulation
+
+### Strategy
+
+### Sports
+
 
 ## Health and Fitness
 
