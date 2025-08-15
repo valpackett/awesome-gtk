@@ -1184,9 +1184,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Simulation
 
+### Sports
+
 ### Strategy
 
-### Sports
 
 
 ## Health and Fitness
