@@ -1187,6 +1187,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Role-playing
 
 ### Simulation
+- [Freeciv](https://flathub.org/apps/org.freeciv.gtk4) - Empire-building strategy game inspired by the history of human civilization.  `#c` `#gtk4`.
 
 ### Sports
 
