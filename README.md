@@ -1186,6 +1186,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Pédantix Clone `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where you need to find a secret word `#python` `#gtk4` `#libadwaita`.
+- [TwoFun](https://gitlab.com/tabos/twofun/) - Simple touch based games inspired by "4 Spiele Reactor" `#c` `#gtk4` `#libadwaita`.
 - [Words!](https://codeberg.org/petsoi/words) - Game similar to similar to a popular word puzzle game where players try to guess a hidden word within six attempts. `#rust` `#gtk4` `#libadwaita`.
 
 ### Role-playing
