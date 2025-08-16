@@ -1180,8 +1180,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
 
-### Puzzles
+### Puzzles and Quizzes
 
+- [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - A game where you need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where you need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Words!](https://codeberg.org/petsoi/words) - Game similar to similar to a popular word puzzle game where players try to guess a hidden word within six attempts. `#rust` `#gtk4` `#libadwaita`.
