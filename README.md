@@ -1175,6 +1175,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
 - [Flood It](https://flathub.org/apps/io.github.tfuxu.floodit) - Game with the simple premise of flooding the entire board with one color in the least amount of moves possible `#go` `#gtk4` `#libadwaita`.
+- [goban](https://gitlab.com/gjask/goban) - A Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
