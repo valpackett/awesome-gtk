@@ -1166,6 +1166,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Snes9x](https://github.com/snes9xgit/snes9x/tree/master) - Portable Super Nintendo Entertainment System (TM) emulator `#c++` `#gtk3`.
 
 ### Action, Platformer, Jump 'n' run
+- [Gnome Robots](https://gitlab.gnome.org/GNOME/gnome-robots) - a game where you try and avoid a band of marauding robots which are, for no adequately explained reason, trying to kill you `#rust` `#gtk4` `#libadwaita`.
 
 ### Adventure
 
