@@ -1193,13 +1193,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Role-playing
 
 ### Simulation
-- [Freeciv](https://flathub.org/apps/org.freeciv.gtk4) - Empire-building strategy game inspired by the history of human civilization.  `#c` `#gtk4`.
+- [Game of Life](https://flathub.org/apps/com.github.sixpounder.GameOfLife) - A simple Conway's game of life simulator for the Gnome desktop  `#rust` `#gtk4` `#libadwaita`.
 
 ### Sports
 - [tactics](https://gitlab.com/leesonwai/tactics) - A football lineup builder `#c` `#gtk4` `#libadwaita`.
 
 ### Strategy
-
+- [Freeciv](https://flathub.org/apps/org.freeciv.gtk4) - Empire-building strategy game inspired by the history of human civilization `#c` `#gtk4`.
 
 
 ## Health and Fitness
