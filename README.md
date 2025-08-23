@@ -520,6 +520,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Tuba](https://apps.gnome.org/Tuba) - Mastodon client, fork of Tootle `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust` `#gtk4`.
 
+#### Social Media Server Management
+
+- [Fedinspect](https://flathub.org/apps/org.andypiper.Fedinspect) - Application for analysing Fediverse servers and user accounts `#python` `#gtk4` `#libadwaita`.
+
 #### Social Graveyard
 
 Clients for commercial social platforms that had their API access cut off in a wave of [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai).
