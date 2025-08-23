@@ -733,6 +733,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
 - [Punchclock](https://flathub.org/apps/codes.loers.Punchclock) - Minimal time tracking application `#rust` `#gtk4` `#libadwaita`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Sessions](https://flathub.org/apps/com.pojtinger.felicitas.Sessions) - Simple visual timer application designed specifically for the pomodoro technique `#go` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
 - [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
