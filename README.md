@@ -473,6 +473,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gabut Download Manager](https://github.com/gabutakut/gabutdm) - Download manager supporting torrents and direct download with Firefox integration  `#vala` `#gtk4` `#libadwaita`.
 - [Nicotine+](https://nicotine-plus.org) - Graphical client for the [Soulseek](https://www.slsknet.org) peer-to-peer network `#python` `#gtk4` `#libadwaita`.
 - [Packet](https://flathub.org/apps/io.github.nozwock.Packet) - Application to send and receive files wirelessly with Android devices using Quick Share or another device with Packet installed `#rust` `#gtk4` `#libadwaita`.
+- [Share](https://flathub.org/apps/io.github.sigmasd.share) - Simple file sharing application with drag-and-drop functionality, using QR codes `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c` `#gtk3`.
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c++` `#gtk4`.
 - [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#gtk3` `#granite`.
@@ -487,7 +488,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Bouncer](https://flathub.org/apps/io.github.justinrdonnelly.bouncer) - Application to help you choose the correct firewall zone for wireless connections `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks `#python` `#gtk4` `#libadwaita`.
-
+- [NM GUI](https://github.com/s-adi-dev/nmgui) - GUI for managing WiFi networks, using NetworkManager (`nmcli`) `#python` `#gtk4`.
 
 ### Network Monitoring
 
@@ -519,6 +520,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Tuba](https://apps.gnome.org/Tuba) - Mastodon client, fork of Tootle `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust` `#gtk4`.
+
+#### Social Media Server Management
+
+- [Fedinspect](https://flathub.org/apps/org.andypiper.Fedinspect) - Application for analysing Fediverse servers and user accounts `#python` `#gtk4` `#libadwaita`.
 
 #### Social Graveyard
 
@@ -689,6 +694,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Onboard](https://github.com/dr-ni/onboard) - Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users `#python` `#gtk3`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
+- [Sherlock](https://github.com/Skxxtz/sherlock) - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
@@ -729,6 +735,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
 - [Punchclock](https://flathub.org/apps/codes.loers.Punchclock) - Minimal time tracking application `#rust` `#gtk4` `#libadwaita`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Sessions](https://flathub.org/apps/com.pojtinger.felicitas.Sessions) - Simple visual timer application designed specifically for the pomodoro technique `#go` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
 - [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
