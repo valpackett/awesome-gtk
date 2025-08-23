@@ -694,7 +694,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Onboard](https://github.com/dr-ni/onboard) - Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users `#python` `#gtk3`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
-- [Sherlock](https://github.com/Skxxtz/sherlock) - A versatile application/command launcher (with the Hyprland tiling window manager in mind) `#rust` `#gtk4`.
+- [Sherlock](https://github.com/Skxxtz/sherlock) - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
