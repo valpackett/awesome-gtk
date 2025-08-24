@@ -710,6 +710,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
 - [Spedread](https://flathub.org/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
 - [Word2IPA](https://flathub.org/apps/io.github.mohfy.word2ipa) - Utility to show the pronunciation of words or entire phrases in the IPA format, tailored for language learners, linguists, or speech technology developers `#python` `#gtk4` `#libadwaita`.
+- [Wordbook](https://github.com/mufeedali/Wordbook) - Offline English-English dictionary application for the GNOME desktop using the Open English WordNet database and eSpeak for pronunciations `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Mind-mapping
 
