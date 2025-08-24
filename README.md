@@ -556,7 +556,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Web Browsers
 
-- [Add Water](https://flathub.org/apps/dev.qwery.AddWater) - Utility to easily install the Mozilla Firefox theme for the GNOME desktop `#python`  `#gtk4` `#libadwaita`.
+- [Add Water](https://flathub.org/apps/dev.qwery.AddWater) - Utility to install the [GNOME theme for Mozilla Firefox](https://github.com/rafaelmardojai/firefox-gnome-theme) `#python`  `#gtk4` `#libadwaita`.
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#gtk3` `#libhandy`.
 - [GNOME Web (Epiphany)](https://apps.gnome.org/Epiphany) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c`  `#gtk4` `#libadwaita` `#gnome`.
 - [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#gtk3` `#lua`.
