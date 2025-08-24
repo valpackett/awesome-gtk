@@ -344,6 +344,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Drawing & Editing
 
 - [Annotator](https://github.com/phase1geo/annotator) - Image annotation application designed for elementary OS `#vala` `#gtk4` `#granite`.
+- [Barcoder](https://flathub.org/apps/cz.ondrejkolin.Barcoder) - Barcode & QR code generator, for desktop and mobile `#rust` `#gtk4` `#libadwaita`.
 - [Conjure](https://github.com/nate-xyz/conjure) - Image enhancer based on [ImageMagick] `#python` `#gtk4` `#libadwaita`.
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python` `#gtk3`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala` `#gtk3`.
@@ -555,6 +556,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Web Browsers
 
+- [Add Water](https://flathub.org/apps/dev.qwery.AddWater) - Utility to install the [GNOME theme for Mozilla Firefox](https://github.com/rafaelmardojai/firefox-gnome-theme) `#python`  `#gtk4` `#libadwaita`.
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#gtk3` `#libhandy`.
 - [GNOME Web (Epiphany)](https://apps.gnome.org/Epiphany) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c`  `#gtk4` `#libadwaita` `#gnome`.
 - [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#gtk3` `#lua`.
@@ -710,6 +712,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
 - [Spedread](https://flathub.org/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
 - [Word2IPA](https://flathub.org/apps/io.github.mohfy.word2ipa) - Utility to show the pronunciation of words or entire phrases in the IPA format, tailored for language learners, linguists, or speech technology developers `#python` `#gtk4` `#libadwaita`.
+- [Wordbook](https://github.com/mufeedali/Wordbook) - Offline English-English dictionary application for the GNOME desktop using the Open English WordNet database and eSpeak for pronunciations `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Mind-mapping
 
@@ -998,6 +1001,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Design
 
+- [App Icon Preview](https://flathub.org/apps/org.gnome.design.AppIconPreview) - Tool for designing icons which target the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Bella](https://flathub.org/apps/io.github.josephmawa.Bella) - Utility to pick a color from anywhere on your screen and save it in one of the common color formats `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#gtk4` `#libadwaita`.
 - [Emblem](https://apps.gnome.org/Emblem) -  Tool to create project avatars/symbolic icons for Matrix rooms or Git forges `#rust` `#gtk4` `#libadwaita`.
@@ -1137,6 +1141,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### System Monitoring and Info
 
+- [Awake on LAN](https://flathub.org/apps/co.logonoff.awakeonlan) - Simple application that allows you to wake up computers remotely using Wake-on-LAN packets `#python` `#gtk4` `#libadwaita`.
+- [Battery Info](https://flathub.org/apps/com.her01n.BatteryInfo) - Utility that displays information about the installed battery `#scheme` `#gtk4` `#libadwaita`.
 - [Bustle](https://apps.gnome.org/Bustle) - D-Bus activity viewer that draws diagram sequences `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c` `#c++` `#gtk3`.
 - [Door Knocker](https://codeberg.org/tytan652/door-knocker) - Tool to check availability of all `xdg-desktop-portal` portals `#c` `#gtk4` `#libadwaita`.
