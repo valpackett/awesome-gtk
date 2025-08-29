@@ -1193,6 +1193,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Health and Fitness
 
+- [AAT Activity Tracker](https://flathub.org/apps/ch.bailu.aat) - Application to track sportive and outdoor activities while displaying them on cockpit and map view, suporting GPX format for sharing `#kotlin` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
