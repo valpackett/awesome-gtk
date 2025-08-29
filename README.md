@@ -505,6 +505,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c` `#gtk3`.
 - [NewsFlash](https://apps.gnome.org/NewsFlash) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Pulp](https://flathub.org/apps/org.gnome.gitlab.cheywood.Pulp) - Application providing a workflow focused on reading through an excessive number of RSS feeds with the goal of regularly marking all read `#python` `#gtk4` `#libadwaita`.
 
 ### Proxy
 
