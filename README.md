@@ -394,7 +394,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#gtk3` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gtk3`.
 - [Length](https://flathub.org/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4` `#libadwaita`.
-- [Photometric Viewer](https://github.com/dlippok/photometric-viewer) - IES and EULUMDAT photometric files viewer `#python` `#gtk4` `#libadwaita`.
+- [Photometric Viewer (Photometry)](https://github.com/dlippok/photometric-viewer) - IESNA and EULUMDAT photometric files viewer `#python` `#gtk4` `#libadwaita`.
 - [rlr](https://github.com/epilys/rlr) -  Interactive pixel screen ruler and protractor `#rust` `#gtk3`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gtk3`.
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in [Graphviz] `#python` `#gtk3`.
@@ -505,6 +505,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c` `#gtk3`.
 - [NewsFlash](https://apps.gnome.org/NewsFlash) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Pulp](https://flathub.org/apps/org.gnome.gitlab.cheywood.Pulp) - Application providing a workflow focused on reading through an excessive number of RSS feeds with the goal of regularly marking all read `#python` `#gtk4` `#libadwaita`.
 
 ### Proxy
 
@@ -635,6 +636,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Outliner](https://github.com/phase1geo/outliner) - Outlining application for elementary OS `#vala` `#gtk3` `#granite`.
 - [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#gtk4` `#libadwaita`.
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#gtk4` `#libadwaita`.
+- [Sticky Notes](https://flathub.org/apps/com.vixalien.sticky) - Simple sticky notes application for the GNOME desktop `#typescript` `#gjs` `#gtk4` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++` `#gtk3`.
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python` `#gtk3`.
 
@@ -871,6 +873,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [DistroShelf](https://flathub.org/apps/com.ranfdev.DistroShelf) - Graphical interface to manage DistroBox containers `#rust` `#gtk4` `#libadwaita`.
 - [Field Monitor](https://flathub.org/apps/de.capypara.FieldMonitor) - Remote desktop client to access virtual machines (VMs) and external screens, supporting Proxmox and QEMU/KVM, but also SPICE, RDP or VNC `#rust` `#gtk4` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
+- [Qemu GTK UI](https://gitlab.com/qemu-project/qemu) - User interface for Qemu `#c` `#gtk3`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
 
@@ -1076,6 +1079,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Software Installation
 
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer `#python` `#gtk4` `#libadwaita`.
+- [Bazaar](https://flathub.org/apps/io.github.kolunmi.Bazaar) - App store for the GNOME desktop to discover and install applications and add-ons from Flatpak remotes, particularly Flathub `#c` `#gtk4` `#libadwaita`.
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
 - [Gear lever](https://flathub.org/apps/it.mijorus.gearlever) - Utility to manage AppImages `#python` `#gtk4` `#libadwaita`.
 - [GNOME Software](https://apps.gnome.org/Software) - Application to install and update applications (Debian-, RPM-, Flatpak-, and Snap packages, Firmware updates)  `#c` `#gtk4` `#libadwaita` `#gnome`.
@@ -1170,6 +1174,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Gaming
 
 - [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#gtk4` `#relm4` `#libadwaita`.
+- [Boxflat](https://flathub.org/apps/io.github.lawstorant.boxflat) - Utility to change Moza Racing hardware settings, adding SDL/Proton detection fixes for any of your devices (pedals, shifters, handbrakes etc.) from other brands.  `#python` `#gtk4` `#libadwaita`.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#gtk4` `#libadwaita`.
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -1191,6 +1196,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Health and Fitness
 
+- [AAT Activity Tracker](https://flathub.org/apps/ch.bailu.aat) - Application to track sportive and outdoor activities while displaying them on cockpit and map view, suporting GPX format for sharing `#kotlin` `#gtk4` `#libadwaita`.
+- [Breathing](https://flathub.org/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -1210,8 +1217,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Weather Viewers
 
 - [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
+- [GTK Meteo](https://flathub.org/apps/ch.bailu.gtk_meteo) - Forecast application using OpenWeatherMap API `#kotlin` `#gtk4` `#libadwaita`.
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
-- [Meteo](https://gitlab.com/bitseater/meteo) - Forecast application using OpenWeatherMap API `#vala` `#gtk3`.
+- [Meteo](https://gitlab.com/bitseater/meteo) - Weather forecast application, using OSM maps and data from the Meteorologisk institutt Norge `#vala` `#gtk3`.
 - [Mousam](https://github.com/amit9838/mousam) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
 
 ## Home Automation & Internet of Things
