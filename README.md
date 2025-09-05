@@ -1179,6 +1179,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
+- [Maniatic Launcher](https://flathub.org/apps/io.github.santiagocezar.maniatic-launcher) - A launcher for the decompilation of Retro Engine v5, used in Sonic Mania Plus `python` `#gtk4` `#libadwaita`.
 
 ### Board Games
 
