@@ -102,6 +102,7 @@
   - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
+  - [Development tools](#development-tools)
   - [Documentation](#documentation)
   - [Hex Editors](#hex-editors)
   - [IDEs](#ides)
@@ -877,6 +878,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Qemu GTK UI](https://gitlab.com/qemu-project/qemu) - User interface for Qemu `#c` `#gtk3`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
+
+### Development tools
 
 ### Documentation
 
