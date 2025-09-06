@@ -880,6 +880,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
 
 ### Development tools
+- [D-Spy](https://flathub.org/apps/org.gnome.dspy) - Simple tool to explore D-Bus connections `c` `#gtk4` `#libadwaita` `#gnome`. 
 - [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Documentation
