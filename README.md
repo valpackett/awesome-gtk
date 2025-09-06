@@ -880,6 +880,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
 
 ### Development tools
+- [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Documentation
 
@@ -1171,7 +1172,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Turn On](https://codeberg.org/swsnr/turnon) - Utility for the GNOME desktop to send Wake On LAN (WoL) magic packets to devices in a network `#rust` `#gtk4` `#libadwaita`.
 - [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#gtk4` `#libadwaita`.
 - [Stimulator](https://github.com/sigmaSd/stimulator) - Application to keep the computer awake with AppIndicator support `#gjs` `#typescript` `#gtk4` `#libadwaita`.
-- [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++` `#gtk3`.
 - [Uruk Systemd Manager](https://codeberg.org/alimiracle/uruk-systemd-manager.git) - Application for managing systemd services on GNU/Linux systems.  `#python` `#gtk4` `#libadwaita`.
 
