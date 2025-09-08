@@ -102,6 +102,7 @@
   - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
+  - [Development Tools](#development-tools)
   - [Documentation](#documentation)
   - [Hex Editors](#hex-editors)
   - [IDEs](#ides)
@@ -235,7 +236,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
-- [Vocalis](https://flathub.org/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [Sound Recorder (Vocalis)](https://flathub.org/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4` `#libadwaita`.
 
 [cava]: https://github.com/karlstav/cava
@@ -713,6 +714,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
 - [Spedread](https://flathub.org/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
+- [Spelling Bee](https://flathub.org/apps/io.github.josephmawa.SpellingBee) - English language learning application to learn words and enhance the English vocabulary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Word2IPA](https://flathub.org/apps/io.github.mohfy.word2ipa) - Utility to show the pronunciation of words or entire phrases in the IPA format, tailored for language learners, linguists, or speech technology developers `#python` `#gtk4` `#libadwaita`.
 - [Wordbook](https://github.com/mufeedali/Wordbook) - Offline English-English dictionary application for the GNOME desktop using the Open English WordNet database and eSpeak for pronunciations `#python` `#gtk4` `#libadwaita` `#gnome`.
 
@@ -877,6 +879,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
 
+### Development Tools
+
+- [D-Spy](https://flathub.org/apps/org.gnome.dspy) - Simple tool to explore D-Bus connections `#c` `#gtk4` `#libadwaita` `#gnome`. 
+- [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
+
 ### Documentation
 
 - [6502 Assembly Learning Environment](https://flathub.org/apps/eu.jumplink.Learn6502) - Complete learning environment for programming vintage computers and game consoles, incl. tutorial, dedicated editor and debugger, virtual game console `#gjs` `#typescript` `#gtk4` `#libadwaita`.
@@ -989,6 +996,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Glade](https://glade.gnome.org) - RAD tool to enable quick & easy development of user interfaces for the GTK toolkit and the GNOME desktop `#c` `#gtk3`.
 - [Cambalache](https://gitlab.gnome.org/jpu/cambalache) - RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy `#python` `#gtk3`.
 - [Gradience](https://github.com/GradienceTeam/Gradience) - Libadwaita applications customizer `#python` `#gtk4` `#libadwaita`.
+- [Typography](https://flathub.org/apps/org.gnome.design.Typography) - Tool for working with the GNOME desktop typography design guidelines `#c` `#gtk4` `#libadwaita`.
 
 ### Version Control and Diffs
 
@@ -1138,6 +1146,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
+- [SysD Manager](https://flathub.org/apps/io.github.plrigaux.sysd-manager) - GUI to manage systemd units, such as services, timers, and sockets `#rust` `#gtk4` `#libadwaita`.
+- [Touché](https://flathub.org/apps/com.github.joseexposito.touche) - User interface to configure touchpad and touchscreen multi-touch gestures `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 - [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
@@ -1179,6 +1189,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
+- [Maniatic Launcher](https://flathub.org/apps/io.github.santiagocezar.maniatic-launcher) - Launcher for the decompilation of Sonic Manic Plus (Retro Engine v5) `#python` `#gtk4` `#libadwaita`.
 
 ### Board Games
 
