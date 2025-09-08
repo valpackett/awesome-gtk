@@ -102,7 +102,7 @@
   - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
-  - [Development tools](#development-tools)
+  - [Development Tools](#development-tools)
   - [Documentation](#documentation)
   - [Hex Editors](#hex-editors)
   - [IDEs](#ides)
