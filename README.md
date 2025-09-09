@@ -136,7 +136,6 @@
   - [Action, Platformer, Jump 'n' run](#Action-Platformer-Jump-n-run)
   - [Board and Card Games](#board-and-card-games)
   - [Puzzles and Quizzes](#puzzles-and-quizzes)
-  - [Role-playing](#role-playing)
   - [Simulation](#simulation)
   - [Sports](#sports)
   - [Strategy](#strategy)
