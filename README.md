@@ -1191,7 +1191,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where you need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
-- [PedantiK](https://gitlab.com/Krafting/pedantik) - Pédantix Clone `#python` `#gtk4` `#libadwaita`.
+- [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where you need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Trivia Quiz](https://github.com/Nokse22/trivia-quiz) - Trivia game using questions from the Open Trivia database `#python` `#gtk4` `#libadwaita`.
 - [TwoFun](https://gitlab.com/tabos/twofun/) - Simple touch based games inspired by "4 Spiele Reactor" `#c` `#gtk4` `#libadwaita`.
