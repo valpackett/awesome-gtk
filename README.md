@@ -134,7 +134,7 @@
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
-  - [Action, Platformer, Jump 'n' run](#Action-Platformer-Jump-n-run)
+  - [Action, Platformer, Jump 'n' run](#action-platformer-jump-n-run)
   - [Board and Card Games](#board-and-card-games)
   - [Puzzles and Quizzes](#puzzles-and-quizzes)
   - [Simulation](#simulation)
@@ -1202,8 +1202,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [GNOME Robots](https://gitlab.gnome.org/GNOME/gnome-robots) - Game where you try to avoid a band of marauding robots which are trying to kill you `#rust` `#gtk4` `#libadwaita`.
 
-### Adventure
-
 ### Board and Card Games
 
 - [2048](https://gitlab.gnome.org/GNOME/gnome-2048) - A 2048-like game for GNOME `#vala` `#gtk3`.
@@ -1225,8 +1223,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Trivia Quiz](https://github.com/Nokse22/trivia-quiz) - Trivia game using questions from the Open Trivia database `#python` `#gtk4` `#libadwaita`.
 - [TwoFun](https://gitlab.com/tabos/twofun/) - Simple touch based games inspired by "4 Spiele Reactor" `#c` `#gtk4` `#libadwaita`.
 - [Words!](https://codeberg.org/petsoi/words) - Game where players try to guess a hidden word within six attempts. `#rust` `#gtk4` `#libadwaita`.
-
-### Role-playing
 
 ### Simulation
 
