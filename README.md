@@ -1200,7 +1200,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Role-playing
 
 ### Simulation
-- [Game of Life](https://flathub.org/apps/com.github.sixpounder.GameOfLife) - A simple Conway's game of life simulator for the Gnome desktop  `#rust` `#gtk4` `#libadwaita`.
+- [Game of Life](https://flathub.org/apps/com.github.sixpounder.GameOfLife) - Simple Conway's game of life simulator for the GNOME desktop  `#rust` `#gtk4` `#libadwaita`.
 
 ### Sports
 - [tactics](https://gitlab.com/leesonwai/tactics) - A football lineup builder `#c` `#gtk4` `#libadwaita`.
