@@ -134,8 +134,12 @@
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
-  - [Board Games](#board-games)
-  - [Puzzles](#puzzles)
+  - [Action, Platformer, Jump 'n' run](#action-platformer-jump-n-run)
+  - [Board and Card Games](#board-and-card-games)
+  - [Puzzles and Quizzes](#puzzles-and-quizzes)
+  - [Simulation](#simulation)
+  - [Sports](#sports)
+  - [Strategy](#strategy)
 - [Health and Fitness](#health-and-fitness)
 - [Map Viewers](#map-viewers)
 - [Public Transports](#public-transports)
@@ -1186,24 +1190,52 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#gtk4` `#relm4` `#libadwaita`.
 - [Boxflat](https://flathub.org/apps/io.github.lawstorant.boxflat) - Utility to change Moza Racing hardware settings, adding SDL/Proton detection fixes for any of your devices (pedals, shifters, handbrakes etc.) from other brands.  `#python` `#gtk4` `#libadwaita`.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#gtk4` `#libadwaita`.
+- [DeSmuME](https://github.com/TASEmulators/desmume) - Cross-platform Nintendo DS emulator `#c++` `#gtk3`.
+- [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - Unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store `#rust` `#gtk4` `#libadwaita`.
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
+- [Snes9x](http://www.snes9x.com) - Cross-platform portable Super Nintendo Entertainment System (TM) emulator `#c++` `#gtk3`.
 - [Maniatic Launcher](https://flathub.org/apps/io.github.santiagocezar.maniatic-launcher) - Launcher for the decompilation of Sonic Manic Plus (Retro Engine v5) `#python` `#gtk4` `#libadwaita`.
 
-### Board Games
+### Action, Platformer, Jump 'n' run
 
+- [GNOME Robots](https://gitlab.gnome.org/GNOME/gnome-robots) - Game where players try to avoid a band of marauding robots which are trying to kill `#rust` `#gtk4` `#libadwaita`.
+
+### Board and Card Games
+
+- [2048](https://gitlab.gnome.org/GNOME/gnome-2048) - A 2048-like game for GNOME `#vala` `#gtk3`.
 - [Chance](https://flathub.org/apps/dev.zelikos.rollit) - Roll the Dice application that rolls a six-sided dice by default and allows custom dice of up to 999 sides `#rust` `#gtk4` `#libadwaita`.
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Crosswords](https://gitlab.gnome.org/jrb/crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
+- [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with support for shaped and color crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
+- [Flood It](https://flathub.org/apps/io.github.tfuxu.floodit) - Game with the simple premise of flooding the entire board with one color in the least amount of moves possible `#go` `#gtk4` `#libadwaita`.
+- [Goban](https://gitlab.com/gjask/goban) - Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
 
-### Puzzles
+### Puzzles and Quizzes
 
+- [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where players need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
-- [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where you need to find a secret word `#python` `#gtk4` `#libadwaita`.
+- [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
+- [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
+- [Trivia Quiz](https://github.com/Nokse22/trivia-quiz) - Trivia game using questions from the Open Trivia database `#python` `#gtk4` `#libadwaita`.
+- [TwoFun](https://gitlab.com/tabos/twofun/) - Simple touch based games inspired by "4 Spiele Reactor" `#c` `#gtk4` `#libadwaita`.
+- [Words!](https://codeberg.org/petsoi/words) - Game where players try to guess a hidden word within six attempts. `#rust` `#gtk4` `#libadwaita`.
+
+### Simulation
+
+- [Game of Life](https://flathub.org/apps/com.github.sixpounder.GameOfLife) - Simple Conway's game of life simulator for the GNOME desktop  `#rust` `#gtk4` `#libadwaita`.
+
+### Sports
+
+- [Tactics](https://gitlab.com/leesonwai/tactics) - Football lineup builder `#c` `#gtk4` `#libadwaita`.
+
+### Strategy
+
+- [Freeciv GTK Client](https://flathub.org/apps/org.freeciv.gtk4) - Empire-building strategy game inspired by the history of human civilization `#c` `#gtk4`.
+
 
 ## Health and Fitness
 
