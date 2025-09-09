@@ -134,7 +134,6 @@
   - [Task Scheduling](#task-scheduling)
 - [Gaming](#gaming)
   - [Action, Platformer, Jump 'n' run](#Action-Platformer-Jump-n-run)
-  - [Adventure](#adventure)
   - [Board and Card Games](#board-and-card-games)
   - [Puzzles and Quizzes](#puzzles-and-quizzes)
   - [Role-playing](#role-playing)
