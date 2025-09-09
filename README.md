@@ -1203,6 +1203,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Game of Life](https://flathub.org/apps/com.github.sixpounder.GameOfLife) - Simple Conway's game of life simulator for the GNOME desktop  `#rust` `#gtk4` `#libadwaita`.
 
 ### Sports
+
 - [Tactics](https://gitlab.com/leesonwai/tactics) - Football lineup builder `#c` `#gtk4` `#libadwaita`.
 
 ### Strategy
