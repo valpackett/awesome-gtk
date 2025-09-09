@@ -1189,7 +1189,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Puzzles and Quizzes
 
-- [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - A game where you need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
+- [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where you need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Pédantix Clone `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where you need to find a secret word `#python` `#gtk4` `#libadwaita`.
