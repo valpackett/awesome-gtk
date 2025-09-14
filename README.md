@@ -1201,6 +1201,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Action, Platformer, Jump 'n' run
 
 - [GNOME Robots](https://gitlab.gnome.org/GNOME/gnome-robots) - Game where players try to avoid a band of marauding robots which are trying to kill `#rust` `#gtk4` `#libadwaita`.
+- [Quadrapassel](https://gitlab.gnome.org/GNOME/quadrapassel) - Game with the aim to fit falling blocks together, similar to Tetris `#vala` `#gtk4` `#libadwaita`.
 
 ### Board and Card Games
 
