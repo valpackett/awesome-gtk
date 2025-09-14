@@ -1222,6 +1222,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Sudoku](https://flathub.org/en/apps/io.github.sepehr_rs.Sudoku) - Number-placement puzzle `#python` `#gtk4` `#libadwaita`.
+- [Tetravex](https://gitlab.gnome.org/GNOME/gnome-tetravex) - Edge-matching puzzle so that the same numbers touch each other `#vala` `#gtk3`.
 - [Trivia Quiz](https://github.com/Nokse22/trivia-quiz) - Trivia game using questions from the Open Trivia database `#python` `#gtk4` `#libadwaita`.
 - [TwoFun](https://gitlab.com/tabos/twofun/) - Simple touch based games inspired by "4 Spiele Reactor" `#c` `#gtk4` `#libadwaita`.
 - [Words!](https://codeberg.org/petsoi/words) - Game where players try to guess a hidden word within six attempts. `#rust` `#gtk4` `#libadwaita`.
