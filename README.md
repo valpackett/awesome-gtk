@@ -1095,6 +1095,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Bazaar](https://flathub.org/apps/io.github.kolunmi.Bazaar) - App store for the GNOME desktop to discover and install applications and add-ons from Flatpak remotes, particularly Flathub `#c` `#gtk4` `#libadwaita`.
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
 - [Gear lever](https://flathub.org/apps/it.mijorus.gearlever) - Utility to manage AppImages `#python` `#gtk4` `#libadwaita`.
+- [GNOME Firmware](https://flathub.org/apps/org.gnome.Firmware) - Utility for updating, reinstalling and downgrading of firmware on devices supported by fwupd  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Software](https://apps.gnome.org/Software) - Application to install and update applications (Debian-, RPM-, Flatpak-, and Snap packages, Firmware updates)  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Icicle](https://github.com/snowfallorg/icicle) - Graphical installer for NixOS based distributions `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Impression](https://apps.gnome.org/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#gtk4` `#libadwaita` `#gnome`.
