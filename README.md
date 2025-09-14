@@ -588,6 +588,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Calculators & Math
 
 - [Binary](https://apps.gnome.org/Binary) - Small application to convert numbers to different bases `#python` `#gtk4` `#libadwaita`.
+- [Cuneo](https://flathub.org/apps/io.github.heidefinnischen.cuneo) - Widget-like calculator and conversion tool `#python` `#gtk4` `#libadwaita`.
 - [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#gtk4` `#libadwaita`.
 - [Gauge](https://flathub.org/apps/io.github.josephmawa.Gauge) - High precision unit conversion tool `#javascript` `#gtk4` `#libadwaita`.
 - [GNOME Calculator](https://apps.gnome.org/Calculator) - Default calculator for the Gnome desktop for arithmetic, scientific or financial calculations `#vala` `#gtk4` `#libadwaita` `#gnome`.
@@ -619,6 +620,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Document Scanners
 
+- [CoBang](https://flathub.org/apps/vn.hoabinh.quan.CoBang) - QR Code and barcode scanner application `#python` `#gtk4` `#libadwaita`.
 - [Decoder](https://apps.gnome.org/Decoder) - QR Codes scanner and generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Document Scanner (SimpleScan)](https://apps.gnome.org/SimpleScan) - Document scanner using the SANE framework with crop and rotate editing features `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [gscan2pdf](https://gscan2pdf.sourceforge.net) - Document scanner with cleaning and OCR features (on the scan or imported images incl. PDFs, DjVus or other file types) `#perl` `#gtk3`.
@@ -696,6 +698,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Clicker](https://flathub.org/apps/net.codelogistics.clicker) - Auto clicker application to simulate user input repeatedly `#python` `#gtk4` `#libadwaita`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
 - [GNOME Characters](https://apps.gnome.org/Characters) - Emoji picker `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [File Roller](https://flathub.org/apps/org.gnome.FileRoller) - Archive manager for the GNOME desktop that supports many file types, e.g. `.7z`, `.zip,` `.tar` `#c` `#gtk4` `#libadwaita`.
 - [Junction](https://apps.gnome.org/Junction) - Application menu that allows you to choose the application to open files or links `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Kasasa](https://flathub.org/apps/io.github.kelvinnovais.Kasasa) - Always on top window to clip and keep an eye on important things without switching window/workspace in the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
@@ -730,6 +733,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Planner](https://gitlab.gnome.org/World/planner) - Cross-platform project management tool, for planning, scheduling and tracking projects `#c` `#gtk3`.
 - [Planify](https://github.com/alainm23/planify) - Project and task manager with Todoist support `#vala` `#gtk4` `#libadwaita`.
+- [Progress](https://flathub.org/apps/io.github.smolblackcat.Progress) - Simple kanban-style task organizer `#c++` `#gtk4` `#libadwaita`.
 - [ThisWeekInMyLife (Schedule)](https://flathub.org/apps/io.github.zhrexl.thisweekinmylife) - Kanban-styled planner that aims to help organize a workflow and keep track of activities `#c` `#gtk4` `#libadwaita`.
 
 ### Timers / Time Tracking
@@ -1094,6 +1098,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Bazaar](https://flathub.org/apps/io.github.kolunmi.Bazaar) - App store for the GNOME desktop to discover and install applications and add-ons from Flatpak remotes, particularly Flathub `#c` `#gtk4` `#libadwaita`.
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
 - [Gear lever](https://flathub.org/apps/it.mijorus.gearlever) - Utility to manage AppImages `#python` `#gtk4` `#libadwaita`.
+- [GNOME Firmware](https://flathub.org/apps/org.gnome.Firmware) - Utility for updating, reinstalling and downgrading of firmware on devices supported by fwupd  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Software](https://apps.gnome.org/Software) - Application to install and update applications (Debian-, RPM-, Flatpak-, and Snap packages, Firmware updates)  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Icicle](https://github.com/snowfallorg/icicle) - Graphical installer for NixOS based distributions `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Impression](https://apps.gnome.org/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#gtk4` `#libadwaita` `#gnome`.
