@@ -1213,6 +1213,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Goban](https://gitlab.com/gjask/goban) - Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
+- [Reversi](https://gitlab.gnome.org/GNOME/iagno) - Two-player strategy game with the popular name Othello, similar to Go `#vala` `#gtk4` `#libadwaita`.
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
 
 ### Puzzles and Quizzes
