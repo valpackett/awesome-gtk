@@ -733,7 +733,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Planner](https://gitlab.gnome.org/World/planner) - Cross-platform project management tool, for planning, scheduling and tracking projects `#c` `#gtk3`.
 - [Planify](https://github.com/alainm23/planify) - Project and task manager with Todoist support `#vala` `#gtk4` `#libadwaita`.
-- [Progress](https://flathub.org/apps/io.github.smolblackcat.Progress) -  Simple kanban-style task organiser `#c++` `#gtk4` `#libadwaita`.
+- [Progress](https://flathub.org/apps/io.github.smolblackcat.Progress) - Simple kanban-style task organizer `#c++` `#gtk4` `#libadwaita`.
 - [ThisWeekInMyLife (Schedule)](https://flathub.org/apps/io.github.zhrexl.thisweekinmylife) - Kanban-styled planner that aims to help organize a workflow and keep track of activities `#c` `#gtk4` `#libadwaita`.
 
 ### Timers / Time Tracking
