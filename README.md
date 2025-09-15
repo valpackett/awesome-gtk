@@ -1206,6 +1206,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Action, Platformer, Jump 'n' run
 
 - [GNOME Robots](https://gitlab.gnome.org/GNOME/gnome-robots) - Game where players try to avoid a band of marauding robots which are trying to kill `#rust` `#gtk4` `#libadwaita`.
+- [Quadrapassel](https://flathub.org/en/apps/org.gnome.Quadrapassel) - Game with the aim to fit falling blocks together, similar to Tetris `#vala` `#gtk4` `#libadwaita`.
 
 ### Board and Card Games
 
@@ -1214,9 +1215,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with support for shaped and color crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
 - [Flood It](https://flathub.org/apps/io.github.tfuxu.floodit) - Game with the simple premise of flooding the entire board with one color in the least amount of moves possible `#go` `#gtk4` `#libadwaita`.
+- [GNOME Chess](https://flathub.org/en/apps/org.gnome.Chess) - Classic two-player board game of chess `#vala` `#gtk4` `#libadwaita`.
 - [Goban](https://gitlab.com/gjask/goban) - Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
+- [Reversi](https://flathub.org/en/apps/org.gnome.Reversi) - Two-player strategy game also known as Othello, similar to Go `#vala` `#gtk4` `#libadwaita`.
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
 
 ### Puzzles and Quizzes
@@ -1225,6 +1228,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
+- [Sudoku](https://flathub.org/en/apps/io.github.sepehr_rs.Sudoku) - Number-placement puzzle `#python` `#gtk4` `#libadwaita`.
+- [Taquin](https://flathub.org/en/apps/org.gnome.Taquin) - Sliding puzzle where players move tiles so that they reach their places `#vala` `#gtk3`.
+- [Tetravex](https://flathub.org/en/apps/org.gnome.Tetravex) - Edge-matching puzzle where the same numbers must touch each other `#vala` `#gtk3`.
 - [Trivia Quiz](https://github.com/Nokse22/trivia-quiz) - Trivia game using questions from the Open Trivia database `#python` `#gtk4` `#libadwaita`.
 - [TwoFun](https://gitlab.com/tabos/twofun/) - Simple touch based games inspired by "4 Spiele Reactor" `#c` `#gtk4` `#libadwaita`.
 - [Words!](https://codeberg.org/petsoi/words) - Game where players try to guess a hidden word within six attempts. `#rust` `#gtk4` `#libadwaita`.
