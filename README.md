@@ -884,7 +884,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Field Monitor](https://flathub.org/apps/de.capypara.FieldMonitor) - Remote desktop client to access virtual machines (VMs) and external screens, supporting Proxmox and QEMU/KVM, but also SPICE, RDP or VNC `#rust` `#gtk4` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Qemu GTK UI](https://gitlab.com/qemu-project/qemu) - User interface for Qemu `#c` `#gtk3`.
-- [Seabird](https://flathub.org/apps/dev.skynomads.Seabird) - Cross-platform (Linux, Windows) Kubernetes IDE for the GNOME desktop, e.g. to explore and manage clusters `#go` `#gtk4` `#libadwaita`.
+- [Seabird](https://flathub.org/apps/dev.skynomads.Seabird) - Cross-platform Kubernetes IDE for the GNOME desktop, e.g. to explore and manage clusters `#go` `#gtk4` `#libadwaita`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
 
