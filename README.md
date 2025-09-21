@@ -315,7 +315,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Megapixels](https://gitlab.com/megapixels-org/Megapixels) - Camera application for Linux phones `#c` `#gtk4`.
 - [WebCamController](https://flathub.org/apps/com.daniel15.wcc) - User interface to modify webcam settings such as pan/tilt/zoom `#csharp` `#gtk4` `#libadwaita`.
 
-
 ## Graphics
 
 ### 3D Graphics
