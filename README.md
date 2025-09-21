@@ -313,6 +313,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
 - [Megapixels](https://gitlab.com/megapixels-org/Megapixels) - Camera application for Linux phones `#c` `#gtk4`.
+- [WebCamController](https://flathub.org/apps/com.daniel15.wcc) - User interface to modify webcam settings such as pan/tilt/zoom `#csharp` `#gtk4` `#libadwaita`.
+
 
 ## Graphics
 
