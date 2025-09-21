@@ -558,6 +558,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#gtk4` `#libadwaita`.
 - [Tangram](https://apps.gnome.org/Tangram) - Browser for your pinned tabs `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Wike](https://apps.gnome.org/Wike) - Wikipedia client `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [XCA AI Chat](https://flathub.org/apps/io.github.alfianlosari.GTKChatGPT) - AI chatbot interface for ChatOpenAI's ChatGPT `#swift` `#gtk4` `#libadwaita`.
 
 ### VPN
 
