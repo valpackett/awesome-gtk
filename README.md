@@ -313,6 +313,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
 - [Megapixels](https://gitlab.com/megapixels-org/Megapixels) - Camera application for Linux phones `#c` `#gtk4`.
+- [WebCamController](https://flathub.org/apps/com.daniel15.wcc) - User interface to modify webcam settings such as pan/tilt/zoom `#csharp` `#gtk4` `#libadwaita`.
 
 ## Graphics
 
@@ -359,6 +360,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk4` `#libadwaita`.
 - [RS-Paint](https://github.com/lucasscharenbroch/rs-paint) - A light-weight image editor inspired by MS-Paint `#rust` `#gtk4`.
+- [Scramble](https://flathub.org/en/apps/io.github.tobagin.scramble) - Simple, privacy-focused utility for viewing and removing metadata from images `#vala` `#gtk4` `#libadwaita`.
 - [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
 [imagemagick]: https://imagemagick.org
@@ -555,6 +557,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#gtk4` `#libadwaita`.
 - [Tangram](https://apps.gnome.org/Tangram) - Browser for your pinned tabs `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Wike](https://apps.gnome.org/Wike) - Wikipedia client `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [XCA AI Chat](https://flathub.org/apps/io.github.alfianlosari.GTKChatGPT) - AI chatbot interface for ChatOpenAI's ChatGPT `#swift` `#gtk4` `#libadwaita`.
 
 ### VPN
 
@@ -830,6 +833,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Password Management
 
 - [Authenticator](https://apps.gnome.org/Authenticator) - Two-factor authentication codes generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Goldwarden](https://flathub.org/apps/com.quexten.Goldwarden) - Bitwarden compatible desktop password manager `#go` `#gtk4` `#libadwaita`.
 - [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++` `#gtk3`.
 - [LPTK](https://flathub.org/apps/me.ogarcia.lptk) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala` `#gtk3` `#granite` `#libhandy`.
@@ -892,6 +896,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [D-Spy](https://flathub.org/apps/org.gnome.dspy) - Simple tool to explore D-Bus connections `#c` `#gtk4` `#libadwaita` `#gnome`. 
 - [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Translation Editor (Gtranslator)](https://flathub.org/apps/org.gnome.Gtranslator) - Enhanced gettext `.po` file editor for the GNOME desktop to translate applications `#c` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Documentation
 
@@ -1138,6 +1143,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
+- [HydraPaper](https://flathub.org/en/apps/org.gabmus.hydrapaper) - Wallpaper manager with multi monitor support `#python` `#gtk4` `#libadwaita`.
 - [Ignition](https://flathub.org/apps/io.github.flattool.Ignition) - Utility to manage startup apps and scripts (Freedesktop autostart entries) `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [KeySmith](https://flathub.org/apps/io.github.tobagin.keysmith) - Utility to generate, manage, and deploy SSH keys `#python` `#gtk4` `#libadwaita`.
 - [LACT](https://github.com/ilya-zlobintsev/LACT) - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
@@ -1260,6 +1266,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Jogger](https://codeberg.org/baarkerlounger/jogger) - Running (and other workout) tracker for GNOME Mobile with import from Fitotrack  `#rust` `#gtk4` `#libadwaita`.
 - [Powercycle JS](https://github.com/charles-m-knox/powercycle-js) - ANT+ USB powered GUI and server to control your indoor bike's smart trainer `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [Stretch Break](https://flathub.org/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
 
 ## Map Viewers
 
