@@ -1268,7 +1268,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Powercycle JS](https://github.com/charles-m-knox/powercycle-js) - ANT+ USB powered GUI and server to control your indoor bike's smart trainer `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Stretch Break](https://flathub.org/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
 
-
 ## Map Viewers
 
 - [Atlas](https://github.com/ryonakano/atlas) - Map viewer designed for elementaryOS `#vala` `#gtk4` `#granite`.
