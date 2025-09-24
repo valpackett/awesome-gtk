@@ -1162,6 +1162,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
+- [sshPilot](https://flathub.org/en/apps/io.github.mfat.sshpilot) - SSH connection manager with integrated terminal for managing remove servers `#python` `#gtk4`  `#libadwaita`.
 - [SSH Studio](https://flathub.org/en/apps/io.github.BuddySirJava.SSH-Studio) - SSH config editor and validator `#python` `#gtk4`  `#libadwaita`.
 - [SysD Manager](https://flathub.org/apps/io.github.plrigaux.sysd-manager) - GUI to manage systemd units, such as services, timers, and sockets `#rust` `#gtk4` `#libadwaita`.
 - [Touché](https://flathub.org/apps/com.github.joseexposito.touche) - User interface to configure touchpad and touchscreen multi-touch gestures `#gjs` `#javascript` `#gtk4` `#libadwaita`.
