@@ -759,6 +759,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementaryOS `#vala` `#gtk3` `#granite`.
 - [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
+- [Valot](https://flathub.org/en/apps/com.odnoyko.valot) - Time tracking application, designed for developers, freelancers, and professionals who need to track their work time efficiently `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+
 
 ### To-do Lists
 
