@@ -268,12 +268,12 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Celluloid](https://github.com/celluloid-player/celluloid) - (ex GNOME MPV) frontend for MPV `#c` `#gtk4` `#libadwaita`.
 - [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#c` `#gtk4` `#libadwaita`.
 - [Delfin](https://codeberg.org/avery42/delfin) - Application to stream movies/TV shows from Jellyfin `#rust` `#gtk4` `#libadwaita`.
-- [GNOME Videos (Totem)](https://apps.gnome.org/Totem) - Official GNOME desktop video player, also known as Totem `#c` `#gtk3`. `#gnome`.
 - [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `#gtk4` `#libadwaita`.
 - [livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
-- [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#gtk4` `#libadwaita`.
+- [Totem](https://apps.gnome.org/Totem) - Movie player for the GNOME desktop based on GStreamer. `#c` `#gtk3`.
 - [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
+- [Video Player (Showtime)](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player for the GNOME desktop powered by GStreamer `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Live Stream Viewers
 
@@ -615,9 +615,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Document Viewers
 
-- [Evince](https://apps.gnome.org/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, DjVu, comics etc. and SyncTex support with gedit `#c` `#gtk3` `#libhandy` `#gnome`.
+- [Document Viewer (Papers)](https://apps.gnome.org/en/Papers) - Document viewer for the GNOME desktop (GTK 4 fork of Evince) with support for PDF, Postscript, DjVu, EPS, XPS and comics archives `#c` `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Evince](https://apps.gnome.org/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, DjVu, comics etc. and SyncTex support with gedit `#c` `#gtk3` `#libhandy`.
 - [jumpdf](https://github.com/b43NnUNF4vidFYFhpqaLWy2ANawtRbMtUXZY9Pf/jumpdf) - Keyboard-focused PDF viewer for documents where one needs to jump between different sections of the document frequently `#c` `#gtk4`.
-- [Papers](https://apps.gnome.org/en/Papers) - Document viewer for the GNOME desktop (GTK 4 fork of Evince) with support for PDF, Postscript, DjVu, EPS, XPS and comics archives `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Xreader](https://github.com/linuxmint/xreader) - Generic document viewer with support for PDF, Postscript, DjVu, comics and more `#c` `#gtk3` `#libxapp`.
 - [zathura](https://pwmt.org/projects/zathura) - Minimalist and customizable document viewer with support for PDF, PostScript, DjVu and comic book `#c` `#gtk3`.
 
