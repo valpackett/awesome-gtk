@@ -1098,7 +1098,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Remote File Access
 
-- [Taxi](https://github.com/Alecaddd/taxi) - FTP client that also supports SFTP, WebDAV and AFP `#vala` `#gtk3` `#granite`.
+- [Taxi](https://github.com/Alecaddd/taxi) - FTP client designed for elementary OS that also supports SFTP, WebDAV and AFP `#vala` `#gtk4` `#granite` `#libadwaita`.
 
 ## System Management
 
