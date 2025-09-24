@@ -127,6 +127,7 @@
   - [File Search](#file-search)
   - [File Synchronisation](#file-synchronisation)
   - [Remote File Access](#remote-file-access)
+  - [File Encryption](#file-encryption)
 - [System Management](#system-management)
   - [Software Installation](#software-installation)
   - [System and File Cleaning](#system-and-file-cleaning)
@@ -1099,6 +1100,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Remote File Access
 
 - [Taxi](https://github.com/Alecaddd/taxi) - FTP client designed for elementary OS that also supports SFTP, WebDAV and AFP `#vala` `#gtk4` `#granite` `#libadwaita`.
+
+### File Encryption
+
+- [Vaults](https://flathub.org/en/apps/io.github.mpobaschnig.Vaults) - Creating encrypted vaults in which files can be stored safely, using gocryptfs and CryFS for encryption `#rust` `#gtk4` `#libadwaita`.
 
 ## System Management
 
