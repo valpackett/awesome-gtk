@@ -268,8 +268,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Celluloid](https://github.com/celluloid-player/celluloid) - (ex GNOME MPV) frontend for MPV `#c` `#gtk4` `#libadwaita`.
 - [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#c` `#gtk4` `#libadwaita`.
 - [Delfin](https://codeberg.org/avery42/delfin) - Application to stream movies/TV shows from Jellyfin `#rust` `#gtk4` `#libadwaita`.
+- [EcoTubeHQ](https://flathub.org/en/apps/io.github.ecotubehq.player) - Energy efficient video player `#c` `#gtk4` `#libadwaita`.
 - [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `#gtk4` `#libadwaita`.
-- [livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
+- [Livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
 - [Totem](https://apps.gnome.org/Totem) - Movie player for the GNOME desktop based on GStreamer. `#c` `#gtk3`.
 - [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
