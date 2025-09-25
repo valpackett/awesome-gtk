@@ -126,8 +126,8 @@
   - [File Management](#file-management)
   - [File Search](#file-search)
   - [File Synchronisation](#file-synchronisation)
-  - [Remote File Access](#remote-file-access)
   - [File Encryption](#file-encryption)
+  - [Remote File Access](#remote-file-access)
 - [System Management](#system-management)
   - [Software Installation](#software-installation)
   - [System and File Cleaning](#system-and-file-cleaning)
@@ -1097,13 +1097,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Celeste](https://github.com/hwittenborn/celeste) - File synchronization client that can sync with any cloud provider `#rust` `#gtk4` `#libadwaita`.
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) - UI for [Syncthing](https://syncthing.net) with the same features as the Web UI `#python` `#gtk3`.
 
-### Remote File Access
-
-- [Taxi](https://github.com/Alecaddd/taxi) - FTP client designed for elementary OS that also supports SFTP, WebDAV and AFP `#vala` `#gtk4` `#granite` `#libadwaita`.
-
 ### File Encryption
 
 - [Vaults](https://flathub.org/en/apps/io.github.mpobaschnig.Vaults) - Application that lets you create vaults in which files can be stored safely, using gocryptfs and CryFS for encryption `#rust` `#gtk4` `#libadwaita`.
+
+### Remote File Access
+
+- [Taxi](https://github.com/Alecaddd/taxi) - FTP client designed for elementary OS that also supports SFTP, WebDAV and AFP `#vala` `#gtk4` `#granite` `#libadwaita`.
 
 ## System Management
 
