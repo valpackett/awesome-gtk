@@ -1103,7 +1103,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Encryption
 
-- [Vaults](https://flathub.org/en/apps/io.github.mpobaschnig.Vaults) - Creating encrypted vaults in which files can be stored safely, using gocryptfs and CryFS for encryption `#rust` `#gtk4` `#libadwaita`.
+- [Vaults](https://flathub.org/en/apps/io.github.mpobaschnig.Vaults) - Application that lets you create vaults in which files can be stored safely, using gocryptfs and CryFS for encryption `#rust` `#gtk4` `#libadwaita`.
 
 ## System Management
 
