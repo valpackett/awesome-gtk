@@ -126,6 +126,7 @@
   - [File Management](#file-management)
   - [File Search](#file-search)
   - [File Synchronisation](#file-synchronisation)
+  - [File Encryption](#file-encryption)
   - [Remote File Access](#remote-file-access)
 - [System Management](#system-management)
   - [Software Installation](#software-installation)
@@ -268,12 +269,13 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Celluloid](https://github.com/celluloid-player/celluloid) - (ex GNOME MPV) frontend for MPV `#c` `#gtk4` `#libadwaita`.
 - [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#c` `#gtk4` `#libadwaita`.
 - [Delfin](https://codeberg.org/avery42/delfin) - Application to stream movies/TV shows from Jellyfin `#rust` `#gtk4` `#libadwaita`.
-- [GNOME Videos (Totem)](https://apps.gnome.org/Totem) - Official GNOME desktop video player, also known as Totem `#c` `#gtk3`. `#gnome`.
+- [EcoTubeHQ](https://flathub.org/en/apps/io.github.ecotubehq.player) - Energy efficient video player `#c` `#gtk4` `#libadwaita`.
 - [Glide](https://github.com/philn/glide) - Simple video player powered by GStreamer `#rust` `#gtk4` `#libadwaita`.
-- [livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
+- [Livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
-- [Showtime](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player powered by GStreamer `#python` `#gtk4` `#libadwaita`.
+- [Totem](https://apps.gnome.org/Totem) - Movie player for the GNOME desktop based on GStreamer. `#c` `#gtk3`.
 - [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
+- [Video Player (Showtime)](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player for the GNOME desktop powered by GStreamer `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Live Stream Viewers
 
@@ -615,9 +617,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Document Viewers
 
-- [Evince](https://apps.gnome.org/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, DjVu, comics etc. and SyncTex support with gedit `#c` `#gtk3` `#libhandy` `#gnome`.
+- [Document Viewer (Papers)](https://apps.gnome.org/en/Papers) - Document viewer for the GNOME desktop (GTK 4 fork of Evince) with support for PDF, Postscript, DjVu, EPS, XPS and comics archives `#c` `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Evince](https://apps.gnome.org/Evince) - Document viewer for the GNOME desktop with support for PDF, Postscript, DjVu, comics etc. and SyncTex support with gedit `#c` `#gtk3` `#libhandy`.
 - [jumpdf](https://github.com/b43NnUNF4vidFYFhpqaLWy2ANawtRbMtUXZY9Pf/jumpdf) - Keyboard-focused PDF viewer for documents where one needs to jump between different sections of the document frequently `#c` `#gtk4`.
-- [Papers](https://apps.gnome.org/en/Papers) - Document viewer for the GNOME desktop (GTK 4 fork of Evince) with support for PDF, Postscript, DjVu, EPS, XPS and comics archives `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Xreader](https://github.com/linuxmint/xreader) - Generic document viewer with support for PDF, Postscript, DjVu, comics and more `#c` `#gtk3` `#libxapp`.
 - [zathura](https://pwmt.org/projects/zathura) - Minimalist and customizable document viewer with support for PDF, PostScript, DjVu and comic book `#c` `#gtk3`.
 
@@ -719,6 +721,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Education
 
+- [CSVEN](https://flathub.org/en/apps/io.github.rsvzz.csven) - Game to learn how to write English words by ordering the scrambled letters of the words `#c` `#gtk4` `#libadwaita`.
 - [JapaChar](https://flathub.org/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
 - [Lexi](https://flathub.org/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
@@ -759,6 +762,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementaryOS `#vala` `#gtk3` `#granite`.
 - [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
+- [Valot](https://flathub.org/en/apps/com.odnoyko.valot) - Time tracking application, designed for developers, freelancers, and professionals who need to track their work time efficiently `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+
 
 ### To-do Lists
 
@@ -1092,9 +1097,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Celeste](https://github.com/hwittenborn/celeste) - File synchronization client that can sync with any cloud provider `#rust` `#gtk4` `#libadwaita`.
 - [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) - UI for [Syncthing](https://syncthing.net) with the same features as the Web UI `#python` `#gtk3`.
 
+### File Encryption
+
+- [Vaults](https://flathub.org/en/apps/io.github.mpobaschnig.Vaults) - Application that lets you create vaults in which files can be stored safely, using gocryptfs and CryFS for encryption `#rust` `#gtk4` `#libadwaita`.
+
 ### Remote File Access
 
-- [Taxi](https://github.com/Alecaddd/taxi) - FTP client that also supports SFTP, WebDAV and AFP `#vala` `#gtk3` `#granite`.
+- [Taxi](https://github.com/Alecaddd/taxi) - FTP client designed for elementary OS that also supports SFTP, WebDAV and AFP `#vala` `#gtk4` `#granite` `#libadwaita`.
 
 ## System Management
 
@@ -1162,6 +1171,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
+- [sshPilot](https://flathub.org/en/apps/io.github.mfat.sshpilot) - SSH connection manager with integrated terminal for managing remove servers `#python` `#gtk4`  `#libadwaita`.
 - [SSH Studio](https://flathub.org/en/apps/io.github.BuddySirJava.SSH-Studio) - SSH config editor and validator `#python` `#gtk4`  `#libadwaita`.
 - [SysD Manager](https://flathub.org/apps/io.github.plrigaux.sysd-manager) - GUI to manage systemd units, such as services, timers, and sockets `#rust` `#gtk4` `#libadwaita`.
 - [Touché](https://flathub.org/apps/com.github.joseexposito.touche) - User interface to configure touchpad and touchscreen multi-touch gestures `#gjs` `#javascript` `#gtk4` `#libadwaita`.
