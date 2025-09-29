@@ -1305,4 +1305,5 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Butler](https://github.com/cassidyjames/butler) - Native UI wrapper for the Home Assistant dashboard `#vala` `#gtk4` `#libadwaita`.
 
 ## Religion and Spirituality
+- [Fidei](https://github.com/sp1ritCS/fidei) - Bible reader for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Vakt-i Salah](https://flathub.org/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
