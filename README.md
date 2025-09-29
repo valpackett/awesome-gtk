@@ -1180,6 +1180,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 - [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
+- [YAFI (Yet Another Framework Interface)](https://flathub.org/en/apps/au.stevetech.yafi) - GUI for the Framework laptop embedded controller, e.g. to control the fan and LED, or to monitor temperature `#python` `#gtk4` `#libadwaita`.
 
 
 ### System Monitoring and Info
