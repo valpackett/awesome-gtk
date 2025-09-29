@@ -1151,6 +1151,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Folder Manager (Foldy)](https://altlinux.space/alt-gnome/Foldy) - Tool to manage folders in GNOME desktop application menu `#vala` `#gtk4` `#libadwaita`.
 - [gconfig](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/scripts/kconfig) - Graphical kernel configuration utility for the Linux kernel `#c` `#gtk3`.
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [GNOME Network Displays](https://flathub.org/en/apps/org.gnome.NetworkDisplays) - Application transmit video and sound to a remote display (screencasting), supporting Miracast and Chromecast protocols `#c` `#gtk4` `#libadwaita`.
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [HydraPaper](https://flathub.org/en/apps/org.gabmus.hydrapaper) - Wallpaper manager with multi monitor support `#python` `#gtk4` `#libadwaita`.
