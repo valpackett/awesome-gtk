@@ -277,6 +277,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Totem](https://apps.gnome.org/Totem) - Movie player for the GNOME desktop based on GStreamer. `#c` `#gtk3`.
 - [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
 - [Video Player (Showtime)](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player for the GNOME desktop powered by GStreamer `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [Videos](https://github.com/elementary/videos/tree/main) - Video player and video library application for elementary OS  `#vala` `#gtk4` `#libadwaita`.
 
 ### Live Stream Viewers
 
