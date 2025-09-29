@@ -146,6 +146,7 @@
 - [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
 - [Home Automation & Internet of Things](#home-automation--internet-of-things)
+- [Religion and Spirituality](#religion-and-spirituality)
 
 ## Apps for GNOME
 
@@ -1302,3 +1303,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Home Automation & Internet of Things
 
 - [Butler](https://github.com/cassidyjames/butler) - Native UI wrapper for the Home Assistant dashboard `#vala` `#gtk4` `#libadwaita`.
+
+## Religion and Spirituality
+- [Vakt-i Salah](https://flathub.org/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
