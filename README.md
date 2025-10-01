@@ -1085,7 +1085,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Files (Nautilus)](https://apps.gnome.org/Nautilus) - Default file manager of the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Nemo](https://github.com/linuxmint/nemo) - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python` `#gtk3` `#libhandy`.
-- [PCManFM](https://github.com/lxde/pcmanfm) - Lighweight file manager, standard file manager for LXDE `#c` `#gtk3`.
+- [PCManFM](https://github.com/lxde/pcmanfm) - Lightweight file manager, standard file manager for LXDE `#c` `#gtk3`.
 - [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
 - [Portfolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
 - [Thunar](https://gitlab.xfce.org/xfce/thunar) - File manager for the Xfce desktop `#c` `#gtk3`.
@@ -1128,7 +1128,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Pins](https://flathub.org/apps/io.github.fabrialberio.pinapp) - `.desktop` files creator/editor `#c` `#gtk4` `#libadwaita`.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#gtk4` `#libadwaita`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
-- [Spider](https://flathub.org/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integreation with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
+- [Spider](https://flathub.org/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integration with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
 - [Web Apps](https://flathub.org/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
 
