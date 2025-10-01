@@ -146,6 +146,7 @@
 - [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
 - [Home Automation & Internet of Things](#home-automation--internet-of-things)
+- [Religion and Spirituality](#religion-and-spirituality)
 
 ## Apps for GNOME
 
@@ -276,6 +277,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Totem](https://apps.gnome.org/Totem) - Movie player for the GNOME desktop based on GStreamer. `#c` `#gtk3`.
 - [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
 - [Video Player (Showtime)](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player for the GNOME desktop powered by GStreamer `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [Videos](https://github.com/elementary/videos) - Video player and library application for elementary OS  `#vala` `#gtk4` `#libadwaita`.
 
 ### Live Stream Viewers
 
@@ -339,6 +341,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust` `#gtk4`.
 - [Image Viewer (Loupe)](https://apps.gnome.org/Loupe) - Simple image viewer `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#gtk4` `#libadwaita`.
+- [Photos](https://github.com/elementary/photos) - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
 - [SphereView](https://flathub.org/apps/io.github.dynobo.sphereview) - Image viewer for 360° equirectangular photospheres and panoramas, based on the Photo Sphere Viewer library `#rust` `#gtk4` `#libadwaita`.
 - [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c` `#gtk3`.
 - [Xviewer](https://community.linuxmint.com/software/view/xviewer) - Image viewer for the Cinnamon Desktop `#c` `#gtk3`.
@@ -710,6 +713,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Onboard](https://github.com/dr-ni/onboard) - Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users `#python` `#gtk3`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
+- [Runemaster](https://flathub.org/en/apps/io.github.johnfactotum.Runemaster) -  Unicode character viewer application for the GNOME desktop `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Sherlock](https://github.com/Skxxtz/sherlock) - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
@@ -723,7 +727,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [CSVEN](https://flathub.org/en/apps/io.github.rsvzz.csven) - Game to learn how to write English words by ordering the scrambled letters of the words `#c` `#gtk4` `#libadwaita`.
 - [JapaChar](https://flathub.org/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
-- [Learn 6502 Assembly](https://github.com/JumpLink/Learn6502) - Application for the GNOME desktop that provides a complete learning environment for 6502 assembly language programming `#typescript` `#gjs` `#gtk4` `#libadwaita`.
 - [Lexi](https://flathub.org/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
@@ -1151,6 +1154,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Folder Manager (Foldy)](https://altlinux.space/alt-gnome/Foldy) - Tool to manage folders in GNOME desktop application menu `#vala` `#gtk4` `#libadwaita`.
 - [gconfig](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/scripts/kconfig) - Graphical kernel configuration utility for the Linux kernel `#c` `#gtk3`.
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [GNOME Network Displays](https://flathub.org/en/apps/org.gnome.NetworkDisplays) - Application transmit video and sound to a remote display (screencasting), supporting Miracast and Chromecast protocols `#c` `#gtk4` `#libadwaita`.
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [HydraPaper](https://flathub.org/en/apps/org.gabmus.hydrapaper) - Wallpaper manager with multi monitor support `#python` `#gtk4` `#libadwaita`.
@@ -1179,6 +1183,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 - [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
+- [YAFI (Yet Another Framework Interface)](https://flathub.org/en/apps/au.stevetech.yafi) - GUI for the Framework laptop embedded controller, e.g. to control the fan and LED, or to monitor temperature `#python` `#gtk4` `#libadwaita`.
 
 
 ### System Monitoring and Info
@@ -1300,3 +1305,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Home Automation & Internet of Things
 
 - [Butler](https://github.com/cassidyjames/butler) - Native UI wrapper for the Home Assistant dashboard `#vala` `#gtk4` `#libadwaita`.
+
+## Religion and Spirituality
+
+- [Eeman](https://flathub.org/apps/pro.saladin.Eeman) - Salah (prayer) times application and Quran reader `#python` `#gtk4` `#libadwaita`.
+- [Fidei](https://github.com/sp1ritCS/fidei) - Bible reader for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
+- [Vakt-i Salah](https://flathub.org/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
