@@ -601,7 +601,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gauge](https://flathub.org/apps/io.github.josephmawa.Gauge) - High precision unit conversion tool `#javascript` `#gtk4` `#libadwaita`.
 - [GNOME Calculator](https://apps.gnome.org/Calculator) - Default calculator for the Gnome desktop for arithmetic, scientific or financial calculations `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c` `#gtk3`.
-- [Graphs](https://apps.gnome.org/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [Graphs](https://apps.gnome.org/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [NaSC](https://github.com/parnoldx/nasc) - Dual pane text based calculator `#vala` `#gtk3` `#granite`.
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++` `#gtk3`.
