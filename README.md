@@ -1165,6 +1165,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
 - [Main Menu](https://flathub.org/apps/page.codeberg.libre_menu_editor.LibreMenuEditor) - Utility to customize the application launchers and the main menu in Freedesktop-compliant desktop environments `#python` `#gtk4` `#libadwaita`.
+- [Mending Wall](https://flathub.org/en/apps/org.indii.mendingwall) - Application to fix issues when switching between multiple desktop environments (e.g. GNOME, KDE Plasma, Xfce, Cinnamon, COSMIC), such as scaling issues, wrong sizes of cursors or fonts `#c` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
 - [Picture of the Day](https://flathub.org/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
