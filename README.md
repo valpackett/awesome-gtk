@@ -416,7 +416,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Vector & Fonts
 
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala` `#gtk3`.
-- [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#c++` `#gtk3`.
+- [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#gtk3`.
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#gtk3` `#libhandy`.
 - [GNOME Fonts (Font Viewer)](https://apps.gnome.org/FontViewer) - Utility to view and install fonts on your system `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
