@@ -904,6 +904,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Development Tools
 
 - [D-Spy](https://flathub.org/apps/org.gnome.dspy) - Simple tool to explore D-Bus connections `#c` `#gtk4` `#libadwaita` `#gnome`. 
+- [Schemes](https://flathub.org/en/apps/app.devsuite.Schemes) - Application to create syntax highlighting style-schemes for GtkSourceView-based applications such as Builder or Text Editor `#c` `#gtk4` `#libadwaita`.
 - [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Translation Editor (Gtranslator)](https://flathub.org/apps/org.gnome.Gtranslator) - Enhanced gettext `.po` file editor for the GNOME desktop to translate applications `#c` `#gtk4` `#libadwaita` `#gnome`.
 
