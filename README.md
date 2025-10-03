@@ -927,6 +927,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Builder](https://apps.gnome.org/Builder) - Tool to help you write and contribute to great GNOME-based applications `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) - GTK-based IDE for Julia `#julia` `#gtk3`.
 - [Playhouse](https://github.com/sonnyp/Playhouse) - Playground for HTML/CSS/JavaScript `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Roobuilder](https://flathub.org/en/apps/org.roojs.roobuilder) - IDE for Vala and JavaScript `#gjs` `#javascript` `#vala` `#gtk4` `#libadwaita`.
 - [Valama](https://github.com/Valama/valama) - Vala IDE `#vala` `#gtk3`.
 - [Workbench](https://apps.gnome.org/Workbench) - Tool to experiment with GNOME technologies `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 
