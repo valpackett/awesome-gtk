@@ -35,6 +35,7 @@
   - [Image Viewers](#image-viewers)
   - [Raster Graphics](#raster-graphics)
     - [Drawing & Editing](#drawing--editing)
+    - [Screenshot Tools](#screenshot-tools)   
     - [Photography](#photography)
     - [Optimizers/Compressors](#optimizerscompressors)
     - [Upscalers](#upscalers)
@@ -360,15 +361,21 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python` `#gtk3`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala` `#gtk3`.
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
-- [Gradia](https://flathub.org/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk4` `#libadwaita`.
 - [RS-Paint](https://github.com/lucasscharenbroch/rs-paint) - A light-weight image editor inspired by MS-Paint `#rust` `#gtk4`.
 - [Scramble](https://flathub.org/en/apps/io.github.tobagin.scramble) - Simple, privacy-focused utility for viewing and removing metadata from images `#vala` `#gtk4` `#libadwaita`.
-- [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
 [imagemagick]: https://imagemagick.org
+
+#### Screenshot Tools
+
+- [Cheese](https://gitlab.gnome.org/GNOME/cheese) - Application to take photos and videos with the webcam, with fun graphical effects `#c` `#vala` `#gtk3`.
+- [Gradia](https://flathub.org/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
+- [Screenshot](https://flathub.org/en/apps/org.adishatz.Screenshot) - Screenshot application for GNOME-based desktops `#c` `#gtk4` `#libadwaita`.
+- [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
+
 
 #### GIF
 
@@ -416,7 +423,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Vector & Fonts
 
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala` `#gtk3`.
-- [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#c++` `#gtk3`.
+- [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#gtk3`.
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#gtk3` `#libhandy`.
 - [GNOME Fonts (Font Viewer)](https://apps.gnome.org/FontViewer) - Utility to view and install fonts on your system `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
@@ -904,6 +911,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Development Tools
 
 - [D-Spy](https://flathub.org/apps/org.gnome.dspy) - Simple tool to explore D-Bus connections `#c` `#gtk4` `#libadwaita` `#gnome`. 
+- [Schemes](https://flathub.org/en/apps/app.devsuite.Schemes) - Application to create syntax highlighting style-schemes for GtkSourceView-based applications such as Builder or Text Editor `#c` `#gtk4` `#libadwaita`.
 - [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Translation Editor (Gtranslator)](https://flathub.org/apps/org.gnome.Gtranslator) - Enhanced gettext `.po` file editor for the GNOME desktop to translate applications `#c` `#gtk4` `#libadwaita` `#gnome`.
 
@@ -927,6 +935,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Builder](https://apps.gnome.org/Builder) - Tool to help you write and contribute to great GNOME-based applications `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkIDE.jl](https://github.com/jonathanBieler/GtkIDE.jl) - GTK-based IDE for Julia `#julia` `#gtk3`.
 - [Playhouse](https://github.com/sonnyp/Playhouse) - Playground for HTML/CSS/JavaScript `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Roobuilder](https://flathub.org/en/apps/org.roojs.roobuilder) - IDE for Vala and JavaScript `#gjs` `#javascript` `#vala` `#gtk4` `#libadwaita`.
 - [Valama](https://github.com/Valama/valama) - Vala IDE `#vala` `#gtk3`.
 - [Workbench](https://apps.gnome.org/Workbench) - Tool to experiment with GNOME technologies `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 
@@ -999,6 +1008,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Wildcard](https://gitlab.gnome.org/World/Wildcard) - Regex tester `#rust` `#gtk4` `#libadwaita`.
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#gtk3` `#granite`.
 - [Snoop](https://gitlab.gnome.org/philippun1/snoop) - Tool to search through your files and providing a Nautilus extension `#vala` `#gtk4` `#libadwaita`.
+- [Tags](https://flathub.org/en/apps/io.github.phastmike.tags) - Application (inspired by TextAnalysisTool.NET) to tag lines of log or text files with user defined colors, e.g. for log analysis `#vala` `#gtk4` `#libadwaita`.
 - [Text Pieces](https://apps.gnome.org/TextPieces) - Swiss knife of text processing `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [TextShine](https://github.com/phase1geo/textshine) - Text conversion utility `#vala` `#gtk4` `#granite`.
 
@@ -1165,6 +1175,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
 - [Main Menu](https://flathub.org/apps/page.codeberg.libre_menu_editor.LibreMenuEditor) - Utility to customize the application launchers and the main menu in Freedesktop-compliant desktop environments `#python` `#gtk4` `#libadwaita`.
+- [Mending Wall](https://flathub.org/en/apps/org.indii.mendingwall) - Application to fix issues when switching between multiple desktop environments (e.g. GNOME, KDE Plasma, Xfce, Cinnamon, COSMIC), such as scaling issues, wrong sizes of cursors or fonts `#c` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
 - [Picture of the Day](https://flathub.org/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
