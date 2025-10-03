@@ -371,6 +371,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Screenshot Tools
 - [Gradia](https://flathub.org/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
+- [Screenshot](https://gitlab.gnome.org/gnumdk/screenshot) - Screenshot application for GNOME-based desktops `#c` `#gtk4` `#libadwaita`.
 - [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
 
