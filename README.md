@@ -35,6 +35,7 @@
   - [Image Viewers](#image-viewers)
   - [Raster Graphics](#raster-graphics)
     - [Drawing & Editing](#drawing--editing)
+    - [Screenshot Tools](#screenshot-tools)   
     - [Photography](#photography)
     - [Optimizers/Compressors](#optimizerscompressors)
     - [Upscalers](#upscalers)
@@ -360,15 +361,18 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python` `#gtk3`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala` `#gtk3`.
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
-- [Gradia](https://flathub.org/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk4` `#libadwaita`.
 - [RS-Paint](https://github.com/lucasscharenbroch/rs-paint) - A light-weight image editor inspired by MS-Paint `#rust` `#gtk4`.
 - [Scramble](https://flathub.org/en/apps/io.github.tobagin.scramble) - Simple, privacy-focused utility for viewing and removing metadata from images `#vala` `#gtk4` `#libadwaita`.
-- [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
 [imagemagick]: https://imagemagick.org
+
+#### Screenshot Tools
+- [Gradia](https://flathub.org/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
+- [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
+
 
 #### GIF
 
