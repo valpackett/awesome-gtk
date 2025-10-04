@@ -969,7 +969,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Markdown
 
-- [Apostrophe](https://apps.gnome.org/Apostrophe) - Distraction-free Markdown editor `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [Apostrophe](https://apps.gnome.org/Apostrophe) - Distraction-free Markdown editor, using Typst as the default render engine `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Distraction-free Markdown editor `#rust` `#gtk3`.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c` `#gtk3`.
 - [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#gtk4` `#libadwaita`.
