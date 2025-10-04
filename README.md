@@ -698,6 +698,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
 - [Eloquent](https://flathub.org/apps/re.sonny.Eloquent) - Proofreading software for 20+ languages, powered by LanguageTool standalone server `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Letters](https://flathub.org/en/apps/net.codelogistics.letters) - Modern, minimalist word processor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [WebkitWord](https://flathub.org/apps/io.github.fastrizwaan.WebkitWord) - Rich text editor with powerful word processing capabilities in a clutter-free modern interface `#python` `#gtk4` `#libadwaita`.
 - [Scriptorium](https://flathub.org/apps/io.github.cgueret.Scriptorium) - Text editor coupled with a plotting and formatting tool to provide writers with an environment to plan, plot, write and edit e-books `#python` `#gtk4` `#libadwaita`.
 
