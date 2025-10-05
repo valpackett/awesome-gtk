@@ -1182,6 +1182,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Mending Wall](https://flathub.org/en/apps/org.indii.mendingwall) - Application to fix issues when switching between multiple desktop environments (e.g. GNOME, KDE Plasma, Xfce, Cinnamon, COSMIC), such as scaling issues, wrong sizes of cursors or fonts `#c` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
+- [Oversteer](https://flathub.org/en/apps/io.github.berarma.Oversteer) - Steering wheel manager `#python` `#gtk3`.
 - [Picture of the Day](https://flathub.org/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
 - [pipemenu](https://github.com/soanvig/pipemenu) - GTK4 `libadwaita` dmenu alternative `#rust` `#gtk4` `#libadwaita`.
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala` `#gtk3`.
