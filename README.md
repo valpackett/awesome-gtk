@@ -610,7 +610,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c` `#gtk3`.
 - [Graphs](https://apps.gnome.org/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [NaSC](https://github.com/parnoldx/nasc) - (archived, see [NaSCTUI](https://github.com/parnoldx/nascTUI)) Dual pane text based calculator `#vala` `#gtk3` `#granite`.
-- [NaSCTUI](https://github.com/parnoldx/nascTUI) - Dual pane text based calculator `#go` `#gtk3`.
 - [Plots](https://github.com/alexhuntley/Plots) - Graph plotting app for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Qalculate! GTK+](https://qalculate.github.io) - Multi-purpose cross-platform desktop calculator `#c++` `#gtk3`.
 - [Sums](https://gitlab.com/leesonwai/sums) - Simple calculator that uses postfix notation `#c` `#gtk4` `#libadwaita`.
