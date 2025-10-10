@@ -975,6 +975,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Distraction-free Markdown editor `#rust` `#gtk3`.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c` `#gtk3`.
 - [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#gtk4` `#libadwaita`.
+- [Scratchmark](https://flathub.org/en/apps/org.scratchmark.Scratchmark) - Distraction-free Markdown editor designed for keeping notes, writing longer texts, and organizing files `#rust` `#gtk4` `#libadwaita`.
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala` `#gtk3`.
 - [Tabëla](https://flathub.org/apps/com.mastropaolo.www.tabela) - Utility to format tables to Markdown or HTML `#rust` `#gtk4` `#libadwaita`.
 
@@ -1237,6 +1238,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [DeSmuME](https://github.com/TASEmulators/desmume) - Cross-platform Nintendo DS emulator `#c++` `#gtk3`.
 - [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - Unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store `#rust` `#gtk4` `#libadwaita`.
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
+- [Game Server Watcher (gswatcher)](https://flathub.org/en/apps/io.github.lxndr.gswatcher) - Simple game server monitor and an administrative tool `#vala` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
 - [Snes9x](http://www.snes9x.com) - Cross-platform portable Super Nintendo Entertainment System (TM) emulator `#c++` `#gtk3`.
@@ -1256,6 +1258,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with support for shaped and color crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
 - [Draughts](https://flathub.org/en/apps/io.github.tobagin.Draughts) - Draughts (checkers) game featuring 16 international variants and AI opponents `#vala` `#gtk4` `#libadwaita`.
 - [Flood It](https://flathub.org/apps/io.github.tfuxu.floodit) - Game with the simple premise of flooding the entire board with one color in the least amount of moves possible `#go` `#gtk4` `#libadwaita`.
+- [Four-in-a-row](https://flathub.org/en/apps/org.gnome.Four-in-a-row) - Game where players try to build a line of four marbles while trying to stop the opponent (human or computer) from building a line `#vala` `#gtk3`.
 - [GNOME Chess](https://flathub.org/en/apps/org.gnome.Chess) - Classic two-player board game of chess `#vala` `#gtk4` `#libadwaita`.
 - [Goban](https://gitlab.com/gjask/goban) - Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
@@ -1318,6 +1321,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Weather forecast application, using OSM maps and data from the Meteorologisk institutt Norge `#vala` `#gtk3`.
 - [Mousam](https://github.com/amit9838/mousam) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
+- [Typhoon](https://flathub.org/en/apps/io.github.archisman_panigrahi.typhoon) - Weather application that provides real-time weather updates and forecasts `#gjs` `#javascript` `#python` `#gtk3`.
 
 ## Home Automation & Internet of Things
 
