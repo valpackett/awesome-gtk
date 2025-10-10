@@ -1258,7 +1258,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with support for shaped and color crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
 - [Draughts](https://flathub.org/en/apps/io.github.tobagin.Draughts) - Draughts (checkers) game featuring 16 international variants and AI opponents `#vala` `#gtk4` `#libadwaita`.
 - [Flood It](https://flathub.org/apps/io.github.tfuxu.floodit) - Game with the simple premise of flooding the entire board with one color in the least amount of moves possible `#go` `#gtk4` `#libadwaita`.
-- [Four-in-a-row](https://flathub.org/en/apps/org.gnome.Four-in-a-row) - Game to build a line of four marbles while trying to stop the opponent (human or computer) from building a line `#vala` `#gtk3`.
+- [Four-in-a-row](https://flathub.org/en/apps/org.gnome.Four-in-a-row) - Game where players try to build a line of four marbles while trying to stop the opponent (human or computer) from building a line `#vala` `#gtk3`.
 - [GNOME Chess](https://flathub.org/en/apps/org.gnome.Chess) - Classic two-player board game of chess `#vala` `#gtk4` `#libadwaita`.
 - [Goban](https://gitlab.com/gjask/goban) - Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
