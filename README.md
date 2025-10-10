@@ -975,6 +975,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [markdown-rs](https://github.com/nilgradisnik/markdown-rs) - Distraction-free Markdown editor `#rust` `#gtk3`.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with HTML and LaTeX conversion with [scidown](https://github.com/Mandarancio/scidown) `#c` `#gtk3`.
 - [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#gtk4` `#libadwaita`.
+- [Scratchmark](https://flathub.org/en/apps/org.scratchmark.Scratchmark) - Distraction-free Markdown editor designed for keeping notes, writing longer texts, and organizing files `#rust` `#gtk4` `#libadwaita`.
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala` `#gtk3`.
 - [Tabëla](https://flathub.org/apps/com.mastropaolo.www.tabela) - Utility to format tables to Markdown or HTML `#rust` `#gtk4` `#libadwaita`.
 
