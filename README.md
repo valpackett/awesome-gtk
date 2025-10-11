@@ -1309,7 +1309,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Maps](https://apps.gnome.org/Maps) - GNOME's map viewer using OpenStreetMap database `#gjs` `#javascript` `#libadwaita` `#gtk4` `#gnome` .
 - [Maps](https://github.com/elementary/maps) - Map viewer designed for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita`.
 
-
 ## Public Transports
 
 - [Passes](https://flathub.org/apps/me.sanchezrodriguez.passes) - Application to manage digital passes in PKPass or esPass format, such as boarding passes, bus tickets, coupons, loyalty cards, event tickets, etc. `#python` `#gtk4` `#libadwaita`.
