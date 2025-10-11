@@ -10,5 +10,5 @@
 
 - programming language tags
 - `#gnome` means it's an official GNOME app (note: not everything that has a GNOME wiki page is official)
-- `#granite` means it's using Elementary's `granite` library / Elementary SDK (but not necessarily is an official Elementary app)
+- `#granite` means it's using elementary's `granite` library / elementary SDK (but not necessarily is an official elementary app)
 - `#libunity` meant it has a HARD dependency on `libunity`

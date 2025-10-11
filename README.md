@@ -730,7 +730,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
-- [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementaryOS `#vala` `#gtk3` `#granite`.
+- [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementary OS `#vala` `#gtk3` `#granite`.
 
 ### Education
 
@@ -747,7 +747,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Mind-mapping
 
-- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for elementaryOS `#vala` `#gtk3` `#libhandy` `#granite`.
+- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for elementary OS `#vala` `#gtk3` `#libhandy` `#granite`.
 
 ### Project Management
 
@@ -765,7 +765,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#gtk4` `#libadwaita`.
 - [GNOME Clocks](https://apps.gnome.org/Clocks/) - Clock application including world clocks, alarms, a stopwatch, and timers `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) - Time tracker provided by `hamster-lib` `#python` `#gtk3`.
-- [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#gtk4` `#granite`.
+- [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementary OS `#vala` `#gtk4` `#granite`.
 - [Khronos](https://apps.gnome.org/Khronos) - Task time logger `#vala` `#gtk4` `#libadwaita`.
 - [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
 - [Punchclock](https://flathub.org/apps/codes.loers.Punchclock) - Minimal time tracking application `#rust` `#gtk4` `#libadwaita`.
@@ -774,14 +774,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
 - [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementaryOS `#vala` `#gtk3` `#granite`.
+- [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementary OS `#vala` `#gtk3` `#granite`.
 - [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
 - [Valot](https://flathub.org/en/apps/com.odnoyko.valot) - Time tracking application, designed for developers, freelancers, and professionals who need to track their work time efficiently `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 
 
 ### To-do Lists
 
-- [Agenda](https://github.com/dahenson/agenda) - Simple to-do application for elementaryOS `#vala` `#gtk3` `#granite`.
+- [Agenda](https://github.com/dahenson/agenda) - Simple to-do application for elementary OS `#vala` `#gtk3` `#granite`.
 - [Done](https://done.edfloreshz.dev) - To-do application that allows you to consolidate your existing task providers into a single place `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Endeavour](https://gitlab.gnome.org/World/Endeavour) - Personal tasks manager with complete integration with the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Effitask](https://github.com/sanpii/effitask) - [todo.txt] client with due, flag, future note and schedule addons `#rust` `#gtk3` `#relm`.
@@ -855,7 +855,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Goldwarden](https://flathub.org/apps/com.quexten.Goldwarden) - Bitwarden compatible desktop password manager `#go` `#gtk4` `#libadwaita`.
 - [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++` `#gtk3`.
 - [LPTK](https://flathub.org/apps/me.ogarcia.lptk) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
-- [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementaryOS `#vala` `#gtk3` `#granite` `#libhandy`.
+- [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementary OS `#vala` `#gtk3` `#granite` `#libhandy`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
 - [Projectpad](https://flathub.org/apps/com.github.emmanueltouzery.projectpad) - Manager for secret credentials and server information `#rust` `#gtk4` `#libadwaita`.
@@ -875,7 +875,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [CheckWriter](https://github.com/ashafq/CheckWriter) - Application to simplify the process of writing checks `#c` `#gtk4` `#libadwaita`.
 - [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#gtk4` `#libadwaita`.
-- [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementaryOS `#vala` `#gtk3` `#granite`.
+- [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS `#vala` `#gtk3` `#granite`.
 - [Fruit Credits](https://fruitcredits.dz4k.com) - Double-entry personal accounting application, based on hledger `#vala` `#gtk4` `#libadwaita`.
 - [GnuCash](https://gnucash.org) - Personal and small business double entry accounting application `#c++` `#gtk3`.
 - [Grisbi](http://grisbi.org) - Personal financial management and accounting application `#c` `#gtk3`.
@@ -951,13 +951,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 #### Simple Editors and Light IDEs
 
 - [Bluefish](https://bluefish.openoffice.nl) - Editor targeted towards programmers and web developers (C, JavaScript, Java, PHP, Python and markup languages: HTML, YAML and XML) `#c` `#gtk3`.
-- [elementary Code](https://github.com/elementary/code) - Code editor designed for elementaryOS `#vala` `#gtk3` `#granite` `#elementary`.
-- [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementaryOS-oriented IDE `#vala` `#gtk3` `#granite`.
+- [elementary Code](https://github.com/elementary/code) - Code editor designed for elementary OS `#vala` `#gtk3` `#granite` `#elementary`.
+- [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementary OS-oriented IDE `#vala` `#gtk3` `#granite`.
 - [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c` `#gtk3`.
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [MousePad](https://flathub.org/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
-- [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementaryOS `#python` `#gtk3` `#granite`.
+- [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk3` `#granite`.
 - [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++` `#gtk3`.
 - [Scripter](https://github.com/david-swift/Scripter) - Simple application to write and execute small Python scripts `#swift` `#gtk4` `#libadwaita`.
@@ -1010,7 +1010,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Black Fennec](https://gitlab.ost.ch/blackfennec/blackfennec) - Visual semi-structured data (JSON) editor `#python` `#gtk4` `#libadwaita`.
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#gtk4` `#libadwaita`.
 - [Wildcard](https://gitlab.gnome.org/World/Wildcard) - Regex tester `#rust` `#gtk4` `#libadwaita`.
-- [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementaryOS `#vala` `#gtk3` `#granite`.
+- [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementary OS `#vala` `#gtk3` `#granite`.
 - [Snoop](https://gitlab.gnome.org/philippun1/snoop) - Tool to search through your files and providing a Nautilus extension `#vala` `#gtk4` `#libadwaita`.
 - [Tags](https://flathub.org/en/apps/io.github.phastmike.tags) - Application (inspired by TextAnalysisTool.NET) to tag lines of log or text files with user defined colors, e.g. for log analysis `#vala` `#gtk4` `#libadwaita`.
 - [Text Pieces](https://apps.gnome.org/TextPieces) - Swiss knife of text processing `#vala` `#gtk4` `#libadwaita` `#gnome`.
@@ -1087,12 +1087,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Brasero](https://gitlab.gnome.org/GNOME/brasero) - Application to burn CD/DVD designed to be as simple as possible `#c` `#gtk3`.
 - [GNOME MultiWriter](https://gitlab.gnome.org/GNOME/gnome-multi-writer) - Utility to write an ISO file to multiple USB devices at once `#c` `#gtk3`.
-- [Imageburner](https://github.com/artemanufrij/imageburner) - Simple imageburner for SD/USB designed for elementaryOS `#vala` `#gtk3` `#granite`.
+- [Imageburner](https://github.com/artemanufrij/imageburner) - Simple imageburner for SD/USB designed for elementary OS `#vala` `#gtk3` `#granite`.
 - [Popsicle](https://github.com/pop-os/popsicle) - Utility for flashing multiple USB devices in parallel `#rust` `#gtk3`.
 
 ### File Management
 
-- [Elementary Files](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy`.
+- [Files (elementary)](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy`.
 - [fm](https://github.com/euclio/fm) - Small, general purpose file manager `#rust` `#gtk4` `#libadwaita`.
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
