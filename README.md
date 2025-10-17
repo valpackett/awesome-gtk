@@ -855,7 +855,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Authenticator](https://apps.gnome.org/Authenticator) - Two-factor authentication codes generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Goldwarden](https://flathub.org/apps/com.quexten.Goldwarden) - Bitwarden compatible desktop password manager `#go` `#gtk4` `#libadwaita`.
 - [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++` `#gtk3`.
-- [Identities](https://flathub.org/en/apps/one.k8ie.Identities) - Password store client (pass fronted) for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
+- [Identities](https://flathub.org/en/apps/one.k8ie.Identities) - `pass` (password store) client for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [LPTK](https://flathub.org/apps/me.ogarcia.lptk) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementary OS `#vala` `#gtk3` `#granite` `#libhandy`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
