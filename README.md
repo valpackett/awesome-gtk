@@ -172,11 +172,11 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Monophony](https://gitlab.com/zehkira/monophony) - Application for streaming music from YouTube `#python` `#gtk4` `#libadwaita`.
 - [Muzika](https://github.com/vixalien/muzika) - Music player with customizable home screen and Google Music integration `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Audio player for the Netease Cloud Music `#rust` `#gtk4` `#libadwaita`.
-- [Plattenalbum](https://flathub.org/apps/de.wagnermartin.Plattenalbum) - MPD client focusing on album playing `#python` `#gtk4` `#libadwaita`.
+- [Plattenalbum](https://flathub.org/en/apps/de.wagnermartin.Plattenalbum) - MPD client focusing on album playing `#python` `#gtk4` `#libadwaita`.
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 - [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gtk3`.
 - [Tauon](https://tauonmusicbox.rocks) - Playlist oriented music player with many features such has MPRIS support, Android remote control and Spotify playlist management `#python` `#gtk3`.
-- [Turntable](https://flathub.org/apps/dev.geopjr.Turntable) - MPRIS-enabled music player focusing on scrobbling music to Last.fm, ListenBrainz, Libre.fm and Maloja, embedding MusicBrainz information `#vala` `#gtk4` `#libadwaita`.
+- [Turntable](https://flathub.org/en/apps/dev.geopjr.Turntable) - MPRIS-enabled music player focusing on scrobbling music to Last.fm, ListenBrainz, Libre.fm and Maloja, embedding MusicBrainz information `#vala` `#gtk4` `#libadwaita`.
 - [Victrola](https://github.com/tau-OS/victrola) - tauOS's minimal player `#vala` `#gtk4`.
 
 #### Audio Streaming Service Clients
@@ -230,7 +230,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c` `#gtk3`.
 - [Audio Sharing](https://apps.gnome.org/AudioSharing) - Application to share audio playback in the form of an RTSP stream `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA] `#csharp` `#gtk4` `#libadwaita`.
-- [Cavasik](https://flathub.org/apps/io.github.TheWisker.Cavasik) - Audio visualizer based on [CAVA] `#python` `#gtk4` `#libadwaita`.
+- [Cavasik](https://flathub.org/en/apps/io.github.TheWisker.Cavasik) - Audio visualizer based on [CAVA] `#python` `#gtk4` `#libadwaita`.
 - [Chronograph](https://github.com/Dzheremi2/Chronograph) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#gtk4` `#libadwaita`.
@@ -243,7 +243,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
-- [Sound Recorder (Vocalis)](https://flathub.org/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [Sound Recorder (Vocalis)](https://flathub.org/en/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4` `#libadwaita`.
 
 [cava]: https://github.com/karlstav/cava
@@ -276,7 +276,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Livi](https://github.com/agx/livi) - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
 - [Movie Monad](https://lettier.github.io/movie-monad) - Simple video player powered by GStreamer `#haskell` `#gtk3`.
 - [Totem](https://apps.gnome.org/Totem) - Movie player for the GNOME desktop based on GStreamer. `#c` `#gtk3`.
-- [Tsukimi](https://flathub.org/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
+- [Tsukimi](https://flathub.org/en/apps/moe.tsuna.tsukimi) - Jellyfin / Emby client based on MPV and GStreamer `#rust` `#gtk4` `#libadwaita`.
 - [Video Player (Showtime)](https://gitlab.gnome.org/GNOME/Incubator/showtime) - Distraction-free video player for the GNOME desktop powered by GStreamer `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [Videos](https://github.com/elementary/videos) - Video player and library application for elementary OS  `#vala` `#gtk4` `#libadwaita`.
 
@@ -295,7 +295,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Gaupol](https://otsaloma.io/gaupol) - Editor for text-based subtitle files with built-in video player `#python` `#gtk3`.
 - [Gnome Subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles) - Subtitle editor for the GNOME desktop `#csharp` `#gtk3`.
-- [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions) - Application that provides live captioning (in English) based on trained models `#c` `#gtk4` `#libadwaita`.
+- [Live Captions](https://flathub.org/en/apps/net.sapples.LiveCaptions) - Application that provides live captioning (in English) based on trained models `#c` `#gtk4` `#libadwaita`.
 - [Subtitle Editor](https://kitone.github.io/subtitleeditor) - Subtitle editor with built-in video player and text correction features `#c++` `#gtk3`.
 
 ### Screen Recorders
@@ -310,7 +310,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cameractrls](https://github.com/soyersoyer/cameractrls) - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
-- [Constrict](https://flathub.org/apps/io.github.wartybix.Constrict) - Application to compress a video to a specific file size `#python` `#gtk4` `#libadwaita`.
+- [Constrict](https://flathub.org/en/apps/io.github.wartybix.Constrict) - Application to compress a video to a specific file size `#python` `#gtk4` `#libadwaita`.
 - [Facetracker](https://codeberg.org/ZRayEntertainment/Facetracker) - Wrapper UI for OpenSeeFace's facetracker `#python` `#gtk4` `#libadwaita`.
 - [GstPipelineStudio](https://gitlab.freedesktop.org/dabrain34/GstPipelineStudio) - Graphical user interface to the multimedia framework GStreamer `#rust` `#gtk4`.
 - [Guvcview](https://sourceforge.net/projects/guvcview) - Video and audio grabber and webcam application, compatible with V4L2 camera devices  `#c` `#gtk3`.
@@ -318,7 +318,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
 - [Megapixels](https://gitlab.com/megapixels-org/Megapixels) - Camera application for Linux phones `#c` `#gtk4`.
-- [WebCamController](https://flathub.org/apps/com.daniel15.wcc) - User interface to modify webcam settings such as pan/tilt/zoom `#csharp` `#gtk4` `#libadwaita`.
+- [WebCamController](https://flathub.org/en/apps/com.daniel15.wcc) - User interface to modify webcam settings such as pan/tilt/zoom `#csharp` `#gtk4` `#libadwaita`.
 
 ## Graphics
 
@@ -335,15 +335,15 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Image Viewers
 
-- [Eye of GNOME (EoG)](https://flathub.org/apps/org.gnome.eog) - Image viewer, designed for the GNOME Desktop `#c` `#gtk3` `#libhandy`.
+- [Eye of GNOME (EoG)](https://flathub.org/en/apps/org.gnome.eog) - Image viewer, designed for the GNOME Desktop `#c` `#gtk3` `#libhandy`.
 - [Fotema](https://github.com/blissd/fotema) - Photo gallery with support for iOS Live Photos and Android motion photos `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Geeqie](https://www.geeqie.org) - Cross-platform image viewer and organizer `#c++` `#gtk4`.
-- [gThumb](https://flathub.org/apps/org.gnome.gThumb) - Image viewer, editor, browser and organizer `#c` `#gtk3`.
+- [gThumb](https://flathub.org/en/apps/org.gnome.gThumb) - Image viewer, editor, browser and organizer `#c` `#gtk3`.
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust` `#gtk4`.
 - [Image Viewer (Loupe)](https://apps.gnome.org/Loupe) - Simple image viewer `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#gtk4` `#libadwaita`.
 - [Photos](https://github.com/elementary/photos) - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
-- [SphereView](https://flathub.org/apps/io.github.dynobo.sphereview) - Image viewer for 360° equirectangular photospheres and panoramas, based on the Photo Sphere Viewer library `#rust` `#gtk4` `#libadwaita`.
+- [SphereView](https://flathub.org/en/apps/io.github.dynobo.sphereview) - Image viewer for 360° equirectangular photospheres and panoramas, based on the Photo Sphere Viewer library `#rust` `#gtk4` `#libadwaita`.
 - [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c` `#gtk3`.
 - [Xviewer](https://community.linuxmint.com/software/view/xviewer) - Image viewer for the Cinnamon Desktop `#c` `#gtk3`.
 
@@ -356,7 +356,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Drawing & Editing
 
 - [Annotator](https://github.com/phase1geo/annotator) - Image annotation application designed for elementary OS `#vala` `#gtk4` `#granite`.
-- [Barcoder](https://flathub.org/apps/cz.ondrejkolin.Barcoder) - Barcode & QR code generator, for desktop and mobile `#rust` `#gtk4` `#libadwaita`.
+- [Barcoder](https://flathub.org/en/apps/cz.ondrejkolin.Barcoder) - Barcode & QR code generator, for desktop and mobile `#rust` `#gtk4` `#libadwaita`.
 - [Conjure](https://github.com/nate-xyz/conjure) - Image enhancer based on [ImageMagick] `#python` `#gtk4` `#libadwaita`.
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python` `#gtk3`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala` `#gtk3`.
@@ -372,7 +372,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Screenshot Tools
 
 - [Cheese](https://gitlab.gnome.org/GNOME/cheese) - Application to take photos and videos with the webcam, with fun graphical effects `#c` `#vala` `#gtk3`.
-- [Gradia](https://flathub.org/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
+- [Gradia](https://flathub.org/en/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
 - [Screenshot](https://flathub.org/en/apps/org.adishatz.Screenshot) - Screenshot application for GNOME-based desktops `#c` `#gtk4` `#libadwaita`.
 - [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
@@ -392,7 +392,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [ART](https://art.pixls.us/) - Raw image processing program, derivative of RawTherapee `#c++` `#gtk3`.
 - [Darktable](https://www.darktable.org) - Photography workflow application and raw developer `#c` `#gtk3`.
-- [Filmbook](https://flathub.org/apps/page.codeberg.bjawebos.Filmbook) - Simple application to track analog film usage in cameras `#rust` `#gtk4` `#libadwaita`.
+- [Filmbook](https://flathub.org/en/apps/page.codeberg.bjawebos.Filmbook) - Simple application to track analog film usage in cameras `#rust` `#gtk4` `#libadwaita`.
 - [nip4](https://github.com/jcupitt/nip4) - Spreadsheet-like GUI for the vips8 image processing library. `#c` `#gtk4`.
 - [PicPlanner](https://gitlab.com/Zwarf/picplanner) - Application for photographers (desktop, phone) to calculate the position of the Sun, Moon and Milky Way in order to plan the position and time for a photograph `#c` `#gtk4` `#libadwaita`.
 - [RawTherapee](http://rawtherapee.com) - Raw image processing program `#c++` `#gtk3`.
@@ -407,12 +407,12 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Delineate](https://github.com/SeaDve/Delineate) - [Graphviz] DOT graphs viewer and editor `#rust` `#gtk4` `#libadwaita`.
 - [Design](https://github.com/dubstar-04/Design) - 2D CAD application with DXF format support `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Dune 3D](https://dune3d.org) - Parametric 3D CAD tool based on OpenCASCADE+SolveSpace from the author of Horizon EDA `#c` `#c++` `#gtk4`.
-- [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats `#python` `#gtk4` `#libadwaita`.
+- [Exhibit](https://flathub.org/en/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats `#python` `#gtk4` `#libadwaita`.
 - [Focus Annotator](https://github.com/13hannes11/focus_annotator) - Tool to annotate the focus plane of z-stacked images `#rust` `#gtk4` `#libadwaita`.
 - [Gaphor](https://gaphor.org) - UML/SysML modeling application `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [GraphUI](https://github.com/artemanufrij/graphui) - Graph visualization based on [Graphviz] `#vala` `#gtk3` `#granite`.
 - [Horizon](https://github.com/horizon-eda/horizon) - EDA package supporting an integrated end-to-end workflow for printed circuit design `#c++` `#gtk3`.
-- [Length](https://flathub.org/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4` `#libadwaita`.
+- [Length](https://flathub.org/en/apps/io.github.herve4m.Length) - GNOME application for measuring distances on screen to design and inspect layouts and graphics `#python` `#gtk4` `#libadwaita`.
 - [Photometric Viewer (Photometry)](https://github.com/dlippok/photometric-viewer) - IESNA and EULUMDAT photometric files viewer `#python` `#gtk4` `#libadwaita`.
 - [rlr](https://github.com/epilys/rlr) -  Interactive pixel screen ruler and protractor `#rust` `#gtk3`.
 - [SolveSpace](http://solvespace.com/index.pl) - Parametric 2D/3D CAD tool `#c++` `#gtk3`.
@@ -429,7 +429,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
 - [Inkscape](https://inkscape.org) - General vector graphics editor `#c++` `#gtk3`.
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
-- [Oh My SVG](https://flathub.org/apps/re.sonny.OhMySVG) - Utility to reduce the size of SVGs  `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Oh My SVG](https://flathub.org/en/apps/re.sonny.OhMySVG) - Utility to reduce the size of SVGs  `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Pizarra](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
 
@@ -467,7 +467,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Flare](https://gitlab.com/schmiddi-on-mobile/flare) - Signal client `#rust` `#gtk4` `#libadwaita`.
 - [Fractal](https://gitlab.gnome.org/World/fractal) - Matrix client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Gajim](https://gajim.org) - Fully-featured XMPP client `#python` `#gtk4`.
-- [Karere](https://flathub.org/apps/io.github.tobagin.karere) - Native WhatsApp client, based on WhatsApp Web `#python` `#gtk4` `#libadwaita`.
+- [Karere](https://flathub.org/en/apps/io.github.tobagin.karere) - Native WhatsApp client, based on WhatsApp Web `#python` `#gtk4` `#libadwaita`.
 - [GNUnet Messenger](https://git.gnunet.org/messenger-gtk.git/about) - Messaging application for the GNUnet Messenger service `#c` `#gtk3` `#libhandy`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#gtk4` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#gtk4` `#libadwaita`.
@@ -492,8 +492,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Fragments](https://apps.gnome.org/Fragments) - BitTorrent client built on top of Transmission `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Gabut Download Manager](https://github.com/gabutakut/gabutdm) - Download manager supporting torrents and direct download with Firefox integration  `#vala` `#gtk4` `#libadwaita`.
 - [Nicotine+](https://nicotine-plus.org) - Graphical client for the [Soulseek](https://www.slsknet.org) peer-to-peer network `#python` `#gtk4` `#libadwaita`.
-- [Packet](https://flathub.org/apps/io.github.nozwock.Packet) - Application to send and receive files wirelessly with Android devices using Quick Share or another device with Packet installed `#rust` `#gtk4` `#libadwaita`.
-- [Share](https://flathub.org/apps/io.github.sigmasd.share) - Simple file sharing application with drag-and-drop functionality, using QR codes `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [Packet](https://flathub.org/en/apps/io.github.nozwock.Packet) - Application to send and receive files wirelessly with Android devices using Quick Share or another device with Packet installed `#rust` `#gtk4` `#libadwaita`.
+- [Share](https://flathub.org/en/apps/io.github.sigmasd.share) - Simple file sharing application with drag-and-drop functionality, using QR codes `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c` `#gtk3`.
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c++` `#gtk4`.
 - [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#gtk3` `#granite`.
@@ -506,15 +506,15 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Network Configuration
 
-- [Bouncer](https://flathub.org/apps/io.github.justinrdonnelly.bouncer) - Application to help you choose the correct firewall zone for wireless connections `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Bouncer](https://flathub.org/en/apps/io.github.justinrdonnelly.bouncer) - Application to help you choose the correct firewall zone for wireless connections `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks `#python` `#gtk4` `#libadwaita`.
 - [NM GUI](https://github.com/s-adi-dev/nmgui) - GUI for managing WiFi networks, using NetworkManager (`nmcli`) `#python` `#gtk4`.
 
 ### Network Monitoring
 
-- [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
+- [Echo](https://flathub.org/en/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
-- [NetPeek](https://flathub.org/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
+- [NetPeek](https://flathub.org/en/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
 - [pingpath](https://github.com/yvs2014/pingpath) - Network diagnostic tool based on parsing ping output with functionality of traceroute `#c` `#gtk4`.
 - [Xtraceroute AI revamped](https://gitlab.com/cschalle/xtraceroute-ai-revamped) -  Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
 
@@ -524,7 +524,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c` `#gtk3`.
 - [NewsFlash](https://apps.gnome.org/NewsFlash) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#gtk4` `#libadwaita` `#gnome`.
-- [Pulp](https://flathub.org/apps/org.gnome.gitlab.cheywood.Pulp) - Application providing a workflow focused on reading through an excessive number of RSS feeds with the goal of regularly marking all read `#python` `#gtk4` `#libadwaita`.
+- [Pulp](https://flathub.org/en/apps/org.gnome.gitlab.cheywood.Pulp) - Application providing a workflow focused on reading through an excessive number of RSS feeds with the goal of regularly marking all read `#python` `#gtk4` `#libadwaita`.
 
 ### Proxy
 
@@ -533,7 +533,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Remote Desktop
 
 - [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gtk3` `#gnome`.
-- [MirrorHall](https://flathub.org/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4` `#libadwaita`.
+- [MirrorHall](https://flathub.org/en/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4` `#libadwaita`.
 - [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c` `#gtk3`.
 - [Vinagre](https://gitlab.gnome.org/Archive/vinagre) - (archive) Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gtk3`.
 
@@ -544,7 +544,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Social Media Server Management
 
-- [Fedinspect](https://flathub.org/apps/org.andypiper.Fedinspect) - Application for analysing Fediverse servers and user accounts `#python` `#gtk4` `#libadwaita`.
+- [Fedinspect](https://flathub.org/en/apps/org.andypiper.Fedinspect) - Application for analysing Fediverse servers and user accounts `#python` `#gtk4` `#libadwaita`.
 
 #### Social Graveyard
 
@@ -557,19 +557,19 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Specialized Web Browsers / Wrappers
 
 - [Alpaca](https://jeffser.com/alpaca) - Software to chat with local AI models (Ollama client) `#python` `#gtk4` `#libadwaita`.
-- [Archives](https://flathub.org/apps/dev.geopjr.Archives) - Software to archive any website, including its assets, into a self-contained hybrid HTML/ZIP, and to view the web archive `#vala` `#gtk4` `#libadwaita`.
+- [Archives](https://flathub.org/en/apps/dev.geopjr.Archives) - Software to archive any website, including its assets, into a self-contained hybrid HTML/ZIP, and to view the web archive `#vala` `#gtk4` `#libadwaita`.
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#gtk4` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#gtk4` `#libadwaita`.
 - [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
-- [Hypathia](https://flathub.org/apps/net.hypatiaproject.Hypatia) - Research helper tool that provides context and information about interesting topics, e.g., definitions, explanations, and answers related to the text on the display `#vala` `#gtk4` `#libadwaita`.
+- [Hypathia](https://flathub.org/en/apps/net.hypatiaproject.Hypatia) - Research helper tool that provides context and information about interesting topics, e.g., definitions, explanations, and answers related to the text on the display `#vala` `#gtk4` `#libadwaita`.
 - [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Portrait Plus, Stable Diffusion, Custom Provider) interface `#python` `#gtk4` `#libadwaita`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#clojurescript` `#gtk4` `#libadwaita`.
 - [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube and PeerTube client with offline subscription and playlist features `#rust` `#gtk4` `#libadwaita`.
-- [Read It Later](https://flathub.org/apps/com.belmoussaoui.ReadItLater) - A Wallabag client that allows to save web articles and read them later `#rust` `#gtk4` `#libadwaita`.
+- [Read It Later](https://flathub.org/en/apps/com.belmoussaoui.ReadItLater) - A Wallabag client that allows to save web articles and read them later `#rust` `#gtk4` `#libadwaita`.
 - [Tally](https://github.com/cassidyjames/Tally) - Plausible Analytics (Google Analytics alternative) client `#vala` `#gtk4` `#libadwaita`.
 - [Tangram](https://apps.gnome.org/Tangram) - Browser for your pinned tabs `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Wike](https://apps.gnome.org/Wike) - Wikipedia client `#python` `#gtk4` `#libadwaita` `#gnome`.
-- [XCA AI Chat](https://flathub.org/apps/io.github.alfianlosari.GTKChatGPT) - AI chatbot interface for ChatOpenAI's ChatGPT `#swift` `#gtk4` `#libadwaita`.
+- [XCA AI Chat](https://flathub.org/en/apps/io.github.alfianlosari.GTKChatGPT) - AI chatbot interface for ChatOpenAI's ChatGPT `#swift` `#gtk4` `#libadwaita`.
 
 ### VPN
 
@@ -577,7 +577,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Web Browsers
 
-- [Add Water](https://flathub.org/apps/dev.qwery.AddWater) - Utility to install the [GNOME theme for Mozilla Firefox](https://github.com/rafaelmardojai/firefox-gnome-theme) `#python`  `#gtk4` `#libadwaita`.
+- [Add Water](https://flathub.org/en/apps/dev.qwery.AddWater) - Utility to install the [GNOME theme for Mozilla Firefox](https://github.com/rafaelmardojai/firefox-gnome-theme) `#python`  `#gtk4` `#libadwaita`.
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#gtk3` `#libhandy`.
 - [GNOME Web (Epiphany)](https://apps.gnome.org/Epiphany) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c`  `#gtk4` `#libadwaita` `#gnome`.
 - [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#gtk3` `#lua`.
@@ -603,9 +603,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Calculators & Math
 
 - [Binary](https://apps.gnome.org/Binary) - Small application to convert numbers to different bases `#python` `#gtk4` `#libadwaita`.
-- [Cuneo](https://flathub.org/apps/io.github.heidefinnischen.cuneo) - Widget-like calculator and conversion tool `#python` `#gtk4` `#libadwaita`.
+- [Cuneo](https://flathub.org/en/apps/io.github.heidefinnischen.cuneo) - Widget-like calculator and conversion tool `#python` `#gtk4` `#libadwaita`.
 - [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#gtk4` `#libadwaita`.
-- [Gauge](https://flathub.org/apps/io.github.josephmawa.Gauge) - High precision unit conversion tool `#javascript` `#gtk4` `#libadwaita`.
+- [Gauge](https://flathub.org/en/apps/io.github.josephmawa.Gauge) - High precision unit conversion tool `#javascript` `#gtk4` `#libadwaita`.
 - [GNOME Calculator](https://apps.gnome.org/Calculator) - Default calculator for the Gnome desktop for arithmetic, scientific or financial calculations `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Gnumeric](http://www.gnumeric.org) - Spreadsheet editor `#c` `#gtk3`.
 - [Graphs](https://apps.gnome.org/Graphs) - Plotting and data manipulation tool for the GNOME desktop `#python` `#vala` `#gtk4` `#libadwaita` `#gnome`.
@@ -635,15 +635,15 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Document Scanners
 
-- [CoBang](https://flathub.org/apps/vn.hoabinh.quan.CoBang) - QR Code and barcode scanner application `#python` `#gtk4` `#libadwaita`.
+- [CoBang](https://flathub.org/en/apps/vn.hoabinh.quan.CoBang) - QR Code and barcode scanner application `#python` `#gtk4` `#libadwaita`.
 - [Decoder](https://apps.gnome.org/Decoder) - QR Codes scanner and generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Document Scanner (SimpleScan)](https://apps.gnome.org/SimpleScan) - Document scanner using the SANE framework with crop and rotate editing features `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [gscan2pdf](https://gscan2pdf.sourceforge.net) - Document scanner with cleaning and OCR features (on the scan or imported images incl. PDFs, DjVus or other file types) `#perl` `#gtk3`.
 
 ### Note-taking
 
-- [Bookup](https://flathub.org/apps/org.gnome.gitlab.ilhooq.Bookup) - Markdown notes manager with SQLite database and PDF export (clone of Notes-Up) `#c` `#gtk4` `#libadwaita`.
-- [Buffer](https://flathub.org/apps/org.gnome.gitlab.cheywood.Buffer) - Desktop note-taking application that provides a minimal editing space for things that don't need keeping  `#python` `#gtk4` `#libadwaita`.
+- [Bookup](https://flathub.org/en/apps/org.gnome.gitlab.ilhooq.Bookup) - Markdown notes manager with SQLite database and PDF export (clone of Notes-Up) `#c` `#gtk4` `#libadwaita`.
+- [Buffer](https://flathub.org/en/apps/org.gnome.gitlab.cheywood.Buffer) - Desktop note-taking application that provides a minimal editing space for things that don't need keeping  `#python` `#gtk4` `#libadwaita`.
 - [Folio](https://github.com/toolstack/Folio) - Markdown note-taking application with GNOME desktop integration (Paper fork with additional features) `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Notes](https://gitlab.gnome.org/GNOME/gnome-notes) - Simple note editor for the GNOME desktop, also known as Bijiben `#c` `#gtk4` `#libadwaita`.
 - [Gnote](https://gitlab.gnome.org/GNOME/gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gtk4` `#libadwaita`.
@@ -659,7 +659,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#gtk4` `#libadwaita`.
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#gtk4` `#libadwaita`.
 - [Simple Diary](https://flathub.org/en/apps/com.bjareholt.johan.SimpleDiary) - Simple and lightweight diary app, supporting images and markdown `#typescript` `#c` `#gtk4` `#libadwaita`.
-- [Sticky Notes](https://flathub.org/apps/com.vixalien.sticky) - Simple sticky notes application for the GNOME desktop `#typescript` `#gjs` `#gtk4` `#libadwaita`.
+- [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) - Simple sticky notes application for the GNOME desktop `#typescript` `#gjs` `#gtk4` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++` `#gtk3`.
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python` `#gtk3`.
 
@@ -692,15 +692,15 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Translation
 
 - [Dialect](https://apps.gnome.org/Dialect) - Translation based on Google Translate, LibreTranslate and the free DeepL API `#python` `#gtk4` `#libadwaita` `#gnome`.
-- [lfy](https://flathub.org/apps/cool.ldr.lfy) - Translation application supporting Baidu, Tencent, Google Translate, Bing, Aliyun, Huoshan `#python` `#gtk4` `#libadwaita`.
+- [lfy](https://flathub.org/en/apps/cool.ldr.lfy) - Translation application supporting Baidu, Tencent, Google Translate, Bing, Aliyun, Huoshan `#python` `#gtk4` `#libadwaita`.
 
 ### Word Processors
 
 - [Abiword](https://gitlab.gnome.org/World/AbiWord) - Word processor with features and a feel similar to older, more classic versions of Microsoft's Word `#c++` `#gtk3`.
-- [Eloquent](https://flathub.org/apps/re.sonny.Eloquent) - Proofreading software for 20+ languages, powered by LanguageTool standalone server `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Eloquent](https://flathub.org/en/apps/re.sonny.Eloquent) - Proofreading software for 20+ languages, powered by LanguageTool standalone server `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Letters](https://flathub.org/en/apps/net.codelogistics.letters) - Modern, minimalist word processor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
-- [WebkitWord](https://flathub.org/apps/io.github.fastrizwaan.WebkitWord) - Rich text editor with powerful word processing capabilities in a clutter-free modern interface `#python` `#gtk4` `#libadwaita`.
-- [Scriptorium](https://flathub.org/apps/io.github.cgueret.Scriptorium) - Text editor coupled with a plotting and formatting tool to provide writers with an environment to plan, plot, write and edit e-books `#python` `#gtk4` `#libadwaita`.
+- [WebkitWord](https://flathub.org/en/apps/io.github.fastrizwaan.WebkitWord) - Rich text editor with powerful word processing capabilities in a clutter-free modern interface `#python` `#gtk4` `#libadwaita`.
+- [Scriptorium](https://flathub.org/en/apps/io.github.cgueret.Scriptorium) - Text editor coupled with a plotting and formatting tool to provide writers with an environment to plan, plot, write and edit e-books `#python` `#gtk4` `#libadwaita`.
 
 ## Productivity
 
@@ -709,21 +709,21 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Actioneer](https://github.com/phase1geo/actioneer) - Tool to automate actions on file changes `#vala` `#gtk3` `#granite`.
 - [Boatswain](https://apps.gnome.org/Boatswain) - Elgato Stream Deck controller `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Confy](https://confy.kirgroup.net) - Conferences schedule viewer `#python` `#gtk4` `#libadwaita`.
-- [Counters](https://flathub.org/apps/io.gitlab.guillermop.Counters) - Simple counting application to create counters to keep track of anything `#vala` `#gtk4` `#libadwaita`.
+- [Counters](https://flathub.org/en/apps/io.gitlab.guillermop.Counters) - Simple counting application to create counters to keep track of anything `#vala` `#gtk4` `#libadwaita`.
 - [StreamController](https://github.com/StreamController/StreamController) - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
-- [Clicker](https://flathub.org/apps/net.codelogistics.clicker) - Auto clicker application to simulate user input repeatedly `#python` `#gtk4` `#libadwaita`.
+- [Clicker](https://flathub.org/en/apps/net.codelogistics.clicker) - Auto clicker application to simulate user input repeatedly `#python` `#gtk4` `#libadwaita`.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere `#python` `#gtk4` `#libadwaita`.
 - [GNOME Characters](https://apps.gnome.org/Characters) - Emoji picker `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [File Roller](https://flathub.org/apps/org.gnome.FileRoller) - Archive manager for the GNOME desktop that supports many file types, e.g. `.7z`, `.zip,` `.tar` `#c` `#gtk4` `#libadwaita`.
+- [File Roller](https://flathub.org/en/apps/org.gnome.FileRoller) - Archive manager for the GNOME desktop that supports many file types, e.g. `.7z`, `.zip,` `.tar` `#c` `#gtk4` `#libadwaita`.
 - [Junction](https://apps.gnome.org/Junction) - Application menu that allows you to choose the application to open files or links `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
-- [Kasasa](https://flathub.org/apps/io.github.kelvinnovais.Kasasa) - Always on top window to clip and keep an eye on important things without switching window/workspace in the GNOME desktop `#c` `#gtk4` `#libadwaita`.
+- [Kasasa](https://flathub.org/en/apps/io.github.kelvinnovais.Kasasa) - Always on top window to clip and keep an eye on important things without switching window/workspace in the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Onboard](https://github.com/dr-ni/onboard) - Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users `#python` `#gtk3`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Runemaster](https://flathub.org/en/apps/io.github.johnfactotum.Runemaster) -  Unicode character viewer application for the GNOME desktop `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Serigy](https://flathub.org/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
+- [Serigy](https://flathub.org/en/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Sherlock](https://github.com/Skxxtz/sherlock) - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
@@ -735,14 +735,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Education
 
 - [CSVEN](https://flathub.org/en/apps/io.github.rsvzz.csven) - Game to learn how to write English words by ordering the scrambled letters of the words `#c` `#gtk4` `#libadwaita`.
-- [JapaChar](https://flathub.org/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
-- [Lexi](https://flathub.org/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
+- [JapaChar](https://flathub.org/en/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
+- [Lexi](https://flathub.org/en/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
-- [Memorado](https://flathub.org/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
+- [Memorado](https://flathub.org/en/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
 - [Quick Lookup](https://flathub.org/en/apps/com.github.johnfactotum.QuickLookup) - Dictionary application to lookup definitions for words or phrases, powered by Wiktionary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Spedread](https://flathub.org/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
-- [Spelling Bee](https://flathub.org/apps/io.github.josephmawa.SpellingBee) - English language learning application to learn words and enhance the English vocabulary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Word2IPA](https://flathub.org/apps/io.github.mohfy.word2ipa) - Utility to show the pronunciation of words or entire phrases in the IPA format, tailored for language learners, linguists, or speech technology developers `#python` `#gtk4` `#libadwaita`.
+- [Spedread](https://flathub.org/en/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
+- [Spelling Bee](https://flathub.org/en/apps/io.github.josephmawa.SpellingBee) - English language learning application to learn words and enhance the English vocabulary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Word2IPA](https://flathub.org/en/apps/io.github.mohfy.word2ipa) - Utility to show the pronunciation of words or entire phrases in the IPA format, tailored for language learners, linguists, or speech technology developers `#python` `#gtk4` `#libadwaita`.
 - [Wordbook](https://github.com/mufeedali/Wordbook) - Offline English-English dictionary application for the GNOME desktop using the Open English WordNet database and eSpeak for pronunciations `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Mind-mapping
@@ -753,13 +753,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Planner](https://gitlab.gnome.org/World/planner) - Cross-platform project management tool, for planning, scheduling and tracking projects `#c` `#gtk3`.
 - [Planify](https://github.com/alainm23/planify) - Project and task manager with Todoist support `#vala` `#gtk4` `#libadwaita`.
-- [Progress](https://flathub.org/apps/io.github.smolblackcat.Progress) - Simple kanban-style task organizer `#c++` `#gtk4` `#libadwaita`.
-- [ThisWeekInMyLife (Schedule)](https://flathub.org/apps/io.github.zhrexl.thisweekinmylife) - Kanban-styled planner that aims to help organize a workflow and keep track of activities `#c` `#gtk4` `#libadwaita`.
+- [Progress](https://flathub.org/en/apps/io.github.smolblackcat.Progress) - Simple kanban-style task organizer `#c++` `#gtk4` `#libadwaita`.
+- [ThisWeekInMyLife (Schedule)](https://flathub.org/en/apps/io.github.zhrexl.thisweekinmylife) - Kanban-styled planner that aims to help organize a workflow and keep track of activities `#c` `#gtk4` `#libadwaita`.
 
 ### Timers / Time Tracking
 
 - [Chess Clock](https://apps.gnome.org/Chessclock) - Over-the-board chess time control `#python` `#gtk4` `#libadwaita`.
-- [CubeTimer](https://flathub.org/apps/io.github.vallabhvidy.CubeTimer) - 3x3 Rubiks Cube Timer application `#python` `#gtk4` `#libadwaita`.
+- [CubeTimer](https://flathub.org/en/apps/io.github.vallabhvidy.CubeTimer) - 3x3 Rubiks Cube Timer application `#python` `#gtk4` `#libadwaita`.
 - [Exercise Timer](https://apps.gnome.org/Hiit) - Interval training timer `#rust` `#gtk4` `#libadwaita` `#relm4` `#gnome`.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - Pomodoro timer with statistics `#vala` `#gtk4` `#libadwaita`.
 - [Furtherance](https://github.com/lakoliu/Furtherance) - Cross-platform time tracker `#rust` `#gtk4` `#libadwaita`.
@@ -768,12 +768,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementary OS `#vala` `#gtk4` `#granite`.
 - [Khronos](https://apps.gnome.org/Khronos) - Task time logger `#vala` `#gtk4` `#libadwaita`.
 - [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
-- [Punchclock](https://flathub.org/apps/codes.loers.Punchclock) - Minimal time tracking application `#rust` `#gtk4` `#libadwaita`.
+- [Punchclock](https://flathub.org/en/apps/codes.loers.Punchclock) - Minimal time tracking application `#rust` `#gtk4` `#libadwaita`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Sessions](https://flathub.org/apps/com.pojtinger.felicitas.Sessions) - Simple visual timer application designed specifically for the pomodoro technique `#go` `#gtk4` `#libadwaita`.
+- [Sessions](https://flathub.org/en/apps/com.pojtinger.felicitas.Sessions) - Simple visual timer application designed specifically for the pomodoro technique `#go` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
-- [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Time Tracker](https://flathub.org/en/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementary OS `#vala` `#gtk3` `#granite`.
 - [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
 - [Valot](https://flathub.org/en/apps/com.odnoyko.valot) - Time tracking application, designed for developers, freelancers, and professionals who need to track their work time efficiently `#gjs` `#javascript` `#gtk4` `#libadwaita`.
@@ -806,7 +806,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Chemistry
 
-- [Nucleus](https://flathub.org/apps/page.codeberg.lo_vely.Nucleus) - Periodic table of the elements viewer that lets you explore the properties of each element `#python` `#gtk4` `#libadwaita`.
+- [Nucleus](https://flathub.org/en/apps/page.codeberg.lo_vely.Nucleus) - Periodic table of the elements viewer that lets you explore the properties of each element `#python` `#gtk4` `#libadwaita`.
 
 ### Electronics and Engineering
 
@@ -821,7 +821,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Geobug](https://tpikonen.codeberg.page/geobug) - Adaptive client for GeoClue, the geolocation service from freedesktop.org, to display location information (coordinates, speed etc.), saves a track of movements to a GPX-file. `#python` `#gtk4` `#libadwaita`.
 - [gpsami](https://gitlab.gnome.org/hub/gpsami) - Application to download data from GPS loggers and to save it as GPX `#rust` `#gtk4` `#libadwaita`.
 - [NOAA APT](https://github.com/bareboat-necessities/noaa-apt) - Weather satellite image decoder `#rust` `#gtk3`.
-- [Satellite](https://flathub.org/apps/page.codeberg.tpikonen.satellite) - Application to display GNSS (GPS, Galileo, Glonass etc.) information, e.g. location information (coordinates, speed etc.), saves a track of movements to a GPX-file `#python` `#gtk4` `#libadwaita`.
+- [Satellite](https://flathub.org/en/apps/page.codeberg.tpikonen.satellite) - Application to display GNSS (GPS, Galileo, Glonass etc.) information, e.g. location information (coordinates, speed etc.), saves a track of movements to a GPX-file `#python` `#gtk4` `#libadwaita`.
 
 ### Physics
 
@@ -843,8 +843,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Collision](https://apps.gnome.org/app/dev.geopjr.Collision) - Tool to generate, compare and verify hashes `#crystal` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c` `#gtk3`.
-- [Kapitano](https://flathub.org/apps/page.codeberg.zynequ.Kapitano) - User-friendly antivirus tool and malware scanner for Linux (malware, viruses, and threats) based on ClamAV `#python` `#gtk4` `#libadwaita`.
-- [Lenspect](https://flathub.org/apps/io.github.vmkspv.lenspect) - Security threat and malware scanner for files `#python` `#gtk4` `#libadwaita`.
+- [Kapitano](https://flathub.org/en/apps/page.codeberg.zynequ.Kapitano) - User-friendly antivirus tool and malware scanner for Linux (malware, viruses, and threats) based on ClamAV `#python` `#gtk4` `#libadwaita`.
+- [Lenspect](https://flathub.org/en/apps/io.github.vmkspv.lenspect) - Security threat and malware scanner for files `#python` `#gtk4` `#libadwaita`.
 - [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps `#rust` `#gtk4` `#libadwaita`.
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#gtk4` `#libadwaita`.
 - [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#gtk4` `#libadwaita`.
@@ -853,14 +853,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Password Management
 
 - [Authenticator](https://apps.gnome.org/Authenticator) - Two-factor authentication codes generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
-- [Goldwarden](https://flathub.org/apps/com.quexten.Goldwarden) - Bitwarden compatible desktop password manager `#go` `#gtk4` `#libadwaita`.
+- [Goldwarden](https://flathub.org/en/apps/com.quexten.Goldwarden) - Bitwarden compatible desktop password manager `#go` `#gtk4` `#libadwaita`.
 - [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++` `#gtk3`.
-- [Identities](https://flathub.org/apps/one.k8ie.Identities) - `pass` (password store) client for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
-- [LPTK](https://flathub.org/apps/me.ogarcia.lptk) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
+- [Identities](https://flathub.org/en/apps/one.k8ie.Identities) - `pass` (password store) client for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
+- [LPTK](https://flathub.org/en/apps/me.ogarcia.lptk) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementary OS `#vala` `#gtk3` `#granite` `#libhandy`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
-- [Projectpad](https://flathub.org/apps/com.github.emmanueltouzery.projectpad) - Manager for secret credentials and server information `#rust` `#gtk4` `#libadwaita`.
+- [Projectpad](https://flathub.org/en/apps/com.github.emmanueltouzery.projectpad) - Manager for secret credentials and server information `#rust` `#gtk4` `#libadwaita`.
 - [Secrets](https://apps.gnome.org/Secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Cryptography
@@ -889,14 +889,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
-- [Octopus](https://flathub.org/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
+- [Octopus](https://flathub.org/en/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
 
 ### Emulators and Compatibility Layers
 
 - [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of Wine `#python` `#gtk4` `#libadwaita`.
 - [Fuse](https://fuse-emulator.sourceforge.net) - ZX Spectrum emulator `#c` `#gtk3`.
 - [WineCharm](https://github.com/fastrizwaan/WineCharm) - GUI designed to simplify running and managing Windows applications on Linux using Wine `#python` `#gtk4` `#libadwaita`.
-- [WineZGUI](https://flathub.org/apps/io.github.fastrizwaan.WineZGUI) - Zenity GUI for managing Wine prefixes and launching Windows binaries through Wine `#python` `#gtk4` `#libadwaita`.
+- [WineZGUI](https://flathub.org/en/apps/io.github.fastrizwaan.WineZGUI) - Zenity GUI for managing Wine prefixes and launching Windows binaries through Wine `#python` `#gtk4` `#libadwaita`.
 
 ## Development
 
@@ -905,26 +905,26 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#gtk4` `#libadwaita`.
 - [Boxes](https://apps.gnome.org/Boxes) - Virtual machine manager for the GNOME desktop `#vala` `#gtk3`.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#gtk4` `#libadwaita`.
-- [DistroShelf](https://flathub.org/apps/com.ranfdev.DistroShelf) - Graphical interface to manage DistroBox containers `#rust` `#gtk4` `#libadwaita`.
-- [Field Monitor](https://flathub.org/apps/de.capypara.FieldMonitor) - Remote desktop client to access virtual machines (VMs) and external screens, supporting Proxmox and QEMU/KVM, but also SPICE, RDP or VNC `#rust` `#gtk4` `#libadwaita`.
+- [DistroShelf](https://flathub.org/en/apps/com.ranfdev.DistroShelf) - Graphical interface to manage DistroBox containers `#rust` `#gtk4` `#libadwaita`.
+- [Field Monitor](https://flathub.org/en/apps/de.capypara.FieldMonitor) - Remote desktop client to access virtual machines (VMs) and external screens, supporting Proxmox and QEMU/KVM, but also SPICE, RDP or VNC `#rust` `#gtk4` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Qemu GTK UI](https://gitlab.com/qemu-project/qemu) - User interface for Qemu `#c` `#gtk3`.
-- [Seabird](https://flathub.org/apps/dev.skynomads.Seabird) - Cross-platform Kubernetes IDE for the GNOME desktop, e.g. to explore and manage clusters `#go` `#gtk4` `#libadwaita`.
+- [Seabird](https://flathub.org/en/apps/dev.skynomads.Seabird) - Cross-platform Kubernetes IDE for the GNOME desktop, e.g. to explore and manage clusters `#go` `#gtk4` `#libadwaita`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
 
 ### Development Tools
 
-- [D-Spy](https://flathub.org/apps/org.gnome.dspy) - Simple tool to explore D-Bus connections `#c` `#gtk4` `#libadwaita` `#gnome`. 
+- [D-Spy](https://flathub.org/en/apps/org.gnome.dspy) - Simple tool to explore D-Bus connections `#c` `#gtk4` `#libadwaita` `#gnome`. 
 - [Schemes](https://flathub.org/en/apps/app.devsuite.Schemes) - Application to create syntax highlighting style-schemes for GtkSourceView-based applications such as Builder or Text Editor `#c` `#gtk4` `#libadwaita`.
 - [Sysprof](https://apps.gnome.org/Sysprof) - Application to profile an application or entire system, to aid in debugging and optimization `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [Translation Editor (Gtranslator)](https://flathub.org/apps/org.gnome.Gtranslator) - Enhanced gettext `.po` file editor for the GNOME desktop to translate applications `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Translation Editor (Gtranslator)](https://flathub.org/en/apps/org.gnome.Gtranslator) - Enhanced gettext `.po` file editor for the GNOME desktop to translate applications `#c` `#gtk4` `#libadwaita` `#gnome`.
 
 ### Documentation
 
 - [Biblioteca](https://apps.gnome.org/Biblioteca) - GNOME/Libadwaita documentation browser and viewer `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [DevDocs Desktop](https://github.com/hardpixel/devdocs-desktop) - [DevDocs] browser and viewer `#python` `#gtk3`.
-- [Learn 6502 Assembly](https://flathub.org/apps/eu.jumplink.Learn6502) - Complete learning environment for programming vintage computers and game consoles, incl. tutorial, dedicated editor and debugger, virtual game console `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [Learn 6502 Assembly](https://flathub.org/en/apps/eu.jumplink.Learn6502) - Complete learning environment for programming vintage computers and game consoles, incl. tutorial, dedicated editor and debugger, virtual game console `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [quickDocs](https://github.com/mdh34/quickDocs) - Documentation browser for [DevDocs] and Valadoc `#vala` `#gtk3` `#granite`.
 
 [devdocs]: https://devdocs.io
@@ -958,7 +958,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c` `#gtk3`.
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
-- [MousePad](https://flathub.org/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
+- [MousePad](https://flathub.org/en/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
 - [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk3` `#granite`.
 - [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++` `#gtk3`.
@@ -979,11 +979,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Quilter](https://github.com/lainsce/quilter) - Distraction-free Markdown editor `#vala` `#gtk4` `#libadwaita`.
 - [Scratchmark](https://flathub.org/en/apps/org.scratchmark.Scratchmark) - Distraction-free Markdown editor designed for keeping notes, writing longer texts, and organizing files `#rust` `#gtk4` `#libadwaita`.
 - [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer `#vala` `#gtk3`.
-- [Tabëla](https://flathub.org/apps/com.mastropaolo.www.tabela) - Utility to format tables to Markdown or HTML `#rust` `#gtk4` `#libadwaita`.
+- [Tabëla](https://flathub.org/en/apps/com.mastropaolo.www.tabela) - Utility to format tables to Markdown or HTML `#rust` `#gtk4` `#libadwaita`.
 
 ### LaTeX
 
-- [Bada Bib!](https://flathub.org/apps/com.github.rogercrocker.badabib) - BibTex viewer and editor `#python` `#gtk4` `#libadwaita`.
+- [Bada Bib!](https://flathub.org/en/apps/com.github.rogercrocker.badabib) - BibTex viewer and editor `#python` `#gtk4` `#libadwaita`.
 - [Citations](https://apps.gnome.org/Citations) - BibTex bibliography manager `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Gummi](https://gummi.app) - Simple LaTeX editor `#c` `#gtk3`.
 - [GNOME LaTeX (LaTeXila)](https://gitlab.gnome.org/swilmet/enter-tex) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gtk3`.
@@ -993,8 +993,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Typst
 
-- [Escritoire](https://flathub.org/apps/page.codeberg.dudenix.escritoire) - Application to write standard-compliant letter using Typst `#rust` `#gtk4` `#libadwaita`.
-- [Typewriter](https://flathub.org/apps/app.drey.Typewriter) - Simple Typst editor `#rust` `#gtk4` `#libadwaita`.
+- [Escritoire](https://flathub.org/en/apps/page.codeberg.dudenix.escritoire) - Application to write standard-compliant letter using Typst `#rust` `#gtk4` `#libadwaita`.
+- [Typewriter](https://flathub.org/en/apps/app.drey.Typewriter) - Simple Typst editor `#rust` `#gtk4` `#libadwaita`.
 
 ### Terminals
 
@@ -1020,10 +1020,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Toolboxes
 
-- [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub `#python` `#gtk4` `#libadwaita`.
+- [Aurea](https://flathub.org/en/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub `#python` `#gtk4` `#libadwaita`.
 - [Cartero](https://cartero.danirod.es) - Graphical HTTP client to perform HTTP requests and test web APIs `#rust` `#gtk4` `#libadwaita`.
 - [Dev Toolbox](https://github.com/aleiepure/devtoolbox) - Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more `#python` `#gtk4` `#libadwaita`.
-- [Digger](https://flathub.org/apps/io.github.tobagin.digger) - DNS lookup tool, user interface for the dig command `#python` `#gtk4` `#libadwaita`.
+- [Digger](https://flathub.org/en/apps/io.github.tobagin.digger) - DNS lookup tool, user interface for the dig command `#python` `#gtk4` `#libadwaita`.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application `#python` `#gtk4` `#libadwaita`.
 - [GTKWave](https://gtkwave.github.io/gtkwave) - Wave viewer for debugging Verilog or VHDL simulation models, particularly for post-mortem analysis by analyzing dumpfiles (e.g. FST, LXT, LXT2, VZT, GHW, Verilog VCD/EVCD files) `#c` `#gtk4`.
 - [Share Preview](https://apps.gnome.org/SharePreview) - Application to preview and debug websites metadata tags for social media share `#rust` `#gtk4` `#libadwaita`.
@@ -1035,7 +1035,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Glade](https://glade.gnome.org) - RAD tool to enable quick & easy development of user interfaces for the GTK toolkit and the GNOME desktop `#c` `#gtk3`.
 - [Cambalache](https://gitlab.gnome.org/jpu/cambalache) - RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy `#python` `#gtk3`.
 - [Gradience](https://github.com/GradienceTeam/Gradience) - Libadwaita applications customizer `#python` `#gtk4` `#libadwaita`.
-- [Typography](https://flathub.org/apps/org.gnome.design.Typography) - Tool for working with the GNOME desktop typography design guidelines `#c` `#gtk4` `#libadwaita`.
+- [Typography](https://flathub.org/en/apps/org.gnome.design.Typography) - Tool for working with the GNOME desktop typography design guidelines `#c` `#gtk4` `#libadwaita`.
 
 ### Version Control and Diffs
 
@@ -1045,27 +1045,27 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gitg](https://gitlab.gnome.org/GNOME/gitg) - Git GUI client `#vala` `#gtk3`.
 - [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs` `#javascript` `#gtk3`.
 - [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gtk3`.
-- [Stage](https://flathub.org/apps/io.github.aganzha.Stage) - Git GUI client inspired by Magit `#rust` `#gtk4` `#libadwaita`.
-- [Text Compare](https://flathub.org/apps/io.github.josephmawa.TextCompare) - Simple text comparison application to compare old and new text `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Stage](https://flathub.org/en/apps/io.github.aganzha.Stage) - Git GUI client inspired by Magit `#rust` `#gtk4` `#libadwaita`.
+- [Text Compare](https://flathub.org/en/apps/io.github.josephmawa.TextCompare) - Simple text comparison application to compare old and new text `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems, context menus and specific dialogues for complex operations `#python` `#gtk4` `#libadwaita`.
 
 ## Design
 
-- [App Icon Preview](https://flathub.org/apps/org.gnome.design.AppIconPreview) - Tool for designing icons which target the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
-- [Bella](https://flathub.org/apps/io.github.josephmawa.Bella) - Utility to pick a color from anywhere on your screen and save it in one of the common color formats `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [App Icon Preview](https://flathub.org/en/apps/org.gnome.design.AppIconPreview) - Tool for designing icons which target the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
+- [Bella](https://flathub.org/en/apps/io.github.josephmawa.Bella) - Utility to pick a color from anywhere on your screen and save it in one of the common color formats `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#gtk4` `#libadwaita`.
 - [Emblem](https://apps.gnome.org/Emblem) -  Tool to create project avatars/symbolic icons for Matrix rooms or Git forges `#rust` `#gtk4` `#libadwaita`.
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
 - [Eyedropper](https://apps.gnome.org/Eyedropper) - Color picker and formatter `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala` `#gtk4` `#granite`.
-- [Iconic](https://flathub.org/apps/nl.emphisia.icon) - Application to create folder icons and add them on top of folders in GNOME `#rust` `#gtk4` `#libadwaita`.
-- [Icon Browser](https://flathub.org/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#c++` `#gtk4` `#libadwaita`.
-- [Icon Library](https://flathub.org/apps/org.gnome.design.IconLibrary) - System icon browser `#rust` `#gtk4` `#libadwaita`.
+- [Iconic](https://flathub.org/en/apps/nl.emphisia.icon) - Application to create folder icons and add them on top of folders in GNOME `#rust` `#gtk4` `#libadwaita`.
+- [Icon Browser](https://flathub.org/en/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#c++` `#gtk4` `#libadwaita`.
+- [Icon Library](https://flathub.org/en/apps/org.gnome.design.IconLibrary) - System icon browser `#rust` `#gtk4` `#libadwaita`.
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `#libadwaita`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
-- [Pigment](https://flathub.org/apps/com.jeffser.Pigment) - Utility to extract a palette of colors from your images offline `#python` `#gtk4` `#libadwaita`.
+- [Pigment](https://flathub.org/en/apps/com.jeffser.Pigment) - Utility to extract a palette of colors from your images offline `#python` `#gtk4` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#gtk4` `#libadwaita`.
 
 ## File and Data Management
@@ -1083,7 +1083,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Daty](https://gitlab.gnome.org/World/Daty) - Cross-platform advanced Wikidata editor `#python` `#gtk3` `#libhandy`.
 - [PSequel](https://github.com/ppvan/psequel) - Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#gtk3` `#granite`.
-- [Tarug](https://flathub.org/apps/io.github.ppvan.tarug) - Minimal modern Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
+- [Tarug](https://flathub.org/en/apps/io.github.ppvan.tarug) - Minimal modern Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 
 ### Disk Imaging
 
@@ -1108,9 +1108,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Search
 
-- [Clapgrep](https://flathub.org/apps/de.leopoldluley.Clapgrep) - Application to search through file contents of all sorts of text files, PDFs and office documents `#rust` `#gtk4` `#libadwaita`.
+- [Clapgrep](https://flathub.org/en/apps/de.leopoldluley.Clapgrep) - Application to search through file contents of all sorts of text files, PDFs and office documents `#rust` `#gtk4` `#libadwaita`.
 - [FSearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility `#c` `#gtk3`.
-- [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
+- [Snoop](https://flathub.org/en/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
 
 ### File Synchronisation
 
@@ -1130,10 +1130,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Software Installation
 
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer `#python` `#gtk4` `#libadwaita`.
-- [Bazaar](https://flathub.org/apps/io.github.kolunmi.Bazaar) - App store for the GNOME desktop to discover and install applications and add-ons from Flatpak remotes, particularly Flathub `#c` `#gtk4` `#libadwaita`.
+- [Bazaar](https://flathub.org/en/apps/io.github.kolunmi.Bazaar) - App store for the GNOME desktop to discover and install applications and add-ons from Flatpak remotes, particularly Flathub `#c` `#gtk4` `#libadwaita`.
 - [Extension Manager](https://github.com/mjakeman/extension-manager) - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
-- [Gear lever](https://flathub.org/apps/it.mijorus.gearlever) - Utility to manage AppImages `#python` `#gtk4` `#libadwaita`.
-- [GNOME Firmware](https://flathub.org/apps/org.gnome.Firmware) - Utility for updating, reinstalling and downgrading of firmware on devices supported by fwupd  `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Gear lever](https://flathub.org/en/apps/it.mijorus.gearlever) - Utility to manage AppImages `#python` `#gtk4` `#libadwaita`.
+- [GNOME Firmware](https://flathub.org/en/apps/org.gnome.Firmware) - Utility for updating, reinstalling and downgrading of firmware on devices supported by fwupd  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Software](https://apps.gnome.org/Software) - Application to install and update applications (Debian-, RPM-, Flatpak-, and Snap packages, Firmware updates)  `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Icicle](https://github.com/snowfallorg/icicle) - Graphical installer for NixOS based distributions `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Impression](https://apps.gnome.org/Impression) - Straight-forward and modern application to create bootable drives `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -1141,12 +1141,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Nix Software Center](https://github.com/snowfallorg/nix-software-center) - Software center to easity install and manage Nix packages `#rust` `#gtk4` `#libadwaita` `#relm4`. 
 - [Parceldude](https://notabug.org/grindhold/parceldude) - Batch installer for Windows MSI packages `#vala` `#gtk3`.
 - [Pin It!](https://github.com/ryonakano/pinit) - Portable applications shortcut creator `#vala` `#gtk4` `#libadwaita`.
-- [Pins](https://flathub.org/apps/io.github.fabrialberio.pinapp) - `.desktop` files creator/editor `#c` `#gtk4` `#libadwaita`.
+- [Pins](https://flathub.org/en/apps/io.github.fabrialberio.pinapp) - `.desktop` files creator/editor `#c` `#gtk4` `#libadwaita`.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#gtk4` `#libadwaita`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
-- [Spider](https://flathub.org/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integration with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
+- [Spider](https://flathub.org/en/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integration with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
-- [Web Apps](https://flathub.org/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
+- [Web Apps](https://flathub.org/en/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
 
 ### System and File Cleaning
 
@@ -1157,7 +1157,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### System Configuration
 
-- [Concessio](https://flathub.org/apps/io.github.ronniedroid.concessio) - GUI to convert between numeric and symbolic Unix file permissions `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Concessio](https://flathub.org/en/apps/io.github.ronniedroid.concessio) - GUI to convert between numeric and symbolic Unix file permissions `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc) `#vala` `#gtk4` `#libadwaita`.
 - [Dconf Editor](https://apps.gnome.org/DconfEditor) - Graphical tool for editing the dconf database `#vala` `#gtk3` `#libhandy`.
 - [doppler](https://github.com/spacekookie/doppler) - Fronted for Redshift allowing to configure different display temperatures for each time of day `#rust` `#gtk3`.
@@ -1165,7 +1165,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Embellish](https://github.com/getnf/embellish) - Application to install and manage Nerd Fonts on the system `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala` `#gtk3`.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) - Flatpak leftover cleaner `#python` `#gtk4` `#libadwaita`.
+- [Flatsweep](https://flathub.org/en/apps/io.github.giantpinkrobots.flatsweep) - Flatpak leftover cleaner `#python` `#gtk4` `#libadwaita`.
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
 - [Folder Manager (Foldy)](https://altlinux.space/alt-gnome/Foldy) - Tool to manage folders in GNOME desktop application menu `#vala` `#gtk4` `#libadwaita`.
 - [gconfig](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/scripts/kconfig) - Graphical kernel configuration utility for the Linux kernel `#c` `#gtk3`.
@@ -1174,41 +1174,41 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [HydraPaper](https://flathub.org/en/apps/org.gabmus.hydrapaper) - Wallpaper manager with multi monitor support `#python` `#gtk4` `#libadwaita`.
-- [Ignition](https://flathub.org/apps/io.github.flattool.Ignition) - Utility to manage startup apps and scripts (Freedesktop autostart entries) `#gjs` `#typescript` `#gtk4` `#libadwaita`.
-- [KeySmith](https://flathub.org/apps/io.github.tobagin.keysmith) - Utility to generate, manage, and deploy SSH keys `#python` `#gtk4` `#libadwaita`.
+- [Ignition](https://flathub.org/en/apps/io.github.flattool.Ignition) - Utility to manage startup apps and scripts (Freedesktop autostart entries) `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [KeySmith](https://flathub.org/en/apps/io.github.tobagin.keysmith) - Utility to generate, manage, and deploy SSH keys `#python` `#gtk4` `#libadwaita`.
 - [LACT](https://github.com/ilya-zlobintsev/LACT) - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
-- [Main Menu](https://flathub.org/apps/page.codeberg.libre_menu_editor.LibreMenuEditor) - Utility to customize the application launchers and the main menu in Freedesktop-compliant desktop environments `#python` `#gtk4` `#libadwaita`.
+- [Main Menu](https://flathub.org/en/apps/page.codeberg.libre_menu_editor.LibreMenuEditor) - Utility to customize the application launchers and the main menu in Freedesktop-compliant desktop environments `#python` `#gtk4` `#libadwaita`.
 - [Mending Wall](https://flathub.org/en/apps/org.indii.mendingwall) - Application to fix issues when switching between multiple desktop environments (e.g. GNOME, KDE Plasma, Xfce, Cinnamon, COSMIC), such as scaling issues, wrong sizes of cursors or fonts `#c` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
 - [Oversteer](https://flathub.org/en/apps/io.github.berarma.Oversteer) - Steering wheel manager `#python` `#gtk3`.
-- [Picture of the Day](https://flathub.org/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
+- [Picture of the Day](https://flathub.org/en/apps/de.swsnr.pictureoftheday) -  Application to set a daily wallpaper, from different sources (NASA Astronomy Picture of the Day, Bing, Wikimedia, Simon Stålenhag artwork) `#rust` `#gtk4` `#libadwaita`.
 - [pipemenu](https://github.com/soanvig/pipemenu) - GTK4 `libadwaita` dmenu alternative `#rust` `#gtk4` `#libadwaita`.
 - [pulse-flow](https://github.com/benwaffle/pulse-flow) - PulseAudio configuration tool with a flow graph UI `#vala` `#gtk3`.
 - [Refine](https://tesk.page/refine) - GNOME Tweaks alternative that lets you tweaks with GNOME settings and try experimental features `#python` `#gtk4` `#libadwaita`.
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
-- [Rewaita](https://flathub.org/apps/io.github.swordpuffin.rewaita) - Utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
+- [Rewaita](https://flathub.org/en/apps/io.github.swordpuffin.rewaita) - Utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
 - [sshPilot](https://flathub.org/en/apps/io.github.mfat.sshpilot) - SSH connection manager with integrated terminal for managing remove servers `#python` `#gtk4`  `#libadwaita`.
 - [SSH Studio](https://flathub.org/en/apps/io.github.BuddySirJava.SSH-Studio) - SSH config editor and validator `#python` `#gtk4`  `#libadwaita`.
-- [SysD Manager](https://flathub.org/apps/io.github.plrigaux.sysd-manager) - GUI to manage systemd units, such as services, timers, and sockets `#rust` `#gtk4` `#libadwaita`.
-- [Touché](https://flathub.org/apps/com.github.joseexposito.touche) - User interface to configure touchpad and touchscreen multi-touch gestures `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
+- [SysD Manager](https://flathub.org/en/apps/io.github.plrigaux.sysd-manager) - GUI to manage systemd units, such as services, timers, and sockets `#rust` `#gtk4` `#libadwaita`.
+- [Touché](https://flathub.org/en/apps/com.github.joseexposito.touche) - User interface to configure touchpad and touchscreen multi-touch gestures `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Tuner](https://flathub.org/en/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
-- [Wattage](https://flathub.org/apps/io.github.v81d.Wattage) - Monitoring application of the health and status of power devices, e.g. battery capacity, energy metrics, and device information `#vala` `#gtk4` `#libadwaita`.
-- [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
+- [Wattage](https://flathub.org/en/apps/io.github.v81d.Wattage) - Monitoring application of the health and status of power devices, e.g. battery capacity, energy metrics, and device information `#vala` `#gtk4` `#libadwaita`.
+- [WSelector](https://flathub.org/en/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
 - [YAFI (Yet Another Framework Interface)](https://flathub.org/en/apps/au.stevetech.yafi) - GUI for the Framework laptop embedded controller, e.g. to control the fan and LED, or to monitor temperature `#python` `#gtk4` `#libadwaita`.
 
 
 ### System Monitoring and Info
 
-- [Awake on LAN](https://flathub.org/apps/co.logonoff.awakeonlan) - Simple application that allows you to wake up computers remotely using Wake-on-LAN packets `#python` `#gtk4` `#libadwaita`.
-- [Battery Info](https://flathub.org/apps/com.her01n.BatteryInfo) - Utility that displays information about the installed battery `#scheme` `#gtk4` `#libadwaita`.
+- [Awake on LAN](https://flathub.org/en/apps/co.logonoff.awakeonlan) - Simple application that allows you to wake up computers remotely using Wake-on-LAN packets `#python` `#gtk4` `#libadwaita`.
+- [Battery Info](https://flathub.org/en/apps/com.her01n.BatteryInfo) - Utility that displays information about the installed battery `#scheme` `#gtk4` `#libadwaita`.
 - [Bustle](https://apps.gnome.org/Bustle) - D-Bus activity viewer that draws diagram sequences `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X) - System profiling and monitoring application (similar to CPU-Z for Windows) `#c` `#c++` `#gtk3`.
 - [Door Knocker](https://codeberg.org/tytan652/door-knocker) - Tool to check availability of all `xdg-desktop-portal` portals `#c` `#gtk4` `#libadwaita`.
@@ -1236,7 +1236,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Gaming
 
 - [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#gtk4` `#relm4` `#libadwaita`.
-- [Boxflat](https://flathub.org/apps/io.github.lawstorant.boxflat) - Utility to change Moza Racing hardware settings, adding SDL/Proton detection fixes for any of your devices (pedals, shifters, handbrakes etc.) from other brands.  `#python` `#gtk4` `#libadwaita`.
+- [Boxflat](https://flathub.org/en/apps/io.github.lawstorant.boxflat) - Utility to change Moza Racing hardware settings, adding SDL/Proton detection fixes for any of your devices (pedals, shifters, handbrakes etc.) from other brands.  `#python` `#gtk4` `#libadwaita`.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#gtk4` `#libadwaita`.
 - [DeSmuME](https://github.com/TASEmulators/desmume) - Cross-platform Nintendo DS emulator `#c++` `#gtk3`.
 - [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - Unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store `#rust` `#gtk4` `#libadwaita`.
@@ -1245,7 +1245,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
 - [Snes9x](http://www.snes9x.com) - Cross-platform portable Super Nintendo Entertainment System (TM) emulator `#c++` `#gtk3`.
-- [Maniatic Launcher](https://flathub.org/apps/io.github.santiagocezar.maniatic-launcher) - Launcher for the decompilation of Sonic Manic Plus (Retro Engine v5) `#python` `#gtk4` `#libadwaita`.
+- [Maniatic Launcher](https://flathub.org/en/apps/io.github.santiagocezar.maniatic-launcher) - Launcher for the decompilation of Sonic Manic Plus (Retro Engine v5) `#python` `#gtk4` `#libadwaita`.
 
 ### Action, Platformer, Jump 'n' run
 
@@ -1256,11 +1256,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Board and Card Games
 
 - [2048](https://gitlab.gnome.org/GNOME/gnome-2048) - A 2048-like game for GNOME `#vala` `#gtk3`.
-- [Chance](https://flathub.org/apps/dev.zelikos.rollit) - Roll the Dice application that rolls a six-sided dice by default and allows custom dice of up to 999 sides `#rust` `#gtk4` `#libadwaita`.
+- [Chance](https://flathub.org/en/apps/dev.zelikos.rollit) - Roll the Dice application that rolls a six-sided dice by default and allows custom dice of up to 999 sides `#rust` `#gtk4` `#libadwaita`.
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with support for shaped and color crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
 - [Draughts](https://flathub.org/en/apps/io.github.tobagin.Draughts) - Draughts (checkers) game featuring 16 international variants and AI opponents `#vala` `#gtk4` `#libadwaita`.
-- [Flood It](https://flathub.org/apps/io.github.tfuxu.floodit) - Game with the simple premise of flooding the entire board with one color in the least amount of moves possible `#go` `#gtk4` `#libadwaita`.
+- [Flood It](https://flathub.org/en/apps/io.github.tfuxu.floodit) - Game with the simple premise of flooding the entire board with one color in the least amount of moves possible `#go` `#gtk4` `#libadwaita`.
 - [Four-in-a-row](https://flathub.org/en/apps/org.gnome.Four-in-a-row) - Game where players try to build a line of four marbles while trying to stop the opponent (human or computer) from building a line `#vala` `#gtk3`.
 - [GNOME Chess](https://flathub.org/en/apps/org.gnome.Chess) - Classic two-player board game of chess `#vala` `#gtk4` `#libadwaita`.
 - [Goban](https://gitlab.com/gjask/goban) - Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
@@ -1272,9 +1272,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Puzzles and Quizzes
 
 - [Atomix](https://flathub.org/en/apps/org.gnome.atomix) - Puzzle game in which the player has to build full molecules `#c` `#gtk3`.
-- [Blurble](https://flathub.org/apps/app.drey.Blurble) - Word guessing game `#vala` `#gtk4` `#libadwaita`.
-- [Egghead](https://flathub.org/apps/io.github.josephmawa.Egghead) - Knowledge and trivia quiz, including categories like "Science and Nature", "Geography", and "Politics" `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [GNOME Sudoku](https://flathub.org/apps/org.gnome.Sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
+- [Blurble](https://flathub.org/en/apps/app.drey.Blurble) - Word guessing game `#vala` `#gtk4` `#libadwaita`.
+- [Egghead](https://flathub.org/en/apps/io.github.josephmawa.Egghead) - Knowledge and trivia quiz, including categories like "Science and Nature", "Geography", and "Politics" `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [GNOME Sudoku](https://flathub.org/en/apps/org.gnome.Sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
 - [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where players need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
@@ -1288,7 +1288,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Simulation
 
-- [Game of Life](https://flathub.org/apps/com.github.sixpounder.GameOfLife) - Simple Conway's game of life simulator for the GNOME desktop  `#rust` `#gtk4` `#libadwaita`.
+- [Game of Life](https://flathub.org/en/apps/com.github.sixpounder.GameOfLife) - Simple Conway's game of life simulator for the GNOME desktop  `#rust` `#gtk4` `#libadwaita`.
 
 ### Sports
 
@@ -1296,19 +1296,19 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Strategy
 
-- [Freeciv GTK Client](https://flathub.org/apps/org.freeciv.gtk4) - Empire-building strategy game inspired by the history of human civilization `#c` `#gtk4`.
+- [Freeciv GTK Client](https://flathub.org/en/apps/org.freeciv.gtk4) - Empire-building strategy game inspired by the history of human civilization `#c` `#gtk4`.
 
 
 ## Health and Fitness
 
-- [AAT Activity Tracker](https://flathub.org/apps/ch.bailu.aat) - Application to track sportive and outdoor activities while displaying them on cockpit and map view, supporting GPX format for sharing `#kotlin` `#gtk4` `#libadwaita`.
-- [Breathing](https://flathub.org/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
+- [AAT Activity Tracker](https://flathub.org/en/apps/ch.bailu.aat) - Application to track sportive and outdoor activities while displaying them on cockpit and map view, supporting GPX format for sharing `#kotlin` `#gtk4` `#libadwaita`.
+- [Breathing](https://flathub.org/en/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Jogger](https://codeberg.org/baarkerlounger/jogger) - Running (and other workout) tracker for GNOME Mobile with import from Fitotrack  `#rust` `#gtk4` `#libadwaita`.
 - [Powercycle JS](https://github.com/charles-m-knox/powercycle-js) - ANT+ USB powered GUI and server to control your indoor bike's smart trainer `#gjs` `#typescript` `#gtk4` `#libadwaita`.
-- [Stretch Break](https://flathub.org/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
+- [Stretch Break](https://flathub.org/en/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
 
 ## Map Viewers
 
@@ -1317,13 +1317,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Public Transports
 
-- [Passes](https://flathub.org/apps/me.sanchezrodriguez.passes) - Application to manage digital passes in PKPass or esPass format, such as boarding passes, bus tickets, coupons, loyalty cards, event tickets, etc. `#python` `#gtk4` `#libadwaita`.
+- [Passes](https://flathub.org/en/apps/me.sanchezrodriguez.passes) - Application to manage digital passes in PKPass or esPass format, such as boarding passes, bus tickets, coupons, loyalty cards, event tickets, etc. `#python` `#gtk4` `#libadwaita`.
 - [Railway](https://apps.gnome.org/DieBahn) - Application to look up information about (german) train journeys in one place `#rust` `#gtk4` `#libadwaita` `#gnome`.  
 
 ## Weather Viewers
 
 - [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
-- [GTK Meteo](https://flathub.org/apps/ch.bailu.gtk_meteo) - Forecast application using OpenWeatherMap API `#kotlin` `#gtk4` `#libadwaita`.
+- [GTK Meteo](https://flathub.org/en/apps/ch.bailu.gtk_meteo) - Forecast application using OpenWeatherMap API `#kotlin` `#gtk4` `#libadwaita`.
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
 - [Meteo](https://gitlab.com/bitseater/meteo) - Weather forecast application, using OSM maps and data from the Meteorologisk institutt Norge `#vala` `#gtk3`.
 - [Mousam](https://github.com/amit9838/mousam) - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
@@ -1335,6 +1335,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Religion and Spirituality
 
-- [Eeman](https://flathub.org/apps/pro.saladin.Eeman) - Salah (prayer) times application and Quran reader `#python` `#gtk4` `#libadwaita`.
+- [Eeman](https://flathub.org/en/apps/pro.saladin.Eeman) - Salah (prayer) times application and Quran reader `#python` `#gtk4` `#libadwaita`.
 - [Fidei](https://github.com/sp1ritCS/fidei) - Bible reader for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
-- [Vakt-i Salah](https://flathub.org/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
+- [Vakt-i Salah](https://flathub.org/en/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
