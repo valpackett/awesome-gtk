@@ -844,6 +844,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Collision](https://apps.gnome.org/app/dev.geopjr.Collision) - Tool to generate, compare and verify hashes `#crystal` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c` `#gtk3`.
 - [Kapitano](https://flathub.org/apps/page.codeberg.zynequ.Kapitano) - User-friendly antivirus tool and malware scanner for Linux (malware, viruses, and threats) based on ClamAV `#python` `#gtk4` `#libadwaita`.
+- [Lenspect](https://flathub.org/apps/io.github.vmkspv.lenspect) - Security threat and malware scanner for files `#python` `#gtk4` `#libadwaita`.
 - [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps `#rust` `#gtk4` `#libadwaita`.
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#gtk4` `#libadwaita`.
 - [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#gtk4` `#libadwaita`.
@@ -854,6 +855,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Authenticator](https://apps.gnome.org/Authenticator) - Two-factor authentication codes generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Goldwarden](https://flathub.org/apps/com.quexten.Goldwarden) - Bitwarden compatible desktop password manager `#go` `#gtk4` `#libadwaita`.
 - [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++` `#gtk3`.
+- [Identities](https://flathub.org/apps/one.k8ie.Identities) - `pass` (password store) client for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [LPTK](https://flathub.org/apps/me.ogarcia.lptk) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementary OS `#vala` `#gtk3` `#granite` `#libhandy`.
 - [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
@@ -1198,6 +1200,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Touché](https://flathub.org/apps/com.github.joseexposito.touche) - User interface to configure touchpad and touchscreen multi-touch gestures `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tuner](https://flathub.org/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
+- [Wattage](https://flathub.org/apps/io.github.v81d.Wattage) - Monitoring application of the health and status of power devices, e.g. battery capacity, energy metrics, and device information `#vala` `#gtk4` `#libadwaita`.
 - [WSelector](https://flathub.org/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
 - [YAFI (Yet Another Framework Interface)](https://flathub.org/en/apps/au.stevetech.yafi) - GUI for the Framework laptop embedded controller, e.g. to control the fan and LED, or to monitor temperature `#python` `#gtk4` `#libadwaita`.
 
@@ -1268,7 +1271,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Puzzles and Quizzes
 
+- [Atomix](https://flathub.org/en/apps/org.gnome.atomix) - Puzzle game in which the player has to build full molecules `#c` `#gtk3`.
+- [Blurble](https://flathub.org/apps/app.drey.Blurble) - Word guessing game `#vala` `#gtk4` `#libadwaita`.
 - [Egghead](https://flathub.org/apps/io.github.josephmawa.Egghead) - Knowledge and trivia quiz, including categories like "Science and Nature", "Geography", and "Politics" `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [GNOME Sudoku](https://flathub.org/apps/org.gnome.Sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
 - [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where players need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
