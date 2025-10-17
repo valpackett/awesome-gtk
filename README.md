@@ -1271,7 +1271,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Puzzles and Quizzes
 
-- [Atomix](https://gitlab.gnome.org/GNOME/atomix) - Puzzle game in which the user has to build full molecules `#c` `#gtk3`.
+- [Atomix](https://flathub.org/en/apps/org.gnome.atomix) - Puzzle game in which the player has to build full molecules `#c` `#gtk3`.
 - [Blurble](https://flathub.org/en/apps/app.drey.Blurble) - Word guessing game `#vala` `#gtk4` `#libadwaita`.
 - [Egghead](https://flathub.org/apps/io.github.josephmawa.Egghead) - Knowledge and trivia quiz, including categories like "Science and Nature", "Geography", and "Politics" `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [GNOME Sudoku](https://gitlab.gnome.org/GNOME/gnome-sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
