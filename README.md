@@ -624,6 +624,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [GNOME Documents](https://gitlab.gnome.org/Archive/gnome-documents) - (archived) Document manager for the GNOME desktop with collection features `#gjs` `#javascript` `#gtk3`.
 - [Paperwork](https://openpaper.work) - Document manager with scan features `#python` `#gtk3` `#libhandy`.
+- [GCStar](https://gitlab.com/GCstar/GCstar) - Cross-platform collection manager for various types of collections (books, comics, films, TV shows, music, games, wines, stamps, coins, etc.) `#perl` `#gtk3`.
 
 ### Document Viewers
 
@@ -735,6 +736,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Education
 
 - [CSVEN](https://flathub.org/en/apps/io.github.rsvzz.csven) - Game to learn how to write English words by ordering the scrambled letters of the words `#c` `#gtk4` `#libadwaita`.
+- [Fast Reader](https://flathub.org/en/apps/io.github.quantum_mutnauq.fast_reader_gtk) - Fast reading application to learn to read more quickly, by showing only one word after the other `#c++` `#gtk4` `#libadwaita`.
 - [JapaChar](https://flathub.org/en/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
 - [Lexi](https://flathub.org/en/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
@@ -1182,6 +1184,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
 - [Main Menu](https://flathub.org/en/apps/page.codeberg.libre_menu_editor.LibreMenuEditor) - Utility to customize the application launchers and the main menu in Freedesktop-compliant desktop environments `#python` `#gtk4` `#libadwaita`.
 - [Mending Wall](https://flathub.org/en/apps/org.indii.mendingwall) - Application to fix issues when switching between multiple desktop environments (e.g. GNOME, KDE Plasma, Xfce, Cinnamon, COSMIC), such as scaling issues, wrong sizes of cursors or fonts `#c` `#gtk4` `#libadwaita`.
+- [Millisecond](https://flathub.org/en/apps/io.github.gaheldev.Millisecond) - Utility to improve low latency performance for audio production, based on rtcqs `#python` `#gtk4` `#libadwaita`.
 - [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
 - [Nostalgia](https://gitlab.gnome.org/bertob/nostalgia) - Application to set historic GNOME wallpapers `#vala` `#gtk4` `#libadwaita`.
 - [Oversteer](https://flathub.org/en/apps/io.github.berarma.Oversteer) - Steering wheel manager `#python` `#gtk3`.
@@ -1280,6 +1283,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Sudoku](https://flathub.org/en/apps/io.github.sepehr_rs.Sudoku) - Number-placement puzzle `#python` `#gtk4` `#libadwaita`.
+- [Swell Foop](https://flathub.org/en/apps/org.gnome.SwellFoop) - Tile-matching puzzle game in which players needs to remove the objects in as few moves as possible `#vala` `#gtk4` `#libadwaita`.
 - [Taquin](https://flathub.org/en/apps/org.gnome.Taquin) - Sliding puzzle where players move tiles so that they reach their places `#vala` `#gtk3`.
 - [Tetravex](https://flathub.org/en/apps/org.gnome.Tetravex) - Edge-matching puzzle where the same numbers must touch each other `#vala` `#gtk3`.
 - [Trivia Quiz](https://github.com/Nokse22/trivia-quiz) - Trivia game using questions from the Open Trivia database `#python` `#gtk4` `#libadwaita`.
