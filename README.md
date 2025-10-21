@@ -1083,6 +1083,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Database Clients
 
 - [Daty](https://gitlab.gnome.org/World/Daty) - Cross-platform advanced Wikidata editor `#python` `#gtk3` `#libhandy`.
+- [Kangaroo](https://github.com/dbkangaroo/kangaroo) - Cross-platform advanced SQL client with support for MariaDB, MongoDB, MySQL, Oracle, PostgreSQL, Redis, SQLite, SQLServer `#vala` `#gtk4` `#libadwaita` `android`.
 - [PSequel](https://github.com/ppvan/psequel) - Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#gtk3` `#granite`.
 - [Tarug](https://flathub.org/en/apps/io.github.ppvan.tarug) - Minimal modern Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
