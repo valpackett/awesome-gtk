@@ -431,6 +431,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
 - [Oh My SVG](https://flathub.org/en/apps/re.sonny.OhMySVG) - Utility to reduce the size of SVGs  `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Pizarra](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
+- [Rayforge](https://flathub.org/en/apps/org.rayforge.rayforge) - Application for laser cutting and engraving, supporting GRBL based laser cutters `#python` `#gtk4` `#libadwaita`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ## Multimedia
