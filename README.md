@@ -181,6 +181,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Audio Streaming Service Clients
 
+- [Cassette](https://flathub.org/en/apps/space.rirusha.Cassette) - Yandex Music service client `#vala` `#gtk4` `#libadwaita`.
 - [High Tide](https://github.com/Nokse22/high-tide) - Tidal streaming client `#python` `#gtk4` `#libadwaita`.
 - [Spot](https://github.com/xou816/spot) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) `#rust` `#gtk4` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python` `#gtk3`.
@@ -431,6 +432,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
 - [Oh My SVG](https://flathub.org/en/apps/re.sonny.OhMySVG) - Utility to reduce the size of SVGs  `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Pizarra](https://pizarra.categulario.xyz/en) - Digital, vectorial and infinite chalkboard for free-hand drawing `#rust` `#gtk3`.
+- [Rayforge](https://flathub.org/en/apps/org.rayforge.rayforge) - Application for laser cutting and engraving, supporting GRBL based laser cutters `#python` `#gtk4` `#libadwaita`.
 - [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Utility to create web font-face kits `#python` `#gtk4` `#libadwaita` `#gnome`.
 
 ## Multimedia
@@ -790,6 +792,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Errands](https://apps.gnome.org/List) - Simple to-do application with subtasks, accent colors and drag & drop support `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [Getting Things GNOME](https://github.com/getting-things-gnome/gtg) - Personal task organizer for the GNOME desktop inspired by [Getting Things Done](https://gettingthingsdone.com/what-is-gtd) `#python` `#gtk3`.
 - [IPlan](https://github.com/iman-salmani/iplan) - Personal task manager with project-based task grouping, task timers and drag and drop arranging `#rust` `#gtk4` `#libadwaita`.
+- [Picker](https://flathub.org/en/apps/io.github.mezoahmedii.Picker) - Simple application that can randomly pick something for you from a list of things `#python` `#gtk4` `#libadwaita`.
 - [Remembrance](https://github.com/dgsasha/remembrance) - Simple reminder app `#python` `#gtk4` `#libadwaita`.
 - [Tasks](https://github.com/elementary/tasks) - Manager for tasks and reminders designed for elementary OS that support syncing via CalDAV `#vala` `#gtk4` `#libadwaita` `#libgranite`.
 - [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#gtk3` `#granite` `#libhandy`.
@@ -880,6 +883,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [CheckWriter](https://github.com/ashafq/CheckWriter) - Application to simplify the process of writing checks `#c` `#gtk4` `#libadwaita`.
 - [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#gtk4` `#libadwaita`.
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS `#vala` `#gtk3` `#granite`.
+- [Fava](https://flathub.org/en/apps/org.gnome.gitlab.johannesjh.favagtk) - Fava and Beancount double-entry bookkeeping application `#python` `#gtk4` `#libadwaita`.
 - [Fruit Credits](https://fruitcredits.dz4k.com) - Double-entry personal accounting application, based on hledger `#vala` `#gtk4` `#libadwaita`.
 - [GnuCash](https://gnucash.org) - Personal and small business double entry accounting application `#c++` `#gtk3`.
 - [Grisbi](http://grisbi.org) - Personal financial management and accounting application `#c` `#gtk3`.
@@ -1126,6 +1130,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Remote File Access
 
 - [Taxi](https://github.com/Alecaddd/taxi) - FTP client designed for elementary OS that also supports SFTP, WebDAV and AFP `#vala` `#gtk4` `#granite` `#libadwaita`.
+- [Usermode FTP Server](https://flathub.org/en/apps/eu.ithz.umftpd) - Application to start a FTP server as user to transfer files directly via most file managers' builtin FTP support, e.g. to access files from another device `#python` `#gtk4` `#libadwaita`.
 
 ## System Management
 
@@ -1283,6 +1288,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Sudoku](https://flathub.org/en/apps/io.github.sepehr_rs.Sudoku) - Number-placement puzzle `#python` `#gtk4` `#libadwaita`.
+- [Sudoku Solver](https://flathub.org/en/apps/io.gitlab.cyberphantom52.sudoku_solver) - Simple Sudoku solver `#rust` `#gtk4` `#libadwaita`.
 - [Swell Foop](https://flathub.org/en/apps/org.gnome.SwellFoop) - Tile-matching puzzle game in which players needs to remove the objects in as few moves as possible `#vala` `#gtk4` `#libadwaita`.
 - [Taquin](https://flathub.org/en/apps/org.gnome.Taquin) - Sliding puzzle where players move tiles so that they reach their places `#vala` `#gtk3`.
 - [Tetravex](https://flathub.org/en/apps/org.gnome.Tetravex) - Edge-matching puzzle where the same numbers must touch each other `#vala` `#gtk3`.
