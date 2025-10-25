@@ -1130,7 +1130,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Remote File Access
 
 - [Taxi](https://github.com/Alecaddd/taxi) - FTP client designed for elementary OS that also supports SFTP, WebDAV and AFP `#vala` `#gtk4` `#granite` `#libadwaita`.
-- [Usermode FTP Server](https://flathub.org/en/apps/eu.ithz.umftpd) - Usermode FTP server to transfer files directly via most file managers' builtin FTP support, e.g. to access files from another device `#python` `#gtk4` `#libadwaita`.
+- [Usermode FTP Server](https://flathub.org/en/apps/eu.ithz.umftpd) - Application to start a FTP server as user to transfer files directly via most file managers' builtin FTP support, e.g. to access files from another device `#python` `#gtk4` `#libadwaita`.
 
 ## System Management
 
