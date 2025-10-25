@@ -1288,6 +1288,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Sudoku](https://flathub.org/en/apps/io.github.sepehr_rs.Sudoku) - Number-placement puzzle `#python` `#gtk4` `#libadwaita`.
+- [Sudoku Solver](https://flathub.org/en/apps/io.gitlab.cyberphantom52.sudoku_solver) - Simple Sudoku solver `#rust` `#gtk4` `#libadwaita`.
 - [Swell Foop](https://flathub.org/en/apps/org.gnome.SwellFoop) - Tile-matching puzzle game in which players needs to remove the objects in as few moves as possible `#vala` `#gtk4` `#libadwaita`.
 - [Taquin](https://flathub.org/en/apps/org.gnome.Taquin) - Sliding puzzle where players move tiles so that they reach their places `#vala` `#gtk3`.
 - [Tetravex](https://flathub.org/en/apps/org.gnome.Tetravex) - Edge-matching puzzle where the same numbers must touch each other `#vala` `#gtk3`.
