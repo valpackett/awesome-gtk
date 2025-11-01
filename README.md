@@ -735,6 +735,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
+- [Walker](https://github.com/abenz1267/walker) - Fast, customizable application launcher `#rust` `#gtk4`.
 - [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementary OS `#vala` `#gtk3` `#granite`.
 
 ### Education
