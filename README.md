@@ -816,6 +816,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Electronics and Engineering
 
+- [Color code](https://flathub.org/en/apps/com.oyajun.ColorCode) - Converter from the color code of resistors to the resistance value `#python` `#gtk4` `#libadwaita`.
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
 
 ### Genealogy
