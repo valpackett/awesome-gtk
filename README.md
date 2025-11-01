@@ -897,6 +897,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
+- [Merkato](https://flathub.org/en/apps/com.ekonomikas.merkato) - Financial markets tracker for stocks, currencies, and cryptocurrencies, using real-time data from Yahoo Finance `#python` `#gtk4` `#libadwaita`.
 - [Octopus](https://flathub.org/en/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
 
 ### Emulators and Compatibility Layers
