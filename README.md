@@ -344,6 +344,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Image Viewer (Loupe)](https://apps.gnome.org/Loupe) - Simple image viewer `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#gtk4` `#libadwaita`.
 - [Photos](https://github.com/elementary/photos) - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
+- [Pix](https://github.com/linuxmint/pix) - Image viewer and browser `#c` `#gtk3` `#libxapp`.
 - [SphereView](https://flathub.org/en/apps/io.github.dynobo.sphereview) - Image viewer for 360° equirectangular photospheres and panoramas, based on the Photo Sphere Viewer library `#rust` `#gtk4` `#libadwaita`.
 - [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c` `#gtk3`.
 - [Xviewer](https://community.linuxmint.com/software/view/xviewer) - Image viewer for the Cinnamon Desktop `#c` `#gtk3`.
@@ -426,6 +427,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala` `#gtk3`.
 - [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#gtk3`.
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader) - Download utility for Google Fonts `#python` `#gtk3` `#libhandy`.
+- [Fontforge](https://fontforge.org) - Cross-platform font editor `#c` `#gtk3`.
 - [GNOME Fonts (Font Viewer)](https://apps.gnome.org/FontViewer) - Utility to view and install fonts on your system `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Housemaid](https://gitlab.gnome.org/World/housemaid) - Application to clean SVGs (minify and prettify) `#vala` `#gtk4` `#libadwaita`.
 - [Inkscape](https://inkscape.org) - General vector graphics editor `#c++` `#gtk3`.
@@ -733,6 +735,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
+- [Walker](https://github.com/abenz1267/walker) - Customizable application launcher for Wayland `#rust` `#gtk4`.
 - [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementary OS `#vala` `#gtk3` `#granite`.
 
 ### Education
@@ -815,6 +818,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Electronics and Engineering
 
+- [Color code](https://flathub.org/en/apps/com.oyajun.ColorCode) - Converter from the color code of resistors to the resistance value `#python` `#gtk4` `#libadwaita`.
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
 
 ### Genealogy
@@ -895,6 +899,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
+- [Merkato](https://flathub.org/en/apps/com.ekonomikas.merkato) - Financial markets tracker for stocks, currencies, and cryptocurrencies, using real-time data from Yahoo Finance `#python` `#gtk4` `#libadwaita`.
 - [Octopus](https://flathub.org/en/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
 
 ### Emulators and Compatibility Layers
