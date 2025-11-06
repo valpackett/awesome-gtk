@@ -892,8 +892,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Fruit Credits](https://fruitcredits.dz4k.com) - Double-entry personal accounting application, based on hledger `#vala` `#gtk4` `#libadwaita`.
 - [GnuCash](https://gnucash.org) - Personal and small business double entry accounting application `#c++` `#gtk3`.
 - [Grisbi](http://grisbi.org) - Personal financial management and accounting application `#c` `#gtk3`.
-- [HomeBank](https://www.gethomebank.org) - Cross-platform personal accounting application with dynamic reports and import from QIF, OFX, QFX, and CSV.
- `#c` `#gtk3`.
+- [HomeBank](https://www.gethomebank.org) - Cross-platform personal accounting application with dynamic reports and import from QIF, OFX, QFX, and CSV `#c` `#gtk3`.
 - [Saldo](https://www.tabos.org/projects/saldo) - Online banking application based on FinTS `#python` `#gtk4` `#libadwaita`.
 
 ### Exchange Rate and Price Viewers
