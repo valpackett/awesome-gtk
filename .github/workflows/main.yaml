@@ -14,7 +14,14 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - run: npx awesome-lint@1.2.0
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.11'
+      - name: Run awesome-lint
+        run: npx awesome-lint@1.2.0
+      - name: Run custom awesome-list linter
+        run: python ./lint.py
       - uses: crate-ci/typos@master
         with:
           files: ./README.md
