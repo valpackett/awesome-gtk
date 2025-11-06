@@ -537,6 +537,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Remote Desktop
 
 - [Connections](https://gitlab.gnome.org/GNOME/connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gtk3` `#gnome`.
+- [Field Monitor](https://github.com/theCapypara/field-monitor) - Remote desktop client for the GNOME desktop with support for Proxmox & QEMU/KVM virtual machines `#rust` `#gtk4` `#libadwaita`.
 - [MirrorHall](https://flathub.org/en/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4` `#libadwaita`.
 - [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c` `#gtk3`.
 - [Vinagre](https://gitlab.gnome.org/Archive/vinagre) - (archive) Remote desktop viewer for the GNOME desktop with RDP, VNC, SPICE support `#c` `#gtk3`.
