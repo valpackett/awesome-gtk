@@ -149,7 +149,7 @@
 - [Home Automation & Internet of Things](#home-automation--internet-of-things)
 - [Religion and Spirituality](#religion-and-spirituality)
 
-<!-- lint list start-->
+<!-- custom-lint start-->
 
 ## Apps for GNOME
 

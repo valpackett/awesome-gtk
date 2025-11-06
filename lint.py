@@ -44,7 +44,7 @@ def lint_awesome_list(text: str, allowed_tags: list[str]) -> list[tuple[int, str
     found_lint_start: bool = False
     for line_number, line in enumerate(lines, start=1):
         line = line.strip()
-        if line == "<!-- lint list start-->":
+        if line == "<!-- custom-lint start-->":
             linting = True
             found_lint_start = True
             continue
@@ -83,7 +83,7 @@ def lint_awesome_list(text: str, allowed_tags: list[str]) -> list[tuple[int, str
                 )
     if not found_lint_start:
         errors.append(
-            (0, "Lint start marker `<!-- lint list start-->` not found in the file.")
+            (0, "Lint start marker `<!-- custom-lint start-->` not found in the file.")
         )
     return errors
 
