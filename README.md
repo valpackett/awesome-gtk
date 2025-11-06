@@ -727,7 +727,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Junction](https://apps.gnome.org/Junction) - Application menu that allows you to choose the application to open files or links `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Kasasa](https://flathub.org/en/apps/io.github.kelvinnovais.Kasasa) - Always on top window to clip and keep an eye on important things without switching window/workspace in the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
-- [NFO Viewer](https://flathub.org/en/apps/io.otsaloma.nfoview) - Viewer for NFO ASCII file.
+- [NFO Viewer](https://flathub.org/en/apps/io.otsaloma.nfoview) - Viewer for NFO ASCII file `#python` `#gtk4`.
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Onboard](https://github.com/dr-ni/onboard) - Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users `#python` `#gtk3`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
