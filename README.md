@@ -149,6 +149,8 @@
 - [Home Automation & Internet of Things](#home-automation--internet-of-things)
 - [Religion and Spirituality](#religion-and-spirituality)
 
+<!-- lint list start-->
+
 ## Apps for GNOME
 
 You can find the most up-to-date info on the most well-supported GNOME apps at [Apps for GNOME](https://apps.gnome.org);
@@ -1353,3 +1355,4 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Eeman](https://flathub.org/en/apps/pro.saladin.Eeman) - Salah (prayer) times application and Quran reader `#python` `#gtk4` `#libadwaita`.
 - [Fidei](https://github.com/sp1ritCS/fidei) - Bible reader for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Vakt-i Salah](https://flathub.org/en/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
+
