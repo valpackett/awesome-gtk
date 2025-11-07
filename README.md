@@ -230,7 +230,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Audio Tools
 
-- [Asunder](https://gitlab.gnome.org/Salamandar/asunder) - CD ripper and encoder `#c` `#gtk3`.
+- [GrimRipper](https://gitlab.gnome.org/Salamandar/GrimRipper) - CD ripper and encoder `#c` `#gtk3`.
 - [Audio Sharing](https://apps.gnome.org/AudioSharing) - Application to share audio playback in the form of an RTSP stream `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA] `#csharp` `#gtk4` `#libadwaita`.
 - [Cavasik](https://flathub.org/en/apps/io.github.TheWisker.Cavasik) - Audio visualizer based on [CAVA] `#python` `#gtk4` `#libadwaita`.
