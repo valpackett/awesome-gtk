@@ -581,6 +581,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### VPN
 
 - [Haguichi](https://haguichi.net) - Graphical fronted for Hamachi `#vala` `#gtk4` `#libadwaita`.
+- [Proton VPN](https://github.com/ProtonVPN/proton-vpn-gtk-app) - GTK fronted for Proton VPN `#python` `#gtk3`.
 
 ### Web Browsers
 
