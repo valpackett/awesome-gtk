@@ -390,6 +390,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Optimizers/Compressors
 
 - [Curtail](https://apps.gnome.org/Curtail) - Image compressor with support for PNG, JPEG, WebP and SVG images `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [Image Optimizer](https://flathub.org/en/apps/com.github.gijsgoudzwaard.image-optimizer) - Simple lossless image optimizer for elementary OS  `#vala` `#gtk3` `#granite`.
 - [Refract](https://github.com/Blobfolio/refract) - _Guided_ image optimization for JPEGs and PNGs producing WebP, AVIF and JPEG XL clones `#rust` `#gtk3`.
 
 #### Photography
