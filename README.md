@@ -1054,6 +1054,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Version Control and Diffs
 
+- [Actioneer](https://flathub.org/en/apps/me.spaceinbox.actioneer) - Client for GitHub Actions to browse repositories, inspect workflow runs, watch job logs, and receive notifications `#rust` `#gtk4` `#libadwaita`.
 - [Commit](https://apps.gnome.org/Commit) - Commit message editor for Git and Mercurial `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Diffuse](https://github.com/MightyCreak/diffuse) - Text file comparing/merging tool `#python` `#gtk3`.
 - [Forge Sparks](https://apps.gnome.org/ForgeSparks) - Git forge (GitHub, Gitea, Forgejo) notification application `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
