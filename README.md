@@ -1286,6 +1286,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
 - [Reversi](https://flathub.org/en/apps/org.gnome.Reversi) - Two-player strategy game also known as Othello, similar to Go `#vala` `#gtk4` `#libadwaita`.
+- [Rollit](https://github.com/ellie-commons/rollit) - Roll the dice application from six-sided dice up to 999 sides, designed for elementary OS `#vala` `#gtk4` `#granite`.
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
 
 ### Puzzles and Quizzes
