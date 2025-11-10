@@ -390,6 +390,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Optimizers/Compressors
 
 - [Curtail](https://apps.gnome.org/Curtail) - Image compressor with support for PNG, JPEG, WebP and SVG images `#python` `#gtk4` `#libadwaita` `#gnome`.
+- [Image Optimizer](https://flathub.org/en/apps/com.github.gijsgoudzwaard.image-optimizer) - Simple lossless image optimizer for elementary OS  `#vala` `#gtk3` `#granite`.
 - [Refract](https://github.com/Blobfolio/refract) - _Guided_ image optimization for JPEGs and PNGs producing WebP, AVIF and JPEG XL clones `#rust` `#gtk3`.
 
 #### Photography
@@ -658,6 +659,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gnote](https://gitlab.gnome.org/GNOME/gnote) - Note-taking application for the GNOME desktop started as a Tomboy port `#c++` `#gtk4` `#libadwaita`.
 - [Iotas](https://apps.gnome.org/Iotas) - Distraction-free markdown note-taking application with mobile-first design and with GNOME shell and Nextcloud Notes integrations `#python` `#gtk4` `#libadwaita`.
 - [Iridium](https://github.com/matze/iridium) - [Standard Notes](https://standardnotes.org) local-first client `#rust` `#gtk3`.
+- [Jorts](https://flathub.org/en/apps/io.github.ellie_commons.jorts) - Sticky notes application for elementary OS `#vala` `#gtk4` `#granite`.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#gtk4` `#libadwaita`.
 - [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++` `#gtk3`.
 - [Notes](https://github.com/Blquinn/notes) - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#gtk4` `#libadwaita`.
@@ -1285,6 +1287,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
 - [Reversi](https://flathub.org/en/apps/org.gnome.Reversi) - Two-player strategy game also known as Othello, similar to Go `#vala` `#gtk4` `#libadwaita`.
+- [Rollit](https://github.com/ellie-commons/rollit) - Roll the dice application from six-sided dice up to 999 sides, designed for elementary OS `#vala` `#gtk4` `#granite`.
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
 
 ### Puzzles and Quizzes
