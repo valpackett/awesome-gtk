@@ -1236,7 +1236,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - NVIDIA card monitoring and fan/OC controlling application `#python` `#gtk3`.
 - [Inspector](https://github.com/Nokse22/inspector) - Application to view system information such as USB/disk/PCIE/networks devices and motherboard/CPU information `#python` `#gtk4` `#libadwaita`.
 - [Mission Center](https://missioncenter.io) - CPU, memory, disk, network and GPU usage monitor `#rust` `#gtk4` `#libadwaita`.
-- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources `#vala` `#gtk3` `#libhandy` `#granite`.
+- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources `#vala` `#gtk4` `#libadwaita` `#granite`.
 - [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#gtk4` `#libadwaita`.
 - [Packetry](https://github.com/greatscottgadgets/packetry) - USB 2.0 protocol analysis application for use with the hardware device Cynthion `#rust` `#gtk4`.
 - [Resources](https://apps.gnome.org/Resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#gtk4` `#libadwaita` `#gnome`.
