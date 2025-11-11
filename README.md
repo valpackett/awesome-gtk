@@ -319,6 +319,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Guvcview](https://sourceforge.net/projects/guvcview) - Video and audio grabber and webcam application, compatible with V4L2 camera devices  `#c` `#gtk3`.
 - [HandBrake](https://handbrake.fr) - Cross-platform video convertor that supports nearly any format `#c` `#gtk4`.
 - [Identity](https://apps.gnome.org/Identity) - Program for comparing multiple versions of an image or video `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Lada](https://codeberg.org/ladaapp/lada) - Tool designed to recover pixelated adult videos and restore the visual quality `#python` `#gtk4` `#libadwaita`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
 - [Megapixels](https://gitlab.com/megapixels-org/Megapixels) - Camera application for Linux phones `#c` `#gtk4`.
 - [WebCamController](https://flathub.org/en/apps/com.daniel15.wcc) - User interface to modify webcam settings such as pan/tilt/zoom `#csharp` `#gtk4` `#libadwaita`.
