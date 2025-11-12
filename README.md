@@ -1220,6 +1220,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [SysD Manager](https://flathub.org/en/apps/io.github.plrigaux.sysd-manager) - GUI to manage systemd units, such as services, timers, and sockets `#rust` `#gtk4` `#libadwaita`.
 - [Touché](https://flathub.org/en/apps/com.github.joseexposito.touche) - User interface to configure touchpad and touchscreen multi-touch gestures `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tuner](https://flathub.org/en/apps/org.altlinux.Tuner) - Extensible control center for additional GNOME desktop system settings, components, applications `#vala` `#gtk4` `#libadwaita`.
+- [Wardrobe](https://github.com/SwordPuffin/Wardrobe) - Utility to download GNOME shell extensions and GTK themes and icon packs `#python` `#gtk4` `#libadwaita`.
 - [Warehouse](https://github.com/flattool/warehouse) - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 - [Wattage](https://flathub.org/en/apps/io.github.v81d.Wattage) - Monitoring application of the health and status of power devices, e.g. battery capacity, energy metrics, and device information `#vala` `#gtk4` `#libadwaita`.
 - [WSelector](https://flathub.org/en/apps/io.github.Cookiiieee.WSelector) - Wallpaper selector manager that allows to browse and set wallpapers from Wallhaven `#python` `#gtk4` `#libadwaita`.
