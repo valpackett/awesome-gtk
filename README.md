@@ -1051,7 +1051,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### UI Design
 
 - [Glade](https://glade.gnome.org) - RAD tool to enable quick & easy development of user interfaces for the GTK toolkit and the GNOME desktop `#c` `#gtk3`.
-- [Cambalache](https://gitlab.gnome.org/jpu/cambalache) - RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy `#python` `#gtk4` `#libadwaita`.
+- [Cambalache](https://gitlab.gnome.org/jpu/cambalache) - RAD tool for GTK 4 and 3 with a clear MVC design and data model first philosophy `#python` `#gtk3` `#gtk4` `#libadwaita`.
 - [Gradience](https://github.com/GradienceTeam/Gradience) - Libadwaita applications customizer `#python` `#gtk4` `#libadwaita`.
 - [Typography](https://flathub.org/en/apps/org.gnome.design.Typography) - Tool for working with the GNOME desktop typography design guidelines `#c` `#gtk4` `#libadwaita`.
 
