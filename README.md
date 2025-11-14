@@ -1280,7 +1280,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Board and Card Games
 
-- [2048](https://gitlab.gnome.org/GNOME/gnome-2048) - A 2048-like game for GNOME `#vala` `#gtk3`.
+- [2048](https://gitlab.gnome.org/GNOME/gnome-2048) - A 2048-like game for GNOME `#vala` `#gtk4` `#libadwaita`.
 - [Chance](https://flathub.org/en/apps/dev.zelikos.rollit) - Roll the Dice application that rolls a six-sided dice by default and allows custom dice of up to 999 sides `#rust` `#gtk4` `#libadwaita`.
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with support for shaped and color crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
