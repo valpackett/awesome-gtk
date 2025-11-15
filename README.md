@@ -237,6 +237,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Chronograph](https://github.com/Dzheremi2/Chronograph) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#gtk4` `#libadwaita`.
+- [GabTag](https://flathub.org/en/apps/com.github.lachhebo.Gabtag) - Audio tagging tool for one or several files, with automatic tagging using MusicBrainz `#python` `#gtk4` `#libadwaita`.
 - [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) - Patchbay application to route and patch together audio signals, made for pipewire `#rust` `#gtk4` `#libadwaita`.
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python` `#gtk3`.
 - [Mousai](https://apps.gnome.org/ru/Mousai) - Song identifier based on [AudD](https://audd.io) with MPRIS support `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -977,10 +978,11 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [MousePad](https://flathub.org/en/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
-- [Norka](https://tenderowl.com/work/norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk3` `#granite`.
+- [Norka](https://flathub.org/en/apps/com.github.tenderowl.norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk4` `#libadwaita`.
 - [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++` `#gtk3`.
 - [Scripter](https://github.com/david-swift/Scripter) - Simple application to write and execute small Python scripts `#swift` `#gtk4` `#libadwaita`.
+- [Slate](https://github.com/wpkelso/slate) - Simple text editor designed for elementary OS `#vala` `#gtk4` `#granite`.
 - [Vulcan](https://github.com/zesterer/vulcan) - Minimalistic text editor designed for both ordinary use and software development `#vala` `#gtk3`.
 - [Xed](https://github.com/linuxmint/xed) - Small and lightweight text editor `#c` `#gtk3` `#libxapp`.
 
@@ -1278,7 +1280,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Board and Card Games
 
-- [2048](https://gitlab.gnome.org/GNOME/gnome-2048) - A 2048-like game for GNOME `#vala` `#gtk3`.
+- [2048](https://gitlab.gnome.org/GNOME/gnome-2048) - A 2048-like game for GNOME `#vala` `#gtk4` `#libadwaita`.
 - [Chance](https://flathub.org/en/apps/dev.zelikos.rollit) - Roll the Dice application that rolls a six-sided dice by default and allows custom dice of up to 999 sides `#rust` `#gtk4` `#libadwaita`.
 - [Convolution](https://gitlab.gnome.org/bazylevnik0/convolution) - Logic game about escaping from a maze `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Crossword Editor (Crosswords)](https://gitlab.gnome.org/jrb/crosswords) - Crossword player and editor for games of crosswords with support for shaped and color crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files `#c` `#gtk4` `#libadwaita`.
