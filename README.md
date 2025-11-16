@@ -1116,7 +1116,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Management
 
-- [Files (elementary)](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy`.
+- [Files (elementary)](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy` `#granite`.
 - [fm](https://github.com/euclio/fm) - Small, general purpose file manager `#rust` `#gtk4` `#libadwaita`.
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
@@ -1124,7 +1124,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Nemo](https://github.com/linuxmint/nemo) - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
 - [Organizer](https://gitlab.gnome.org/aviwad/organizer) - Application to organize your files into categories `#python` `#gtk3` `#libhandy`.
 - [PCManFM](https://github.com/lxde/pcmanfm) - Lightweight file manager, standard file manager for LXDE `#c` `#gtk3`.
-- [Polo](https://github.com/teejee2008/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
+- [Polo](https://github.com/OrbintSoft/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
 - [Portfolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
 - [Thunar](https://gitlab.xfce.org/xfce/thunar) - File manager for the Xfce desktop `#c` `#gtk3`.
 
