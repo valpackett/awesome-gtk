@@ -1364,6 +1364,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Religion and Spirituality
 
+- [Bible](https://flathub.org/en/apps/net.lugsole.bible_gui) - Bible reader that support different translations and format `#python` `#gtk4` `#libadwaita`.
 - [Eeman](https://flathub.org/en/apps/pro.saladin.Eeman) - Salah (prayer) times application and Quran reader `#python` `#gtk4` `#libadwaita`.
 - [Fidei](https://github.com/sp1ritCS/fidei) - Bible reader for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Vakt-i Salah](https://flathub.org/en/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
