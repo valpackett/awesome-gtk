@@ -1249,7 +1249,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Packetry](https://github.com/greatscottgadgets/packetry) - USB 2.0 protocol analysis application for use with the hardware device Cynthion `#rust` `#gtk4`.
 - [Resources](https://apps.gnome.org/Resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Turn On](https://codeberg.org/swsnr/turnon) - Utility for the GNOME desktop to send Wake On LAN (WoL) magic packets to devices in a network `#rust` `#gtk4` `#libadwaita`.
-- [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over DBus `#c` `#gtk4` `#libadwaita`.
+- [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over D-Bus `#c` `#gtk4` `#libadwaita`.
 - [Stimulator](https://github.com/sigmaSd/stimulator) - Application to keep the computer awake with AppIndicator support `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [sysctlview](https://gitlab.com/alfix/sysctlview) - FreeBSD sysctl MIB tree explorer `#c++` `#gtk3`.
 - [Uruk Systemd Manager](https://codeberg.org/alimiracle/uruk-systemd-manager.git) - Application for managing systemd services on GNU/Linux systems.  `#python` `#gtk4` `#libadwaita`.
