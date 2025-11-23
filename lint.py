@@ -34,6 +34,7 @@ TAGS: list[str] = [
     "typescript",
     "scheme",
     "kotlin",
+    "lisp",
 ]
 
 
