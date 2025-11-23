@@ -1338,6 +1338,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Jogger](https://codeberg.org/baarkerlounger/jogger) - Running (and other workout) tracker for GNOME Mobile with import from Fitotrack  `#rust` `#gtk4` `#libadwaita`.
+- [Luna](https://flathub.org/en/apps/io.github.kingorgg.Luna) - Period and pregnancy tracker, keeping track of the menstrual cycle, predicting next period and ovulation dates, and following the pregnancy's progress `#python` `#gtk4` `#libadwaita`.
 - [Powercycle JS](https://github.com/charles-m-knox/powercycle-js) - ANT+ USB powered GUI and server to control your indoor bike's smart trainer `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Stretch Break](https://flathub.org/en/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
 
