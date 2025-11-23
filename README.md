@@ -287,6 +287,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Live Stream Viewers
 
 - [Multiplex](https://github.com/pojntfx/multiplex) - Application to stream and watch torrents together, providing an experience similar to Apple's SharePlay and Amazon's Prime Video Watch Party `#go` `#gtk4` `#libadwaita`.
+- [TVDemon](https://github.com/DYefremov/TVDemon) - IPTV streaming application with support for live TV, movies and series `#python` `#gtk4` `#libadwaita`.
 
 ### Video Editors
 
