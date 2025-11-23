@@ -516,6 +516,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Network Configuration
 
 - [Bouncer](https://flathub.org/en/apps/io.github.justinrdonnelly.bouncer) - Application to help you choose the correct firewall zone for wireless connections `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Geteduroam](https://flathub.org/en/apps/app.eduroam.geteduroam) - Utility simplifying the process of connecting to Eduroam, the Wi-Fi network of universities worldwide `#go` `#gtk4` `#libadwaita`.
 - [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks `#python` `#gtk4` `#libadwaita`.
 - [NM GUI](https://github.com/s-adi-dev/nmgui) - GUI for managing WiFi networks, using NetworkManager (`nmcli`) `#python` `#gtk4`.
 
