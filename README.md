@@ -350,7 +350,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Photos](https://github.com/elementary/photos) - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
 - [Pix](https://github.com/linuxmint/pix) - Image viewer and browser `#c` `#gtk3` `#libxapp`.
 - [SphereView](https://flathub.org/en/apps/io.github.dynobo.sphereview) - Image viewer for 360° equirectangular photospheres and panoramas, based on the Photo Sphere Viewer library `#rust` `#gtk4` `#libadwaita`.
-- [vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer based on [`libvips`](https://github.com/libvips/libvips) supporting many scientific and technical image formats `#c` `#gtk3`.
+- [Vipsdisp](https://github.com/jcupitt/vipsdisp) - Image viewer capable of displaying huge (i.e. GB sizes) images based on [`libvips`](https://github.com/libvips/libvips) and supporting many scientific and technical image formats `#c` `#gtk4`.
 - [Xviewer](https://community.linuxmint.com/software/view/xviewer) - Image viewer for the Cinnamon Desktop `#c` `#gtk3`.
 
 ### Raster Graphics
