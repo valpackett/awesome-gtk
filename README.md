@@ -184,6 +184,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 #### Audio Streaming Service Clients
 
 - [Cassette](https://flathub.org/en/apps/space.rirusha.Cassette) - Yandex Music service client `#vala` `#gtk4` `#libadwaita`.
+- [Gelly](https://flathub.org/en/apps/io.m51.Gelly) - Jellyfin Media Server client focused specifically on music playback `#rust` `#gtk4` `#libadwaita`.
 - [High Tide](https://github.com/Nokse22/high-tide) - Tidal streaming client `#python` `#gtk4` `#libadwaita`.
 - [Riff](https://github.com/Diegovsky/riff) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot), fork of [Spot](https://github.com/xou816/spot) `#rust` `#gtk4` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - (archived) Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python` `#gtk3`.
@@ -287,6 +288,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Live Stream Viewers
 
 - [Multiplex](https://github.com/pojntfx/multiplex) - Application to stream and watch torrents together, providing an experience similar to Apple's SharePlay and Amazon's Prime Video Watch Party `#go` `#gtk4` `#libadwaita`.
+- [TVDemon](https://github.com/DYefremov/TVDemon) - IPTV streaming application with support for live TV, movies and series `#python` `#gtk4` `#libadwaita`.
 
 ### Video Editors
 
@@ -469,7 +471,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Chat, VoIP, and Phone
 
 - [Calls](https://gitlab.gnome.org/GNOME/calls) - Phone dialer and call handler for cellular modems and VoIP (SIP) `#c` `#vala` `#gtk4` `#libadwaita`.
-- [Chats](https://gitlab.gnome.org/World/Chatty) - Mobile and desktop messaging application supporting SMS, MMS, XMPP and Matrix `#c` `#gtk4` `#libadwaita`.
+- [Chats (Chatty)](https://gitlab.gnome.org/World/Chatty) - Mobile and desktop messaging application supporting SMS, MMS, XMPP and Matrix `#c` `#gtk4` `#libadwaita`.
 - [Dino](https://dino.im) - Modern XMPP/Jabber chat client `#vala` `#gtk4` `#libadwaita`.
 - [Discover](https://github.com/trigg/Discover) - Discord overlay with X11 and wlroots support `#python` `#gtk3`.
 - [Dissent](https://github.com/diamondburned/dissent) - Discord client `#go` `#gtk4` `#libadwaita`.
@@ -516,6 +518,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Network Configuration
 
 - [Bouncer](https://flathub.org/en/apps/io.github.justinrdonnelly.bouncer) - Application to help you choose the correct firewall zone for wireless connections `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Geteduroam](https://flathub.org/en/apps/app.eduroam.geteduroam) - Utility simplifying the process of connecting to Eduroam, the Wi-Fi network of universities worldwide `#go` `#gtk4` `#libadwaita`.
 - [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks `#python` `#gtk4` `#libadwaita`.
 - [NM GUI](https://github.com/s-adi-dev/nmgui) - GUI for managing WiFi networks, using NetworkManager (`nmcli`) `#python` `#gtk4`.
 
@@ -742,6 +745,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
+- [Tecla](https://gitlab.gnome.org/GNOME/tecla) - Keyboard layout viewer `#c` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
 - [Walker](https://github.com/abenz1267/walker) - Customizable application launcher for Wayland `#rust` `#gtk4`.
@@ -977,6 +981,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c` `#gtk3`.
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [GNU Emacs GTK](https://www.gnu.org/software/emacs) - Extensible, customizable text editor `#lisp` `#c` `#gtk3`.
 - [MousePad](https://flathub.org/en/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
 - [Norka](https://flathub.org/en/apps/com.github.tenderowl.norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk4` `#libadwaita`.
 - [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
@@ -1266,7 +1271,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [DeSmuME](https://github.com/TASEmulators/desmume) - Cross-platform Nintendo DS emulator `#c++` `#gtk3`.
 - [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - Unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store `#rust` `#gtk4` `#libadwaita`.
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
-- [Gamepad Mirror](https://flathub.org/en/apps/page.codeberg.vendillah.GamepadMirror) - Application to visualize gamepad inputs `#gjs` `#gtk4` `#libadwaita`.
+- [Gamepad Mirror](https://flathub.org/en/apps/page.codeberg.vendillah.GamepadMirror) - Application to visualize gamepad inputs `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Game Server Watcher (gswatcher)](https://flathub.org/en/apps/io.github.lxndr.gswatcher) - Simple game server monitor and an administrative tool `#vala` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
@@ -1336,6 +1341,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Jogger](https://codeberg.org/baarkerlounger/jogger) - Running (and other workout) tracker for GNOME Mobile with import from Fitotrack  `#rust` `#gtk4` `#libadwaita`.
+- [Luna](https://flathub.org/en/apps/io.github.kingorgg.Luna) - Period and pregnancy tracker, keeping track of the menstrual cycle, predicting next period and ovulation dates, and following the pregnancy's progress `#python` `#gtk4` `#libadwaita`.
 - [Powercycle JS](https://github.com/charles-m-knox/powercycle-js) - ANT+ USB powered GUI and server to control your indoor bike's smart trainer `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Stretch Break](https://flathub.org/en/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
 
