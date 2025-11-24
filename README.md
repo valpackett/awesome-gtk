@@ -237,7 +237,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Cavasik](https://flathub.org/en/apps/io.github.TheWisker.Cavasik) - Audio visualizer based on [CAVA] `#python` `#gtk4` `#libadwaita`.
 - [Chronograph](https://github.com/Dzheremi2/Chronograph) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
-- [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#gtk4` `#libadwaita`.
 - [GabTag](https://flathub.org/en/apps/com.github.lachhebo.Gabtag) - Audio tagging tool for one or several files, with automatic tagging using MusicBrainz `#python` `#gtk4` `#libadwaita`.
 - [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) - Patchbay application to route and patch together audio signals, made for pipewire `#rust` `#gtk4` `#libadwaita`.
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python` `#gtk3`.
