@@ -664,6 +664,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Iotas](https://apps.gnome.org/Iotas) - Distraction-free markdown note-taking application with mobile-first design and with GNOME shell and Nextcloud Notes integrations `#python` `#gtk4` `#libadwaita`.
 - [Iridium](https://github.com/matze/iridium) - (archived) [Standard Notes](https://standardnotes.org) local-first client `#rust` `#gtk3`.
 - [Jorts](https://flathub.org/en/apps/io.github.ellie_commons.jorts) - Sticky notes application for elementary OS `#vala` `#gtk4` `#granite`.
+- [Notas](https://github.com/globalcve/Notas) - Lightweight, encrypted note-taking application supporting AES-256-GCM encryption and Argon2 key derivation `#rust` `#gtk4` `#libadwaita`.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#gtk4` `#libadwaita`.
 - [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++` `#gtk3`.
 - [Notes](https://github.com/Blquinn/notes) - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#gtk4` `#libadwaita`.
