@@ -245,7 +245,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume mixer `#rust` `#gtk4` `#libadwaita`.
 - [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#gtk4` `#granite`.
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
-- [SongRec](https://github.com/marin-m/SongRec) - Shazam GUI client `#rust` `#gtk3` 
+- [SongRec](https://github.com/marin-m/SongRec) - Shazam GUI client `#rust` `#gtk3`.
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
 - [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 - [Sound Recorder (Vocalis)](https://flathub.org/en/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
