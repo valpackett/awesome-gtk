@@ -135,6 +135,7 @@
   - [System Configuration](#system-configuration)
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
+  - [Appliances, devices, and microcontrollers](#appliances--devices--and-microcontrollers)
 - [Gaming](#gaming)
   - [Action, Platformer, Jump 'n' run](#action-platformer-jump-n-run)
   - [Board and Card Games](#board-and-card-games)
@@ -1267,6 +1268,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Task Scheduling
 
 - [Time Switch](https://github.com/fsobolev/timeswitch) - Computer shutdown timer `#python` `#gtk4` `#libadwaita`.
+
+### Appliances, devices, and microcontrollers
 
 ## Gaming
 
