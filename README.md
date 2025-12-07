@@ -1193,6 +1193,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#gtk4` `#libadwaita`.
 - [Embellish](https://github.com/getnf/embellish) - Application to install and manage Nerd Fonts on the system `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala` `#gtk3`.
+- [eSIM Manager](https://codeberg.org/lucaweiss/lpa-gtk) - LPA (Local Profile Assistant) application to manage an eSIM/eUICC in your Linux mobile device `#python` `#gtk4` `#libadwaita`.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Flatsweep](https://flathub.org/en/apps/io.github.giantpinkrobots.flatsweep) - Flatpak leftover cleaner `#python` `#gtk4` `#libadwaita`.
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
