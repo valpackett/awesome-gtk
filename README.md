@@ -1270,6 +1270,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Time Switch](https://github.com/fsobolev/timeswitch) - Computer shutdown timer `#python` `#gtk4` `#libadwaita`.
 
 ### Appliances, devices, and microcontrollers
+- [Phosh EV](https://gitlab.gnome.org/guidog/phosh-ev) - Application to display electric vehicle information,currently only displays battery status for cars supported by connect API
+(e.g.  Hyundai, Kia) and NissanConnect API (Nissan) `#rust` `#gtk4` `#libadwaita`.
 - [Watchmate](https://flathub.org/en/apps/io.gitlab.azymohliad.WatchMate) - Companion application for InfiniTime-powered PineTime smart watch `#rust` `#gtk4` `#libadwaita`.
 
 
