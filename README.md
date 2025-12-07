@@ -744,6 +744,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Serigy](https://flathub.org/en/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Sherlock](https://github.com/Skxxtz/sherlock) - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
+- [Stockpile](https://flathub.org/en/apps/garden.turtle.Jellybean) - Inventory counting application to keep count of restockable items, such as medication, food, beauty products, etc. `#vala` `#gtk4` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Tecla](https://gitlab.gnome.org/GNOME/tecla) - Keyboard layout viewer `#c` `#gtk4` `#libadwaita`.
