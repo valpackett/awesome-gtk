@@ -768,7 +768,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Mind-mapping
 
-- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for elementary OS `#vala` `#gtk3` `#libhandy` `#granite`.
+- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for elementary OS `#vala` `#gtk4` `#granite`.
 
 ### Project Management
 
