@@ -135,7 +135,7 @@
   - [System Configuration](#system-configuration)
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
-  - [Appliances, devices, and microcontrollers](#appliances--devices--and-microcontrollers)
+  - [Appliances, devices, and microcontrollers](#appliances-devices-and-microcontrollers)
 - [Gaming](#gaming)
   - [Action, Platformer, Jump 'n' run](#action-platformer-jump-n-run)
   - [Board and Card Games](#board-and-card-games)
