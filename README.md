@@ -135,6 +135,7 @@
   - [System Configuration](#system-configuration)
   - [System Monitoring and Info](#system-monitoring-and-info)
   - [Task Scheduling](#task-scheduling)
+  - [Appliances, devices, and microcontrollers](#appliances-devices-and-microcontrollers)
 - [Gaming](#gaming)
   - [Action, Platformer, Jump 'n' run](#action-platformer-jump-n-run)
   - [Board and Card Games](#board-and-card-games)
@@ -744,6 +745,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Serigy](https://flathub.org/en/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Sherlock](https://github.com/Skxxtz/sherlock) - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
+- [Stockpile](https://flathub.org/en/apps/garden.turtle.Jellybean) - Inventory counting application to keep count of restockable items, such as medication, food, beauty products, etc. `#vala` `#gtk4` `#libadwaita`.
 - [Szyszka](https://github.com/qarmin/szyszka) - Fast bulk file renamer `#rust` `#gtk4`.
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Tecla](https://gitlab.gnome.org/GNOME/tecla) - Keyboard layout viewer `#c` `#gtk4` `#libadwaita`.
@@ -757,6 +759,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [CSVEN](https://flathub.org/en/apps/io.github.rsvzz.csven) - Game to learn how to write English words by ordering the scrambled letters of the words `#c` `#gtk4` `#libadwaita`.
 - [Fast Reader](https://flathub.org/en/apps/io.github.quantum_mutnauq.fast_reader_gtk) - Fast reading application to learn to read more quickly, by showing only one word after the other `#c++` `#gtk4` `#libadwaita`.
 - [JapaChar](https://flathub.org/en/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
+- [Kana](https://flathub.org/en/apps/com.felipekinoshita.Kana) - Japanese characters learning application to match Hiragana and Katakana counterparts `#rust` `#gtk4` `#libadwaita`.
 - [Lexi](https://flathub.org/en/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/en/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
@@ -1081,6 +1084,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [App Icon Preview](https://flathub.org/en/apps/org.gnome.design.AppIconPreview) - Tool for designing icons which target the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Bella](https://flathub.org/en/apps/io.github.josephmawa.Bella) - Utility to pick a color from anywhere on your screen and save it in one of the common color formats `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Colorway](https://flathub.org/en/apps/io.github.lainsce.Colorway) - Application to generate color pairings from selected color that follow certain color rules `#vala` `#gtk4`.
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#gtk4` `#libadwaita`.
 - [Emblem](https://apps.gnome.org/Emblem) -  Tool to create project avatars/symbolic icons for Matrix rooms or Git forges `#rust` `#gtk4` `#libadwaita`.
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
@@ -1193,6 +1197,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) - Dynamic wallpaper creator for GNOME 42 `#python` `#gtk4` `#libadwaita`.
 - [Embellish](https://github.com/getnf/embellish) - Application to install and manage Nerd Fonts on the system `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [EasySSH](https://github.com/muriloventuroso/easyssh) - SSH connection manager `#vala` `#gtk3`.
+- [eSIM Manager](https://codeberg.org/lucaweiss/lpa-gtk) - LPA (Local Profile Assistant) application to manage an eSIM/eUICC in your Linux mobile device `#python` `#gtk4` `#libadwaita`.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Flatsweep](https://flathub.org/en/apps/io.github.giantpinkrobots.flatsweep) - Flatpak leftover cleaner `#python` `#gtk4` `#libadwaita`.
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
@@ -1264,6 +1269,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Time Switch](https://github.com/fsobolev/timeswitch) - Computer shutdown timer `#python` `#gtk4` `#libadwaita`.
 
+### Appliances, devices, and microcontrollers
+
+- [Phosh EV](https://gitlab.gnome.org/guidog/phosh-ev) - Application to display electric vehicle information,currently only displays battery status for cars supported by connect API (e.g.  Hyundai, Kia) and NissanConnect API (Nissan) `#rust` `#gtk4` `#libadwaita`.
+- [Tauno Monitor](https://flathub.org/en/apps/art.taunoerik.tauno-monitor) - Serial port monitor for Arduino and other embedded development `#python` `#gtk4` `#libadwaita`.
+- [Watchmate](https://flathub.org/en/apps/io.gitlab.azymohliad.WatchMate) - Companion application for InfiniTime-powered PineTime smart watch `#rust` `#gtk4` `#libadwaita`.
+
 ## Gaming
 
 - [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#gtk4` `#relm4` `#libadwaita`.
@@ -1309,6 +1320,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Egghead](https://flathub.org/en/apps/io.github.josephmawa.Egghead) - Knowledge and trivia quiz, including categories like "Science and Nature", "Geography", and "Politics" `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [GNOME Sudoku](https://flathub.org/en/apps/org.gnome.Sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
 - [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where players need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
+- [Hitori](https://flathub.org/en/apps/org.gnome.Hitori) - Logic game similar to the popular game of Sudoku `#c` `#gtk3`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
