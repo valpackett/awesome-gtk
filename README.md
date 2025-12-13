@@ -1297,6 +1297,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Honkers Launcher](https://flathub.org/en/apps/moe.launcher.honkers-launcher) - Unofficial launcher for the video game Honkers `#rust` `#gtk4` `#libadwaita`.
 - [Nibbles](https://flathub.org/en/apps/org.gnome.Nibbles) - Game where players guide a worm around a maze in its quest to eat bonuses and become longer. `#vala` `#gtk4` `#libadwaita`.
 - [Quadrapassel](https://flathub.org/en/apps/org.gnome.Quadrapassel) - Game with the aim to fit falling blocks together, similar to Tetris `#vala` `#gtk4` `#libadwaita`.
+- [Sleepy Launcher](https://flathub.org/en/apps/moe.launcher.sleepy-launcher) - Unofficial launcher for the video game Zenless Zone Zero `#rust` `#gtk4` `#libadwaita`.
 - [The Honkers Railway Launcher](https://flathub.org/en/apps/moe.launcher.the-honkers-railway-launcher) - Unofficial launcher for the video game Honkers Railway `#rust` `#gtk4` `#libadwaita`.
 
 
