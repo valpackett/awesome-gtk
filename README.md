@@ -557,6 +557,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Social Media Clients
 
 - [Tuba](https://apps.gnome.org/Tuba) - Mastodon client, fork of Tootle `#vala` `#gtk4` `#libadwaita` `#gnome`.
+- [Reddy](https://flathub.org/en/apps/net.krafting.Reddy) - Tool to manually repost images from Reddit posts to Lemmy `#python` `#gtk4` `#libadwaita`.
 - [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust` `#gtk4`.
 
 #### Social Media Server Management
