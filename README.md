@@ -987,6 +987,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNU Emacs GTK](https://www.gnu.org/software/emacs) - Extensible, customizable text editor `#lisp` `#c` `#gtk3`.
+- [Jollpi](https://flathub.org/en/apps/io.gitlab.zulfian1732.jollpi-text-editor) - Lightweight and simple multi-tab text editor with advanced features such as auto-indent, syntax highlighting, and quick find & replace navigation `#python` `#gtk4`.
 - [MousePad](https://flathub.org/en/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
 - [Norka](https://flathub.org/en/apps/com.github.tenderowl.norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk4` `#libadwaita`.
 - [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
