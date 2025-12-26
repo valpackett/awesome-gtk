@@ -1127,6 +1127,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Management
 
+- [Caja](https://github.com/mate-desktop/caja) - File manager for the MATE desktop  `#c` `#gtk3`.
 - [Files (elementary)](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy` `#granite`.
 - [fm](https://github.com/euclio/fm) - Small, general purpose file manager `#rust` `#gtk4` `#libadwaita`.
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
