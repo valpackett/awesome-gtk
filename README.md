@@ -1087,6 +1087,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Bella](https://flathub.org/en/apps/io.github.josephmawa.Bella) - Utility to pick a color from anywhere on your screen and save it in one of the common color formats `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Colorway](https://flathub.org/en/apps/io.github.lainsce.Colorway) - Application to generate color pairings from selected color that follow certain color rules `#vala` `#gtk4`.
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#gtk4` `#libadwaita`.
+- [Coulr](https://flathub.org/en/apps/com.github.huluti.Coulr) - Color box to convert RGB and hexadecimal color values, pick colors from the screen, and copy colors `#python` `#gtk4` `#libadwaita`.
 - [Emblem](https://apps.gnome.org/Emblem) -  Tool to create project avatars/symbolic icons for Matrix rooms or Git forges `#rust` `#gtk4` `#libadwaita`.
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
 - [Eyedropper](https://apps.gnome.org/Eyedropper) - Color picker and formatter `#rust` `#gtk4` `#libadwaita` `#gnome`.
