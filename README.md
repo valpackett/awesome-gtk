@@ -350,6 +350,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust` `#gtk4`.
 - [Image Viewer (Loupe)](https://apps.gnome.org/Loupe) - Simple image viewer `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#gtk4` `#libadwaita`.
+- [MView6](https://github.com/newinnovations/MView6) - High-performance PDF and photo viewer for large photo and document collections  `#rust` `#gtk4`.
 - [Photos](https://github.com/elementary/photos) - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
 - [Pix](https://github.com/linuxmint/pix) - Image viewer and browser `#c` `#gtk3` `#libxapp`.
 - [SphereView](https://flathub.org/en/apps/io.github.dynobo.sphereview) - Image viewer for 360° equirectangular photospheres and panoramas, based on the Photo Sphere Viewer library `#rust` `#gtk4` `#libadwaita`.
