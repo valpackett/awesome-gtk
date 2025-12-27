@@ -1323,6 +1323,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Blurble](https://flathub.org/en/apps/app.drey.Blurble) - Word guessing game `#vala` `#gtk4` `#libadwaita`.
 - [Egghead](https://flathub.org/en/apps/io.github.josephmawa.Egghead) - Knowledge and trivia quiz, including categories like "Science and Nature", "Geography", and "Politics" `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [EmojiClu](https://flathub.org/en/apps/io.github.timcharper.EmojiClu) - Deductive zebra puzzle logic game `#rust` `#gtk4` `#libadwaita`.
+- [GNOME Klotski](https://flathub.org/en/apps/org.gnome.Klotski) - Puzzle game in which the user needs to slide blocks to solve it `#vala` `#gtk3`.
 - [GNOME Sudoku](https://flathub.org/en/apps/org.gnome.Sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
 - [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where players need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Hitori](https://flathub.org/en/apps/org.gnome.Hitori) - Logic game similar to the popular game of Sudoku `#c` `#gtk3`.
