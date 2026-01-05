@@ -1097,7 +1097,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Icon Browser](https://flathub.org/en/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#c++` `#gtk4` `#libadwaita`.
 - [Icon Library](https://flathub.org/en/apps/org.gnome.design.IconLibrary) - System icon browser `#rust` `#gtk4` `#libadwaita`.
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `#libadwaita`.
-- [K’uychi](https://flathub.org/en/apps/one.naiara.Kuychi) - Color palette generator that automatically creates a consistent scale of lighter and darker shades, based on a selected color, using the OKLab color space `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [K'uychi](https://flathub.org/en/apps/one.naiara.Kuychi) - Color palette generator that automatically creates a consistent scale of lighter and darker shades, based on a selected color, using the OKLab color space `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
