@@ -986,6 +986,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNU Emacs GTK](https://www.gnu.org/software/emacs) - Extensible, customizable text editor `#lisp` `#c` `#gtk3`.
+- [Jollpi](https://flathub.org/en/apps/io.gitlab.zulfian1732.jollpi-text-editor) - Lightweight and simple multi-tab text editor with advanced features such as auto-indent, syntax highlighting, and quick find & replace navigation `#python` `#gtk4`.
 - [MousePad](https://flathub.org/en/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
 - [Norka](https://flathub.org/en/apps/com.github.tenderowl.norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk4` `#libadwaita`.
 - [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
@@ -1086,6 +1087,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Bella](https://flathub.org/en/apps/io.github.josephmawa.Bella) - Utility to pick a color from anywhere on your screen and save it in one of the common color formats `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Colorway](https://flathub.org/en/apps/io.github.lainsce.Colorway) - Application to generate color pairings from selected color that follow certain color rules `#vala` `#gtk4`.
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#gtk4` `#libadwaita`.
+- [Coulr](https://flathub.org/en/apps/com.github.huluti.Coulr) - Color toolbox to convert RGB and hexadecimal color values, pick colors from the screen, and copy colors `#python` `#gtk4` `#libadwaita`.
 - [Emblem](https://apps.gnome.org/Emblem) -  Tool to create project avatars/symbolic icons for Matrix rooms or Git forges `#rust` `#gtk4` `#libadwaita`.
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
 - [Eyedropper](https://apps.gnome.org/Eyedropper) - Color picker and formatter `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -1094,6 +1096,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Icon Browser](https://flathub.org/en/apps/io.github.rsvzz.iconvwadw) - Application to browse GNOME desktop icons `#c++` `#gtk4` `#libadwaita`.
 - [Icon Library](https://flathub.org/en/apps/org.gnome.design.IconLibrary) - System icon browser `#rust` `#gtk4` `#libadwaita`.
 - [Icon Preview](https://gitlab.gnome.org/World/design/app-icon-preview) - Application icon previewer for designing application icons `#rust` `#gtk4` `#libadwaita`.
+- [K'uychi](https://flathub.org/en/apps/one.naiara.Kuychi) - Color palette generator that automatically creates a consistent scale of lighter and darker shades, based on a selected color, using the OKLab color space `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [LookBook](https://github.com/danrabbit/lookbook) - System icon browser `#vala` `#gtk3` `#granite`.
 - [Paleta](https://github.com/nate-xyz/paleta) - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
@@ -1126,6 +1129,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Management
 
+- [Caja](https://github.com/mate-desktop/caja) - File manager for the MATE desktop  `#c` `#gtk3`.
 - [Files (elementary)](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy` `#granite`.
 - [fm](https://github.com/euclio/fm) - Small, general purpose file manager `#rust` `#gtk4` `#libadwaita`.
 - [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
