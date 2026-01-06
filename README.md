@@ -350,6 +350,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Image Roll](https://github.com/weclaw1/image-roll) - Simple and fast image viewer with basic image manipulation tools `#rust` `#gtk4`.
 - [Image Viewer (Loupe)](https://apps.gnome.org/Loupe) - Simple image viewer `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Memento](https://github.com/SelfRef/memento) - Meme browser, search and tagger with OCR tagging `#python` `#gtk4` `#libadwaita`.
+- [MView6](https://github.com/newinnovations/MView6) - High-performance PDF and photo viewer for large photo and document collections  `#rust` `#gtk4`.
 - [Photos](https://github.com/elementary/photos) - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
 - [Pix](https://github.com/linuxmint/pix) - Image viewer and browser `#c` `#gtk3` `#libxapp`.
 - [SphereView](https://flathub.org/en/apps/io.github.dynobo.sphereview) - Image viewer for 360° equirectangular photospheres and panoramas, based on the Photo Sphere Viewer library `#rust` `#gtk4` `#libadwaita`.
@@ -617,6 +618,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Calculators & Math
 
 - [Binary](https://apps.gnome.org/Binary) - Small application to convert numbers to different bases `#python` `#gtk4` `#libadwaita`.
+- [Calculator](https://github.com/elementary/calculator) - Calculator designed for elementary OS `#vala` `#gtk4` `#granite`.
 - [Cuneo](https://flathub.org/en/apps/io.github.heidefinnischen.cuneo) - Widget-like calculator and conversion tool `#python` `#gtk4` `#libadwaita`.
 - [Dippi](https://github.com/cassidyjames/dippi) - Display DPI calculator `#vala` `#gtk4` `#libadwaita`.
 - [Gauge](https://flathub.org/en/apps/io.github.josephmawa.Gauge) - High precision unit conversion tool `#javascript` `#gtk4` `#libadwaita`.
@@ -726,6 +728,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Actioneer](https://github.com/phase1geo/actioneer) - Tool to automate actions on file changes `#vala` `#gtk3` `#granite`.
 - [Boatswain](https://apps.gnome.org/Boatswain) - Elgato Stream Deck controller `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Confy](https://confy.kirgroup.net) - Conferences schedule viewer `#python` `#gtk4` `#libadwaita`.
+- [Convertidor](https://flathub.org/en/apps/tech.digiroad.Convertidor) - Convertor for 300+ units of measurement `#python` `#gtk4` `#libadwaita`.
 - [Counters](https://flathub.org/en/apps/io.gitlab.guillermop.Counters) - Simple counting application to create counters to keep track of anything `#vala` `#gtk4` `#libadwaita`.
 - [StreamController](https://github.com/StreamController/StreamController) - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
 - [Cigale](https://github.com/emmanueltouzery/cigale) - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
@@ -1322,9 +1325,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Atomix](https://flathub.org/en/apps/org.gnome.atomix) - Puzzle game in which the player has to build full molecules `#c` `#gtk3`.
 - [Blurble](https://flathub.org/en/apps/app.drey.Blurble) - Word guessing game `#vala` `#gtk4` `#libadwaita`.
 - [Egghead](https://flathub.org/en/apps/io.github.josephmawa.Egghead) - Knowledge and trivia quiz, including categories like "Science and Nature", "Geography", and "Politics" `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [EmojiClu](https://flathub.org/en/apps/io.github.timcharper.EmojiClu) - Deductive zebra puzzle logic game `#rust` `#gtk4` `#libadwaita`.
+- [GNOME Klotski](https://flathub.org/en/apps/org.gnome.Klotski) - Puzzle game in which the player slides blocks for solving it `#vala` `#gtk3`.
 - [GNOME Sudoku](https://flathub.org/en/apps/org.gnome.Sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
 - [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where players need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Hitori](https://flathub.org/en/apps/org.gnome.Hitori) - Logic game similar to the popular game of Sudoku `#c` `#gtk3`.
+- [Mines](https://flathub.org/en/apps/org.gnome.Mines) - Minefield clearing game `#vala` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
