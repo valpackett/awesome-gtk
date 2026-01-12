@@ -187,6 +187,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Cassette](https://flathub.org/en/apps/space.rirusha.Cassette) - Yandex Music service client `#vala` `#gtk4` `#libadwaita`.
 - [Gelly](https://flathub.org/en/apps/io.m51.Gelly) - Jellyfin Media Server client focused specifically on music playback `#rust` `#gtk4` `#libadwaita`.
 - [High Tide](https://github.com/Nokse22/high-tide) - Tidal streaming client `#python` `#gtk4` `#libadwaita`.
+- [Listen Moe](https://flathub.org/en/apps/io.github.noobping.listenmoe) - Application to listen to J-POP and K-POP, provided by LISTEN.moe `#rust` `#gtk4` `#libadwaita`.
 - [Riff](https://github.com/Diegovsky/riff) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot), fork of [Spot](https://github.com/xou816/spot) `#rust` `#gtk4` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - (archived) Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python` `#gtk3`.
 
@@ -849,6 +850,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Geography 
 
 - [Geobug](https://tpikonen.codeberg.page/geobug) - Adaptive client for GeoClue, the geolocation service from freedesktop.org, to display location information (coordinates, speed etc.), saves a track of movements to a GPX-file. `#python` `#gtk4` `#libadwaita`.
+- [Gpredict](https://oz9aec.dk/gpredict) - Real-time satellite tracking and orbit prediction program `#c` `#gtk3`.
 - [gpsami](https://gitlab.gnome.org/hub/gpsami) - Application to download data from GPS loggers and to save it as GPX `#rust` `#gtk4` `#libadwaita`.
 - [NOAA APT](https://github.com/bareboat-necessities/noaa-apt) - Weather satellite image decoder `#rust` `#gtk3`.
 - [Satellite](https://flathub.org/en/apps/page.codeberg.tpikonen.satellite) - Application to display GNSS (GPS, Galileo, Glonass etc.) information, e.g. location information (coordinates, speed etc.), saves a track of movements to a GPX-file `#python` `#gtk4` `#libadwaita`.
@@ -1281,6 +1283,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Phosh EV](https://gitlab.gnome.org/guidog/phosh-ev) - Application to display electric vehicle information,currently only displays battery status for cars supported by connect API (e.g.  Hyundai, Kia) and NissanConnect API (Nissan) `#rust` `#gtk4` `#libadwaita`.
 - [Tauno Monitor](https://flathub.org/en/apps/art.taunoerik.tauno-monitor) - Serial port monitor for Arduino and other embedded development `#python` `#gtk4` `#libadwaita`.
+- [TV Remote](https://flathub.org/en/apps/io.github.erenseymen.android-tv-remote) - Remote control for Android TV devices `#python` `#gtk4` `#libadwaita`.
 - [Watchmate](https://flathub.org/en/apps/io.gitlab.azymohliad.WatchMate) - Companion application for InfiniTime-powered PineTime smart watch `#rust` `#gtk4` `#libadwaita`.
 
 ## Gaming
