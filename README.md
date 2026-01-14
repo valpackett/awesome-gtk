@@ -460,7 +460,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Servers
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#gtk4` `#libadwaita`.
-- [Playlifin](https://gitlab.com/Krafting/playlifin-gtk) - Tool to convert YouTube playlists to Jellyfin playlists `#python` `#gtk4` `#libadwaita`.
+- [Playlifin](https://flathub.org/en/apps/net.krafting.Playlifin) - Tool to convert YouTube playlists to Jellyfin playlists `#python` `#gtk4` `#libadwaita`.
 - [Playlifin Voyager](https://flathub.org/en/apps/net.krafting.PlaylifinVoyager) - Tool to export and import playlists from and to a Jellyfin Server `#python` `#gtk4` `#libadwaita`.
 
 ## Internet and Networking
