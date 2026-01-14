@@ -461,7 +461,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Media Servers
 
 - [Girens](https://gitlab.gnome.org/tijder/girens) - Plex media player client with responsive layout and function to download media items `#python` `#gtk4` `#libadwaita`.
-- [Playlifin](https://gitlab.com/Krafting/playlifin-gtk) - Tool to convert YouTube playlists to Jellyfin playlists `#python` `#gtk4` `#libadwaita`.
+- [Playlifin](https://flathub.org/en/apps/net.krafting.Playlifin) - Tool to convert YouTube playlists to Jellyfin playlists `#python` `#gtk4` `#libadwaita`.
+- [Playlifin Voyager](https://flathub.org/en/apps/net.krafting.PlaylifinVoyager) - Tool to export and import playlists from and to a Jellyfin Server `#python` `#gtk4` `#libadwaita`.
 
 ## Internet and Networking
 
@@ -529,8 +530,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Echo](https://flathub.org/en/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
 - [Hotwire](https://github.com/emmanueltouzery/hotwire) - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 - [NetPeek](https://flathub.org/en/apps/io.github.zingytomato.netpeek) - Simple network scanner that helps you discover active devices on your local network `#python` `#gtk4` `#libadwaita`.
+- [Network Monitor](https://github.com/grigio/network-monitor) - Real-time network connection monitoring tool with GUI & TUI `#rust` `#gtk4` `#libadwaita`.
 - [pingpath](https://github.com/yvs2014/pingpath) - Network diagnostic tool based on parsing ping output with functionality of traceroute `#c` `#gtk4`.
-- [Xtraceroute AI revamped](https://gitlab.com/cschalle/xtraceroute-ai-revamped) -  Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
+- [Xtraceroute AI revamped](https://gitlab.com/cschalle/xtraceroute-ai-revamped) - Network diagnostic tool that plots the traceroute of IP packets on a globe `#c` `#gtk4`.
 
 ### News/Feed Readers
 
@@ -555,6 +557,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Social Media Clients
 
 - [Tuba](https://apps.gnome.org/Tuba) - Mastodon client, fork of Tootle `#vala` `#gtk4` `#libadwaita` `#gnome`.
+- [Reddy](https://flathub.org/en/apps/net.krafting.Reddy) - Tool to manually repost images from Reddit posts to Lemmy `#python` `#gtk4` `#libadwaita`.
 - [Social](https://gitlab.gnome.org/World/Social) - Mastodon and Pleroma client `#rust` `#gtk4`.
 
 #### Social Media Server Management
@@ -1281,6 +1284,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Appliances, devices, and microcontrollers
 
+- [Aurynk](https://flathub.org/en/apps/io.github.IshuSinghSE.aurynk) - Application for managing Android devices, pairing via ADB, and mirroring screens using `scrcpy` `#python` `#gtk4` `#libadwaita`.
 - [Phosh EV](https://gitlab.gnome.org/guidog/phosh-ev) - Application to display electric vehicle information,currently only displays battery status for cars supported by connect API (e.g.  Hyundai, Kia) and NissanConnect API (Nissan) `#rust` `#gtk4` `#libadwaita`.
 - [Tauno Monitor](https://flathub.org/en/apps/art.taunoerik.tauno-monitor) - Serial port monitor for Arduino and other embedded development `#python` `#gtk4` `#libadwaita`.
 - [TV Remote](https://flathub.org/en/apps/io.github.erenseymen.android-tv-remote) - Remote control for Android TV devices `#python` `#gtk4` `#libadwaita`.
@@ -1304,8 +1308,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Action, Platformer, Jump 'n' run
 
 - [GNOME Robots](https://gitlab.gnome.org/GNOME/gnome-robots) - Game where players try to avoid a band of marauding robots which are trying to kill `#rust` `#gtk4` `#libadwaita`.
+- [Honkers Launcher](https://flathub.org/en/apps/moe.launcher.honkers-launcher) - Unofficial launcher for the video game Honkers `#rust` `#gtk4` `#libadwaita`.
 - [Nibbles](https://flathub.org/en/apps/org.gnome.Nibbles) - Game where players guide a worm around a maze in its quest to eat bonuses and become longer. `#vala` `#gtk4` `#libadwaita`.
 - [Quadrapassel](https://flathub.org/en/apps/org.gnome.Quadrapassel) - Game with the aim to fit falling blocks together, similar to Tetris `#vala` `#gtk4` `#libadwaita`.
+- [Sleepy Launcher](https://flathub.org/en/apps/moe.launcher.sleepy-launcher) - Unofficial launcher for the video game Zenless Zone Zero `#rust` `#gtk4` `#libadwaita`.
+- [The Honkers Railway Launcher](https://flathub.org/en/apps/moe.launcher.the-honkers-railway-launcher) - Unofficial launcher for the video game Honkers Railway `#rust` `#gtk4` `#libadwaita`.
+
 
 ### Board and Card Games
 
@@ -1320,6 +1328,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Goban](https://gitlab.com/gjask/goban) - Go/Weiqi/Baduk board and SGF editor for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Libellus](https://libellus.hummdudel.de) - Tab-based wiki/Lexicon for DnD 5th edition `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Mahjongg](https://gitlab.gnome.org/GNOME/gnome-mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg `#vala` `#gtk4` `#libadwaita` .
+- [Poliedros](https://flathub.org/en/apps/io.github.kriptolix.Poliedros) - Multi-type dice roller `#python` `#gtk4` `#libadwaita`.
 - [Reversi](https://flathub.org/en/apps/org.gnome.Reversi) - Two-player strategy game also known as Othello, similar to Go `#vala` `#gtk4` `#libadwaita`.
 - [Rollit](https://github.com/ellie-commons/rollit) - Roll the dice application from six-sided dice up to 999 sides, designed for elementary OS `#vala` `#gtk4` `#granite`.
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
@@ -1334,6 +1343,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Sudoku](https://flathub.org/en/apps/org.gnome.Sudoku) - Digitalized version of Sudoku, the classic Japanese puzzle game `#vala` `#gtk4` `#libadwaita`.
 - [Hex Colordle GTK](https://gitlab.com/Krafting/hexcolordle-gtk) - Game where players need to find a color by guessing its hex code `#python` `#gtk4` `#libadwaita`.
 - [Hitori](https://flathub.org/en/apps/org.gnome.Hitori) - Logic game similar to the popular game of Sudoku `#c` `#gtk3`.
+- [Hunt](https://flathub.org/en/apps/io.github.swordpuffin.hunt) - Easy word search game `#python` `#gtk4` `#libadwaita`.
 - [Mines](https://flathub.org/en/apps/org.gnome.Mines) - Minefield clearing game `#vala` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
