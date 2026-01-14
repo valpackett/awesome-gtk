@@ -463,7 +463,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Playlifin](https://gitlab.com/Krafting/playlifin-gtk) - Tool to convert YouTube playlists to Jellyfin playlists `#python` `#gtk4` `#libadwaita`.
 - [Playlifin Voyager](https://flathub.org/en/apps/net.krafting.PlaylifinVoyager) - Tool to export and import playlists from and to a Jellyfin Server `#python` `#gtk4` `#libadwaita`.
 
-
 ## Internet and Networking
 
 ### Bluetooth
