@@ -1275,7 +1275,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Appliances, devices, and microcontrollers
 
-- [Aurynk](https://flathub.org/en/apps/io.github.IshuSinghSE.aurynk) - Application for managing Android devices, pairing via ADB, and mirroring screens using scrcpy `#python` `#gtk4` `#libadwaita`.
+- [Aurynk](https://flathub.org/en/apps/io.github.IshuSinghSE.aurynk) - Application for managing Android devices, pairing via ADB, and mirroring screens using `scrcpy` `#python` `#gtk4` `#libadwaita`.
 - [Phosh EV](https://gitlab.gnome.org/guidog/phosh-ev) - Application to display electric vehicle information,currently only displays battery status for cars supported by connect API (e.g.  Hyundai, Kia) and NissanConnect API (Nissan) `#rust` `#gtk4` `#libadwaita`.
 - [Tauno Monitor](https://flathub.org/en/apps/art.taunoerik.tauno-monitor) - Serial port monitor for Arduino and other embedded development `#python` `#gtk4` `#libadwaita`.
 - [Watchmate](https://flathub.org/en/apps/io.gitlab.azymohliad.WatchMate) - Companion application for InfiniTime-powered PineTime smart watch `#rust` `#gtk4` `#libadwaita`.
