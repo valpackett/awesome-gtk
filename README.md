@@ -1223,7 +1223,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
 - [HydraPaper](https://flathub.org/en/apps/org.gabmus.hydrapaper) - Wallpaper manager with multi monitor support `#python` `#gtk4` `#libadwaita`.
 - [Ignition](https://flathub.org/en/apps/io.github.flattool.Ignition) - Utility to manage startup apps and scripts (Freedesktop autostart entries) `#gjs` `#typescript` `#gtk4` `#libadwaita`.
-- [KeySmith](https://flathub.org/en/apps/io.github.tobagin.keysmith) - Utility to generate, manage, and deploy SSH keys `#python` `#gtk4` `#libadwaita`.
+- [KeyMaker](https://flathub.org/en/apps/io.github.tobagin.keysmith) - Utility to generate, manage, and deploy SSH keys `#vala` `#gtk4` `#libadwaita`.
 - [LACT](https://github.com/ilya-zlobintsev/LACT) - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
