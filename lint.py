@@ -65,7 +65,7 @@ def lint_awesome_list(text: str, allowed_tags: list[str]) -> list[tuple[int, str
         if not link_match:
             errors.append((line_number, "Invalid link format."))
             continue
-        tags = re.findall(r"`#(\w+)`", line)
+        tags = re.findall(r"`#(\S+)`", line)
         if not tags:
             errors.append(
                 (
