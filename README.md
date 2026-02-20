@@ -762,6 +762,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
 - [Walker](https://github.com/abenz1267/walker) - Customizable application launcher for Wayland `#rust` `#gtk4`.
 - [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementary OS `#vala` `#gtk3` `#granite`.
+- [FrostByte](https://github.com/VladislavTsytrikov/frostbyte) - A zero-config background daemon that auto-suspends inactive GUI applications using SIGSTOP on GNOME/Wayland to save RAM.
 
 ### Education
 
