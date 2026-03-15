@@ -880,6 +880,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Security and Privacy
 
+- [ClamUI](https://flathub.org/en/apps/io.github.linx_systems.ClamUI) - User-friendly antivirus tool, based on ClamAV `#python` `#gtk4` `#libadwaita`.
 - [Collision](https://apps.gnome.org/app/dev.geopjr.Collision) - Tool to generate, compare and verify hashes `#crystal` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c` `#gtk3`.
 - [Lenspect](https://flathub.org/en/apps/io.github.vmkspv.lenspect) - Security threat and malware scanner for files `#python` `#gtk4` `#libadwaita`.
