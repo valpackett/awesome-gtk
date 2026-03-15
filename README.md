@@ -264,6 +264,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Drum Machine](https://github.com/Revisto/drum-machine) - Drum machine application to create and play drum beats `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [Elektroid](https://dagargo.github.io/elektroid) - Sample and MIDI device manager supporting Elektron, Arturia, Novation, a.o. synths and beatboxes `#c` `#gtk3`.
 - [Fretboard](https://apps.gnome.org/Fretboard) - Software for guitarists to look up guitar chords `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Glight](https://github.com/aroffringa/glight) - DMX controller software for live control of stage lighting, suitable for shows and events `#c++` `#gtk4`.
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
 - [Metronome](https://gitlab.gnome.org/World/metronome) - Metronome application that beats the rhythm to keep the tempo `#rust` `#gtk4` `#libadwaita`.
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
