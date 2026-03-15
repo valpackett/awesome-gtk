@@ -880,7 +880,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Collision](https://apps.gnome.org/app/dev.geopjr.Collision) - Tool to generate, compare and verify hashes `#crystal` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c` `#gtk3`.
-- [Kapitano](https://flathub.org/en/apps/page.codeberg.zynequ.Kapitano) - User-friendly antivirus tool and malware scanner for Linux (malware, viruses, and threats) based on ClamAV `#python` `#gtk4` `#libadwaita`.
 - [Lenspect](https://flathub.org/en/apps/io.github.vmkspv.lenspect) - Security threat and malware scanner for files `#python` `#gtk4` `#libadwaita`.
 - [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps `#rust` `#gtk4` `#libadwaita`.
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#gtk4` `#libadwaita`.
