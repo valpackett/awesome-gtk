@@ -1381,6 +1381,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Health and Fitness
 
 - [AAT Activity Tracker](https://flathub.org/en/apps/ch.bailu.aat) - Application to track sportive and outdoor activities while displaying them on cockpit and map view, supporting GPX format for sharing `#kotlin` `#gtk4` `#libadwaita`.
+- [BLE Sync Cycle](https://flathub.org/en/apps/io.github.seadve.Breathing) - Indoor cycling application synchronizing video playback with real-time cycling data from Bluetooth Low Energy (BLE) devices `#go` `#gtk4` `#libadwaita`.
 - [Breathing](https://flathub.org/en/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
