@@ -267,6 +267,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Glight](https://github.com/aroffringa/glight) - DMX controller software for live control of stage lighting, suitable for shows and events `#c++` `#gtk4`.
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
 - [Metronome](https://gitlab.gnome.org/World/metronome) - Metronome application that beats the rhythm to keep the tempo `#rust` `#gtk4` `#libadwaita`.
+- [Oscmix](https://github.com/huddx01/oscmix) - Mixer for RME Fireface Devices in CC Mode. Currently supported: 802, UCX, UCX II, UFX+, UFX II, UFX III `#c` `#gtk3`.
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
 - [POD UI](https://arteme.github.io/pod-ui) - Application for controlling Line6 POD family of guitar modelling amps via MIDI `#rust` `#gtk3`.
 - [SysEx Controls](https://github.com/soyersoyer/sysex-controls) - Application for configuring MIDI devices from Akai and Arturia `#c` `#gtk4` `#libadwaita`.
