@@ -1399,6 +1399,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Weather Viewers
 
+- [Emergency alerts](https://github.com/leolost2605/emergency-alerts) - Simple application that sends emergency alerts about the specified location `#vala` `#gtk4` `#granite`.
 - [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
 - [GTK Meteo](https://flathub.org/en/apps/ch.bailu.gtk_meteo) - Forecast application using OpenWeatherMap API `#kotlin` `#gtk4` `#libadwaita`.
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
