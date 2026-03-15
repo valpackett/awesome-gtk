@@ -1354,6 +1354,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Mines](https://flathub.org/en/apps/org.gnome.Mines) - Minefield clearing game `#vala` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
+- [Recall](https://flathub.org/en/apps/io.github.basshift.Recall) - Memory game to train the memory under pressure `#rust` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Sudoku](https://flathub.org/en/apps/io.github.sepehr_rs.Sudoku) - Number-placement puzzle `#python` `#gtk4` `#libadwaita`.
 - [Sudoku Solver](https://flathub.org/en/apps/io.gitlab.cyberphantom52.sudoku_solver) - Simple Sudoku solver `#rust` `#gtk4` `#libadwaita`.
