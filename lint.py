@@ -29,6 +29,7 @@ TAGS: list[str] = [
     "swift",
     "crystal",
     "gjs",
+    "java",
     "javascript",
     "clojurescript",
     "typescript",
