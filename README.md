@@ -191,6 +191,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Listen Moe](https://flathub.org/en/apps/io.github.noobping.listenmoe) - Application to listen to J-POP and K-POP, provided by LISTEN.moe `#rust` `#gtk4` `#libadwaita`.
 - [Riff](https://github.com/Diegovsky/riff) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot), fork of [Spot](https://github.com/xou816/spot) `#rust` `#gtk4` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - (archived) Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python` `#gtk3`.
+- [Tonearm](https://flathub.org/en/apps/dev.dergs.Tonearm) - Unofficial TIDAL music streaming client `#go` `#gtk4` `#libadwaita`.
 
 #### MPD Clients
 
@@ -264,8 +265,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Drum Machine](https://github.com/Revisto/drum-machine) - Drum machine application to create and play drum beats `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [Elektroid](https://dagargo.github.io/elektroid) - Sample and MIDI device manager supporting Elektron, Arturia, Novation, a.o. synths and beatboxes `#c` `#gtk3`.
 - [Fretboard](https://apps.gnome.org/Fretboard) - Software for guitarists to look up guitar chords `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Glight](https://github.com/aroffringa/glight) - DMX controller software for live control of stage lighting, suitable for shows and events `#c++` `#gtk4`.
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
 - [Metronome](https://gitlab.gnome.org/World/metronome) - Metronome application that beats the rhythm to keep the tempo `#rust` `#gtk4` `#libadwaita`.
+- [Oscmix](https://github.com/huddx01/oscmix) - Mixer for RME Fireface Devices in CC Mode. Currently supported: 802, UCX, UCX II, UFX+, UFX II, UFX III `#c` `#gtk3`.
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
 - [POD UI](https://arteme.github.io/pod-ui) - Application for controlling Line6 POD family of guitar modelling amps via MIDI `#rust` `#gtk3`.
 - [SysEx Controls](https://github.com/soyersoyer/sysex-controls) - Application for configuring MIDI devices from Akai and Arturia `#c` `#gtk4` `#libadwaita`.
@@ -277,6 +280,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Video Players
 
 - [Celluloid](https://github.com/celluloid-player/celluloid) - (ex GNOME MPV) frontend for MPV `#c` `#gtk4` `#libadwaita`.
+- [Cine](https://flathub.org/en/apps/io.github.diegopvlk.Cine) - MPV-based video player that combines a clean interface with a high-performance engine `#python` `#gtk4` `#libadwaita`.
 - [Clapper](https://github.com/Rafostar/clapper) - Media player powered by GStreamer with OpenGL rendering `#c` `#gtk4` `#libadwaita`.
 - [Delfin](https://codeberg.org/avery42/delfin) - Application to stream movies/TV shows from Jellyfin `#rust` `#gtk4` `#libadwaita`.
 - [EcoTubeHQ](https://flathub.org/en/apps/io.github.ecotubehq.player) - Energy efficient video player `#c` `#gtk4` `#libadwaita`.
@@ -770,6 +774,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [JapaChar](https://flathub.org/en/apps/me.sergiotarxz.JapaChar) - Application to learn Japanese Characters `#perl` `#gtk4` `#libadwaita`.
 - [Kana](https://flathub.org/en/apps/com.felipekinoshita.Kana) - Japanese characters learning application to match Hiragana and Katakana counterparts `#rust` `#gtk4` `#libadwaita`.
 - [Lexi](https://flathub.org/en/apps/io.github.dzheremi2.lexi) - Application to create your own dictionary `#python` `#gtk4` `#libadwaita`.
+- [Mecalin](https://flathub.org/en/apps/io.github.nacho.mecalin) - Typing tutor application that helps to learn and improve touch typing skills featuring lessons `#rust` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/en/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
 - [Quick Lookup](https://flathub.org/en/apps/com.github.johnfactotum.QuickLookup) - Dictionary application to lookup definitions for words or phrases, powered by Wiktionary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
@@ -878,9 +883,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Security and Privacy
 
+- [ClamUI](https://flathub.org/en/apps/io.github.linx_systems.ClamUI) - User-friendly antivirus tool, based on ClamAV `#python` `#gtk4` `#libadwaita`.
 - [Collision](https://apps.gnome.org/app/dev.geopjr.Collision) - Tool to generate, compare and verify hashes `#crystal` `#gtk4` `#libadwaita` `#gnome`.
 - [GtkHash](https://gtkhash.org) - Desktop utility for computing message digests or checksums `#c` `#gtk3`.
-- [Kapitano](https://flathub.org/en/apps/page.codeberg.zynequ.Kapitano) - User-friendly antivirus tool and malware scanner for Linux (malware, viruses, and threats) based on ClamAV `#python` `#gtk4` `#libadwaita`.
 - [Lenspect](https://flathub.org/en/apps/io.github.vmkspv.lenspect) - Security threat and malware scanner for files `#python` `#gtk4` `#libadwaita`.
 - [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps `#rust` `#gtk4` `#libadwaita`.
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#gtk4` `#libadwaita`.
@@ -1350,6 +1355,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Mines](https://flathub.org/en/apps/org.gnome.Mines) - Minefield clearing game `#vala` `#gtk4` `#libadwaita`.
 - [Multiplication Puzzle](https://gitlab.gnome.org/mterry/gmult) - Simple game inspired by the multiplication game from emacs `#vala` `#gtk4` `#libadwaita`.
 - [PedantiK](https://gitlab.com/Krafting/pedantik) - Game where players try to find the words to fill a Wikipedia article (clone of Pédantix)  `#python` `#gtk4` `#libadwaita`.
+- [Recall](https://flathub.org/en/apps/io.github.basshift.Recall) - Memory game to train the memory under pressure `#rust` `#gtk4` `#libadwaita`.
 - [SemantiK](https://gitlab.com/Krafting/semantik-gtk) - Word-game where players need to find a secret word `#python` `#gtk4` `#libadwaita`.
 - [Sudoku](https://flathub.org/en/apps/io.github.sepehr_rs.Sudoku) - Number-placement puzzle `#python` `#gtk4` `#libadwaita`.
 - [Sudoku Solver](https://flathub.org/en/apps/io.gitlab.cyberphantom52.sudoku_solver) - Simple Sudoku solver `#rust` `#gtk4` `#libadwaita`.
@@ -1376,6 +1382,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Health and Fitness
 
 - [AAT Activity Tracker](https://flathub.org/en/apps/ch.bailu.aat) - Application to track sportive and outdoor activities while displaying them on cockpit and map view, supporting GPX format for sharing `#kotlin` `#gtk4` `#libadwaita`.
+- [BLE Sync Cycle](https://github.com/richbl/go-ble-sync-cycle) - Indoor cycling application synchronizing video playback with real-time cycling data from Bluetooth Low Energy (BLE) devices `#go` `#gtk4` `#libadwaita`.
 - [Breathing](https://flathub.org/en/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
@@ -1397,6 +1404,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Weather Viewers
 
+- [Emergency alerts](https://github.com/leolost2605/emergency-alerts) - Simple application that sends emergency alerts about the specified location `#vala` `#gtk4` `#granite`.
 - [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
 - [GTK Meteo](https://flathub.org/en/apps/ch.bailu.gtk_meteo) - Forecast application using OpenWeatherMap API `#kotlin` `#gtk4` `#libadwaita`.
 - [Nimbus](https://github.com/danrabbit/nimbus) - Minimal weather applet `#vala` `#gtk4` `#granite`.
