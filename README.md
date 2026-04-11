@@ -872,6 +872,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Cadabra](https://cadabra.science) - Symbolic computer algebra system, designed specifically for the solution of problems encountered in quantum and classical field theory `#c++` `#python` `#gtk3`.
 - [Elastic](https://gitlab.gnome.org/World/elastic) - Design of spring animations `#vala` `#gtk4` `#libadwaita`.
 - [Electra](https://github.com/art-den/electra_stacking) - Software for stacking of deep sky astronomical images `#rust` `#gtk3`.
+- [Navier Stokes Spectral Method](https://github.com/Minard-Jules/Navier_Stokes_Spectral_Method) - Numerical simulation of the 2D Navier-Stokes equations in the ω − ψ formulation using the pseudo-spectral method `#fortran` `#gtk4`.
 
 ### Statistics
 
