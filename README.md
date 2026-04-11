@@ -220,6 +220,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Parlatype](https://github.com/gkarsay/parlatype) - Minimal audio player for manual speech transcription `#c` `#gtk4` `#libadwaita`.
 - [ReCast](https://github.com/hardcoeur/recast) - Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper `#python` `#gtk4` `#libadwaita`.
+- [Speed of Sound](https://www.speedofsound.io) - Voice-typing application `#java` `#gtk4` `#libadwaita`.
+
 
 #### Ambient Sounds
 
