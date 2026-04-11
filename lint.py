@@ -36,6 +36,7 @@ TAGS: list[str] = [
     "scheme",
     "kotlin",
     "lisp",
+    "fortran",
 ]
 
 
