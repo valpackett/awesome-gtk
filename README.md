@@ -223,7 +223,6 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [ReCast](https://github.com/hardcoeur/recast) - Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper `#python` `#gtk4` `#libadwaita`.
 - [Speed of Sound](https://www.speedofsound.io) - Voice-typing application `#java` `#gtk4` `#libadwaita`.
 
-
 #### Ambient Sounds
 
 - [Blanket](https://apps.gnome.org/Blanket) - Ambient sound player/mixer with preset management and MPRIS integration `#python` `#gtk4` `#libadwaita` `#gnome`.
