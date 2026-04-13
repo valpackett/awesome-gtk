@@ -191,6 +191,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Listen Moe](https://flathub.org/en/apps/io.github.noobping.listenmoe) - Application to listen to J-POP and K-POP, provided by LISTEN.moe `#rust` `#gtk4` `#libadwaita`.
 - [Riff](https://github.com/Diegovsky/riff) - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot), fork of [Spot](https://github.com/xou816/spot) `#rust` `#gtk4` `#libadwaita`.
 - [Sublime Music](https://sublimemusic.app) - (archived) Client for Subsonic-compatible (Subsonic, Airsonic, Revel, Gonic, Navidrome, Ampache, \*sonic) personal streaming servers `#python` `#gtk3`.
+- [Subsound-GTK](https://github.com/esiqveland/subsound-gtk) - Subsonic compatible music player `#java` `#gtk4` `#libadwaita`.
 - [Tonearm](https://flathub.org/en/apps/dev.dergs.Tonearm) - Unofficial TIDAL music streaming client `#go` `#gtk4` `#libadwaita`.
 
 #### MPD Clients
@@ -220,6 +221,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Parlatype](https://github.com/gkarsay/parlatype) - Minimal audio player for manual speech transcription `#c` `#gtk4` `#libadwaita`.
 - [ReCast](https://github.com/hardcoeur/recast) - Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper `#python` `#gtk4` `#libadwaita`.
+- [Speed of Sound](https://www.speedofsound.io) - Voice-typing application `#java` `#gtk4` `#libadwaita`.
 
 #### Ambient Sounds
 
@@ -267,6 +269,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Fretboard](https://apps.gnome.org/Fretboard) - Software for guitarists to look up guitar chords `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Glight](https://github.com/aroffringa/glight) - DMX controller software for live control of stage lighting, suitable for shows and events `#c++` `#gtk4`.
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
+- [LEDSuite](https://d0minik.dev/LEDSuite) - Application to control LED/display installations, e.g., LED-Cube, LED-Wall/Matrix, LCD and addressable LED-Strips, suitable for shows and events `#java` `#gtk4` `#libadwaita`.
 - [Metronome](https://gitlab.gnome.org/World/metronome) - Metronome application that beats the rhythm to keep the tempo `#rust` `#gtk4` `#libadwaita`.
 - [Oscmix](https://github.com/huddx01/oscmix) - Mixer for RME Fireface Devices in CC Mode. Currently supported: 802, UCX, UCX II, UFX+, UFX II, UFX III `#c` `#gtk3`.
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
@@ -323,6 +326,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 - [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Cameractrls](https://github.com/soyersoyer/cameractrls) - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
+- [Cam Overlay](https://flathub.org/en/apps/io.github.didley.CamOverlay) - Borderless webcam overlay for screen recording `#rust` `#gtk4` `#libadwaita`.
 - [Constrict](https://flathub.org/en/apps/io.github.wartybix.Constrict) - Application to compress a video to a specific file size `#python` `#gtk4` `#libadwaita`.
 - [Facetracker](https://codeberg.org/ZRayEntertainment/Facetracker) - Wrapper UI for OpenSeeFace's facetracker `#python` `#gtk4` `#libadwaita`.
 - [GstPipelineStudio](https://gitlab.freedesktop.org/dabrain34/GstPipelineStudio) - Graphical user interface to the multimedia framework GStreamer `#rust` `#gtk4`.
@@ -749,13 +753,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [File Roller](https://flathub.org/en/apps/org.gnome.FileRoller) - Archive manager for the GNOME desktop that supports many file types, e.g. `.7z`, `.zip,` `.tar` `#c` `#gtk4` `#libadwaita`.
 - [Junction](https://apps.gnome.org/Junction) - Application menu that allows you to choose the application to open files or links `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Kasasa](https://flathub.org/en/apps/io.github.kelvinnovais.Kasasa) - Always on top window to clip and keep an eye on important things without switching window/workspace in the GNOME desktop `#c` `#gtk4` `#libadwaita`.
+- [Metadata Cleaner](https://flathub.org/en/apps/io.gitlab.metadatacleaner.metadatacleaner) - Utility to view and clean metadata in files, e.g., images, videos, documents, spreadsheet files `#python` `#gtk4` `#libadwaita`. 
 - [Morphosis](https://gitlab.gnome.org/World/morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats `#python` `#gtk4` `#libadwaita`. 
 - [NFO Viewer](https://flathub.org/en/apps/io.otsaloma.nfoview) - Viewer for NFO ASCII file `#python` `#gtk4`.
 - [Notify](https://github.com/ranfdev/Notify) - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 - [Onboard](https://github.com/dr-ni/onboard) - Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users `#python` `#gtk3`.
 - [Random](https://codeberg.org/foreverxml/random) - Randomization made easy with advanced functions `#vala` `#gtk4` `#libadwaita`.
 - [Runemaster](https://flathub.org/en/apps/io.github.johnfactotum.Runemaster) -  Unicode character viewer application for the GNOME desktop `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-- [Serigy](https://flathub.org/en/apps/io.github.cleomenezesjr.Serigy) - Proof of concept "clipboard pinner" for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
+- [Serigy](https://flathub.org/en/apps/io.github.cleomenezesjr.Serigy) - Minimalist clipboard manager for the GNOME desktop capturing copies and keeping only what matters `#python` `#gtk4` `#libadwaita`.
 - [Sherlock](https://github.com/Skxxtz/sherlock) - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 - [Stevia](https://gitlab.gnome.org/guidog/stevia) - Alternative on screen keyboard (OSK) for Phosh on mobile devices featuring several methods of text auto correction and completion. `#c` `#gtk3` `#libhandy`.
 - [Stockpile](https://flathub.org/en/apps/garden.turtle.Jellybean) - Inventory counting application to keep count of restockable items, such as medication, food, beauty products, etc. `#vala` `#gtk4` `#libadwaita`.
@@ -850,6 +855,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Electronics and Engineering
 
+- [Coulomb](https://flathub.org/en/apps/io.github.hamza_algohary.Coulomb) - Electronic circuit simulator `#java` `#gtk4` `#libadwaita`.
 - [Color code](https://flathub.org/en/apps/com.oyajun.ColorCode) - Converter from the color code of resistors to the resistance value `#python` `#gtk4` `#libadwaita`.
 - [LogicRs](https://github.com/Spydr06/logicrs) - Logical circuits simulator/editor `#rust` `#gtk4` `#libadwaita`.
 
@@ -872,6 +878,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Cadabra](https://cadabra.science) - Symbolic computer algebra system, designed specifically for the solution of problems encountered in quantum and classical field theory `#c++` `#python` `#gtk3`.
 - [Elastic](https://gitlab.gnome.org/World/elastic) - Design of spring animations `#vala` `#gtk4` `#libadwaita`.
 - [Electra](https://github.com/art-den/electra_stacking) - Software for stacking of deep sky astronomical images `#rust` `#gtk3`.
+- [Navier Stokes Spectral Method](https://github.com/Minard-Jules/Navier_Stokes_Spectral_Method) - Numerical simulation of the 2D Navier-Stokes equations in the ω − ψ formulation using the pseudo-spectral method `#fortran` `#gtk4`.
 
 ### Statistics
 
@@ -1136,6 +1143,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PSequel](https://github.com/ppvan/psequel) - Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#gtk3` `#granite`.
 - [Tarug](https://flathub.org/en/apps/io.github.ppvan.tarug) - Minimal modern Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
+- [Tusk](https://shapemachine.xyz/tusk) - Cross-platform PostgreSQL client (macOS and Linux) `#python` `#gtk4` `#libadwaita`.
 
 ### Disk Imaging
 
@@ -1339,6 +1347,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Poliedros](https://flathub.org/en/apps/io.github.kriptolix.Poliedros) - Multi-type dice roller `#python` `#gtk4` `#libadwaita`.
 - [Reversi](https://flathub.org/en/apps/org.gnome.Reversi) - Two-player strategy game also known as Othello, similar to Go `#vala` `#gtk4` `#libadwaita`.
 - [Rollit](https://github.com/ellie-commons/rollit) - Roll the dice application from six-sided dice up to 999 sides, designed for elementary OS `#vala` `#gtk4` `#granite`.
+- [Solitaire](https://flathub.org/en/apps/org.gnome.gitlab.wwarner.Solitaire) - Patience games, also known as solitaire games, such as Spider, Pyramid, Yukon, Klondike, FreeCell, Tri-Peaks `#rust` `#gtk4` `#libadwaita` .
 - [Ultimate Tic Tac Toe](https://github.com/Nokse22/ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI `#python` `#gtk4` `#libadwaita`.
 
 ### Puzzles and Quizzes
