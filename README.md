@@ -1145,7 +1145,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tarug](https://flathub.org/en/apps/io.github.ppvan.tarug) - Minimal modern Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 - [Tusk](https://shapemachine.xyz/tusk) - Cross-platform PostgreSQL client (macOS and Linux) `#python` `#gtk4` `#libadwaita`.
 
-
 ### Disk Imaging
 
 - [Brasero](https://gitlab.gnome.org/GNOME/brasero) - Application to burn CD/DVD designed to be as simple as possible `#c` `#gtk3`.
