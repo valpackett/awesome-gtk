@@ -1041,7 +1041,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Citations](https://apps.gnome.org/Citations) - BibTex bibliography manager `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Gummi](https://gummi.app) - Simple LaTeX editor `#c` `#gtk3`.
 - [GNOME LaTeX (LaTeXila)](https://gitlab.gnome.org/swilmet/enter-tex) - LaTeX editor with Latexmk support for the GNOME desktop `#vala` `#gtk3`.
-- [Hieroglyphic](https://apps.gnome.org/Hieroglyphic) - Application to search for LaTeX symbols by sketching, fork of TeX Match `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Hieroglyphic](https://apps.gnome.org/Hieroglyphic) - Application to search for LaTeX & Typst symbols by sketching, fork of TeX Match `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Setzer](https://www.cvfosammmm.org/setzer) - Simple yet full-featured LaTeX editor `#python` `#gtk4`.
 - [TeX Match](https://github.com/zoeyfyi/TeX-Match) - Cross-platform application to search for LaTeX symbols by sketching `#rust` `#gtk3`.
 
