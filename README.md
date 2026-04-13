@@ -1316,7 +1316,6 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Gameeky](https://github.com/tchx84/gameeky) - Application to create and play games without any code for young learners and educators `#python` `#gtk4` `#libadwaita`.
 - [Gamepad Mirror](https://flathub.org/en/apps/page.codeberg.vendillah.GamepadMirror) - Application to visualize gamepad inputs `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Game Server Watcher (gswatcher)](https://flathub.org/en/apps/io.github.lxndr.gswatcher) - Simple game server monitor and an administrative tool `#vala` `#gtk4` `#libadwaita`.
-- [Inceptum)](https://mods.jfronny.dev/Inceptum) - Advanced launcher for Minecraft `#java` `#gtk4` `#libadwaita`.
 - [Keypunch](https://github.com/bragefuglseth/keypunch) - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Lutris](https://lutris.net) - Game launcher covering most gaming systems `#python` `#gtk3`.
 - [Snes9x](http://www.snes9x.com) - Cross-platform portable Super Nintendo Entertainment System (TM) emulator `#c++` `#gtk3`.
