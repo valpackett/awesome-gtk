@@ -1143,7 +1143,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PSequel](https://github.com/ppvan/psequel) - Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#gtk3` `#granite`.
 - [Tarug](https://flathub.org/en/apps/io.github.ppvan.tarug) - Minimal modern Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
-- [Tusk](https://shapemachine.xyz/tusk/) - Cross-platform PostgreSQL client (macOS and Linux) `#python` `#gtk4` `#libadwaita`.
+- [Tusk](https://shapemachine.xyz/tusk) - Cross-platform PostgreSQL client (macOS and Linux) `#python` `#gtk4` `#libadwaita`.
 
 
 ### Disk Imaging
