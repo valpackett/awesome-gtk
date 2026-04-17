@@ -248,6 +248,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python` `#gtk3`.
 - [Mousai](https://apps.gnome.org/ru/Mousai) - Song identifier based on [AudD](https://audd.io) with MPRIS support `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust` `#gtk3`.
+- [Pro Audio Config](https://github.com/Peter-L-SVK/pro_audio_config) - Professional audio configuration tool to manage PipeWire and ALSA audio settings, incl. sample rates, bit depths, and buffer sizes `#rust` `#gtk3`.
 - [pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume mixer `#rust` `#gtk4` `#libadwaita`.
 - [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#gtk4` `#granite`.
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
