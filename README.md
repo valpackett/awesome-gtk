@@ -306,6 +306,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Flowblade](https://jliljebl.github.io/flowblade) - Multitrack non-linear video editor `#python` `#gtk3`.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips `#rust` `#gtk4` `#libadwaita`.
 - [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python` `#gtk3`.
+- [VidCom](https://flathub.org/en/apps/io.github.seja_arctic_fox.vidcom) - Simple utility for compressing videos `#c++` `#gtk4` `#libadwaita`.
 - [Video Trimmer](https://apps.gnome.org/VideoTrimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#gtk4` `#libadwaita`.
 
 ### Subtitle Editors and Extractors
