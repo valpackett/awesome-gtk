@@ -384,6 +384,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Memerist](https://flathub.org/en/apps/io.github.vani_tty1.memerist) - Simple application for editing memes `#c` `#gtk4` `#libadwaita`.
 - [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk4` `#libadwaita`.
 - [RS-Paint](https://github.com/lucasscharenbroch/rs-paint) - A light-weight image editor inspired by MS-Paint `#rust` `#gtk4`.
 - [Scramble](https://flathub.org/en/apps/io.github.tobagin.scramble) - Simple, privacy-focused utility for viewing and removing metadata from images `#vala` `#gtk4` `#libadwaita`.
