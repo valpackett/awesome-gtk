@@ -166,6 +166,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Amberol](https://apps.gnome.org/Amberol) - Simple music player well integrated with GNOME `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [DeaDBeeF](https://deadbeef.sourceforge.io) - Modular cross-platform music player for desktop operating systems with conversion and tagging features `#c` `#gtk3`.
 - [Audio Player (Decibels)](https://apps.gnome.org/Decibels) - Audio player with waveform view `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
+- [Daphne](https://flathub.org/en/apps/com.kymorphia.Daphne) - Audio player and music library manager `#d` `#gtk4`.
 - [elementary Music](https://github.com/elementary/music) - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita` `#elementary`.
 - [Gapless](https://gitlab.gnome.org/neithern/g4music) - Light-weight music player focusing on high performance supporting ReplayGain, pipewire audio sink and MPRIS control `#vala` `#gtk4` `#libadwaita`.
 - [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#gtk4` `#libadwaita` `#gnome`.
@@ -305,6 +306,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Flowblade](https://jliljebl.github.io/flowblade) - Multitrack non-linear video editor `#python` `#gtk3`.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips `#rust` `#gtk4` `#libadwaita`.
 - [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python` `#gtk3`.
+- [VidCom](https://seja-arctic-fox.github.io) - Simple utility for compressing videos `#c++` `#gtk4` `#libadwaita`.
 - [Video Trimmer](https://apps.gnome.org/VideoTrimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#gtk4` `#libadwaita`.
 
 ### Subtitle Editors and Extractors
@@ -381,6 +383,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python` `#gtk3`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala` `#gtk3`.
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
+- [Memerist](https://flathub.org/en/apps/io.github.vani_tty1.memerist) - Simple application for editing memes `#c` `#gtk4` `#libadwaita`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk4` `#libadwaita`.
@@ -1256,6 +1259,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Refine](https://tesk.page/refine) - GNOME Tweaks alternative that lets you tweaks with GNOME settings and try experimental features `#python` `#gtk4` `#libadwaita`.
 - [ReGreet](https://github.com/rharish101/ReGreet) - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
 - [Rewaita](https://flathub.org/en/apps/io.github.swordpuffin.rewaita) - Utility to recolor Adwaita apps to popular color schemes `#python` `#gtk4` `#libadwaita`.
+- [RustConn](https://flathub.org/en/apps/io.github.totoshko88.RustConn) - Connection manager for remote connections through SSH, RDP, VNC, SPICE, MOSH, Telnet, Serial, Kubernetes, and Zero Trust, with import from multiple applications, e.g., from Remmina `#rust` `#gtk4` `#libadwaita`.
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 - [Shell Configurator](https://gitlab.com/adeswantaTechs/shell-configurator) - GNOME Shell configuration utility with advanced settings `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
