@@ -783,7 +783,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Mecalin](https://flathub.org/en/apps/io.github.nacho.mecalin) - Typing tutor application that helps to learn and improve touch typing skills featuring lessons `#rust` `#gtk4` `#libadwaita`.
 - [Memorize](https://github.com/david-swift/Memorize) - Application to create flashcard sets and quizlets to study and learn `#swift` `#gtk4` `#libadwaita`.
 - [Memorado](https://flathub.org/en/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
-- [Mundi](https://github.com/nacho/mundi) - Geography learning application that helps users test their knowledge of world regions through interactive map exercises `#rust` `#gtk4` `#libadwaita`.
+- [Mundi](https://flathub.org/en/apps/io.github.nacho.mundi) - Geography learning application that helps users test their knowledge of world regions through interactive map exercises `#rust` `#gtk4` `#libadwaita`.
 - [Quick Lookup](https://flathub.org/en/apps/com.github.johnfactotum.QuickLookup) - Dictionary application to lookup definitions for words or phrases, powered by Wiktionary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Spedread](https://flathub.org/en/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
 - [Spelling Bee](https://flathub.org/en/apps/io.github.josephmawa.SpellingBee) - English language learning application to learn words and enhance the English vocabulary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
