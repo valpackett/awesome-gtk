@@ -177,7 +177,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Muzika](https://github.com/vixalien/muzika) - Music player with customizable home screen and Google Music integration `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [NetEase Cloud Music Gtk4](https://flathub.org/en/apps/com.github.gmg137.netease-cloud-music-gtk) - Audio player for NetEase Cloud Music `#rust` `#gtk4` `#libadwaita`.
 - [Plattenalbum](https://flathub.org/en/apps/de.wagnermartin.Plattenalbum) - MPD client focusing on album playing `#python` `#gtk4` `#libadwaita`.
-- [Quod Libet](https://github.com/quodlibet/quodlibet) - Audio player providing many different ways to view local libraries. `#python` `#gtk3`.
+- [Quod Libet](https://github.com/quodlibet/quodlibet) - Cross-platform audio player providing many different ways to view local libraries `#python` `#gtk3`.
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 - [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gtk3`.
 - [Tauon](https://tauonmusicbox.rocks) - Playlist oriented music player with many features such has MPRIS support, Android remote control and Spotify playlist management `#python` `#gtk3`.
