@@ -384,6 +384,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Drawing](https://github.com/maoschanz/drawing) - Simple image editor similar to Microsoft paint designed for the GNOME desktop `#python` `#gtk3`.
 - [Effector](https://notabug.org/grindhold/effector) - GEGL filter app with a flow graph UI `#vala` `#gtk3`.
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
+- [Hiperthermia](https://flathub.org/en/apps/me.sergiotarxz.Exd) - IDE which helps you to create tickets and stickers in your thermal printer using programming `#perl` `#gtk4`.
 - [Memerist](https://flathub.org/en/apps/io.github.vani_tty1.memerist) - Simple application for editing memes `#c` `#gtk4` `#libadwaita`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
