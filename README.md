@@ -272,6 +272,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Glight](https://github.com/aroffringa/glight) - DMX controller software for live control of stage lighting, suitable for shows and events `#c++` `#gtk4`.
 - [GMetronome](https://gitlab.gnome.org/dqpb/gmetronome) - Metronome and tempo measurement tool with several customization options `#c++` `#gtk3`.
 - [LEDSuite](https://d0minik.dev/LEDSuite) - Application to control LED/display installations, e.g., LED-Cube, LED-Wall/Matrix, LCD and addressable LED-Strips, suitable for shows and events `#java` `#gtk4` `#libadwaita`.
+- [Loop](https://flathub.org/en/apps/net.danigm.loop) - A simple audio loop machine for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Metronome](https://gitlab.gnome.org/World/metronome) - Metronome application that beats the rhythm to keep the tempo `#rust` `#gtk4` `#libadwaita`.
 - [Oscmix](https://github.com/huddx01/oscmix) - Mixer for RME Fireface Devices in CC Mode. Currently supported: 802, UCX, UCX II, UFX+, UFX II, UFX III `#c` `#gtk3`.
 - [Overwitch](https://dagargo.github.io/overwitch) - Application for connecting various Overbridge 2 devices via JACK/PipeWire `#c` `#gtk4`.
