@@ -789,6 +789,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Memorado](https://flathub.org/en/apps/im.bernard.Memorado) - Application to create deck of flashcards `#python` `#gtk4` `#libadwaita`.
 - [Mundi](https://flathub.org/en/apps/io.github.nacho.mundi) - Geography learning application that helps users test their knowledge of world regions through interactive map exercises `#rust` `#gtk4` `#libadwaita`.
 - [Quick Lookup](https://flathub.org/en/apps/com.github.johnfactotum.QuickLookup) - Dictionary application to lookup definitions for words or phrases, powered by Wiktionary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Quizbite](https://flathub.org/en/apps/dev.mohfy.quizbite) - Application to create and solve quizzes and flashcards with multiple choice questions `#python` `#gtk4` `#libadwaita`.
 - [Spedread](https://flathub.org/en/apps/com.github.Darazaki.Spedread) - Speed reading application to learn fast reading of text with less eye movement `#vala` `#gtk4` `#libadwaita`.
 - [Spelling Bee](https://flathub.org/en/apps/io.github.josephmawa.SpellingBee) - English language learning application to learn words and enhance the English vocabulary `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Word2IPA](https://flathub.org/en/apps/io.github.mohfy.word2ipa) - Utility to show the pronunciation of words or entire phrases in the IPA format, tailored for language learners, linguists, or speech technology developers `#python` `#gtk4` `#libadwaita`.
