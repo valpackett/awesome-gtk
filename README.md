@@ -1106,6 +1106,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Diffuse](https://github.com/MightyCreak/diffuse) - Text file comparing/merging tool `#python` `#gtk3`.
 - [Forge Sparks](https://apps.gnome.org/ForgeSparks) - Git forge (GitHub, Gitea, Forgejo) notification application `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [gitg](https://gitlab.gnome.org/GNOME/gitg) - Git GUI client `#vala` `#gtk3`.
+- [Gitte](https://flathub.org/en/apps/de.wwwtech.gitte) - Graphical Git client for the GNOME desktop, inspired by Git Tower and Magit `#rust` `#gtk4` `#libadwaita`.
 - [Gnomit](https://github.com/small-tech/gnomit) - (archived) Git commit message editor for the GNOME desktop `#gjs` `#javascript` `#gtk3`.
 - [Meld](https://gitlab.gnome.org/GNOME/meld) - Visual diff and merge tool `#python` `#gtk3`.
 - [Stage](https://flathub.org/en/apps/io.github.aganzha.Stage) - Git GUI client inspired by Magit `#rust` `#gtk4` `#libadwaita`.
