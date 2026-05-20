@@ -1168,7 +1168,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Caja](https://github.com/mate-desktop/caja) - File manager for the MATE desktop  `#c` `#gtk3`.
 - [Files (elementary)](https://github.com/elementary/files) - File browser for elementary OS `#vala` `#gtk3` `#libhandy` `#granite`.
 - [fm](https://github.com/euclio/fm) - Small, general purpose file manager `#rust` `#gtk4` `#libadwaita`.
-- [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#c++` `#rust` `#gtk3`.
+- [Gnome Commander](https://gitlab.gnome.org/GNOME/gnome-commander) - Fast and powerful twin-panel file manager `#rust` `#gtk4`.
 - [Hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
 - [GNOME Files (Nautilus)](https://apps.gnome.org/Nautilus) - Default file manager of the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Nemo](https://github.com/linuxmint/nemo) - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
