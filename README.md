@@ -1150,6 +1150,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Database Clients
 
 - [Bobby](https://flathub.org/en/apps/studio.planetpeanut.Bobby) - SQLite files browser `#rust` `#gtk4` `#libadwaita`.
+- [Codd](https://flathub.org/en/apps/io.github.anil_e.Codd) - Postgres SQL client for the GNOME desktop focusing on saved connections, database browsing, SQL execution, and native result previews `#rust` `#gtk4` `#libadwaita`.
 - [Daty](https://gitlab.gnome.org/World/Daty) - Cross-platform advanced Wikidata editor `#python` `#gtk3` `#libhandy`.
 - [PSequel](https://github.com/ppvan/psequel) - Postgres SQL client `#vala` `#gtk4` `#libadwaita`.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL client with support for PostgreSQL, MariaDB and SQLite `#vala` `#gtk3` `#granite`.
