@@ -1026,6 +1026,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++` `#gtk3`.
 - [Scripter](https://github.com/david-swift/Scripter) - Simple application to write and execute small Python scripts `#swift` `#gtk4` `#libadwaita`.
 - [Slate](https://github.com/wpkelso/slate) - Simple text editor designed for elementary OS `#vala` `#gtk4` `#granite`.
+- [Twig](https://harrisonerd.com/twig) - Ultra minimal, no frills, code editor `#python` `#gtk3`.
 - [Vulcan](https://github.com/zesterer/vulcan) - Minimalistic text editor designed for both ordinary use and software development `#vala` `#gtk3`.
 - [Xed](https://github.com/linuxmint/xed) - Small and lightweight text editor `#c` `#gtk3` `#libxapp`.
 
