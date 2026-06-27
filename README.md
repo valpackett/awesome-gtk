@@ -26,6 +26,7 @@
   - [Video Players](#video-players)
   - [Live Stream Viewers](#live-stream-viewers)
   - [Video Editors](#video-editors)
+  - [Animation software](#animation-software)
   - [Subtitle Editors and Extractors](#subtitle-editors-and-extractors)
   - [Screen Recorders](#screen-recorders)
   - [Video Tools](#video-tools)
@@ -312,6 +313,10 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Pitivi](http://www.pitivi.org) - Video editor based on GStreamer Editor Services `#python` `#gtk3`.
 - [VidCom](https://seja-arctic-fox.github.io) - Simple utility for compressing videos `#c++` `#gtk4` `#libadwaita`.
 - [Video Trimmer](https://apps.gnome.org/VideoTrimmer) - Application to cut out fragments of a video without re-encoding and reducing video quality `#rust` `#gtk4` `#libadwaita`.
+
+### Animation software
+
+- [Synfig Studio](https://www.synfig.org) - Cross-platform 2D animation software, designed as powerful industrial-strength solution for creating film-quality animation using a vector and bitmap artwork `#c++` `#gtk3`.
 
 ### Subtitle Editors and Extractors
 
