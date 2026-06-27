@@ -1398,7 +1398,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [BLE Sync Cycle](https://github.com/richbl/go-ble-sync-cycle) - Indoor cycling application synchronizing video playback with real-time cycling data from Bluetooth Low Energy (BLE) devices `#go` `#gtk4` `#libadwaita`.
 - [Breathing](https://flathub.org/en/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
-- [Diveboard GTK](https://codeberg.org/baarkerlounger/diveboard-gtk/) - Frontend for the Diveboard.com digital scuba diving logbook service, primarily aimed at Linux mobile `#rust` `#gtk4` `#libadwaita`.
+- [Diveboard GTK](https://codeberg.org/baarkerlounger/diveboard-gtk) - Frontend for the Diveboard.com digital scuba diving logbook service, primarily aimed at Linux mobile `#rust` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Jogger](https://codeberg.org/baarkerlounger/jogger) - Running (and other workout) tracker for GNOME Mobile with import from Fitotrack  `#rust` `#gtk4` `#libadwaita`.
