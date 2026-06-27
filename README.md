@@ -1410,6 +1410,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Breathing](https://flathub.org/en/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [GNUtrition](https://www.gnu.org/software/gnutrition) - Nutrition analysis software, using the USDA Food and Nutrient Database for Dietary Studies (FNDDS) as source `#c` `#gtk3`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Jogger](https://codeberg.org/baarkerlounger/jogger) - Running (and other workout) tracker for GNOME Mobile with import from Fitotrack  `#rust` `#gtk4` `#libadwaita`.
 - [Luna](https://flathub.org/en/apps/io.github.kingorgg.Luna) - Period and pregnancy tracker, keeping track of the menstrual cycle, predicting next period and ovulation dates, and following the pregnancy's progress `#python` `#gtk4` `#libadwaita`.
