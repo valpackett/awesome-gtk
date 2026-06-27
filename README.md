@@ -179,6 +179,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [NetEase Cloud Music Gtk4](https://flathub.org/en/apps/com.github.gmg137.netease-cloud-music-gtk) - Audio player for NetEase Cloud Music `#rust` `#gtk4` `#libadwaita`.
 - [Nocturne](https://jeffser.com/nocturne) - Music player and library manager with MPRIS support, automatic lyrics fechting, and compatible with Jellyfin, OpenSubsonic and local files `#python` `#gtk4` `#libadwaita`.
 - [Plattenalbum](https://flathub.org/en/apps/de.wagnermartin.Plattenalbum) - MPD client focusing on album playing `#python` `#gtk4` `#libadwaita`.
+- [Recordbox](https://flathub.org/en/apps/ca.edestcroix.Recordbox) - Music browser and player with a respectable feature set (e.g., GNOME search provider integration, MPRIS, gapless playback, ReplayGain) while remaining relatively lightweight and simple to use `#rust` `#gtk4` `#libadwaita`.
 - [Quod Libet](https://github.com/quodlibet/quodlibet) - Cross-platform audio player providing many different ways to view local libraries `#python` `#gtk3`.
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 - [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gtk3`.
@@ -249,10 +250,12 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [GabTag](https://flathub.org/en/apps/com.github.lachhebo.Gabtag) - Audio tagging tool for one or several files, with automatic tagging using MusicBrainz `#python` `#gtk4` `#libadwaita`.
 - [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) - Patchbay application to route and patch together audio signals, made for pipewire `#rust` `#gtk4` `#libadwaita`.
+- [Laser](https://flathub.org/en/apps/nl.andreasknoben.Laser) - Simple CD ripper application for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python` `#gtk3`.
 - [Mini EQ](https://flathub.org/en/apps/io.github.bhack.mini-eq) - Feature-rich system-wide parametric equalizer, with accompanying Gnome extension `#python` `#gtk4` `#libadwaita`.
 - [Mousai](https://apps.gnome.org/ru/Mousai) - Song identifier based on [AudD](https://audd.io) with MPRIS support `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust` `#gtk3`.
+- [Pro Audio Config](https://github.com/Peter-L-SVK/pro_audio_config) - Professional audio configuration tool to manage PipeWire and ALSA audio settings, incl. sample rates, bit depths, and buffer sizes `#rust` `#gtk3`.
 - [pwvucontrol](https://github.com/saivert/pwvucontrol) - PipeWire volume mixer `#rust` `#gtk4` `#libadwaita`.
 - [Reco](https://github.com/ryonakano/reco) - Audio recorder `#vala` `#gtk4` `#granite`.
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
@@ -1418,6 +1421,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Blood Pressure](https://flathub.org/en/apps/org.tabos.bloodpressure) - Application to log systolic and diastolic blood pressure and pulse, view trends in charts, and analyse statistics according to ESH/ESC guidelines `#c` `#gtk4` `#libadwaita`.
 - [Breathing](https://flathub.org/en/apps/io.github.seadve.Breathing) - Application that guides breathing patterns, for example to help ease anxiety `#python` `#gtk4` `#libadwaita`.
 - [BMI](https://github.com/PhilippKosarev/bmi) - Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI `#python` `#gtk4` `#libadwaita`.
+- [Diveboard GTK](https://codeberg.org/baarkerlounger/diveboard-gtk) - Frontend for the Diveboard.com digital scuba diving logbook service, primarily aimed at Linux mobile `#rust` `#gtk4` `#libadwaita`.
 - [Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [GNUtrition](https://www.gnu.org/software/gnutrition) - Nutrition analysis software, using the USDA Food and Nutrient Database for Dietary Studies (FNDDS) as source `#c` `#gtk3`.
 - [Health](https://apps.gnome.org/Health) - Fitness goals tracker `#rust` `#gtk4` `#libadwaita` `#gnome`.
