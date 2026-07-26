@@ -511,6 +511,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Karere](https://flathub.org/en/apps/io.github.tobagin.karere) - Native WhatsApp client, based on WhatsApp Web `#python` `#gtk4` `#libadwaita`.
 - [GNUnet Messenger](https://git.gnunet.org/messenger-gtk.git/about) - Messaging application for the GNUnet Messenger service `#c` `#gtk3` `#libhandy`.
 - [Meeting Point](https://gitlab.gnome.org/lwildberg/meeting-point) - BigBlueButton client `#vala` `#gtk4` `#libadwaita`.
+- [Meshy](https://meshy-app.org) - Desktop and mobile client for MeshCore LoRa mesh networking devices to send and receive encrypted messages, manage contacts, configure channels, and monitor the mesh network `#python` `#gtk4` `#libadwaita`.
 - [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) - Crappy low feature Discord client `#python` `#gtk4` `#libadwaita`.
 - [Polari](https://apps.gnome.org/Polari) - IRC client `#gjs` `#javascript` `#gtk4` `#libadwaita` `#gnome`.
 - [Paper Plane](https://github.com/paper-plane-developers/paper-plane) - Telegram client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
