@@ -666,6 +666,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Calendar
 
 - [GNOME Calendar](https://apps.gnome.org/Calendar) - Simple calendar for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
+- [Kairos](https://flathub.org/en/apps/io.gitlab.hinnerkm.Kairos) - Modern looking and intuitive calendar for desktop and mobile `#vala` `#gtk4` `#libadwaita`.
 - [Karlender (Events)](https://gitlab.com/floers/calendar-stuff/karlender) - Mobile-friendly calendar application using CalDAV `#rust` `#gtk4` `#libadwaita`.
 
 ### Document Managers
