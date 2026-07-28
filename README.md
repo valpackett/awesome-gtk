@@ -930,7 +930,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Identities](https://flathub.org/en/apps/one.k8ie.Identities) - `pass` (password store) client for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Rotor](https://gitlab.com/ogarcia/rotor) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementary OS `#vala` `#gtk3` `#granite` `#libhandy`.
-- [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk3`.
+- [OTPClient](https://github.com/paolostivanin/OTPClient) - One Time Password application that supports both TOTP and HOTP `#c` `#gtk4` `#libadwaita`.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager `#python` `#gtk3`.
 - [Projectpad](https://flathub.org/en/apps/com.github.emmanueltouzery.projectpad) - Manager for secret credentials and server information `#rust` `#gtk4` `#libadwaita`.
 - [Secrets](https://apps.gnome.org/Secrets) - Password manager for the GNOME desktop with support for KeePass safes `#python` `#gtk4` `#libadwaita` `#gnome`.
