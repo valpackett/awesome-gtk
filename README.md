@@ -1234,6 +1234,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Pin It!](https://github.com/ryonakano/pinit) - Portable applications shortcut creator `#vala` `#gtk4` `#libadwaita`.
 - [Pins](https://flathub.org/en/apps/io.github.fabrialberio.pinapp) - `.desktop` files creator/editor `#c` `#gtk4` `#libadwaita`.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Proton version manager `#vala` `#gtk4` `#libadwaita`.
+- [Shelly](https://github.com/Seafoam-Labs/Shelly-ALPM) - Package manager for Arch Linux, CachyOS supporting AUR, Flathub, Flatpak, AppImage, and native Arch Linux packages `#zig` `#gtk4`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
 - [Spider](https://flathub.org/en/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integration with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
