@@ -1261,6 +1261,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Flatsweep](https://flathub.org/en/apps/io.github.giantpinkrobots.flatsweep) - Flatpak leftover cleaner `#python` `#gtk4` `#libadwaita`.
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
 - [Folder Manager (Foldy)](https://altlinux.space/alt-gnome/Foldy) - Tool to manage folders in GNOME desktop application menu `#vala` `#gtk4` `#libadwaita`.
+- [Gaze](https://gaze.gundulabs.com) - Facial authentication with on-device face recognition, PAM integration, and tools for login, lock screen, sudo, and desktop management `#rust` `#gtk4` `#libadwaita`.
 - [gconfig](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/scripts/kconfig) - Graphical kernel configuration utility for the Linux kernel `#c` `#gtk3`.
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNOME Network Displays](https://flathub.org/en/apps/org.gnome.NetworkDisplays) - Application transmit video and sound to a remote display (screencasting), supporting Miracast and Chromecast protocols `#c` `#gtk4` `#libadwaita`.
