@@ -251,7 +251,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GabTag](https://flathub.org/en/apps/com.github.lachhebo.Gabtag) - Audio tagging tool for one or several files, with automatic tagging using MusicBrainz `#python` `#gtk4` `#libadwaita`.
 - [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) - Patchbay application to route and patch together audio signals, made for pipewire `#rust` `#gtk4` `#libadwaita`.
 - [Laser](https://flathub.org/en/apps/nl.andreasknoben.Laser) - Simple CD ripper application for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
-- [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python` `#gtk3`.
+- [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - (archived) Voice changer based on SoX `#python` `#gtk3`.
 - [Mini EQ](https://flathub.org/en/apps/io.github.bhack.mini-eq) - Feature-rich system-wide parametric equalizer, with accompanying Gnome extension `#python` `#gtk4` `#libadwaita`.
 - [Mousai](https://apps.gnome.org/ru/Mousai) - Song identifier based on [AudD](https://audd.io) with MPRIS support `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust` `#gtk3`.
