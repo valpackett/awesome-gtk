@@ -1153,6 +1153,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Palette](https://gitlab.gnome.org/World/design/palette) - Colour palette tool `#vala` `#gtk4` `#libadwaita`.
 - [Pigment](https://flathub.org/en/apps/com.jeffser.Pigment) - Utility to extract a palette of colors from your images offline `#python` `#gtk4` `#libadwaita`.
 - [Symbolic Preview](https://gitlab.gnome.org/World/design/symbolic-preview) - Symbolic icon previwer `#rust` `#gtk4` `#libadwaita`.
+- [Flexa](https://github.com/EuCaue/Flexa) - Convert cursor themes between Windows and Linux formats `#python` `#gtk4` `#libadwaita`.
 
 ## File and Data Management
 
