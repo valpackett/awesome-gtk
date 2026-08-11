@@ -1467,5 +1467,5 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Eeman](https://flathub.org/en/apps/pro.saladin.Eeman) - Salah (prayer) times application and Quran reader `#python` `#gtk4` `#libadwaita`.
 - [Fidei](https://github.com/sp1ritCS/fidei) - Bible reader for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Vakt-i Salah](https://flathub.org/en/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
-- [Xiphos](http://xiphos.org) - Cross-platform Bible study tool `#scheme` `#c` `#gtk3`.
+- [Xiphos](http://xiphos.org) - Cross-platform Bible study tool `#c` `#gtk3`.
 
