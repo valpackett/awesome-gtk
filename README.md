@@ -527,7 +527,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GNOME Contacts](https://apps.gnome.org/Contacts) - Address book for contacts information and contact management for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`. 
 - [Evolution](https://gitlab.gnome.org/GNOME/evolution) - Personal information management (PIM) application that provides integrated mail, calendaring and address book functionality `#c` `#gtk3`.
 - [Mail](https://github.com/elementary/mail) - Email application for the elementary OS desktop `#vala` `#gtk3` `#libhandy` `#granite`.
-- [Vireo](https://github.com/hyprlab/vireo) - A clean, fast, GNOME-native email client — built with Rust and libadwaita, privacy-first `gtk4`-
+- [Vireo](https://github.com/hyprlab/vireo) - Email client for the GNOME desktop that aims to be privacy-first, fast with a clean interface `#rust` `#gtk4` `#libadwaita`.
 
 ### File Sharing
 
