@@ -213,6 +213,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Audiobooks
 
+- [Chapterize](https://flathub.org/en/apps/page.codeberg.snensmens.Chapterize) - Utility to create and edit m4b audiobooks with embedded chapters `#python` `#gtk4` `#libadwaita`.
 - [Cozy](https://cozy.sh) - Audiobook player with offline library management and MPRIS integration `#python` `#gtk4` `#libadwaita`.
 
 #### Radio
