@@ -1441,6 +1441,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Luna](https://flathub.org/en/apps/io.github.kingorgg.Luna) - Period and pregnancy tracker, keeping track of the menstrual cycle, predicting next period and ovulation dates, and following the pregnancy's progress `#python` `#gtk4` `#libadwaita`.
 - [Powercycle JS](https://github.com/charles-m-knox/powercycle-js) - ANT+ USB powered GUI and server to control your indoor bike's smart trainer `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [Stretch Break](https://flathub.org/en/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
+- [Throwdown](https://github.com/yioannides/throwdown) - Fun application for generating random skate trick combos with adjustable difficulty `#python` `#gtk4` `#libadwaita`.
 
 ## Map Viewers
 
