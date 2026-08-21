@@ -262,8 +262,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
 - [SongRec](https://github.com/marin-m/SongRec) - Shazam GUI client `#rust` `#gtk3`.
 - [SoundConverter](https://soundconverter.org) - Multithreaded sound converter with compatibility with everything that GStreamer reads and automatic renaming `#python` `#gtk3`.
-- [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 - [Sound Recorder (Vocalis)](https://flathub.org/en/apps/org.gnome.SoundRecorder) - Sound recorder for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita`.
+- [Tagger](https://github.com/NickvisionApps/Tagger) - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
+- [Transition](https://flathub.org/en/apps/page.codeberg.grinka.Transition) - Application for converting multimedia files to various audio formats `#rust` `#gtk4` `#libadwaita`.
 - [Whisper](https://github.com/mijorus/whisper) - Application to listen to the microphone through the speakers `#python` `#gtk4` `#libadwaita`.
 
 [cava]: https://github.com/karlstav/cava
