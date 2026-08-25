@@ -1090,6 +1090,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Terminal for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Guake](https://github.com/Guake/guake) - Dropdown terminal for the GNOME desktop `#python` `#gtk3`.
 - [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - Terminal with first-class support for containers `#c` `#gtk4` `#libadwaita`.
+- [N01D Terminal](https://github.com/bad-antics/n01d-term) - Cyberpunk-themed hacker terminal emulator with custom prompts and matrix effects `#python` `#gtk4`.
 - [Tilix](https://gnunn1.github.io/tilix-web) - Tiling and dropdown terminal for the GNOME desktop `#d` `#gtk3`.
 - [Vish](https://flathub.org/en/apps/io.github.lluciocc.Vish) - Visual editor for creating and managing Bash scripts using a node-based interface `#python` `#gtk4` `#libadwaita`.
 
