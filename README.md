@@ -187,7 +187,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Turntable](https://flathub.org/en/apps/dev.geopjr.Turntable) - MPRIS-enabled music player focusing on scrobbling music to Last.fm, ListenBrainz, Libre.fm and Maloja, embedding MusicBrainz information `#vala` `#gtk4` `#libadwaita`.
 - [Victrola](https://github.com/tau-OS/victrola) - tauOS's minimal player `#vala` `#gtk4`.
 - [Vinyl](https://codeberg.org/M23Snezhok/Vinyl) - Simple music player with lyrics support `#rust` `#gtk4` `#libadwaita` `#relm4`.
-- [PCM Transport](https://andreyberestov.github.io/pcm-transport/) - Lightweight Linux audio player with direct ALSA output, native FLAC decoding and gapless/CUE playback.
+- [PCM Transport](https://andreyberestov.github.io/pcm-transport) - Lightweight audio player with direct ALSA output, native FLAC decoding and gapless/CUE playback `#c++` `#gtk3`.
 
 #### Audio Streaming Service Clients
 
