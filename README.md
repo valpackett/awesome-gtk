@@ -740,6 +740,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Paper Clip](https://apps.gnome.org/PdfMetadataEditor) - PDF metadata editor `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF editor with merging, splitting, rotating, cropping and rearranging based on [pikepdf](https://github.com/pikepdf/pikepdf) `#python` `#gtk3` `#libhandy`.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer) - Simple application to extract, merge, rotate and reorder pages of PDF documents with undo/redo support `#c++` `#gtk3`.
+- [word-sys's PDF Editor](https://github.com/word-sys/word-sys-pdf-editor) - Simple and user-friendly PDF editor, focused on editing text content in PDF files `#python` `#gtk4` `#libadwaita`.
+
 
 ### Presentation
 
