@@ -1039,12 +1039,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [EdiTidE](https://editide.frama.io) - Cross-platform source-code editor, customizable and extensible, with basic project support `#python` `#gtk4` `#libadwaita`.
 - [elementary Code](https://github.com/elementary/code) - Code editor designed for elementary OS `#vala` `#gtk3` `#granite` `#elementary`.
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - Unofficial elementary OS-oriented IDE `#vala` `#gtk3` `#granite`.
-- [Geany](https://www.geany.org) - Cross-platform ext editor that provides tons of useful features `#c` `#gtk3`.
+- [Geany](https://www.geany.org) - Cross-platform text editor that provides tons of useful features, based on Scintilla editing engine `#c` `#gtk3`.
 - [gedit](https://gitlab.gnome.org/World/gedit/gedit) - Easy-to-use and general-purpose text editor for the GNOME desktop `#c` `#gtk3`.
 - [GNOME Text Editor](https://apps.gnome.org/TextEditor) - Simple text editor that focuses on session management `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [GNU Emacs GTK](https://www.gnu.org/software/emacs) - Extensible, customizable text editor `#lisp` `#c` `#gtk3`.
 - [Jollpi](https://flathub.org/en/apps/io.gitlab.zulfian1732.jollpi-text-editor) - Lightweight and simple multi-tab text editor with advanced features such as auto-indent, syntax highlighting, and quick find & replace navigation `#python` `#gtk4`.
 - [MousePad](https://flathub.org/en/apps/org.xfce.mousepad) - Simple text editor for the Xfce desktop `#c` `#gtk3`.
+- [Nextpad++](https://nextpad.org) - Cross-platform text and code editor (macOS and Linux) that supports many programming languages aiming to to be simple and intuitive to use by non-technical users; full native Notepad++ port, based on Scintilla editing engine `#c++` `#gtk4` `#libadwaita`.
 - [Norka](https://flathub.org/en/apps/com.github.tenderowl.norka) - Continuous text editor for the GNOME desktop and elementary OS `#python` `#gtk4` `#libadwaita`.
 - [Pluma](https://github.com/mate-desktop/pluma) - Text editor for the MATE desktop `#c` `#gtk3`.
 - [SciTE](https://www.scintilla.org/SciTE.html) - Lightweight cross-platform code editor `#c++` `#gtk3`.
