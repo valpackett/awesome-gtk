@@ -354,6 +354,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Lada](https://codeberg.org/ladaapp/lada) - Tool designed to recover pixelated adult videos and restore the visual quality `#python` `#gtk4` `#libadwaita`.
 - [media-toc](https://github.com/fengalin/media-toc) - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
 - [Megapixels](https://gitlab.com/megapixels-org/Megapixels) - Camera application for Linux phones `#c` `#gtk4`.
+- [Open Media Converter](https://github.com/albilu/open-media-converter) - Batch converter for video, audio, image and document formats (FFmpeg/ImageMagick/Pandoc/LibreOffice frontend) `#java` `#gtk4`.
 - [WebCamController](https://flathub.org/en/apps/com.daniel15.wcc) - User interface to modify webcam settings such as pan/tilt/zoom `#csharp` `#gtk4` `#libadwaita`.
 
 ## Graphics
