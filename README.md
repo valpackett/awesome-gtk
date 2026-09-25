@@ -173,7 +173,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GNOME Music](https://apps.gnome.org/Music) - Official GNOME desktop music player `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [HBud](https://github.com/swanux/hbud) - Audio and video player with karaoke features `#python` `#gtk4` `#libadwaita`.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lightweight modern music player designed to work excellently on the GNOME desktop environment with party mode, metadata fetching, MTP device sync and scrobbling `#python` `#gtk3` `#libhandy`.
-- [Melody](http://anufrij.org/melody) - Music player designed for elementary OS with metadata fetching, online radio and MTP device sync `#vala` `#gtk3` `#granite`.
+- [Melody](http://anufrij.org/melody) - (inactive >5yrs) Music player designed for elementary OS with metadata fetching, online radio and MTP device sync `#vala` `#gtk3` `#granite`.
 - [Monophony](https://gitlab.com/zehkira/monophony) - Application for streaming music from YouTube `#python` `#gtk4` `#libadwaita`.
 - [Muzika](https://github.com/vixalien/muzika) - Music player with customizable home screen and Google Music integration `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 - [NetEase Cloud Music Gtk4](https://flathub.org/en/apps/com.github.gmg137.netease-cloud-music-gtk) - Audio player for NetEase Cloud Music `#rust` `#gtk4` `#libadwaita`.
