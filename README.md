@@ -331,7 +331,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Gaupol](https://otsaloma.io/gaupol) - Editor for text-based subtitle files with built-in video player `#python` `#gtk3`.
 - [Gnome Subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles) - Subtitle editor for the GNOME desktop `#csharp` `#gtk3`.
 - [Live Captions](https://flathub.org/en/apps/net.sapples.LiveCaptions) - Application that provides live captioning (in English) based on trained models `#c` `#gtk4` `#libadwaita`.
-- [Subtitle Editor](https://kitone.github.io/subtitleeditor) - Subtitle editor with built-in video player and text correction features `#c++` `#gtk3`.
+- [Subtitle Editor](https://github.com/subtitleeditor/subtitleeditor) - Subtitle editor with built-in video player and text correction features `#c++` `#gtk3`.
 
 ### Screen Recorders
 
