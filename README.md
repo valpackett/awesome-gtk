@@ -1253,7 +1253,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Shelly](https://github.com/Seafoam-Labs/Shelly-ALPM) - Package manager for Arch Linux, CachyOS supporting AUR, Flathub, Flatpak, AppImage, and native Arch Linux packages `#zig` `#gtk4`.
 - [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
 - [Spider](https://flathub.org/en/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integration with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
-- [turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
+- [Tailor](https://flathub.org/en/apps/org.altlinux.Tailor) - Application for writing OS images to USB drives to create bootable devices, with built-in OS catalog `#vala` `#gtk4` `#libadwaita`.
+- [Turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
 - [Web Apps](https://flathub.org/en/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
 
 ### System and File Cleaning
