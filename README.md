@@ -361,7 +361,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### 3D Graphics
 
-- [Shady](https://github.com/misterdanb/shady) - [Shadertoy](https://www.shadertoy.com) compatible GLSL shader live editor `#vala` `#gtk3`.
+- [Shady](https://github.com/misterdanb/shady) - (inactive >5yrs) [Shadertoy](https://www.shadertoy.com) compatible GLSL shader live editor `#vala` `#gtk3`.
 
 ### ASCII/Pixel Art
 
