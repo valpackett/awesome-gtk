@@ -772,6 +772,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Desktop Productivity
 
 - [Actioneer](https://github.com/phase1geo/actioneer) - Tool to automate actions on file changes `#vala` `#gtk3` `#granite`.
+- [Akizip](https://flathub.org/en/apps/top.akizip.akizip) - Archive utility that supports creating and extracting archives in `.7z`, `.zip,` `.tar` formats, and can open many other formats `#python` `#gtk4` `#libadwaita`.
 - [Boatswain](https://apps.gnome.org/Boatswain) - Elgato Stream Deck controller `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Confy](https://confy.kirgroup.net) - Conferences schedule viewer `#python` `#gtk4` `#libadwaita`.
 - [Convertidor](https://flathub.org/en/apps/tech.digiroad.Convertidor) - Convertor for 300+ units of measurement `#python` `#gtk4` `#libadwaita`.
