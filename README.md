@@ -145,7 +145,7 @@
   - [Sports](#sports)
   - [Strategy](#strategy)
 - [Health and Fitness](#health-and-fitness)
-- [Map Viewers](#map-viewers)
+- [Maps and Navigation](#maps-and-navigation)
 - [Public Transports](#public-transports)
 - [Weather Viewers](#weather-viewers)
 - [Home Automation & Internet of Things](#home-automation--internet-of-things)
@@ -1458,7 +1458,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Stretch Break](https://flathub.org/en/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
 - [Throwdown](https://github.com/yioannides/throwdown) - Fun application for generating random skateboard trick combos with adjustable difficulty `#python` `#gtk4` `#libadwaita`.
 
-## Map Viewers
+## Map and Navigation
 
 - [GNOME Maps](https://apps.gnome.org/Maps) - GNOME's map viewer using OpenStreetMap database `#gjs` `#javascript` `#libadwaita` `#gtk4` `#gnome` .
 - [Maps](https://github.com/elementary/maps) - Map viewer designed for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita`.
