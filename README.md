@@ -1460,7 +1460,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Map and Navigation
 
-- [GNOME Maps](https://apps.gnome.org/Maps) - GNOME's map viewer using OpenStreetMap database `#gjs` `#javascript` `#libadwaita` `#gtk4` `#gnome` .
+- [GNOME Maps](https://apps.gnome.org/Maps) - Map viewer and navigation application using OpenStreetMap database for the GNOME desktop `#gjs` `#javascript` `#libadwaita` `#gtk4` `#gnome`.
+- [GWeatherRouting](https://gweatherrouting.org) - Cross-platform (Linux, Windows) sailing routing and navigation software `#python` `#gtk4`.
 - [Maps](https://github.com/elementary/maps) - Map viewer designed for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita`.
 
 ## Public Transports
