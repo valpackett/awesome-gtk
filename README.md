@@ -723,6 +723,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#gtk4` `#libadwaita`.
 - [Simple Diary](https://flathub.org/en/apps/com.bjareholt.johan.SimpleDiary) - Simple and lightweight diary app, supporting images and markdown `#typescript` `#c` `#gtk4` `#libadwaita`.
 - [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) - Simple sticky notes application for the GNOME desktop `#typescript` `#gjs` `#gtk4` `#libadwaita`.
+- [Whisp](https://flathub.org/en/apps/io.github.tanaybhomia.Whisp) - Gesture-driven note-taking application with Markdown editing `#python` `#gtk4` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++` `#gtk3`.
 - [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Text editor used to maintain a collection of wiki pages `#python` `#gtk3`.
 
