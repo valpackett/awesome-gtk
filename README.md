@@ -715,13 +715,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly simple notes application `#vala` `#gtk4` `#libadwaita`.
 - [Notekit](https://github.com/blackhole89/notekit) - Hierarchical Markdown note-taking application with tablet support `#c++` `#gtk3`.
 - [Notes](https://github.com/Blquinn/notes) - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#gtk4` `#libadwaita`.
-- [Notes-Up](https://github.com/Philip-Scott/Notes-up) - Markdown note manager for elementary OS `#vala` `#gtk3` `#granite`.
+- [Notes-Up](https://github.com/Philip-Scott/Notes-up) - (inactive >4yrs) Markdown note manager for elementary OS `#vala` `#gtk3` `#granite`.
 - [Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, fast, and version-controlled Markdown notes application `#rust` `#gtk4` `#libadwaita`.
-- [Notorious](https://gitlab.gnome.org/GabMus/notorious) - Keyboard-centric notes application `#python` `#gtk3` `#libhandy`.
-- [Outliner](https://github.com/phase1geo/outliner) - Outlining application for elementary OS `#vala` `#gtk3` `#granite`.
+- [Notorious](https://gitlab.gnome.org/GabMus/notorious) - (inactive >5yrs) Keyboard-centric notes application `#python` `#gtk3` `#libhandy`.
+- [Outliner](https://github.com/phase1geo/outliner) - Outlining application for elementary OS `#vala` `#gtk4` `#granite`.
 - [Paper](https://gitlab.com/posidon_software/paper) - Markdown note-taking application with GNOME desktop integration `#vala` `#gtk4` `#libadwaita`.
 - [Rnote](https://github.com/flxzt/rnote) - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support `#rust` `#gtk4` `#libadwaita`.
-- [Simple Diary](https://flathub.org/en/apps/com.bjareholt.johan.SimpleDiary) - Simple and lightweight diary app, supporting images and markdown `#typescript` `#c` `#gtk4` `#libadwaita`.
+- [Simple Diary](https://flathub.org/en/apps/com.bjareholt.johan.SimpleDiary) - Simple and lightweight diary app, supporting images and markdown `#rust` `#c` `#gtk4` `#libadwaita`.
 - [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) - Simple sticky notes application for the GNOME desktop `#typescript` `#gjs` `#gtk4` `#libadwaita`.
 - [Whisp](https://flathub.org/en/apps/io.github.tanaybhomia.Whisp) - Gesture-driven note-taking application with Markdown editing `#python` `#gtk4` `#libadwaita`.
 - [Xournal++](https://xournalpp.github.io) - Cross-platform handwriting note-taking software with PDF annotation support and support for pen input form devices such as Wacom tablets `#c++` `#gtk3`.
