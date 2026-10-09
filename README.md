@@ -1458,7 +1458,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Stretch Break](https://flathub.org/en/apps/io.github.pieterdd.StretchBreak) - Ergonomic utility that regularly reminds to take breaks from the computer `#rust` `#gtk4` `#libadwaita`.
 - [Throwdown](https://github.com/yioannides/throwdown) - Fun application for generating random skateboard trick combos with adjustable difficulty `#python` `#gtk4` `#libadwaita`.
 
-## Map and Navigation
+## Maps and Navigation
 
 - [GNOME Maps](https://apps.gnome.org/Maps) - Map viewer and navigation application using OpenStreetMap database for the GNOME desktop `#gjs` `#javascript` `#libadwaita` `#gtk4` `#gnome`.
 - [GWeatherRouting](https://gweatherrouting.org) - Cross-platform (Linux, Windows) sailing routing and navigation software `#python` `#gtk4`.
