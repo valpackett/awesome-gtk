@@ -993,7 +993,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Containers
 
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#gtk4` `#libadwaita`.
-- [Boxes](https://apps.gnome.org/Boxes) - Virtual machine manager for the GNOME desktop `#vala` `#gtk3`.
+- [Boxes](https://apps.gnome.org/Boxes) - Virtual machine manager for the GNOME desktop `#vala` `#gtk4` `#libadwaita`.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#gtk4` `#libadwaita`.
 - [DistroShelf](https://flathub.org/en/apps/com.ranfdev.DistroShelf) - Graphical interface to manage DistroBox containers `#rust` `#gtk4` `#libadwaita`.
 - [Field Monitor](https://flathub.org/en/apps/de.capypara.FieldMonitor) - Remote desktop client to access virtual machines (VMs) and external screens, supporting Proxmox and QEMU/KVM, but also SPICE, RDP or VNC `#rust` `#gtk4` `#libadwaita`.
