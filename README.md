@@ -532,6 +532,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gtk3` `#libhandy`.
 - [GNOME Contacts](https://apps.gnome.org/Contacts) - Address book for contacts information and contact management for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`.
 - [Hylki](https://github.com/hyprlab/hylki) - Email client for the GNOME desktop that aims to be privacy-first, fast with a clean interface `#rust` `#gtk4` `#libadwaita`.
+- [Letter](https://github.com/stalvatero/letter) - Email client for the GNOME desktop, using GNOME Online Accounts, Evolution Data Server and Camel `#vala` `#gtk4` `#libadwaita`.
 - [Mail](https://github.com/elementary/mail) - Email application for the elementary OS desktop `#vala` `#gtk3` `#libhandy` `#granite`.
 - [Postcard](https://postcard.gxanshu.in) - Email client for the GNOME desktop that aims to offer a modern user interface `#python` `#gtk4` `#libadwaita`.
 
