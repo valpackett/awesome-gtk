@@ -855,7 +855,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Samaya](https://flathub.org/en/apps/io.github.redddfoxxyy.samaya) - Simple and minimalist Pomodoro timer `#c` `#gtk4` `#libadwaita`.
 - [Sessions](https://flathub.org/en/apps/com.pojtinger.felicitas.Sessions) - Simple visual timer application designed specifically for the pomodoro technique `#go` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
-- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time tracker for the GNOME desktop `#python` `#gtk4`.
 - [Time Tracker](https://flathub.org/en/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 - [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementary OS `#vala` `#gtk3` `#granite`.
 - [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
@@ -965,7 +965,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [CheckWriter](https://github.com/ashafq/CheckWriter) - Application to simplify the process of writing checks `#c` `#gtk4` `#libadwaita`.
 - [Denaro](https://github.com/NickvisionApps/Denaro) - Personal finance manager for GNOME `#csharp` `#gtk4` `#libadwaita`.
-- [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS `#vala` `#gtk3` `#granite`.
+- [Envelope](https://github.com/cjfloss/envelope) - (inactive >5yrs) Personal finance manager for elementary OS `#vala` `#gtk3` `#granite`.
 - [Fava](https://flathub.org/en/apps/org.gnome.gitlab.johannesjh.favagtk) - Fava and Beancount double-entry bookkeeping application `#python` `#gtk4` `#libadwaita`.
 - [Fruit Credits](https://fruitcredits.dz4k.com) - Double-entry personal accounting application, based on hledger `#vala` `#gtk4` `#libadwaita`.
 - [GnuCash](https://gnucash.org) - Personal and small business double entry accounting application `#c++` `#gtk3`.
