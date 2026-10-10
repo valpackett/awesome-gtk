@@ -683,7 +683,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Document Managers
 
-- [Alexandria](https://github.com/pemsley/Alexandria) - Organizer/reference manager for scientific PDFs `#python` `#gtk4` `#libadwaita`.
+- [Alexandria](https://flathub.org/en/apps/io.github.pemsley.Alexandria) - Organizer/reference manager for scientific PDFs `#python` `#gtk4` `#libadwaita`.
 - [GNOME Documents](https://gitlab.gnome.org/Archive/gnome-documents) - (archived) Document manager for the GNOME desktop with collection features `#gjs` `#javascript` `#gtk3`.
 - [Paperwork](https://openpaper.work) - Document manager with scan features `#python` `#gtk3` `#libhandy`.
 - [GCStar](https://gitlab.com/GCstar/GCstar) - Cross-platform collection manager for various types of collections (books, comics, films, TV shows, music, games, wines, stamps, coins, etc.) `#perl` `#gtk3`.
