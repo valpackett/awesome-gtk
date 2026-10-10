@@ -858,6 +858,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time tracker for the GNOME desktop `#python` `#gtk4`.
 - [Time Tracker](https://flathub.org/en/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file) `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+- [Timezones](https://github.com/hernantz/timezones) - Timezone clocks application that shows a grid of cities and timezones on one shared timeline `#python` `#gtk4` `#libadwaita`.
 - [Tomato](https://github.com/luizaugustomm/tomato) - Pomodoro timer for elementary OS `#vala` `#gtk3` `#granite`.
 - [Timer](https://github.com/vikdevelop/timer) - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
 - [Valot](https://flathub.org/en/apps/com.odnoyko.valot) - Time tracking application, designed for developers, freelancers, and professionals who need to track their work time efficiently `#gjs` `#javascript` `#gtk4` `#libadwaita`.
