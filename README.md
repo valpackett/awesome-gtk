@@ -805,9 +805,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Tally](https://github.com/vtrlx/tally) - Counting application to keep and organize a list of tally counters `#c` `#lua` `#gtk4` `#libadwaita`.
 - [Tecla](https://gitlab.gnome.org/GNOME/tecla) - Keyboard layout viewer `#c` `#gtk4` `#libadwaita`.
 - [Ticket Booth](https://github.com/aleiepure/ticketbooth) - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
-- [TV Series Renamer](https://github.com/mmstick/tv-renamer) - TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
+- [TV Series Renamer](https://github.com/mmstick/tv-renamer) - (inactive >5yrs) TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
 - [Walker](https://github.com/abenz1267/walker) - Customizable application launcher for Wayland `#rust` `#gtk4`.
-- [Workspaces](https://github.com/DevAlien/workspaces) - Desktop workpaces for elementary OS `#vala` `#gtk3` `#granite`.
+- [Workspaces](https://github.com/DevAlien/workspaces) - (inactive >5yrs) Desktop workpaces for elementary OS `#vala` `#gtk3` `#granite`.
 
 ### Education
 
@@ -944,7 +944,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 - [Authenticator](https://apps.gnome.org/Authenticator) - Two-factor authentication codes generator `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Goldwarden](https://flathub.org/en/apps/com.quexten.Goldwarden) - Bitwarden compatible desktop password manager `#go` `#gtk4` `#libadwaita`.
-- [Gonepass](https://github.com/jbreams/gonepass) - 1Password vault reader `#c++` `#gtk3`.
+- [Gonepass](https://github.com/jbreams/gonepass) - (inactive >5yrs) 1Password vault reader `#c++` `#gtk3`.
 - [Identities](https://flathub.org/en/apps/one.k8ie.Identities) - `pass` (password store) client for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Rotor](https://gitlab.com/ogarcia/rotor) - LessPass compatible password manager and generator `#rust` `#gtk4` `#libadwaita`.
 - [Obliviate](https://github.com/elfenware/obliviate) - Password manager that does not store passwords for elementary OS `#vala` `#gtk3` `#granite` `#libhandy`.
@@ -977,8 +977,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Exchange Rate and Price Viewers
 
-- [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
-- [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
+- [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - (inactive >5yrs) Cryptocyrreny watcher `#c` `#gtk3`.
+- [Markets](https://github.com/EETagent/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk4` `#libadwaita`.
 - [Merkato](https://flathub.org/en/apps/com.ekonomikas.merkato) - Financial markets tracker for stocks, currencies, and cryptocurrencies, using real-time data from Yahoo Finance `#python` `#gtk4` `#libadwaita`.
 - [Octopus](https://flathub.org/en/apps/com.nedrichards.octopusagile) - Utility to track Octopus electricity prices `#python` `#gtk4` `#libadwaita`.
 
