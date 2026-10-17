@@ -1217,6 +1217,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [PCManFM](https://github.com/lxde/pcmanfm) - Lightweight file manager, standard file manager for LXDE `#c` `#gtk3`.
 - [Polo](https://github.com/OrbintSoft/polo) - Multi-pane and tabbed file manager `#vala` `#gtk3`.
 - [Portfolio](https://github.com/tchx84/Portfolio) - File manager for mobile devices `#python` `#gtk4` `#libadwaita`.
+- [Strata](https://stratafiles.io) - Keyboard-first file manager supporting multiple view (icon grid, list view, Miller columns) `#rust` `#gtk4`.
 - [Thunar](https://gitlab.xfce.org/xfce/thunar) - File manager for the Xfce desktop `#c` `#gtk3`.
 
 ### File Search
