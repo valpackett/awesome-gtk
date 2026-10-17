@@ -547,7 +547,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Open Download Manager](https://github.com/albilu/open-download-manager) - Download manager based on aria2, yt-dlp and HTTrack with torrents, scheduling and Tor routing `#java` `#gtk4` `#libadwaita`.
 - [Packet](https://flathub.org/en/apps/io.github.nozwock.Packet) - Application to send and receive files wirelessly with Android devices using Quick Share or another device with Packet installed `#rust` `#gtk4` `#libadwaita`.
 - [Share](https://flathub.org/en/apps/io.github.sigmasd.share) - Simple file sharing application with drag-and-drop functionality, using QR codes `#gjs` `#typescript` `#gtk4` `#libadwaita`.
-- [Teleport](https://gitlab.gnome.org/jsparber/teleport) - Network file sharing application based on Avahi (mDNS) `#c` `#gtk3`.
+- [Teleport](https://gitlab.gnome.org/jsparber/teleport) - (inactive >5yrs) Network file sharing application based on Avahi (mDNS) `#c` `#gtk3`.
 - [Transmission](https://transmissionbt.com) - BitTorrent client for macOS, Windows and Linux `#c++` `#gtk4`.
 - [Transporter](https://github.com/bleakgrey/Transporter) - (archived) [magic-wormhole] client for elementary OS `#vala` `#gtk3` `#granite`.
 - [Torrential](https://github.com/davidmhewitt/torrential) - Alternative GUI on top of the Transmission BitTorrent client `#vala` `#gtk4` `#granite`.
@@ -575,7 +575,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### News/Feed Readers
 
-- [Coffee](https://nick92.github.io/coffee) - News and weather reader for sources provided by News API and DarkSky `#vala` `#gtk3`.
+- [Coffee](https://nick92.github.io/coffee) - (inactive >5yrs) News and weather reader for sources provided by News API and DarkSky `#vala` `#gtk3`.
 - [Feeds](https://gfeeds.gabmus.org) - News reader for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 - [Liferea](https://lzone.de/liferea) - News reader with a GUI similar to desktop mail client and with an embedded web browser `#c` `#gtk4` `#libadwaita`.
 - [NewsFlash](https://apps.gnome.org/NewsFlash) - News reader designed to complement an already existing web-based RSS reader account `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -617,7 +617,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Archives](https://flathub.org/en/apps/dev.geopjr.Archives) - Software to archive any website, including its assets, into a self-contained hybrid HTML/ZIP, and to view the web archive `#vala` `#gtk4` `#libadwaita`.
 - [Bavarder](https://github.com/Bavarder/Bavarder) - AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface `#python` `#gtk4` `#libadwaita`.
 - [Geopard](https://ranfdev.com/projects/geopard) - Gemini web browser `#rust` `#gtk4` `#libadwaita`.
-- [HackUp](https://github.com/mdh34/hackup) - [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
+- [HackUp](https://github.com/mdh34/hackup) - (archived) [Hacker News](https://news.ycombinator.com) client `#vala` `#gtk3` `#granite`.
 - [Hypathia](https://flathub.org/en/apps/net.hypatiaproject.Hypatia) - Research helper tool that provides context and information about interesting topics, e.g., definitions, explanations, and answers related to the text on the display `#vala` `#gtk4` `#libadwaita`.
 - [Imaginer](https://github.com/ImaginerApp/Imaginer) - AI image generator (DALL·E 2, Portrait Plus, Stable Diffusion, Custom Provider) interface `#python` `#gtk4` `#libadwaita`.
 - [Lobjur](https://github.com/ranfdev/Lobjur) - [lobste.rs](https://lobste.rs) client `#gjs` `#clojurescript` `#gtk4` `#libadwaita`.
@@ -637,7 +637,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Web Browsers
 
 - [Add Water](https://flathub.org/en/apps/dev.qwery.AddWater) - Utility to install the [GNOME theme for Mozilla Firefox](https://github.com/rafaelmardojai/firefox-gnome-theme) `#python`  `#gtk4` `#libadwaita`.
-- [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser for the GNOME desktop with Firefox Sync support `#python` `#gtk3` `#libhandy`.
+- [Eolie](https://gitlab.gnome.org/World/eolie) - (inactive >5yrs) Web browser for the GNOME desktop with Firefox Sync support `#python` `#gtk3` `#libhandy`.
 - [GNOME Web (Epiphany)](https://apps.gnome.org/Epiphany) - Web browser for the GNOME desktop based on the [WebKit] endering engine `#c`  `#gtk4` `#libadwaita` `#gnome`.
 - [luakit](https://luakit.github.io) - Highly configurable browser based on the [WebKit] engine and extensible with Lua `#c` `#gtk3` `#lua`.
 
