@@ -499,6 +499,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Bluetooth
 
+- [EarA](https://github.com/oneydef/EarA-linux) - Companion application for controlling Nothing and CMF earbuds, including battery status, ANC, EQ, gestures and audio profiles `#python` `#gtk4` `#libadwaita`.
 - [IP Lookup](https://github.com/Bytezz/IPLookup-gtk) - Simple application to find information about an IP address `#python` `#gtk4` `#libadwaita`.
 - [Overskride](https://github.com/kaii-lb/overskride) - Bluetooth and Obex client/device manager `#rust` `#gtk4` `#libadwaita`.
 
@@ -1496,4 +1497,3 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Fidei](https://github.com/sp1ritCS/fidei) - Bible reader for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 - [Vakt-i Salah](https://flathub.org/en/apps/io.github.eminfedar.vaktisalah-gtk-rs) - Simple prayer/adhan times app `#rust` `#gtk4` `#libadwaita`.
 - [Xiphos](http://xiphos.org) - Cross-platform Bible study tool `#c` `#gtk3`.
-
