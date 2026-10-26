@@ -1115,6 +1115,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [KonbuCase](https://github.com/ryonakano/konbucase) - Case converting application `#vala` `#gtk4` `#libadwaita`.
 - [Wildcard](https://gitlab.gnome.org/World/Wildcard) - Regex tester `#rust` `#gtk4` `#libadwaita`.
 - [RegexTester](https://github.com/artemanufrij/regextester) - Regex tester for elementary OS `#vala` `#gtk3` `#granite`.
+- [Rewrite](https://github.com/SamratDuttaOfficial/Rewrite) - Rewrites text, fixes grammar, and edits Word, LaTeX and PDF files `#rust` `#gtk4`.
 - [Snoop](https://gitlab.gnome.org/philippun1/snoop) - Tool to search through your files and providing a Nautilus extension `#vala` `#gtk4` `#libadwaita`.
 - [Tags](https://flathub.org/en/apps/io.github.phastmike.tags) - Application (inspired by TextAnalysisTool.NET) to tag lines of log or text files with user defined colors, e.g. for log analysis `#vala` `#gtk4` `#libadwaita`.
 - [Text Pieces](https://apps.gnome.org/TextPieces) - Swiss knife of text processing `#vala` `#gtk4` `#libadwaita` `#gnome`.
