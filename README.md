@@ -680,6 +680,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [GNOME Calendar](https://apps.gnome.org/Calendar) - Simple calendar for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Kairos](https://flathub.org/en/apps/io.gitlab.hinnerkm.Kairos) - Modern looking and intuitive calendar for desktop and mobile `#vala` `#gtk4` `#libadwaita`.
 - [Karlender (Events)](https://gitlab.com/floers/calendar-stuff/karlender) - Mobile-friendly calendar application using CalDAV `#rust` `#gtk4` `#libadwaita`.
+- [Todav](https://github.com/AperteDev/todav) - Calendar with month, week and agenda views, synced with Nextcloud over CalDAV, where tasks can be planned into time slots by drag and drop `#rust` `#gtk4` `#libadwaita`.
 
 ### Document Managers
 
@@ -876,6 +877,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Picker](https://flathub.org/en/apps/io.github.mezoahmedii.Picker) - Simple application that can randomly pick something for you from a list of things `#python` `#gtk4` `#libadwaita`.
 - [Remembrance](https://github.com/dgsasha/remembrance) - Simple reminder app `#python` `#gtk4` `#libadwaita`.
 - [Tasks](https://github.com/elementary/tasks) - Manager for tasks and reminders designed for elementary OS that support syncing via CalDAV `#vala` `#gtk4` `#libadwaita` `#libgranite`.
+- [Todav](https://github.com/AperteDev/todav) - Local-first task manager synced with Nextcloud over CalDAV, with subtasks, categories, reminders, a calendar and a GNOME Shell extension `#rust` `#gtk4` `#libadwaita`.
 - [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#gtk3` `#granite` `#libhandy`.
 
 [todo.txt]: https://github.com/todotxt/todo.txt
