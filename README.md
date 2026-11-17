@@ -1266,6 +1266,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Spider](https://flathub.org/en/apps/io.github.zaedus.spider) - Application to install web apps as sandboxed desktop applications with integration with the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Tailor](https://flathub.org/en/apps/org.altlinux.Tailor) - Application for writing OS images to USB drives to create bootable devices, with built-in OS catalog `#vala` `#gtk4` `#libadwaita`.
 - [Turtle](https://tenderowl.com/work/turtle) - `.desktop` files creation tool `#python` `#gtk3` `#granite`.
+- [Update Ubuntu via terminal](https://github.com/themechanic-dev/update-ubuntu-via-terminal) - Keeps Ubuntu up to date from one window and a top-bar icon: apt, Snap, Flatpak, downloaded .deb apps, AppImages, Rust/npm tools, firmware notices and other machines over SSH `#python` `#gtk4` `#libadwaita`.
 - [Web Apps](https://flathub.org/en/apps/net.codelogistics.webapps) - Application to install websites as desktop applications `#python` `#gtk4` `#libadwaita`.
 
 ### System and File Cleaning
