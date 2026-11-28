@@ -1044,6 +1044,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 #### Neovim GUIs
 
+- [Eitri](https://github.com/HunterGrey-cyber/eitri) - GUI for Neovim that tiles coding agent chats, terminals and a Markdown preview beside your own config `#rust` `#gtk4`.
 - [GNvim](https://github.com/vhakulinen/gnvim) - GUI for Neovim without any web bloat `#rust` `#gtk4` `#libadwaita`.
 - [neovim-gtk](https://github.com/Lyude/neovim-gtk) - GUI for Neovim with ligatures support `#rust` `#gtk4`.
 - [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) - PyGTK3 frontend to Neovim with some visual GUI elements `#python` `#gtk3`.
