@@ -878,6 +878,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Picker](https://flathub.org/en/apps/io.github.mezoahmedii.Picker) - Simple application that can randomly pick something for you from a list of things `#python` `#gtk4` `#libadwaita`.
 - [Remembrance](https://github.com/dgsasha/remembrance) - Simple reminder app `#python` `#gtk4` `#libadwaita`.
 - [Tasks](https://github.com/elementary/tasks) - Manager for tasks and reminders designed for elementary OS that support syncing via CalDAV `#vala` `#gtk4` `#libadwaita` `#libgranite`.
+- [Todav](https://github.com/AperteDev/todav) - Local-first task manager synced with Nextcloud over CalDAV, with subtasks, categories, reminders, a calendar with month, week and agenda views, and a GNOME Shell extension `#rust` `#gtk4` `#libadwaita`.
 - [Yishu](https://github.com/lainsce/yishu) - (archived) Simple [todo.txt] client `#vala` `#gtk3` `#granite` `#libhandy`.
 
 [todo.txt]: https://github.com/todotxt/todo.txt
