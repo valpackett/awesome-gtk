@@ -1351,6 +1351,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Monitorets](https://github.com/jorchube/monitorets) - CPU, memory, disk, network and GPU usage monitor widget `#python` `#gtk4` `#libadwaita`.
 - [Packetry](https://github.com/greatscottgadgets/packetry) - USB 2.0 protocol analysis application for use with the hardware device Cynthion `#rust` `#gtk4`.
 - [Resources](https://apps.gnome.org/Resources) - CPU, memory, GPUs, network interfaces and block devices usage monitor `#rust` `#gtk4` `#libadwaita` `#gnome`.
+- [Server Controller](https://github.com/themechanic-dev/server-controller) - Power control, every sensor with 30-day history charts, the event log and Supermicro fan modes for servers with an IPMI 2.0 BMC, with a top-bar icon `#python` `#gtk4` `#libadwaita`.
 - [Turn On](https://codeberg.org/swsnr/turnon) - Utility for the GNOME desktop to send Wake On LAN (WoL) magic packets to devices in a network `#rust` `#gtk4` `#libadwaita`.
 - [Snowglobe](https://gitlab.gnome.org/bilelmoussaoui/snowglobe) - Virtualization viewer using QEMU over D-Bus `#c` `#gtk4` `#libadwaita`.
 - [Stimulator](https://github.com/sigmaSd/stimulator) - Application to keep the computer awake with AppIndicator support `#gjs` `#typescript` `#gtk4` `#libadwaita`.
